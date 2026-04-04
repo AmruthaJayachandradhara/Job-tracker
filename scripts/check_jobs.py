@@ -197,21 +197,38 @@ def fetch_greenhouse_jobs(company):
         ) + "/jobs?content=true"
         resp = requests.get(api_url, headers=HEADERS, timeout=15)
         if resp.status_code != 200:
+            print(f"  [WARN] HTTP {resp.status_code} for {company['name']}")
             return []
         data = resp.json()
+        if not isinstance(data, dict):
+            return []
         jobs = []
-        for job in data.get("jobs", []):
+        for job in (data.get("jobs") or []):
+            # Safely extract experience level from metadata (may be None)
             exp_level = ""
-            for meta in job.get("metadata", []):
-                if "experience" in meta.get("name", "").lower():
-                    exp_level = str(meta.get("value", "")).lower()
-            content = job.get("content", "") or ""
-            desc_snippet = BeautifulSoup(content, "html.parser").get_text()[:600].lower()
+            for meta in (job.get("metadata") or []):
+                name = (meta.get("name") or "").lower()
+                if "experience" in name:
+                    exp_level = str(meta.get("value") or "").lower()
+
+            # Safely extract description
+            raw_content = job.get("content") or ""
+            desc_snippet = BeautifulSoup(raw_content, "html.parser").get_text()[:600].lower()
+
+            # Safely extract location (can be None or a dict)
+            loc_raw = job.get("location")
+            if isinstance(loc_raw, dict):
+                location = loc_raw.get("name") or "Remote/Unknown"
+            elif isinstance(loc_raw, str):
+                location = loc_raw or "Remote/Unknown"
+            else:
+                location = "Remote/Unknown"
+
             jobs.append({
-                "title": job.get("title", "Unknown"),
-                "url": job.get("absolute_url", company["url"]),
-                "location": job.get("location", {}).get("name", "Remote/Unknown"),
-                "id": str(job.get("id", "")),
+                "title": job.get("title") or "Unknown",
+                "url": job.get("absolute_url") or company["url"],
+                "location": location,
+                "id": str(job.get("id") or ""),
                 "experience_level": exp_level,
                 "description": desc_snippet,
             })
