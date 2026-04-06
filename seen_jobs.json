@@ -21525,5 +21525,29 @@
     "location": "Sydney, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-06T14:06:41.471430"
+  },
+  "016f431219506d231d574d14b7461c0b": {
+    "company": "GitLab",
+    "title": "Field CTO, Public Sector",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8493679002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-06T15:38:41.211363"
+  },
+  "99983c9b0462e4b5f3c9ae6006889b57": {
+    "company": "EarnIn",
+    "title": "Software Engineer Intern (Backend)",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7775677",
+    "location": "Mountain View, US",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-04-06T15:38:49.673812"
+  },
+  "327f95f2f0d433f3d836c8c9510bb201": {
+    "company": "EarnIn",
+    "title": "Sr HRIS Analyst",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7781626",
+    "location": "Remote, Mexico",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-06T15:38:49.673869"
   }
 }
