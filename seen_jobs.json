@@ -21509,5 +21509,13 @@
     "url": "https://job-boards.greenhouse.io/check/jobs/5847094004",
     "location": "San Francisco or Remote",
     "first_seen": "2026-04-04T02:42:56.205772"
+  },
+  "2e2a21488f928a63d28c408c927a6c62": {
+    "company": "Stripe",
+    "title": " Strategy and Analytics Analyst ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7761131",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-06T10:01:14.993582"
   }
 }
