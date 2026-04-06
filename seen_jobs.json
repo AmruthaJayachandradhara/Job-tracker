@@ -21597,5 +21597,29 @@
     "location": "Denver, CO;New York, NY;Las Vegas, NV;Atlanta, GA;Chicago, IL;Phoenix, AZ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-06T21:30:39.628704"
+  },
+  "a056e444d88af026e6061e973731ee49": {
+    "company": "Cape",
+    "title": "Security Engineer, Product Security",
+    "url": "https://jobs.ashbyhq.com/cape/6311bc82-157b-48f5-9b05-a4bf6c2d0b3f",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-06T22:26:10.848822"
+  },
+  "5318da7316572526506e0dc437417c37": {
+    "company": "Fivetran",
+    "title": "Privacy Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7691413003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-06T22:26:39.024411"
+  },
+  "307128d28e63bbb8fcdd82aa80941621": {
+    "company": "Fivetran",
+    "title": "Privacy Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7678122003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-06T22:26:39.024433"
   }
 }
