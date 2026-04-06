@@ -21589,5 +21589,13 @@
     "location": "Dallas, Texas",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-06T17:38:10.268092"
+  },
+  "d48b32985913d43e89fbe306040efeb6": {
+    "company": "Gusto",
+    "title": "Business Insurance Account Executive",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7778664",
+    "location": "Denver, CO;New York, NY;Las Vegas, NV;Atlanta, GA;Chicago, IL;Phoenix, AZ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-06T21:30:39.628704"
   }
 }
