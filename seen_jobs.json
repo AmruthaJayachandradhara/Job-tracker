@@ -21621,5 +21621,37 @@
     "location": "Oakland, California, United States, AMER",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-06T22:26:39.024433"
+  },
+  "ae83adabd1edf8d73f74a271a28816bd": {
+    "company": "Doctronic",
+    "title": "Telemedicine Primary Care Physician (Metabolic Health & Weight Management)",
+    "url": "https://jobs.ashbyhq.com/doctronic/c7145e68-3088-40d1-9057-5aba23b821bf",
+    "location": "New York - Remote - US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-06T23:26:59.443177"
+  },
+  "be7e5f4e41124183f0526a52ef978422": {
+    "company": "Doctronic",
+    "title": "Telemedicine Primary Care Physician (Behavioral Health Physician)",
+    "url": "https://jobs.ashbyhq.com/doctronic/0ab870f2-f34b-4a15-ac10-52c0b7f83418",
+    "location": "New York - Remote - US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-06T23:26:59.443201"
+  },
+  "27ffebdae923bbaa37c8fa625d2fa9de": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer, SSCS: AI Governance",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480551002",
+    "location": "Remote, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-06T23:27:27.119778"
+  },
+  "a1a14440ff72ce6d9d4173708926a51f": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer,  SSCS: Supply Chain",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480565002",
+    "location": "Remote, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-06T23:27:27.119798"
   }
 }
