@@ -21653,5 +21653,29 @@
     "location": "Remote, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-06T23:27:27.119798"
+  },
+  "86429ce87d4a7431e77e1170c9ce2494": {
+    "company": "Paraform",
+    "title": "Product Engineer",
+    "url": "https://jobs.ashbyhq.com/paraform/b9146ab9-3cd7-478f-aaa7-93f677be441e",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T04:26:05.897726"
+  },
+  "1400a9db72ffbe01eb265823e723cec2": {
+    "company": "Stripe",
+    "title": "Integration Engineer (AUNZ)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7703911",
+    "location": "Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T04:26:55.738190"
+  },
+  "de196a54bf3b3e59c1707a6786e7c4c7": {
+    "company": "Stripe",
+    "title": "Operations Associate, GTM Accelerate (Bangalore)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7780256",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-07T04:26:55.738609"
   }
 }
