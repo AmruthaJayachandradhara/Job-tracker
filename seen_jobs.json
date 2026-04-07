@@ -21757,5 +21757,21 @@
     "location": "Munich, Germany",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-07T11:52:31.129623"
+  },
+  "abc4b38502008ca660b0e92b5e77c154": {
+    "company": "GitLab",
+    "title": "New Business Account Executive - California  ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8330519002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T14:29:57.739346"
+  },
+  "2618db0bc98ba986ed054ee31bb55c3a": {
+    "company": "GitLab",
+    "title": "New Business Account Executive- Illinois & Indiana ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8351258002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T14:29:57.739381"
   }
 }
