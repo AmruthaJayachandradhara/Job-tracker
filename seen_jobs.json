@@ -21677,5 +21677,37 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-04-07T04:26:55.738609"
+  },
+  "2580d93c7d130d35d81bd9a68c4a6914": {
+    "company": "Databricks",
+    "title": "Business Development Representative (UKI)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8491593002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T08:06:28.821059"
+  },
+  "911e3d51749e4b7ed59d98044c70167f": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - FSI",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8440900002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T08:06:28.822106"
+  },
+  "f4db879d50eea8e92e82d719dbfb1cf9": {
+    "company": "Databricks",
+    "title": "Software Engineer- Fullstack- Singapore",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341810002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T08:06:28.825141"
+  },
+  "f3519ee7360f9eefdf10154daa390509": {
+    "company": "Databricks",
+    "title": "Software Engineer- Fullstack- Tokyo",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8345074002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T08:06:28.825159"
   }
 }
