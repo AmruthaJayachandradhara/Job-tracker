@@ -21829,5 +21829,21 @@
     "location": "New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-07T19:50:58.103871"
+  },
+  "a00a8b72abbfee525205a1be260651f9": {
+    "company": "Northwood Space",
+    "title": "Embedded Software Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/2335ff09-1f4f-435c-ae6c-3b75eb2ffbdf",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T20:37:12.279635"
+  },
+  "b9f96085928770246a983b99a6b407cb": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Payouts",
+    "url": "https://stripe.com/jobs/search?gh_jid=7782969",
+    "location": "SF, Seattle, NYC, Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T20:37:58.751698"
   }
 }
