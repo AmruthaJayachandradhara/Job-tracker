@@ -21845,5 +21845,37 @@
     "location": "SF, Seattle, NYC, Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-07T20:37:58.751698"
+  },
+  "996a00c84bfc2650cdc24aa17d333f3d": {
+    "company": "Northwood Space",
+    "title": "Embedded Software Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/bcedd247-5593-44a4-84c3-32145328162a",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T21:35:09.051826"
+  },
+  "f58abf01e508c0329c7616cfa213d033": {
+    "company": "Dialpad",
+    "title": "Client Account Executive, Mid-Market",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8421361002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T21:35:43.450211"
+  },
+  "9600c335fae03d5a8f73e7fdfda76f65": {
+    "company": "Mercury",
+    "title": "Bank Controller",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5857695004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T21:35:52.719346"
+  },
+  "3d4e3366818ac59e717fc750ee2eed7d": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7788088",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T21:35:58.570661"
   }
 }
