@@ -21789,5 +21789,13 @@
     "location": "Denver, Colorado, United States, AMER",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-07T16:05:49.801780"
+  },
+  "29fde0f92be732a1af1796a491c6c9bc": {
+    "company": "Databricks",
+    "title": "Software Engineer (Backend - SDE 2)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7955594002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T17:51:24.608458"
   }
 }
