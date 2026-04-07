@@ -21773,5 +21773,21 @@
     "location": "Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-07T14:29:57.739381"
+  },
+  "ab3a5e6231af6777c6798789470b6991": {
+    "company": "Databricks",
+    "title": "Named Enterprise Account Executive - Manufacturing",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8485404002",
+    "location": "Chicago, Illinois; Wisconsin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T16:05:46.722097"
+  },
+  "7b2f72c63beb4641aa5f839c6f1ffbdd": {
+    "company": "Fivetran",
+    "title": "Product Growth Partner",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7691154003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T16:05:49.801780"
   }
 }
