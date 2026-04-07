@@ -21821,5 +21821,13 @@
     "location": "SEA, SF, NYC, CHI",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-07T18:50:11.086296"
+  },
+  "808ecdb71c7e613332afee0bb6fa6a96": {
+    "company": "Cape",
+    "title": "HR Business Partner",
+    "url": "https://jobs.ashbyhq.com/cape/f3fd4418-1d3f-46c1-8634-cdb887af8540",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-07T19:50:58.103871"
   }
 }
