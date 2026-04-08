@@ -22029,5 +22029,13 @@
     "location": "Rio de Janeiro, Brazil",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-08T16:52:31.060926"
+  },
+  "46cef9ce90124e92f96581bd347df2ef": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups",
+    "url": "https://stripe.com/jobs/search?gh_jid=7664841",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T17:59:55.042593"
   }
 }
