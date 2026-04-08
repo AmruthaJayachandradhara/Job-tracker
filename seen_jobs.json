@@ -22037,5 +22037,13 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-08T17:59:55.042593"
+  },
+  "3e1f2453d85348586b1d3d9304bf6a25": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Backend (Purchasing Power Experience)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7673126003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T19:19:07.530050"
   }
 }
