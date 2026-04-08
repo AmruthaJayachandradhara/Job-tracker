@@ -22093,5 +22093,13 @@
     "location": "NYC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-08T21:35:27.698319"
+  },
+  "a006c6b2d2cda8ed724c32316b5752ad": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - BFSI",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8441860002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T23:31:11.675392"
   }
 }
