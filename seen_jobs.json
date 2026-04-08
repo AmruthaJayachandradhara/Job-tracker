@@ -21885,5 +21885,13 @@
     "location": "IN-Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-04-08T08:07:36.249130"
+  },
+  "8b7420f0a7493a56452df5f23128daa3": {
+    "company": "Stripe",
+    "title": "Recruitment Coordinator - People Operations Associate",
+    "url": "https://stripe.com/jobs/search?gh_jid=7775311",
+    "location": "IN-Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-08T10:00:23.496893"
   }
 }
