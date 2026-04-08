@@ -22045,5 +22045,53 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-08T19:19:07.530050"
+  },
+  "0024f6411e9f6f0718f1a3bd991fa313": {
+    "company": "Pomelo Care",
+    "title": "Revenue Cycle Specialist",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5664164004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T21:34:48.292997"
+  },
+  "0a72b874c4527ba271f2e909191bbd6b": {
+    "company": "Replit",
+    "title": "Premium Support Engineer (London)",
+    "url": "https://jobs.ashbyhq.com/replit/8c3edc8e-3cd2-45eb-b506-cd0eb33e5bd0",
+    "location": "Remote - United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T21:35:18.343333"
+  },
+  "b1a4451b81f43eb906be9d64d867c6e5": {
+    "company": "Replit",
+    "title": "Premium Support Engineer (Singapore)",
+    "url": "https://jobs.ashbyhq.com/replit/2259cfa7-c564-4a75-bbce-609a4d4699cc",
+    "location": "Remote - Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T21:35:18.343415"
+  },
+  "3f2050a2576d0be830d6f3eb6c6a0029": {
+    "company": "Replit",
+    "title": "Premium Support Engineer (Weekend Shift)",
+    "url": "https://jobs.ashbyhq.com/replit/a45ca7ba-21f9-464d-8c00-eb5361b3c9f4",
+    "location": "Foster City, CA (Hybrid) In office M,W,F",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T21:35:18.343474"
+  },
+  "0635a11818d59d19afc61508d8c94e81": {
+    "company": "Replit",
+    "title": "Premium Support Engineer (Weekend Shift)",
+    "url": "https://jobs.ashbyhq.com/replit/0a94327b-52c0-41d1-931f-b2aca5e90c1f",
+    "location": "NYC (SoHo) Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T21:35:18.343499"
+  },
+  "7612754131fdb4d89fd1cd34e9f50232": {
+    "company": "Stripe",
+    "title": "Brand Designer, Creative Labs",
+    "url": "https://stripe.com/jobs/search?gh_jid=7793636",
+    "location": "NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T21:35:27.698319"
   }
 }
