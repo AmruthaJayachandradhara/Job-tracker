@@ -21909,5 +21909,29 @@
     "location": "Sydney, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-08T11:00:26.541331"
+  },
+  "c36422cac813a9d56fe131953cdfbd6b": {
+    "company": "Databricks",
+    "title": "Geo Core Account Executive - Energy & Manufacturing",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8462011002",
+    "location": "Z\u00fcrich, Switzerland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T11:57:19.416366"
+  },
+  "696d312b0a6e7a2987eac05a73cbe48f": {
+    "company": "Databricks",
+    "title": "Geo Core Account Executive - HLS & CPG",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8480878002",
+    "location": "Z\u00fcrich, Switzerland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T11:57:19.416392"
+  },
+  "e1d5646947171b37177ebfb5643c1f7c": {
+    "company": "Fivetran",
+    "title": "HRIS Analyst, Workday",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7691559003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T11:57:22.404210"
   }
 }
