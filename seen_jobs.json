@@ -21877,5 +21877,13 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-07T21:35:58.570661"
+  },
+  "fa21eafec33026f32c2cf96eeab25ddf": {
+    "company": "Stripe",
+    "title": "Recruiting Operations Associate",
+    "url": "https://stripe.com/jobs/search?gh_jid=7775311",
+    "location": "IN-Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-08T08:07:36.249130"
   }
 }
