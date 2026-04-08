@@ -21933,5 +21933,101 @@
     "location": "Denver, Colorado, United States, AMER",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-08T11:57:22.404210"
+  },
+  "f1bdb38d010af3647b9c31e39bfb9356": {
+    "company": "Databricks",
+    "title": "Scale Solutions Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341839002",
+    "location": "Belgrade, Serbia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T16:52:12.886059"
+  },
+  "5c86c9ea35abdfe94ac1e9524c35c03d": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive, Life Science",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8485238002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T16:52:12.890469"
+  },
+  "c6be58c8e83f2d1bff3645abacd9c33e": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive, Life Science",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8498786002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T16:52:12.890483"
+  },
+  "d0cb82e2ed8f2011c88fb9d713b9676c": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive, Life Science",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8498787002",
+    "location": "Z\u00fcrich, Switzerland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T16:52:12.890491"
+  },
+  "43535054860b8e525ac7f9c264ce4e04": {
+    "company": "Mercury",
+    "title": "Salesforce Developer",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5857783004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T16:52:26.129468"
+  },
+  "d6bc92326bba988950985f1b0383bb79": {
+    "company": "EarnIn",
+    "title": "Machine Learning Intern",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7770051",
+    "location": "Mountain View, US",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-04-08T16:52:27.341599"
+  },
+  "b2404912ec76e617b09cd0e8c4825e32": {
+    "company": "EarnIn",
+    "title": "Mobile Engineer Intern (iOS) ",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7773844",
+    "location": "Mountain View, US",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-04-08T16:52:27.341627"
+  },
+  "97164afe4b7d9e1a0aa682b19c78d60d": {
+    "company": "EarnIn",
+    "title": "Product Management Intern",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7770049",
+    "location": "Bengaluru, India",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-04-08T16:52:27.341666"
+  },
+  "41be746c54a51fad6689de3f8978d17d": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Purchasing Power Experience)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7673126003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T16:52:28.132234"
+  },
+  "535f6a4d4dbb9c2c959821e3284e466b": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Frontend (Purchasing Integrations)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7687973003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T16:52:28.132277"
+  },
+  "7434201be4161537d9cecc5f11903bc9": {
+    "company": "Stripe",
+    "title": "Account Executive, AI Startups - Existing Business",
+    "url": "https://stripe.com/jobs/search?gh_jid=7746909",
+    "location": "New York City ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T16:52:29.100518"
+  },
+  "f8d186a9cdead9b3d9c05eb0a711cdc5": {
+    "company": "Carta",
+    "title": "Customer Support Analyst, Fund Administration",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/5115724003",
+    "location": "Rio de Janeiro, Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-08T16:52:31.060926"
   }
 }
