@@ -22133,5 +22133,61 @@
     "location": "Dublin ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-09T10:04:55.207756"
+  },
+  "ac3f9af799ce1f50bea552794ed2d2a0": {
+    "company": "Replit",
+    "title": "Social Media Support Specialist (Weekend Shift)",
+    "url": "https://jobs.ashbyhq.com/replit/97c5226a-0866-44b7-b46b-2086f2318cb2",
+    "location": "NYC (SoHo) Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T16:58:09.323966"
+  },
+  "ca67f8140fdea8dcf15a4a477fdf6fb8": {
+    "company": "Affirm",
+    "title": "Enterprise IAM Software Engineer II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7675825003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T16:58:17.594060"
+  },
+  "aec7430064bed94a09d80c74283c1bc7": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Full-Stack (Home and Search Experience)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7685236003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T16:58:17.594950"
+  },
+  "c533971505056d44b67beeb6081edc9e": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Core Technology",
+    "url": "https://stripe.com/jobs/search?gh_jid=7182617",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T16:58:18.536554"
+  },
+  "81c8ce557fb15533b87ed86ffaa619bd": {
+    "company": "Stripe",
+    "title": "Data Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=5601881",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T16:58:18.537048"
+  },
+  "8d46f0cecf137dfee4345559f9f8eebb": {
+    "company": "Carta",
+    "title": "Technical Implementations Specialist",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7632780003",
+    "location": "Rio de Janeiro, Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T16:58:20.452225"
+  },
+  "fdcb7be46b51e6d92fa94f11c32e680c": {
+    "company": "Carta",
+    "title": "Valuations Associate",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7694547003",
+    "location": "London, England",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-09T16:58:20.452264"
   }
 }
