@@ -22221,5 +22221,13 @@
     "location": "NYC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-09T18:57:40.624864"
+  },
+  "021261a63d030991f74387b29de6f1fa": {
+    "company": "EarnIn",
+    "title": "Compliance Analyst",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7799390",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T20:01:49.825237"
   }
 }
