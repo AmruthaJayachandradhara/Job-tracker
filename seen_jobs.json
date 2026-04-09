@@ -22229,5 +22229,13 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-09T20:01:49.825237"
+  },
+  "bff8c5622fe82233f0ecb50161e37641": {
+    "company": "Carta",
+    "title": "Technical Implementations Specialist",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7632778003",
+    "location": "Rio de Janeiro, Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T21:39:56.587892"
   }
 }
