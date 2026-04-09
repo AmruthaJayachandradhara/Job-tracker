@@ -22117,5 +22117,21 @@
     "location": "Dublin",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-04-09T08:13:35.763019"
+  },
+  "6ea9497f3224ae7825ca7ba3065ba0b7": {
+    "company": "Databricks",
+    "title": "Startup Hunter Account Executive, Germany",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8497852002",
+    "location": "Munich, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T10:04:37.358360"
+  },
+  "86c1f75af22e88fe90c9f2a5d2ca3e4c": {
+    "company": "Stripe",
+    "title": "Sales Strategy & Operations, Sales Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=7790430",
+    "location": "Dublin ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T10:04:55.207756"
   }
 }
