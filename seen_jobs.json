@@ -22189,5 +22189,21 @@
     "location": "London, England",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-04-09T16:58:20.452264"
+  },
+  "b33aa207fbe464b4457919195cac8bf6": {
+    "company": "Gumloop",
+    "title": "Founding GTM",
+    "url": "https://jobs.ashbyhq.com/gumloop/0ccc2faf-c011-4f46-ba4a-c55c41b2d6aa",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T17:56:37.540150"
+  },
+  "c8836e565a99c86d58ac4f351e221455": {
+    "company": "Databricks",
+    "title": "IT Systems/Automation Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8463169002",
+    "location": "Mountain View, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T17:57:28.132244"
   }
 }
