@@ -22101,5 +22101,13 @@
     "location": "Sydney, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-08T23:31:11.675392"
+  },
+  "1b59364b7e33b17524fbdc6b8dea5128": {
+    "company": "Fivetran",
+    "title": "System Support Specialist I",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7668148003",
+    "location": "Bengaluru, Karnataka, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T06:15:38.809222"
   }
 }
