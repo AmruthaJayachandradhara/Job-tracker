@@ -22205,5 +22205,21 @@
     "location": "Mountain View, California",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-09T17:57:28.132244"
+  },
+  "45b71757895417fff7b704d5df510c85": {
+    "company": "EarnIn",
+    "title": "Software Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7798436",
+    "location": "Bangkok, Thailand",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T18:57:38.814085"
+  },
+  "73a7861b0d3376ff6eb54e8e288e2e20": {
+    "company": "Stripe",
+    "title": "Treasury Finance Specialist, Americas",
+    "url": "https://stripe.com/jobs/search?gh_jid=7793172",
+    "location": "NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-09T18:57:40.624864"
   }
 }
