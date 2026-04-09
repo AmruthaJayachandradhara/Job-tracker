@@ -22109,5 +22109,13 @@
     "location": "Bengaluru, Karnataka, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-09T06:15:38.809222"
+  },
+  "e72f4c2711bb2457e7eaa798e1e16f57": {
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=7206494",
+    "location": "Dublin",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-04-09T08:13:35.763019"
   }
 }
