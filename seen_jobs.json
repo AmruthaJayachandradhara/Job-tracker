@@ -22245,5 +22245,37 @@
     "location": "Foster City, CA (Hybrid) In office M,W,F",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-10T04:40:08.279167"
+  },
+  "cee7382ca98bf90228e6bb82d5502d2c": {
+    "company": "Encord",
+    "title": "Robotics Systems Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/e468bf05-af90-4693-bbb5-50117669f74d",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T14:12:05.773524"
+  },
+  "e453039cf62f44ceb41d02bc9f052837": {
+    "company": "Encord",
+    "title": "Machine Learning Engineer, Physical AI",
+    "url": "https://jobs.ashbyhq.com/encord/5582832e-250d-4b16-9e5b-e3f3c259fbd3",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T14:12:05.773571"
+  },
+  "4e2656857eaa01dc2bee5d1de6bcf5b9": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive - Energy",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8462013002",
+    "location": "Hamburg, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T14:12:24.443424"
+  },
+  "76fbb2745c2030cb78976fe3a2e98489": {
+    "company": "Tanium",
+    "title": "Commercial Account Executive",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7801406",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T14:12:32.628489"
   }
 }
