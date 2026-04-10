@@ -22309,5 +22309,29 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-10T15:42:16.677889"
+  },
+  "d735137c61e6f450ad4390e483cbb07b": {
+    "company": "Tandem",
+    "title": "Strategic Finance",
+    "url": "https://jobs.ashbyhq.com/tandem/1ef31c66-d956-46ac-8f54-7fa184b4c619",
+    "location": "New York office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T16:40:59.314599"
+  },
+  "da76463297156ed3613d1d72a7c9a2f0": {
+    "company": "Dialpad",
+    "title": "Client Account Executive, Mid-Market",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8502346002",
+    "location": "Denver, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T16:41:27.008331"
+  },
+  "a7689232b19cfefc16a8c6944ddada33": {
+    "company": "Coinbase",
+    "title": "Assistant Controller, Global GL Operations",
+    "url": "https://www.coinbase.com/careers/positions/7453742?gh_jid=7453742",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T16:41:34.824932"
   }
 }
