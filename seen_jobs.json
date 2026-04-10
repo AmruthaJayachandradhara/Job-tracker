@@ -22277,5 +22277,37 @@
     "location": "Addison, TX",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-10T14:12:32.628489"
+  },
+  "784d30413c823186454b962ad6cc996a": {
+    "company": "Braintrust",
+    "title": "Data Engineer",
+    "url": "https://jobs.ashbyhq.com/braintrust/ac8b3b7d-22eb-4688-8042-bcf006eeafc5",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T15:41:34.732845"
+  },
+  "4eafcd53e4188b73f8cdee01be2e46d8": {
+    "company": "Tanium",
+    "title": "Solution Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7800284",
+    "location": "Remote, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T15:42:16.677839"
+  },
+  "c8b80692caa44a32b1ccf4a6a65f37c9": {
+    "company": "Tanium",
+    "title": "Solution Engineer - Ohio, Indiana, Michigan",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7800491",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T15:42:16.677879"
+  },
+  "e30645b5a5aa8ea2c6b67335b87ea18a": {
+    "company": "Tanium",
+    "title": "Solution Engineer - Seattle ",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7801237",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T15:42:16.677889"
   }
 }
