@@ -22333,5 +22333,61 @@
     "location": "Remote - USA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-10T16:41:34.824932"
+  },
+  "dd38b872742fe460fa3e90ab591c8f42": {
+    "company": "Gumloop",
+    "title": "Solutions Engineer ",
+    "url": "https://jobs.ashbyhq.com/gumloop/c8ab7445-b126-48f6-8b09-c298cf6bc319",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T17:40:52.477097"
+  },
+  "5456e99702c29c30d309425c09b73709": {
+    "company": "Pomelo Care",
+    "title": "Doula - WA",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5780567004",
+    "location": "Washington, USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T17:41:00.113221"
+  },
+  "815a8e11c386682c1e5c2d42f6dd88ba": {
+    "company": "Northwood Space",
+    "title": "Logistics & Inventory Specialist",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/b223b64f-d889-46b3-b76a-2b4c33c140de",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T17:41:01.872231"
+  },
+  "13ac83bb008d90e04617606c853895a3": {
+    "company": "Profound",
+    "title": "AI Strategist, Data",
+    "url": "https://jobs.ashbyhq.com/profound/37964fbb-6733-4383-b15c-4811cb450fe7",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T17:41:08.748269"
+  },
+  "8bde9fbe08efc9276ee68c4ecc139e48": {
+    "company": "Profound",
+    "title": "New Grad AI Strategist, Data",
+    "url": "https://jobs.ashbyhq.com/profound/7a6182d0-efcd-4b5a-9d90-93f8797b7395",
+    "location": "New York, New York",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-04-10T17:41:08.748740"
+  },
+  "8137a19e6f1e7be599abad6fa81165bb": {
+    "company": "Profound",
+    "title": "AI Strategist, Business",
+    "url": "https://jobs.ashbyhq.com/profound/9e401d6d-7a8c-4e35-afbe-cdf0e2e80b3c",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T17:41:08.748988"
+  },
+  "7885dde89acaf241a8ba016829198190": {
+    "company": "Replit",
+    "title": "Conferencing/Audio Visual (AV) Administrator",
+    "url": "https://jobs.ashbyhq.com/replit/e1c59a55-1103-4c58-afc3-ddcd200550b4",
+    "location": "Foster City, CA (Hybrid) In office M,W,F",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T17:41:30.677241"
   }
 }
