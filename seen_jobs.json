@@ -22397,5 +22397,29 @@
     "location": "Washington, USA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-10T18:39:48.145266"
+  },
+  "8c5737dd87d261088bb7e33d4293b482": {
+    "company": "GitLab",
+    "title": "Business Development Representative - Nordics",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8472427002",
+    "location": "Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T19:38:02.208510"
+  },
+  "881513f6a29cdd2077215b120c831bab": {
+    "company": "Replit",
+    "title": "Support Specialist",
+    "url": "https://jobs.ashbyhq.com/replit/ce4f1973-3fe9-47ec-a098-dcf2c7ec7523",
+    "location": "NYC (SoHo) Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T19:38:03.100536"
+  },
+  "b380738899f5313ea88886813fce8878": {
+    "company": "Replit",
+    "title": "Trust & Safety Specialist",
+    "url": "https://jobs.ashbyhq.com/replit/abf988c6-777e-49f4-bbd0-88c1bb815b7a",
+    "location": "Foster City, CA (Hybrid) In office M,W,F",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T19:38:03.100599"
   }
 }
