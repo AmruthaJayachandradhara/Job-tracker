@@ -22429,5 +22429,13 @@
     "location": "San Francisco or Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-10T20:26:01.482412"
+  },
+  "ad1b308b94565df085e8a2416c77b235": {
+    "company": "GitLab",
+    "title": "Procurement Analyst",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8479595002",
+    "location": "Remote, Canada; Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-10T23:27:34.269769"
   }
 }
