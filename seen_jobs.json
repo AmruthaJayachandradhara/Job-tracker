@@ -22469,5 +22469,29 @@
     "location": "United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-13T13:02:20.382171"
+  },
+  "342efa0fc060a78b5b79f84412162e65": {
+    "company": "Encord",
+    "title": "Product Data Scientist",
+    "url": "https://jobs.ashbyhq.com/encord/84013154-e799-4d02-a15c-c772fff10c38",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T15:08:31.346392"
+  },
+  "c5785219b35ce38a1b9004869dc8d043": {
+    "company": "GitLab",
+    "title": "Major Account Executive - San Francisco ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8496445002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T15:08:51.533733"
+  },
+  "2faea11606de52ac2720f6d00e4b13a7": {
+    "company": "Stripe",
+    "title": "People Operations Associate ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7529785",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-13T15:09:02.269419"
   }
 }
