@@ -22501,5 +22501,37 @@
     "location": "United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-13T16:54:10.538838"
+  },
+  "371e553b2e3862d53cebbccfcf37a3f7": {
+    "company": "Tanium",
+    "title": "Solution Engineer - Toronto",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7811817",
+    "location": "Remote, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T17:53:35.860550"
+  },
+  "a86930636b03c3a47130c6f8e9e1af93": {
+    "company": "EarnIn",
+    "title": "Software Engineer (SaaS product/Payroll)",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7812085",
+    "location": "Bangkok, Thailand",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T17:53:43.102082"
+  },
+  "ad95e9436d54f4bd5b5b286aa2773536": {
+    "company": "Stripe",
+    "title": "Software Engineer, Security Analytics Infrastructure",
+    "url": "https://stripe.com/jobs/search?gh_jid=7733246",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T17:53:45.012046"
+  },
+  "bbc9ef467ff1a3880cd2263218bcaaec": {
+    "company": "Stripe",
+    "title": "Technical Advisor (AI GTM Strategy & Solutions)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7809004",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T17:53:45.012690"
   }
 }
