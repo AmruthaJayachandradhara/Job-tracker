@@ -22549,5 +22549,69 @@
     "location": "San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-13T20:43:53.938783"
+  },
+  "3572a757b3581938b4ad7143576b1215": {
+    "company": "Dialpad",
+    "title": "Product, Privacy and Regulatory Counsel",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8499362002",
+    "location": "San Ramon, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T21:40:00.440017"
+  },
+  "36f9f6d0b03e3eb78648a6625732aab5": {
+    "company": "Stripe",
+    "title": "Data Scientist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7809414",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T21:40:12.923115"
+  },
+  "d024a6143b1359dc0460b3e53b547bf3": {
+    "company": "Stripe",
+    "title": "Finance & Strategy Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=7812163",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T21:40:12.923653"
+  },
+  "529e342c0697900a8756ffbb129462b9": {
+    "company": "Stripe",
+    "title": "Risk Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7809397",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T21:40:12.925685"
+  },
+  "bad04801e0ae2070aaebfa0ae5a75638": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7808471",
+    "location": "San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T21:40:12.926074"
+  },
+  "418c7295d08b933f382d0bcddcabfee0": {
+    "company": "Stripe",
+    "title": "Software Engineer L2",
+    "url": "https://stripe.com/jobs/search?gh_jid=7812279",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T21:40:12.926194"
+  },
+  "ccda152384d966a2195048379ed9be55": {
+    "company": "Stripe",
+    "title": "Strategic Finance Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=7577505",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T21:40:12.926721"
+  },
+  "8a1e5fa86e1701cd45c4854c36f00bc0": {
+    "company": "Stripe",
+    "title": "Tech-Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=7812235",
+    "location": "Chicago, IL",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T21:40:12.927099"
   }
 }
