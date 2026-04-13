@@ -22533,5 +22533,21 @@
     "location": "Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-13T17:53:45.012690"
+  },
+  "0b1dd4c40614fdc80b3f900927647bd4": {
+    "company": "GitLab",
+    "title": "Customer Success Engineer",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8498481002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T20:43:42.829707"
+  },
+  "be4268345fe3a7d0d4c6b750c24ad9fb": {
+    "company": "Gusto",
+    "title": "HR Consultant",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7505030",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T20:43:53.938783"
   }
 }
