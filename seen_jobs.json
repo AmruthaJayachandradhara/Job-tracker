@@ -22493,5 +22493,13 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-04-13T15:09:02.269419"
+  },
+  "c48f4b022a9bf243644d79f8b8dc0b0d": {
+    "company": "Pomelo Care",
+    "title": "Medical Coding Specialist (Temp - 4 months)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/4880633004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T16:54:10.538838"
   }
 }
