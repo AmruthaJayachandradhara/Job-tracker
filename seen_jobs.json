@@ -22453,5 +22453,21 @@
     "location": "Remote, Netherlands",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-13T11:10:51.123458"
+  },
+  "c283cba7c688995e31da26f4ab8c76d7": {
+    "company": "Encord",
+    "title": "Software Engineer, Data Workflows (Human-in-the-Loop Systems)",
+    "url": "https://jobs.ashbyhq.com/encord/3196578e-f5cc-4e57-9c3e-9b118264be47",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T13:02:08.974223"
+  },
+  "c3d05000798a33db213f4695aa579322": {
+    "company": "Databricks",
+    "title": "Strategic Customer Advisor ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8479027002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T13:02:20.382171"
   }
 }
