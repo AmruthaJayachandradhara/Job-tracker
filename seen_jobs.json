@@ -22613,5 +22613,13 @@
     "location": "Chicago, IL",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-13T21:40:12.927099"
+  },
+  "b7e833c48144d274cbc5ee486f84fae5": {
+    "company": "Encord",
+    "title": "Forward Deployed Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/2eedc8eb-00c2-4cbe-862e-5e22960f0dbf",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-13T22:36:01.605364"
   }
 }
