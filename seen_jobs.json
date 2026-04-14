@@ -22645,5 +22645,29 @@
     "location": "IN - Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-14T08:22:38.784845"
+  },
+  "c0db8e6ba05c102fc3ff5f8ec2f20418": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive - Energy",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8501500002",
+    "location": "Hamburg, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-14T10:07:51.303516"
+  },
+  "64a09a647f801b57c7ddb852ed984b2f": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer (C), Tenant Scale: Git ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497793002",
+    "location": "Remote, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-14T10:07:58.582609"
+  },
+  "25583b6c3ebc87b2bfa0214155d15430": {
+    "company": "Stripe",
+    "title": "Account Executive - Enterprise Germany ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7539429",
+    "location": "Germany ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-14T10:08:08.812383"
   }
 }
