@@ -22709,5 +22709,13 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-14T16:56:30.725333"
+  },
+  "14a56fcf3f8b875bfefd4efc95a049e9": {
+    "company": "Stripe",
+    "title": "Risk Operations Associate, Verifications (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7815282",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-14T17:59:08.336118"
   }
 }
