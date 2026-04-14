@@ -22749,5 +22749,13 @@
     "location": "London",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-04-14T20:43:19.848766"
+  },
+  "68c38244341128cb45da25b3f41d4852": {
+    "company": "Encord",
+    "title": "Content & Community Associate",
+    "url": "https://jobs.ashbyhq.com/encord/17a7fff2-07f4-4869-87ef-318056c6a5fc",
+    "location": "San Francisco",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-14T21:42:52.238716"
   }
 }
