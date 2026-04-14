@@ -22669,5 +22669,13 @@
     "location": "Germany ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-14T10:08:08.812383"
+  },
+  "39213c67dedeae57b4f0545047c33f54": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive - Manufacturing",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8503590002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-14T11:52:48.218808"
   }
 }
