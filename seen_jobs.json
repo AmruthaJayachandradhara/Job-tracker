@@ -22717,5 +22717,29 @@
     "location": "Mexico City",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-04-14T17:59:08.336118"
+  },
+  "749485bb64ec7aa523810aa45368eb6e": {
+    "company": "GitLab",
+    "title": "Stock Administrator",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8502364002",
+    "location": "Remote, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-14T19:14:39.024287"
+  },
+  "bcbb5656d7b1aab88f5d026a6883fe37": {
+    "company": "Mercury",
+    "title": "Customer Support Learning & Enablement Specialist",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5969840004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-14T19:14:46.471194"
+  },
+  "497f6b408c1142a276cd379a2c5f9259": {
+    "company": "Stripe",
+    "title": "Risk Operations Analyst, Financial Crimes Programs",
+    "url": "https://stripe.com/jobs/search?gh_jid=7430296",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-14T19:14:49.672326"
   }
 }
