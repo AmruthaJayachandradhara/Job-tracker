@@ -22741,5 +22741,13 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-14T19:14:49.672326"
+  },
+  "a237ff3c8d5b42c8bcae9a8eb78fd3af": {
+    "company": "Encord",
+    "title": "Commercial Associate, Core",
+    "url": "https://jobs.ashbyhq.com/encord/bf7c9a0f-5af4-44fb-b448-406331ab9869",
+    "location": "London",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-14T20:43:19.848766"
   }
 }
