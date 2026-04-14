@@ -22685,5 +22685,29 @@
     "location": "Bengaluru, India; Mumbai, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-14T15:07:38.753906"
+  },
+  "fb54a43b98a2e0ff0f725479f382392c": {
+    "company": "Databricks",
+    "title": "Executive Assistant",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8487325002",
+    "location": "San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-14T16:56:08.933222"
+  },
+  "2578157c8a6d6388a2dd571e23d20eda": {
+    "company": "Mercury",
+    "title": "Onboarding QC Specialist",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5969717004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-14T16:56:22.687269"
+  },
+  "e5d91d60ef7098481f47df65519fc805": {
+    "company": "Stripe",
+    "title": "Data Scientist",
+    "url": "https://stripe.com/jobs/search?gh_jid=5601879",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-14T16:56:30.725333"
   }
 }
