@@ -22629,5 +22629,13 @@
     "location": "Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-14T01:30:28.453907"
+  },
+  "0d36212b6a81f451e4224d67413642dd": {
+    "company": "Databricks",
+    "title": "Field Engineering, Databricks Apps Product Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476506002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-14T04:39:01.217393"
   }
 }
