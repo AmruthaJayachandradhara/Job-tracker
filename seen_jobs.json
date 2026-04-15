@@ -22829,5 +22829,29 @@
     "location": "Paris, France",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-15T13:02:03.536560"
+  },
+  "5641d72c921f75311c12acabc90fb974": {
+    "company": "Dialpad",
+    "title": "Forward Deployment Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8499622002",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T15:00:12.521269"
+  },
+  "900753ce9c82e9cce199afa925ca68e2": {
+    "company": "Stripe",
+    "title": "People Operations Associate - Fixed Term Contract",
+    "url": "https://stripe.com/jobs/search?gh_jid=7815571",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-15T15:00:32.374972"
+  },
+  "b4d1896b4bf97618b5ac814092637ce7": {
+    "company": "Stripe",
+    "title": "Treasury Finance AI and Quantitative Analytics",
+    "url": "https://stripe.com/jobs/search?gh_jid=7793069",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T15:00:32.377068"
   }
 }
