@@ -22821,5 +22821,13 @@
     "location": "Stockholm, Sweden",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-15T11:49:52.875325"
+  },
+  "ccbbe655936747d5ac32658cdb516388": {
+    "company": "Databricks",
+    "title": "Named Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8503588002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T13:02:03.536560"
   }
 }
