@@ -22813,5 +22813,13 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-15T10:09:22.430663"
+  },
+  "232b1a705fe1438aa661feefce05ca9a": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8402154002",
+    "location": "Stockholm, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T11:49:52.875325"
   }
 }
