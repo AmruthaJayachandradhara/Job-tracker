@@ -22853,5 +22853,37 @@
     "location": "New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-15T15:00:32.377068"
+  },
+  "1e8083446651c60f02b48bb46dc520e5": {
+    "company": "Listen Labs",
+    "title": "Recruiting Coordinator",
+    "url": "https://jobs.ashbyhq.com/listenlabs/aa85d318-96de-4fe4-814b-2b997d471946",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T17:59:30.724169"
+  },
+  "f511b5b408630a04d98f7e8bc61eda08": {
+    "company": "Novig",
+    "title": "Junior Sports Trader",
+    "url": "https://jobs.ashbyhq.com/novig/188d04b0-4f8a-424f-8cda-923f75afd5a4",
+    "location": "85 5th Avenue, New York, NY, 10003",
+    "filter_reason": "title match: 'junior'",
+    "first_seen": "2026-04-15T17:59:44.781787"
+  },
+  "4851c61d979ec33307ec623dc53bdea9": {
+    "company": "Databricks",
+    "title": "Deployment Strategist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8450578002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T17:59:57.832298"
+  },
+  "5af2ff3f35a0fe58fb40a20bda584764": {
+    "company": "Tanium",
+    "title": "Executive Client Advisor ",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7800332",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T18:00:05.944765"
   }
 }
