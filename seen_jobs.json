@@ -22885,5 +22885,21 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-15T18:00:05.944765"
+  },
+  "f342b2988b98d089b1d9e8c5271ce741": {
+    "company": "Northwood Space",
+    "title": "Buyer/ Planner II",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/4a6c6456-e9c0-402a-b11e-c3f32a78db2d",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T19:20:48.995752"
+  },
+  "f02ac2ebda99d58d1bfea06792b6bfc0": {
+    "company": "Mercury",
+    "title": "Recruiter - Sales",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5970956004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T19:21:29.242786"
   }
 }
