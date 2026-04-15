@@ -22805,5 +22805,13 @@
     "location": "Singapore, Sydney",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-15T04:39:43.070093"
+  },
+  "0b724ed1e841a11fb8fd7d45a5b46bd0": {
+    "company": "Stripe",
+    "title": "Product Accounting Data Insights",
+    "url": "https://stripe.com/jobs/search?gh_jid=7813945",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T10:09:22.430663"
   }
 }
