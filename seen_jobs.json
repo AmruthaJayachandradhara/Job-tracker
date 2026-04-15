@@ -22917,5 +22917,21 @@
     "location": "San Francisco, New York City ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-15T20:39:21.437101"
+  },
+  "e9f76ed16f2749e8645e80c9d389730f": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups - New Business ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7746888",
+    "location": "San Francisco, New York City ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T21:43:35.692342"
+  },
+  "d37f607ccdb82b595470799432cb29be": {
+    "company": "Stripe",
+    "title": "Machine Learning Engineer, Support Experience",
+    "url": "https://stripe.com/jobs/search?gh_jid=7813942",
+    "location": "Toronto, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T21:43:35.694676"
   }
 }
