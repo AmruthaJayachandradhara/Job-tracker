@@ -22901,5 +22901,21 @@
     "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-15T19:21:29.242786"
+  },
+  "b1a9f25db052153d7bd038d1059d2fc9": {
+    "company": "Dialpad",
+    "title": "Onboarding Specialist",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8497401002",
+    "location": "Pasig City, Metro Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T20:39:09.848168"
+  },
+  "4c2ec25f99c5fc660a891bd80e93dced": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups - New Business",
+    "url": "https://stripe.com/jobs/search?gh_jid=7664841",
+    "location": "San Francisco, New York City ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T20:39:21.437101"
   }
 }
