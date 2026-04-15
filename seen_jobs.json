@@ -22789,5 +22789,21 @@
     "location": "Sao Paulo, Brazil",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-15T01:26:14.008157"
+  },
+  "6516f338a8565b28c8bba9426425ae19": {
+    "company": "Stripe",
+    "title": "Operations Associate - Product Support Operations (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7813141",
+    "location": "MX- Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-15T04:39:43.068994"
+  },
+  "6b4afcdedb6b528ca5cdb5c9cb25dad3": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (Mandarin-speaking)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7813755",
+    "location": "Singapore, Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T04:39:43.070093"
   }
 }
