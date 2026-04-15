@@ -22933,5 +22933,13 @@
     "location": "Toronto, Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-15T21:43:35.694676"
+  },
+  "b1949437949d72c1e146c45dad73462d": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Forward Deployed Engineering",
+    "url": "https://stripe.com/jobs/search?gh_jid=7819618",
+    "location": "Seattle",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-15T22:34:56.429055"
   }
 }
