@@ -22941,5 +22941,13 @@
     "location": "Seattle",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-15T22:34:56.429055"
+  },
+  "b28ae45f1f66c125920cc624a1584b98": {
+    "company": "Databricks",
+    "title": "Startup Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8441862002",
+    "location": "Brisbane, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T01:47:02.712005"
   }
 }
