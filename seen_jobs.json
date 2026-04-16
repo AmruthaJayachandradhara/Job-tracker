@@ -23069,5 +23069,21 @@
     "location": "US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-16T17:04:42.481929"
+  },
+  "be027d99f0cbeae125b14516f5bccf95": {
+    "company": "Pomelo Care",
+    "title": "Doula (Pennsylvania)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5472452004",
+    "location": "Pennsylvania, USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T18:59:02.725978"
+  },
+  "35527797b2349beae38fa13336b3c731": {
+    "company": "GitLab",
+    "title": "Business Development Representative - East ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497108002",
+    "location": "Remote, North America",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T18:59:43.579042"
   }
 }
