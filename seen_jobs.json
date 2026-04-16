@@ -23085,5 +23085,21 @@
     "location": "Remote, North America",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-16T18:59:43.579042"
+  },
+  "e27a02e5a34853263f679b027ae07d96": {
+    "company": "Pomelo Care",
+    "title": "Doula (Missouri)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5972830004",
+    "location": "Missouri, USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T19:59:58.836812"
+  },
+  "d931475f6bd87cb420b38317e0424968": {
+    "company": "Profound",
+    "title": "Workplace Strategy & Operations",
+    "url": "https://jobs.ashbyhq.com/profound/aad2afa2-f92a-4eed-a6b8-3b1d6a2da0dc",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T20:00:19.779096"
   }
 }
