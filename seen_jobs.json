@@ -23101,5 +23101,29 @@
     "location": "New York, New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-16T20:00:19.779096"
+  },
+  "4e78e6b89c09f39420235a32b24d140b": {
+    "company": "Dialpad",
+    "title": "Forward Deployment Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8499623002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T20:54:01.168767"
+  },
+  "a2a420178e5890cb88f4d9c2f4676e9a": {
+    "company": "Dialpad",
+    "title": "Product, Privacy and Regulatory Counsel",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8510389002",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T20:54:01.168844"
+  },
+  "461fdf07bace04a76d18e668540c5364": {
+    "company": "Stripe",
+    "title": "MaaS User Oversight Risk Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7811935",
+    "location": "Chicago, US-Remote, SEA, NYC, SF ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T20:54:17.083558"
   }
 }
