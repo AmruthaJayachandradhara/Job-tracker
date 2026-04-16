@@ -22997,5 +22997,21 @@
     "location": "Paris, France",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-16T10:08:47.810264"
+  },
+  "3907a702c88fff274912f160d8420fe8": {
+    "company": "Databricks",
+    "title": "Software Engineer - Full Stack, Lakeflow Connect",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8509766002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T13:07:15.614606"
+  },
+  "acc6a1e3ab4c8b454c490ecbb0b3b139": {
+    "company": "Dialpad",
+    "title": "Salesforce Administrator",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8496643002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T13:07:20.633655"
   }
 }
