@@ -23013,5 +23013,37 @@
     "location": "Bengaluru, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-16T13:07:20.633655"
+  },
+  "2f94398bdf255b6c8e5c71bcb0cfcba4": {
+    "company": "EarnIn",
+    "title": "Sr Software Engineer (SaaS product/Payroll)",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7812085",
+    "location": "Bangkok, Thailand",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T15:19:56.687970"
+  },
+  "af5669b3988b0b54251367aa67d7de35": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB (New Business)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7277406",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T15:19:58.534157"
+  },
+  "7e2f43675d401a02ed056ebb34fa4aa7": {
+    "company": "Stripe",
+    "title": "Credit Operations Analyst, Risk Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=7722938",
+    "location": "Chicago, Toronto, Atlanta",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T15:19:58.534804"
+  },
+  "a02851acf1403e38a4f33ea2c1e483db": {
+    "company": "Stripe",
+    "title": "Integration Engineer (Client facing)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7594874",
+    "location": "Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T15:19:58.536139"
   }
 }
