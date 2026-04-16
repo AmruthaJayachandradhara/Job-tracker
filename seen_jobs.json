@@ -23125,5 +23125,21 @@
     "location": "Chicago, US-Remote, SEA, NYC, SF ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-16T20:54:17.083558"
+  },
+  "af83dd2349ca315b689ff894d0b5d9e6": {
+    "company": "Fivetran",
+    "title": "Customer Support Engineer II",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7694917003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T21:35:51.823768"
+  },
+  "5ad30a211d5af0041c750e877a998a80": {
+    "company": "Fivetran",
+    "title": "Customer Support Engineer II",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7703497003",
+    "location": "Oakland, California, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T21:35:51.823795"
   }
 }
