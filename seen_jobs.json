@@ -22965,5 +22965,13 @@
     "location": "SEA, SF",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-16T04:45:46.977857"
+  },
+  "b068cd7428a982860e5098c45ed2d0a5": {
+    "company": "Stripe",
+    "title": "Forward Deployed AI Accelerator, Marketing",
+    "url": "https://stripe.com/jobs/search?gh_jid=7748114",
+    "location": "Singapore, Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T06:29:56.593742"
   }
 }
