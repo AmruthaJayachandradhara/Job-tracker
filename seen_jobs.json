@@ -23141,5 +23141,13 @@
     "location": "Oakland, California, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-16T21:35:51.823795"
+  },
+  "a6a3d762e87c9e72227a55024728af4e": {
+    "company": "Stripe",
+    "title": "Security Engineer, Bridge",
+    "url": "https://stripe.com/jobs/search?gh_jid=7657732",
+    "location": "San Francisco, New York City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T23:33:18.196148"
   }
 }
