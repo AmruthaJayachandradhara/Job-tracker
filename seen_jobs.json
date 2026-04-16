@@ -22973,5 +22973,21 @@
     "location": "Singapore, Sydney",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-16T06:29:56.593742"
+  },
+  "822168fe1c6540338f5c48376d312074": {
+    "company": "Databricks",
+    "title": "Hunter Account Executive - China (Singapore Based)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8452035002",
+    "location": "China; Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T08:23:14.517360"
+  },
+  "d3673e89c45728a5d9552b4e1ad59f9b": {
+    "company": "Stripe",
+    "title": "Japan Regulatory Compliance & Money Laundering Reporting Officer (RC & MLRO)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7757552",
+    "location": "Tokyo , Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T08:23:30.324464"
   }
 }
