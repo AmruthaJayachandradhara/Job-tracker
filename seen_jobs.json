@@ -22949,5 +22949,21 @@
     "location": "Brisbane, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-16T01:47:02.712005"
+  },
+  "a8703eb5063094f29f9c865e6824d4d1": {
+    "company": "Databricks",
+    "title": "Geo Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8441857002",
+    "location": "Western Australia, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T04:45:26.065070"
+  },
+  "daab490e3460988c2445b2bd47e9232a": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Developer Experience & Product Platform ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+    "location": "SEA, SF",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T04:45:46.977857"
   }
 }
