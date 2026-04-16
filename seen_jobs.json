@@ -23045,5 +23045,29 @@
     "location": "Ireland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-16T15:19:58.536139"
+  },
+  "122a512050b1bb87449597f321599cf4": {
+    "company": "Databricks",
+    "title": "Strategic Customer Advisor, APJ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8479029002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T17:04:19.355701"
+  },
+  "7f0c330f7427ac1621730c318c66e7bd": {
+    "company": "GitLab",
+    "title": "CX Forward Deployed Engineer ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8504801002",
+    "location": "Remote, Australia; Remote, Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T17:04:27.120475"
+  },
+  "31c85f35a5dac7e67272c46e1f09e2a7": {
+    "company": "Stripe",
+    "title": "Brand Designer, Art Direction",
+    "url": "https://stripe.com/jobs/search?gh_jid=7673383",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-16T17:04:42.481929"
   }
 }
