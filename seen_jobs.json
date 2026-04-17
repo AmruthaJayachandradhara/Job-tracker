@@ -23349,5 +23349,21 @@
     "location": "New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-17T21:34:41.993953"
+  },
+  "2397a5c1c3800679b872a7582ae92567": {
+    "company": "Affirm",
+    "title": "Software Engineer II (ML Feature Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7694294003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T22:29:55.011471"
+  },
+  "f0e890b0e2526863c98fa80d439a9c5b": {
+    "company": "Affirm",
+    "title": "Software Engineer II (ML Feature Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7694296003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T22:29:55.011500"
   }
 }
