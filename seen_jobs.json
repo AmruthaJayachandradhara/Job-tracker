@@ -23293,5 +23293,53 @@
     "location": "Bengaluru, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-17T18:44:44.686784"
+  },
+  "0e10914c3ab691c66014fc58109d1260": {
+    "company": "Gumloop",
+    "title": "Software Engineer",
+    "url": "https://jobs.ashbyhq.com/gumloop/a1a881a6-3743-4f03-ab55-3a46297a764b",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T19:52:01.937380"
+  },
+  "a043b72df4fc23e456383f41710dd249": {
+    "company": "Pomelo Care",
+    "title": "Doula (Kansas)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5434571004",
+    "location": "Kansas",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T19:52:10.106603"
+  },
+  "374285a58f69f628fe486c6fe9c18082": {
+    "company": "Databricks",
+    "title": "Named Enterprise Account Executive  - Retail/CPG",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8505897002",
+    "location": "Atlanta, Georgia; Dallas, Texas; New York; Philadelphia, Pennsylvania; Virginia; Washington, D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T19:52:42.229455"
+  },
+  "349d83153512d715592844e4b4cbac50": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Strategic Expansion",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7704663003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T19:52:45.034520"
+  },
+  "a56b902ac8a189f5fbf67060603e90b1": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Strategic Expansion",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7699291003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T19:52:45.034540"
+  },
+  "243f328c31e67872b667966fa5c44beb": {
+    "company": "Dialpad",
+    "title": "Applied Scientist",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8512128002",
+    "location": "Kitchener, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T19:52:47.016278"
   }
 }
