@@ -23197,5 +23197,21 @@
     "location": "Bengaluru, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-17T08:22:38.739507"
+  },
+  "205f42753c44c2b80c73a3594c17ec49": {
+    "company": "Databricks",
+    "title": "Account Executive - Automotive ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8427016002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T10:06:14.467904"
+  },
+  "44f0eddfa0009600a3d68861167495d9": {
+    "company": "GitLab",
+    "title": "Account Executive - Italy",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8503792002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T10:06:21.024524"
   }
 }
