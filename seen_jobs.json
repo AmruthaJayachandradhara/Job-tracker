@@ -23165,5 +23165,13 @@
     "location": "Remote, Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-17T01:30:06.868332"
+  },
+  "23bfda36e8c38119084acb2eabb0f5ed": {
+    "company": "GitLab",
+    "title": "Legal Engineer",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8499587002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T04:42:38.756640"
   }
 }
