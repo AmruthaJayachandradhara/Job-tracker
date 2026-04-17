@@ -23221,5 +23221,45 @@
     "location": "Remote, United Arab Emirates",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-17T12:57:32.044273"
+  },
+  "dc851aac0ef6a1e7fb1beb3126fdec3d": {
+    "company": "Dialpad",
+    "title": "Applied Scientist",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8508615002",
+    "location": "Vancouver, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T15:51:20.871044"
+  },
+  "6da164a11af0b8616c9ea3e1f195e01e": {
+    "company": "Dialpad",
+    "title": "Software Engineer (Integrations)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8421274002",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T15:51:20.871300"
+  },
+  "0313a1a5c434b79ceb5220c62338a910": {
+    "company": "Dialpad",
+    "title": "Software Engineer, Salesforce (Integrations)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8421279002",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T15:51:20.871323"
+  },
+  "cd8be403046a0757752641b720540c08": {
+    "company": "Coinbase",
+    "title": "Assistant Controller, Global GL Operations",
+    "url": "https://www.coinbase.com/careers/positions/7822885?gh_jid=7822885",
+    "location": "Remote - Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T15:51:28.773480"
+  },
+  "f2860c14eb1380c6d1327669569ef387": {
+    "company": "Stripe",
+    "title": "Product Designer, Global",
+    "url": "https://stripe.com/jobs/search?gh_jid=7824008",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T15:51:32.857871"
   }
 }
