@@ -23213,5 +23213,13 @@
     "location": "Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-17T10:06:21.024524"
+  },
+  "9cc2bd38618095ed51f89ff3dc1516f2": {
+    "company": "GitLab",
+    "title": "Professional Services Engineer - META",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8499907002",
+    "location": "Remote, United Arab Emirates",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T12:57:32.044273"
   }
 }
