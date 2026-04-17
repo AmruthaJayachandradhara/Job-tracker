@@ -23261,5 +23261,21 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-17T15:51:32.857871"
+  },
+  "19ea69f4b2b2ed3267f2248eb763a65f": {
+    "company": "GitLab",
+    "title": "Public Sector Strategic Account Executive, DoD",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8498707002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T17:41:26.749755"
+  },
+  "fdf51ff3912bab77d2a1e37674bb0468": {
+    "company": "GitLab",
+    "title": "Sales Development Representative, Portuguese Speaking",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8510311002",
+    "location": "Remote, North America",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T17:41:26.749825"
   }
 }
