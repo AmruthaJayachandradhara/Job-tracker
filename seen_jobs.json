@@ -23277,5 +23277,21 @@
     "location": "Remote, North America",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-17T17:41:26.749825"
+  },
+  "4d9b8069fba8aecd49c8b8076dafeee3": {
+    "company": "Pomelo Care",
+    "title": "Doula (Florida)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5434222004",
+    "location": "Florida, USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T18:43:52.364442"
+  },
+  "56b0e0d13429e3a0a99a15328021dcb1": {
+    "company": "EarnIn",
+    "title": "Software Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7412307",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T18:44:44.686784"
   }
 }
