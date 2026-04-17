@@ -23189,5 +23189,13 @@
     "location": "Japan",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-17T06:30:05.118062"
+  },
+  "82f0bb8635605c0e60c52864beb56389": {
+    "company": "Databricks",
+    "title": "Software Engineer (SDE 2) - Full Stack, Lakeflow",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8509766002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T08:22:38.739507"
   }
 }
