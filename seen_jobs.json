@@ -23149,5 +23149,21 @@
     "location": "San Francisco, New York City",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-16T23:33:18.196148"
+  },
+  "2adb3e3cc041aaeafbbb5cb4b44275bf": {
+    "company": "Gumloop",
+    "title": "Executive Assistant to the CEO",
+    "url": "https://jobs.ashbyhq.com/gumloop/9ea5ec90-6389-480d-bc81-66e48892e818",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T01:29:09.695088"
+  },
+  "4eb8667ac849e7a1bc1e331aa770a507": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive, Indonesia",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8496033002",
+    "location": "Remote, Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T01:30:06.868332"
   }
 }
