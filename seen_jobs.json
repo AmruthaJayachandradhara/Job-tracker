@@ -23365,5 +23365,21 @@
     "location": "Remote Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-17T22:29:55.011500"
+  },
+  "4b5eac8bad7fbb2438bb4c9c2315d88f": {
+    "company": "Affirm",
+    "title": "Machine Learning Engineer II (Fraud) ",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7695818003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T23:32:14.652367"
+  },
+  "c42318049d3c796a9cba8492d486467b": {
+    "company": "Stripe",
+    "title": "Tech Operations Associate, New Grad (Mexico)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7718947",
+    "location": "Mexico City, Mexico",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-04-17T23:32:15.766499"
   }
 }
