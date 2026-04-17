@@ -23173,5 +23173,21 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-17T04:42:38.756640"
+  },
+  "2a5cbc827eb2414cc884e8adc63d23b0": {
+    "company": "Stripe",
+    "title": "Commercial Counsel,APAC",
+    "url": "https://stripe.com/jobs/search?gh_jid=7823081",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T06:30:05.116340"
+  },
+  "3dcf6320fc8061c5f6561c2aabd6d80c": {
+    "company": "Stripe",
+    "title": "Mid-Market Account Executive (Japan)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7789539",
+    "location": "Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-17T06:30:05.118062"
   }
 }
