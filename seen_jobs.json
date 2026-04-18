@@ -23381,5 +23381,37 @@
     "location": "Mexico City, Mexico",
     "filter_reason": "title match: 'new grad'",
     "first_seen": "2026-04-17T23:32:15.766499"
+  },
+  "0b74e6ab7b943a165c11723cb3b4393f": {
+    "company": "Paraform",
+    "title": "Applied AI Engineer",
+    "url": "https://jobs.ashbyhq.com/paraform/ed192d51-74e9-4712-89a6-4503967c4184",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-18T01:22:54.397787"
+  },
+  "cdeac3c0bec3c4826142919dda48634a": {
+    "company": "Northwood Space",
+    "title": "Electrical Engineer Intern (Summer 2026)",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/1d771e09-ffca-48fa-a9a0-bddd926fe513",
+    "location": "Torrance, CA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-04-18T01:23:10.379872"
+  },
+  "b84de6598279c15c18cbafc61719f794": {
+    "company": "Stripe",
+    "title": "Security Engineer - Offensive Security",
+    "url": "https://stripe.com/jobs/search?gh_jid=7820898",
+    "location": "Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-18T01:23:53.431611"
+  },
+  "de0ebe4edf46052a67a019ee5d9caa3a": {
+    "company": "Stripe",
+    "title": "Security Engineer - Threat Detection",
+    "url": "https://stripe.com/jobs/search?gh_jid=7827230",
+    "location": "Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-18T01:23:53.431637"
   }
 }
