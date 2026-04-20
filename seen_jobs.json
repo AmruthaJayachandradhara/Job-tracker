@@ -23669,5 +23669,13 @@
     "location": "Denver, CO",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-20T21:39:13.623733"
+  },
+  "b0e250b71c29003b534e83f1c88250fa": {
+    "company": "Databricks",
+    "title": "Sr Software Engineer, Infrastructure",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8463169002",
+    "location": "Mountain View, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T22:34:56.544525"
   }
 }
