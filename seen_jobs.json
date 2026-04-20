@@ -23413,5 +23413,21 @@
     "location": "Ireland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-18T01:23:53.431637"
+  },
+  "7af405d43f0bd6130980c53e3105816f": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive - Automotive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8430926002",
+    "location": "Seoul, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T04:51:52.004162"
+  },
+  "8a93aadb5203b90e45dd80222c258ff0": {
+    "company": "GitLab",
+    "title": "Customer Success Engineer - Japan",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497728002",
+    "location": "Remote, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T04:51:58.192785"
   }
 }
