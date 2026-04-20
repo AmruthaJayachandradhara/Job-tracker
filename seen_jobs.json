@@ -23437,5 +23437,29 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-20T07:11:37.808032"
+  },
+  "b914c8f8875ce35147926241fcbd4191": {
+    "company": "GitLab",
+    "title": "Major Account Executive, Germany",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8432922002",
+    "location": "Remote, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T09:49:55.771690"
+  },
+  "51a63a84ecc5d51e15dce9ed784240fd": {
+    "company": "Stripe",
+    "title": "Creative Design Operations Associate (Motion)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7824139",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-20T09:50:12.021045"
+  },
+  "0883be3bbde0b8b42fdb8bd06b2e98c4": {
+    "company": "Stripe",
+    "title": "Creative Design Operations Associate (Static)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7824143",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-20T09:50:12.021069"
   }
 }
