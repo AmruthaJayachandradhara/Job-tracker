@@ -23525,5 +23525,37 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-20T15:11:47.085414"
+  },
+  "5e983e5adb53cc7183d142eb9f405dd6": {
+    "company": "Fivetran",
+    "title": "Software Engineer II - Oracle Databases",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7695532003",
+    "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T16:56:20.632667"
+  },
+  "8f1673be165d967fba265806442dff0b": {
+    "company": "GitLab",
+    "title": "Field CTO",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8496880002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T16:56:24.457691"
+  },
+  "3fc0d855bf908b40926a6b556526342e": {
+    "company": "Mercury",
+    "title": "Community Reinvestment Act (CRA) Officer",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5976613004",
+    "location": "Salt Lake City, UT",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T16:56:31.559969"
+  },
+  "780357b408c8ceba5e6b83a54f039a49": {
+    "company": "Gusto",
+    "title": "Controller, Symmetry",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7789040",
+    "location": "Scottsdale, AZ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T16:56:35.258951"
   }
 }
