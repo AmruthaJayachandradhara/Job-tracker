@@ -23621,5 +23621,21 @@
     "location": "Chicago, SEA, SF, NYC, US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-20T17:52:03.835285"
+  },
+  "224b74f41b8791118135fec2c35b95a3": {
+    "company": "Replit",
+    "title": "Product Security Engineer (PSIRT - Product Security Incident Response Team)",
+    "url": "https://jobs.ashbyhq.com/replit/1634b879-80c7-4064-be0a-8a4aecc81923",
+    "location": "Foster City, CA (Hybrid) In office M,W,F",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T18:53:13.291803"
+  },
+  "862593f8c334b4748db0370071c9db8f": {
+    "company": "Stripe",
+    "title": "Backend Engineer, AI Security",
+    "url": "https://stripe.com/jobs/search?gh_jid=7826765",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T18:53:23.951920"
   }
 }
