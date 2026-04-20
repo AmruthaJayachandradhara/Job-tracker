@@ -23677,5 +23677,29 @@
     "location": "Mountain View, California",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-20T22:34:56.544525"
+  },
+  "6113f5482009723c462c91ec611b892d": {
+    "company": "Gumloop",
+    "title": "Technical Sourcer",
+    "url": "https://jobs.ashbyhq.com/gumloop/8262267a-336a-4fce-9a5f-63779ec4164c",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T23:34:39.801730"
+  },
+  "8e0a301890ab7cfe10a649d2742181e7": {
+    "company": "Fivetran",
+    "title": "Partner Development Representative",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7702519003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T23:35:25.655321"
+  },
+  "c5b304965fd62bf03ea83383461f3356": {
+    "company": "Fivetran",
+    "title": "Partner Development Representative",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7708753003",
+    "location": "Oakland, California, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T23:35:25.655345"
   }
 }
