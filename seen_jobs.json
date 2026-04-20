@@ -23557,5 +23557,69 @@
     "location": "Scottsdale, AZ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-20T16:56:35.258951"
+  },
+  "fe0bd8a24cf3b850f90b23b41d4e2122": {
+    "company": "Juicebox",
+    "title": "Security Engineer",
+    "url": "https://jobs.ashbyhq.com/juicebox/ad92e89b-d908-4b6a-ac1e-7c3ce81a2f71",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T17:51:40.751863"
+  },
+  "d7d88f0222fef69f9274c165812fa10a": {
+    "company": "Fivetran",
+    "title": "Account Executive, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7708399003",
+    "location": "Remote, Connecticut, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T17:51:48.486111"
+  },
+  "17a7f53d78208bcb3f21ef750c5ac433": {
+    "company": "Fivetran",
+    "title": "Account Executive, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7705022003",
+    "location": "Remote, New Jersey, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T17:51:48.486132"
+  },
+  "053d1ea2a4d6c091c157491d0c5ab921": {
+    "company": "Fivetran",
+    "title": "Account Executive, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7708401003",
+    "location": "Remote, Pennsylvania, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T17:51:48.486204"
+  },
+  "f9496f579475004874a5ac007758ee22": {
+    "company": "Fivetran",
+    "title": "Account Executive, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7708400003",
+    "location": "Remote, New York, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T17:51:48.486216"
+  },
+  "02ef80755d35134e27d8814b3b3ddd34": {
+    "company": "GitLab",
+    "title": "Intermediate Site Reliability Engineer, Environment Automation",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8504232002",
+    "location": "Remote, Canada; Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T17:51:51.868707"
+  },
+  "c5b353fe0a94214bfb0c7214af247f8b": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise - Billing (Existing Business)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7607568",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T17:52:03.831731"
+  },
+  "a099d6046c206285f18425c0d61dc826": {
+    "company": "Stripe",
+    "title": "Risk Strategist, User Risk Strategy",
+    "url": "https://stripe.com/jobs/search?gh_jid=7594866",
+    "location": "Chicago, SEA, SF, NYC, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T17:52:03.835285"
   }
 }
