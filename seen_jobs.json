@@ -23637,5 +23637,21 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-20T18:53:23.951920"
+  },
+  "f81b96f455c7b47a0f4689284cdf2dab": {
+    "company": "Northwood Space",
+    "title": "Simulation Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/c061aa41-3eca-40e6-830f-6698c5e3b4e2",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T19:55:19.645641"
+  },
+  "bc0d859872bd5d619749905260e10f35": {
+    "company": "Stripe",
+    "title": "Operations Associate, Financial Crimes EDD/PEP",
+    "url": "https://stripe.com/jobs/search?gh_jid=7202953",
+    "location": "Mexico City ",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-20T19:56:07.690069"
   }
 }
