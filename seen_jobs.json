@@ -23477,5 +23477,53 @@
     "location": "Remote, North America",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-20T11:13:16.067915"
+  },
+  "513202ff7722780b23131f7c83d5e14c": {
+    "company": "Encord",
+    "title": "Forward Deployed Engineer, SF",
+    "url": "https://jobs.ashbyhq.com/encord/9f97576a-5381-4839-a7cf-ebfa82089a63",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T15:11:09.521524"
+  },
+  "1973706e721aa3193163cf683f65fb0e": {
+    "company": "Encord",
+    "title": "Forward Deployed Engineer, London",
+    "url": "https://jobs.ashbyhq.com/encord/2b1c10d4-cde7-422b-9f52-2739865d95cb",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T15:11:09.521555"
+  },
+  "450f17b519e5c97946030689c020c9b5": {
+    "company": "Encord",
+    "title": "Forward Deployed Engineer, NY",
+    "url": "https://jobs.ashbyhq.com/encord/2eedc8eb-00c2-4cbe-862e-5e22960f0dbf",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T15:11:09.521943"
+  },
+  "b0d9450881e5b6df141b20a4409982d1": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Healthcare ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8417773002",
+    "location": "New Jersey; Remote - New York; Remote - Pennsylvania",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T15:11:24.226427"
+  },
+  "6088fe87d2406e79abbc7b5d436c82d7": {
+    "company": "Databricks",
+    "title": "Geo Core Account Executive - Portugal Market",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8510406002",
+    "location": "Madrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T15:11:24.226788"
+  },
+  "3222552e8930e6feb6502c7ece6724c8": {
+    "company": "Stripe",
+    "title": "Software Engineer, Security Analytics Infrastructure",
+    "url": "https://stripe.com/jobs/search?gh_jid=7826761",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T15:11:47.085414"
   }
 }
