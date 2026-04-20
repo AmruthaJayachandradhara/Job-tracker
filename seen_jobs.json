@@ -23653,5 +23653,21 @@
     "location": "Mexico City ",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-04-20T19:56:07.690069"
+  },
+  "394b8ed89310cdb8f11c6d8ac56b4a95": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer, Database Automation",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481029002",
+    "location": "Remote, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T21:39:01.446197"
+  },
+  "2b027915d0eb58f426406c21d15b1211": {
+    "company": "Gusto",
+    "title": "Summer Opportunities - Retirement Sales AE",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7833882",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-20T21:39:13.623733"
   }
 }
