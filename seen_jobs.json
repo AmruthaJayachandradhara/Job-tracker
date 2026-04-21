@@ -23757,5 +23757,21 @@
     "location": "Osaka, Japan (Hybrid)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-21T10:12:38.205565"
+  },
+  "6986b5d037e461f7117437b8e393383a": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise - Spanish Speaker",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7705030003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T15:05:23.282137"
+  },
+  "a767e6b248f6d2ca0028058c770e3f39": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer, Database Automation (Ruby)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481029002",
+    "location": "Remote, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T15:05:27.056910"
   }
 }
