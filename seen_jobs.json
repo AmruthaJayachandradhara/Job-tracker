@@ -23741,5 +23741,21 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-21T01:30:04.537584"
+  },
+  "83dea5b814b116ffd027bcbffb445f6e": {
+    "company": "Fivetran",
+    "title": "Billing AR Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7695860003",
+    "location": "Remote, India, APAC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T10:12:30.890435"
+  },
+  "1fde9b593777ba8d56523676e5c15bc8": {
+    "company": "Tanium",
+    "title": "Enterprise Services Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7826411",
+    "location": "Osaka, Japan (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T10:12:38.205565"
   }
 }
