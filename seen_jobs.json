@@ -23821,5 +23821,37 @@
     "location": "Denver, CO; Phoenix, AZ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-21T16:50:06.165901"
+  },
+  "fb7298e99d02b42307683f5adeb31f15": {
+    "company": "Braintrust",
+    "title": "Enterprise Account Executive (West Region)",
+    "url": "https://jobs.ashbyhq.com/braintrust/2389a7b5-399e-479d-9da3-66e3d30e0a72",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T17:52:27.000016"
+  },
+  "b3b8dccea67b242b2ca39881936d3868": {
+    "company": "Braintrust",
+    "title": "Enterprise Account Executive (East Region)",
+    "url": "https://jobs.ashbyhq.com/braintrust/7f372e5a-0870-4662-b5c6-7f76c1234fda",
+    "location": "New York City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T17:52:27.000113"
+  },
+  "a2a08c6e00513025298c423418efd8e2": {
+    "company": "Braintrust",
+    "title": "Enterprise Account Executive (Central Region)",
+    "url": "https://jobs.ashbyhq.com/braintrust/1eff314f-8261-484b-9ead-e44646d79003",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T17:52:27.000128"
+  },
+  "e98ffaadb9c04bbd29759947e1bb7f8b": {
+    "company": "GitLab",
+    "title": "Major Account Executive - Texas ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480189002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T17:53:17.917576"
   }
 }
