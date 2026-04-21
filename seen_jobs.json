@@ -23853,5 +23853,13 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-21T17:53:17.917576"
+  },
+  "90ddeaa47611c61a32f0fe09fd819acd": {
+    "company": "Encord",
+    "title": "Human Data Operations Strategist",
+    "url": "https://jobs.ashbyhq.com/encord/84bafd3e-a33a-410e-806b-3497faa36114",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T18:58:42.010014"
   }
 }
