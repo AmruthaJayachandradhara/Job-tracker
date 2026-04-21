@@ -23773,5 +23773,53 @@
     "location": "Remote, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-21T15:05:27.056910"
+  },
+  "b6fae631a4bad3b7a1a312b75ced76d2": {
+    "company": "Pomelo Care",
+    "title": "Bilingual Outbound Enrollment Specialist (Arizona)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5977941004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T16:49:06.186728"
+  },
+  "be00b8369dc180299c029536f2da04eb": {
+    "company": "Pomelo Care",
+    "title": "Bilingual Outbound Enrollment Specialist (Georgia)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5977943004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T16:49:06.186754"
+  },
+  "60e63598241808d2cb71be417fb0ce98": {
+    "company": "Pomelo Care",
+    "title": "Bilingual Outbound Enrollment Specialist (Texas)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5977942004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T16:49:06.186769"
+  },
+  "8d216fe87a0937e0ece85c3e5698d5df": {
+    "company": "Databricks",
+    "title": "Sr Software Engineer -Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8512856002",
+    "location": "McLean, Virginia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T16:49:47.490247"
+  },
+  "c63e8e15d23fc6a95421759ddc28dd6d": {
+    "company": "Fivetran",
+    "title": "People Programs Strategy, Operations & Transformation - Contract",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7705026003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T16:49:50.522311"
+  },
+  "f6fe436adafcce7d0ba6cc341dd60394": {
+    "company": "Gusto",
+    "title": "Future Opportunities: Licensed Benefits Advisor ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7838275",
+    "location": "Denver, CO; Phoenix, AZ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T16:50:06.165901"
   }
 }
