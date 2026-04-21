@@ -23861,5 +23861,13 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-21T18:58:42.010014"
+  },
+  "9c0c24dfb44174ee8c67d83ec079a39d": {
+    "company": "Coinbase",
+    "title": "Counsel, Commercial (Institutional)",
+    "url": "https://www.coinbase.com/careers/positions/7602261?gh_jid=7602261",
+    "location": "Remote - UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T21:38:21.418359"
   }
 }
