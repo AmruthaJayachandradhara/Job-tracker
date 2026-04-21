@@ -23869,5 +23869,21 @@
     "location": "Remote - UK",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-21T21:38:21.418359"
+  },
+  "2202ba3ace4b9514494ccb7c1d0bd49c": {
+    "company": "Profound",
+    "title": "GTM Associate, London",
+    "url": "https://jobs.ashbyhq.com/profound/95f983ab-dabe-4707-b8e6-d71f06b27dda",
+    "location": "London, England",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-21T22:32:01.997046"
+  },
+  "b37a7c77838f8885c1bc098e48700055": {
+    "company": "Databricks",
+    "title": "Sr Production Engineer- Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8517577002",
+    "location": "Virginia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T22:32:14.936244"
   }
 }
