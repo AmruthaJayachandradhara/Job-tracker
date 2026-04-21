@@ -23701,5 +23701,45 @@
     "location": "Oakland, California, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-20T23:35:25.655345"
+  },
+  "c8b6ab950b23397401f7665b2ee01fff": {
+    "company": "Dialpad",
+    "title": "Marketing Specialist (Contract)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8489433002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T01:29:52.563903"
+  },
+  "9302431df269522018668947b9781b8f": {
+    "company": "Replit",
+    "title": "Field Engineer (London)",
+    "url": "https://jobs.ashbyhq.com/replit/12635a4d-290e-4b50-a2ae-11b3bbb74fe5",
+    "location": "Remote - United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T01:29:54.668057"
+  },
+  "f1c50174b43e6294568a6cd67c6a8e08": {
+    "company": "Replit",
+    "title": "Business Development Representative (London)",
+    "url": "https://jobs.ashbyhq.com/replit/7b5e1698-7baa-442e-a0d2-9683f93dbdd1",
+    "location": "Remote - United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T01:29:54.668078"
+  },
+  "4af18e0aa7a3ed450572956713c9d8ac": {
+    "company": "Replit",
+    "title": "Enterprise Account Executive (London)",
+    "url": "https://jobs.ashbyhq.com/replit/08062c98-b99a-4839-ab55-725fadc0c4da",
+    "location": "Remote - United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T01:29:54.668097"
+  },
+  "b28a07e478c611de5ea3499b9ddd8713": {
+    "company": "Stripe",
+    "title": "APAC Executive Marketing",
+    "url": "https://stripe.com/jobs/search?gh_jid=7764914",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T01:30:04.537584"
   }
 }
