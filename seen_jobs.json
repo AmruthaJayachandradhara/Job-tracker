@@ -23885,5 +23885,21 @@
     "location": "Virginia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-21T22:32:14.936244"
+  },
+  "66511ee320a2aeca24a04e4afe88b659": {
+    "company": "Databricks",
+    "title": "Sr IT Systems/Automation Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8463169002",
+    "location": "Mountain View, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T23:28:57.961409"
+  },
+  "69ea396b09ec19417a87ce7f85062110": {
+    "company": "Databricks",
+    "title": "Sr Software Engineer, Infrastructure",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002",
+    "location": "San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-21T23:28:57.962063"
   }
 }
