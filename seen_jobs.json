@@ -23989,5 +23989,29 @@
     "location": "Remote Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-22T16:50:37.783006"
+  },
+  "ee427ff2c8cdfa20b59f45d613106bf5": {
+    "company": "Databricks",
+    "title": "Commercial Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8519576002",
+    "location": "Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Denver, Colorado; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T20:07:19.170095"
+  },
+  "7dc2cd1804a5f6c7ffbce5a3d93f3a2d": {
+    "company": "GitLab",
+    "title": "Intermediate Software Security Engineer ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8516916002",
+    "location": "Remote, Canada; Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T20:07:25.679354"
+  },
+  "6dcfc4108bb48282987335072e389af1": {
+    "company": "Stripe",
+    "title": "Frontend Engineer, Payments & Risk",
+    "url": "https://stripe.com/jobs/search?gh_jid=7833796",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T20:07:36.265695"
   }
 }
