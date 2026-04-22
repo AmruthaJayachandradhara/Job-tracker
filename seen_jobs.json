@@ -23965,5 +23965,29 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-22T15:05:45.779666"
+  },
+  "d9c43bf0bdc09006a3bea953ec1bb696": {
+    "company": "Tandem",
+    "title": "Research Engineer",
+    "url": "https://jobs.ashbyhq.com/tandem/bf912127-f3f7-4d87-990c-46db7df333bb",
+    "location": "New York office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T16:49:36.808495"
+  },
+  "50d6a8145d69c1ab76ca636fc699a6f6": {
+    "company": "Profound",
+    "title": "Recruiting Operations",
+    "url": "https://jobs.ashbyhq.com/profound/1efaaf6b-328a-425f-acfd-ba75311bdccd",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T16:50:00.078048"
+  },
+  "02323ecdb2194bf74e4dad8a23c3c10b": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (PMI Integrations)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7590373003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T16:50:37.783006"
   }
 }
