@@ -24013,5 +24013,21 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-22T20:07:36.265695"
+  },
+  "13365d49794b4f13c5081db897179cbe": {
+    "company": "Fivetran",
+    "title": "Go to Market Engineer",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7674622003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T21:43:06.063955"
+  },
+  "4a5d886067fef1531e9585e233d6c2f8": {
+    "company": "GitLab",
+    "title": "Software Security Engineer ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8516916002",
+    "location": "Remote, Canada; Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T21:43:09.395978"
   }
 }
