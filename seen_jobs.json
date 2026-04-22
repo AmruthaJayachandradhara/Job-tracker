@@ -23925,5 +23925,13 @@
     "location": "Denver, Colorado, United States, AMER",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-22T01:28:33.484750"
+  },
+  "773b823cae6ec40fd7e7bbbcfe52cf0a": {
+    "company": "Databricks",
+    "title": "Deployment Strategist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8516118002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T10:11:58.007344"
   }
 }
