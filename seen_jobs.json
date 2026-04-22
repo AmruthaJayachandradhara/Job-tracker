@@ -23901,5 +23901,29 @@
     "location": "San Francisco, California",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-21T23:28:57.962063"
+  },
+  "de71876995e73adcc094e94488e1eb7b": {
+    "company": "Juicebox",
+    "title": "Brand Marketer",
+    "url": "https://jobs.ashbyhq.com/juicebox/45fa7bc0-9feb-410d-a739-461571c11054",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T01:28:25.627423"
+  },
+  "3ac27466f60b7bdb120429040c4b5129": {
+    "company": "Databricks",
+    "title": "Executive Assistant",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8229672002",
+    "location": "Costa Rica",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T01:28:30.623624"
+  },
+  "345a5000d03b3d3552cdcb8faaa3a3c1": {
+    "company": "Fivetran",
+    "title": "Product Growth Partner",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7696133003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T01:28:33.484750"
   }
 }
