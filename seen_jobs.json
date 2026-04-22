@@ -23933,5 +23933,13 @@
     "location": "Sydney, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-22T10:11:58.007344"
+  },
+  "f6740d7e240859f98b15df09af252e9e": {
+    "company": "Stripe",
+    "title": "Data Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7610132",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T11:53:41.406760"
   }
 }
