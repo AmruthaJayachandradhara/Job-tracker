@@ -23949,5 +23949,21 @@
     "location": "Remote, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-22T13:02:56.442375"
+  },
+  "8780b5b2116b92c3db13ba514e24d240": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Named, Canada",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8489184002",
+    "location": "Remote, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T15:05:45.779430"
+  },
+  "62c751477f377dd27dbf3710959f57be": {
+    "company": "GitLab",
+    "title": "Field CTO - US West ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8496880002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-22T15:05:45.779666"
   }
 }
