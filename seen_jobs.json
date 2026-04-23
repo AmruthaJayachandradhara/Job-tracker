@@ -24093,5 +24093,45 @@
     "location": "London, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-23T15:30:50.975028"
+  },
+  "678533c529966ea3c457e400d909efab": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Federal Civilian",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8351958002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T17:11:02.748817"
+  },
+  "6233ecc7f790d6503b91ba79f77a0133": {
+    "company": "Dialpad",
+    "title": "AI Productivity Analyst",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8515622002",
+    "location": "Kitchener, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T17:11:07.717763"
+  },
+  "4e0f82a228eeecd6f11d431108108989": {
+    "company": "Dialpad",
+    "title": "AI Productivity Analyst",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8515633002",
+    "location": "Vancouver, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T17:11:07.717793"
+  },
+  "2f4fedf455d4396d2a8682e7a2e2a34c": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Back-end (Repayment Scheduling)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7710972003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T17:11:18.915879"
+  },
+  "d186d89281f0f511d6cbc4ec8d94e85b": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Back-end (Repayment Scheduling)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7710970003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T17:11:18.915903"
   }
 }
