@@ -24053,5 +24053,21 @@
     "location": "Torrance, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-23T01:46:43.139084"
+  },
+  "961768b76dcb7a9830ed22c86f6d573a": {
+    "company": "Stripe",
+    "title": "Software Engineer, Payments",
+    "url": "https://stripe.com/jobs/search?gh_jid=7529787",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T04:45:00.955610"
+  },
+  "69204dffb0c5688fa9422655e0b2530a": {
+    "company": "Gusto",
+    "title": "Revenue Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7797180",
+    "location": "Scottsdale, AZ;Denver, CO;San Francisco, CA;New York, NY;United States - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T04:45:01.633574"
   }
 }
