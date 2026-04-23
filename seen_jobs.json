@@ -24037,5 +24037,21 @@
     "location": "New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-22T22:38:58.171448"
+  },
+  "3c74e3a0499e2640106c636177534fad": {
+    "company": "Northwood Space",
+    "title": "Infrastructure Engineer - Early Career",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/d81a9f1e-002e-4c1a-8b09-8dbac575279c",
+    "location": "Torrance, CA",
+    "filter_reason": "title match: 'early career'",
+    "first_seen": "2026-04-23T01:46:43.139061"
+  },
+  "03bbae407342ccb3da3bdaff0c2bfce9": {
+    "company": "Northwood Space",
+    "title": "Infrastructure Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/00955a02-867b-42e2-ba35-3cc41020fc99",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T01:46:43.139084"
   }
 }
