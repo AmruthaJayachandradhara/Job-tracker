@@ -24165,5 +24165,21 @@
     "location": "Remote - Ireland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-23T20:03:27.003467"
+  },
+  "4578f553c9c84e7597a0a6d5e101505c": {
+    "company": "Dialpad",
+    "title": "Sales Account Executive II, SB",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8520745002",
+    "location": "Pasig City, Metro Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T21:41:27.282021"
+  },
+  "8d75efb91dde02e71a93e5e18fabaac0": {
+    "company": "GitLab",
+    "title": "Major Account Executive, Northeast",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8498683002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T21:41:28.841071"
   }
 }
