@@ -24133,5 +24133,21 @@
     "location": "Remote Poland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-23T17:11:18.915903"
+  },
+  "57d3d62bd5dff5bcda890e0fe38d8350": {
+    "company": "Listen Labs",
+    "title": "Account Executive, Strategic Accounts",
+    "url": "https://jobs.ashbyhq.com/listenlabs/d1193f1a-46c9-4873-8436-eac2d0cae7b2",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T18:56:05.203776"
+  },
+  "0e6d5a0e6a5f50fab9a63375a702bc7e": {
+    "company": "Dialpad",
+    "title": "Software Development Engineer in Test",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8521223002",
+    "location": "Vancouver, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T18:56:51.335010"
   }
 }
