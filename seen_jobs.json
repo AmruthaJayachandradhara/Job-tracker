@@ -24149,5 +24149,21 @@
     "location": "Vancouver, Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-23T18:56:51.335010"
+  },
+  "1ce56637fa6d0b4af3d41e1aa76f9df8": {
+    "company": "Coinbase",
+    "title": "Analytics Engineer",
+    "url": "https://www.coinbase.com/careers/positions/7843707?gh_jid=7843707",
+    "location": "Remote - UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T20:03:27.003439"
+  },
+  "19df6047944b7ff54930985f0fd34d7e": {
+    "company": "Coinbase",
+    "title": "Analytics Engineer",
+    "url": "https://www.coinbase.com/careers/positions/7843710?gh_jid=7843710",
+    "location": "Remote - Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T20:03:27.003467"
   }
 }
