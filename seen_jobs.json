@@ -24069,5 +24069,21 @@
     "location": "Scottsdale, AZ;Denver, CO;San Francisco, CA;New York, NY;United States - Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-23T04:45:01.633574"
+  },
+  "f03bf8e576ed74699b95276b116c0956": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, New Business",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8509691002",
+    "location": "Milan, Italy",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T10:15:56.112505"
+  },
+  "4ac636b7f57522ec19b26d70077a0e8b": {
+    "company": "Databricks",
+    "title": "Named Enterprise Account Executive, Fashion & Retail",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8509687002",
+    "location": "Milan, Italy",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-23T10:15:56.113585"
   }
 }
