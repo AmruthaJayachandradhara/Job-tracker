@@ -24237,5 +24237,21 @@
     "location": "Washington, DC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-24T18:37:26.417681"
+  },
+  "3f3b036c76a5aa461b7310bcba3c3cd9": {
+    "company": "Dialpad",
+    "title": "Forward Deployment Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8514908002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-24T20:37:41.602303"
+  },
+  "e9a29160964c3f002d1a55a9dddfac05": {
+    "company": "Dialpad",
+    "title": "Sales Development Representative II",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8520747002",
+    "location": "Tempe, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-24T20:37:41.602455"
   }
 }
