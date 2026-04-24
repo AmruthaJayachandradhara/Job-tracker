@@ -24229,5 +24229,13 @@
     "location": "Remote, Germany",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-24T16:45:07.581887"
+  },
+  "23117139b8afa4e40ebdf00d22fcc517": {
+    "company": "Cape",
+    "title": "Administrative Assistant",
+    "url": "https://jobs.ashbyhq.com/cape/2c1aa809-9576-43d1-bbd1-78e74f5abd3f",
+    "location": "Washington, DC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-24T18:37:26.417681"
   }
 }
