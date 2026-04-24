@@ -24181,5 +24181,13 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-23T21:41:28.841071"
+  },
+  "9e21d760ac82e8123f54d246cbb79abe": {
+    "company": "GitLab",
+    "title": "Enterprise Account Executive - DACH",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522195002",
+    "location": "Remote, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-24T09:02:20.393043"
   }
 }
