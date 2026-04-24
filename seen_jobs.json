@@ -24197,5 +24197,29 @@
     "location": "Kitchener, Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-24T13:04:07.568604"
+  },
+  "ee5fda7515e9cf5352d7a2a691b58c40": {
+    "company": "Novig",
+    "title": "AI Automation Engineer",
+    "url": "https://jobs.ashbyhq.com/novig/1bc54185-7095-4499-b291-7076192a865e",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-24T15:01:34.756746"
+  },
+  "de4fc728029e8f8875c7c1047219681a": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Key Accounts, Nordics",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8368613002",
+    "location": "Remote, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-24T15:01:56.073019"
+  },
+  "a44f80b5a5f5b4010fbb1c974fa0eaf2": {
+    "company": "GitLab",
+    "title": "Intermediate Site Reliability Engineer, Cloud Cost Utilization",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8515080002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-24T15:01:56.073302"
   }
 }
