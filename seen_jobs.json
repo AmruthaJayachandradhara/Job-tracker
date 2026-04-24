@@ -24253,5 +24253,21 @@
     "location": "Tempe, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-24T20:37:41.602455"
+  },
+  "71361c1adf80e0e5346b8ac04c805207": {
+    "company": "Northwood Space",
+    "title": "Software Engineer \u2013 General (new grad / early career)",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/b960b661-e1cc-40d0-bde3-290cd1b58ede",
+    "location": "Torrance, CA",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-04-24T21:39:24.196501"
+  },
+  "a8923f8dc44e707131557337cd51af5d": {
+    "company": "Gusto",
+    "title": "Legal AI Engineer (Contractor)",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7848767",
+    "location": "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-24T21:40:12.491399"
   }
 }
