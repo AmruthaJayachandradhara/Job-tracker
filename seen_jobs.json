@@ -24189,5 +24189,13 @@
     "location": "Remote, Germany",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-24T09:02:20.393043"
+  },
+  "09af77b313645d25f7650c8588db048a": {
+    "company": "Dialpad",
+    "title": "Founding AI Systems Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8512126002",
+    "location": "Kitchener, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-24T13:04:07.568604"
   }
 }
