@@ -24269,5 +24269,21 @@
     "location": "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-24T21:40:12.491399"
+  },
+  "5dbbb0b9151e2be76f401e0a8a445daa": {
+    "company": "Tandem",
+    "title": "Business Development Representative",
+    "url": "https://jobs.ashbyhq.com/tandem/0cb5a0db-69be-414a-b50d-d998749db3c1",
+    "location": "New York office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-24T23:32:46.090088"
+  },
+  "b0796b8db6dd6fee4e801c1b8ec12c19": {
+    "company": "Stripe",
+    "title": "Corporate Accountant",
+    "url": "https://stripe.com/jobs/search?gh_jid=7618067",
+    "location": "San Francisco, Seattle ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-24T23:33:35.473425"
   }
 }
