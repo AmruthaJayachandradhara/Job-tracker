@@ -24301,5 +24301,13 @@
     "location": "Mountain View, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-26T17:32:02.237546"
+  },
+  "6adf4632310c259a43d4f3209909df55": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8440922002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-27T05:01:11.941480"
   }
 }
