@@ -24341,5 +24341,37 @@
     "location": "Remote, Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-27T16:25:20.484727"
+  },
+  "725705332dd24224d7253d924642c14f": {
+    "company": "Fivetran",
+    "title": "Data-Driven Marketing Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7674622003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-27T18:01:00.931549"
+  },
+  "58fa36f8015051f66eaaf703c190f6ee": {
+    "company": "Dialpad",
+    "title": "AI Systems Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8512126002",
+    "location": "Kitchener, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-27T18:01:02.920674"
+  },
+  "bb4cf6c2e6204f8da05a078db01c7ea2": {
+    "company": "Dialpad",
+    "title": "Sales Account Executive I, SB",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8520749002",
+    "location": "Pasig City, Metro Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-27T18:01:02.920900"
+  },
+  "715deb8c53e712a2308bda163857e9d8": {
+    "company": "Stripe",
+    "title": "Implementation Consultant",
+    "url": "https://stripe.com/jobs/search?gh_jid=7819429",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-27T18:01:21.164208"
   }
 }
