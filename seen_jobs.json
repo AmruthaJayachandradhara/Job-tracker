@@ -24373,5 +24373,37 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-27T18:01:21.164208"
+  },
+  "12e6f9e1a0d1d2cd8672755ef21766f3": {
+    "company": "Cape",
+    "title": "Operations Analyst, Federal",
+    "url": "https://jobs.ashbyhq.com/cape/742e7430-0a70-4162-8e83-4cd1b6dccae6",
+    "location": "Washington, DC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-27T20:52:27.420437"
+  },
+  "2b1356e1f357eeaa15df07f764d10b4e": {
+    "company": "Databricks",
+    "title": "Geo Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8464996002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-27T20:52:57.126598"
+  },
+  "c450c55334db7b7a8fb55be3883843af": {
+    "company": "Stripe",
+    "title": "Account Executive, Startup Platforms - Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=7852220",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-27T20:53:13.245027"
+  },
+  "abb62952537fc64d1ae5149ebfcc2a3d": {
+    "company": "Gusto",
+    "title": "Licensed Benefits Advisor",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7858835",
+    "location": "Denver, CO; Phoenix, AZ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-27T20:53:13.917105"
   }
 }
