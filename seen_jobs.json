@@ -24317,5 +24317,21 @@
     "location": "Remote - UK",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-27T10:53:40.177810"
+  },
+  "727d6a0ba15f541efd303570ffacd72d": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Merchant Data Platform EU)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7709632003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-27T14:58:41.280443"
+  },
+  "5dd3f1c9128660e2d3394a3119581ad0": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Merchant Data Platfrom EU",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7709634003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-27T14:58:41.280473"
   }
 }
