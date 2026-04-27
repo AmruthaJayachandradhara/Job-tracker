@@ -24333,5 +24333,13 @@
     "location": "Remote Spain",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-27T14:58:41.280473"
+  },
+  "6ff951688c9b2b447c5436c49d8a94ab": {
+    "company": "GitLab",
+    "title": "Candidate Experience Specialist, Contractor ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8521684002",
+    "location": "Remote, Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-27T16:25:20.484727"
   }
 }
