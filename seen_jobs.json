@@ -24405,5 +24405,13 @@
     "location": "Denver, CO; Phoenix, AZ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-27T20:53:13.917105"
+  },
+  "bb1be8b85cb63d23e774b68c5abe0fb0": {
+    "company": "Mercury",
+    "title": "Lifecycle Marketer",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5983046004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-27T22:41:57.242929"
   }
 }
