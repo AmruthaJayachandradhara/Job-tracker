@@ -24413,5 +24413,13 @@
     "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-27T22:41:57.242929"
+  },
+  "35c06c72aaacd3c5e0b3b7248d90268b": {
+    "company": "Stripe",
+    "title": "Strategy & Business Performance, Central S&O",
+    "url": "https://stripe.com/jobs/search?gh_jid=5956528",
+    "location": "San Francisco, Seattle, Chicago, US-remote, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-27T23:43:49.632169"
   }
 }
