@@ -24477,5 +24477,45 @@
     "location": "Germany ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-28T15:20:55.935991"
+  },
+  "133740564b18c86cac53c74154fc53af": {
+    "company": "Braintrust",
+    "title": "Enterprise Account Executive, EMEA",
+    "url": "https://jobs.ashbyhq.com/braintrust/94d1dc5e-e62b-4294-b6fa-de025b1ed30a",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-28T19:19:52.721375"
+  },
+  "15ec2cf6af5fdd60c6bc7b5dcf2e10b2": {
+    "company": "Profound",
+    "title": "Visual Designer",
+    "url": "https://jobs.ashbyhq.com/profound/f9f00c5f-0269-4d7d-85b6-c7ac54df302d",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-28T19:20:15.178895"
+  },
+  "883c31328c249ca8d9c1c8f1decd0122": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8519282002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-28T19:20:30.512189"
+  },
+  "1253d02cbe5b10e87dd6657700568b86": {
+    "company": "Dialpad",
+    "title": "Customer Success Specialist",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8483999002",
+    "location": "Pasig City, Metro Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-28T19:20:35.559399"
+  },
+  "c4764a2f6e97885fa3c50ac57a2aeb79": {
+    "company": "GitLab",
+    "title": "Field Strategist, Forward Deployed Engineer ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497078002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-28T19:20:37.149287"
   }
 }
