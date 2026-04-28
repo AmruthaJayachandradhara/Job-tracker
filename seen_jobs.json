@@ -24525,5 +24525,13 @@
     "location": "US-Remote (35 miles+ outside an office)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-28T21:00:20.198729"
+  },
+  "9ed413f0402b5f2025e03164ca337847": {
+    "company": "Stripe",
+    "title": "Sales Engineer (Presales)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7863336",
+    "location": "Chicago, IL",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-28T22:58:00.547596"
   }
 }
