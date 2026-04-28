@@ -24421,5 +24421,13 @@
     "location": "San Francisco, Seattle, Chicago, US-remote, New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-27T23:43:49.632169"
+  },
+  "9e6d3f9a16f6c3feba686529390c1940": {
+    "company": "Stripe",
+    "title": "Brand Designer, Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=7721132",
+    "location": "NYC-Privy",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-28T05:33:32.462785"
   }
 }
