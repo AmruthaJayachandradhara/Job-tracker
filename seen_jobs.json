@@ -24437,5 +24437,45 @@
     "location": "Remote Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-28T12:21:56.166341"
+  },
+  "b4af6f830551cb8ce5d48dbe00063c4b": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Mixed industries",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461158002",
+    "location": "Z\u00fcrich, Switzerland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-28T15:20:38.829412"
+  },
+  "99412bf130c213359277594e080c1983": {
+    "company": "GitLab",
+    "title": "AI Engineer",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8517564002",
+    "location": "Remote, Bangalore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-28T15:20:45.377527"
+  },
+  "16e6eef3744c27ece778cf464aecd6ae": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Machine Learning (Feature Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7694296003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-28T15:20:54.873318"
+  },
+  "8814b3154c67f4b2f09f755bf7e72143": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Machine Learning (Feature Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7694294003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-28T15:20:54.873345"
+  },
+  "12c1a5030930e3143f05382f4ee73794": {
+    "company": "Stripe",
+    "title": "Account Executive - Enterprise Germany",
+    "url": "https://stripe.com/jobs/search?gh_jid=7825578",
+    "location": "Germany ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-28T15:20:55.935991"
   }
 }
