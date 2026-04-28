@@ -24429,5 +24429,13 @@
     "location": "NYC-Privy",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-28T05:33:32.462785"
+  },
+  "70024e258bbdd08e312fa3d43d243613": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Machine Learning (Fraud) ",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7695818003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-28T12:21:56.166341"
   }
 }
