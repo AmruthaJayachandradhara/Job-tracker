@@ -24517,5 +24517,13 @@
     "location": "Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-28T19:20:37.149287"
+  },
+  "f6be908fcc623dc5944c5e9423c9e9d9": {
+    "company": "Stripe",
+    "title": "Compensation Business Partner, Core",
+    "url": "https://stripe.com/jobs/search?gh_jid=7859849",
+    "location": "US-Remote (35 miles+ outside an office)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-28T21:00:20.198729"
   }
 }
