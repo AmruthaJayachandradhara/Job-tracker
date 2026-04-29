@@ -24533,5 +24533,21 @@
     "location": "Chicago, IL",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-28T22:58:00.547596"
+  },
+  "922925d2cf6a93938c6b2a5572b1048f": {
+    "company": "Northwood Space",
+    "title": "IT Operations Specialist",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/fb29eceb-ef54-4f74-82c9-6d9ba19262e1",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T02:01:21.607513"
+  },
+  "9f54802df8d5a3d4201782736d50a34c": {
+    "company": "Coinbase",
+    "title": "Accountant, Capital Markets",
+    "url": "https://www.coinbase.com/careers/positions/7809557?gh_jid=7809557",
+    "location": "New York City, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T02:01:53.544031"
   }
 }
