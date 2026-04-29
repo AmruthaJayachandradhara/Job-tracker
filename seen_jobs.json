@@ -24597,5 +24597,29 @@
     "location": "Texas",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-29T15:03:58.364850"
+  },
+  "cf5eb5c99bea7cc2e1c3b82c5a771201": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive, DOW R&E ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438263002",
+    "location": "Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T17:17:51.552819"
+  },
+  "90998e88b1479604db9c987aadeb1ff9": {
+    "company": "Stripe",
+    "title": "Bridge - Operations Associate, Financial Crimes (AML Investigations)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7862775",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-29T17:18:08.146285"
+  },
+  "b5f57b45576cba61abc0e6ab8015a0b5": {
+    "company": "Stripe",
+    "title": "Integration Engineer (US) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7819426",
+    "location": "LOCATION",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T17:18:08.147768"
   }
 }
