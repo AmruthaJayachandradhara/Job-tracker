@@ -24573,5 +24573,21 @@
     "location": "Seattle, WA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-29T05:46:19.951708"
+  },
+  "c701955bb44a21339333189513d75536": {
+    "company": "Databricks",
+    "title": "Startup Hunter Account Executive, UKI",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8465961002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T10:46:38.985521"
+  },
+  "147b7297782ee3226eca2b7a9ea3bdc0": {
+    "company": "Stripe",
+    "title": "Product Designer, Global",
+    "url": "https://stripe.com/jobs/search?gh_jid=7861422",
+    "location": "Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T10:46:56.307275"
   }
 }
