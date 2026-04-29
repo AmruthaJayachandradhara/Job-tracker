@@ -24621,5 +24621,37 @@
     "location": "LOCATION",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-29T17:18:08.147768"
+  },
+  "01bca3542412a664b2ba360fe3526b6d": {
+    "company": "Databricks",
+    "title": "Named Account Executive, Gaming",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7840555002",
+    "location": "West Coast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T19:09:55.171922"
+  },
+  "5551dc3492b0fe6c9b7486d5f99dbaef": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8463065002",
+    "location": "Remote - Massachusetts; Remote - New York; United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T19:09:55.171968"
+  },
+  "d20f59ebb5f800b33fe0b508fdef5c62": {
+    "company": "Fivetran",
+    "title": "Software Engineer III",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7708843003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T19:09:58.223267"
+  },
+  "24350eef5569ec0ffeb8fa5ba8473be0": {
+    "company": "Affirm",
+    "title": "Machine Learning Engineer II (Fraud)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7695818003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T19:10:13.648098"
   }
 }
