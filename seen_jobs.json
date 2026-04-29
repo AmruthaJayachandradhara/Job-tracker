@@ -24653,5 +24653,29 @@
     "location": "Remote Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-29T19:10:13.648098"
+  },
+  "db44b18acf5095523a20a7a383a476ef": {
+    "company": "Stripe",
+    "title": "EMEA Regulatory Counsel",
+    "url": "https://stripe.com/jobs/search?gh_jid=7814947",
+    "location": "Dubai , UAE",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T20:53:38.283119"
+  },
+  "1f44cfbbfdfc7a1b73f076635af14ef9": {
+    "company": "Gusto",
+    "title": "Data Scientist - Core Products",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7524662",
+    "location": "San Francisco, CA - Hybrid; New York, NY - Hybrid;",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T20:53:39.026478"
+  },
+  "6a9317aa565f5c1088138b66a0bf829b": {
+    "company": "Gusto",
+    "title": "Growth Data Scientist ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/6356147",
+    "location": "San Francisco, CA;New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T20:53:39.026621"
   }
 }
