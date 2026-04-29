@@ -24549,5 +24549,29 @@
     "location": "New York City, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-29T02:01:53.544031"
+  },
+  "1b302939847ba076a67b09761562c3ad": {
+    "company": "Stripe",
+    "title": "Account Executive, Commercial (New Business)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7863685",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T05:46:19.950561"
+  },
+  "8d1ce1efd66dc031d43d944b18a48072": {
+    "company": "Stripe",
+    "title": "Analytics Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7863844",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T05:46:19.950932"
+  },
+  "5aefecacf82236e29c11422d538315f3": {
+    "company": "Stripe",
+    "title": "Data Analyst, Payments Performance",
+    "url": "https://stripe.com/jobs/search?gh_jid=7440960",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-29T05:46:19.951708"
   }
 }
