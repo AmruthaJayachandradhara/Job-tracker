@@ -24685,5 +24685,13 @@
     "location": "San Francisco, CA;New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-29T22:47:16.986454"
+  },
+  "bb3493d51e2ee219a676a5936937d411": {
+    "company": "Juicebox",
+    "title": "Software Engineer, Integrations",
+    "url": "https://jobs.ashbyhq.com/juicebox/ac503cfb-e98b-4681-ae73-3dabce4d340c",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-30T02:01:24.784685"
   }
 }
