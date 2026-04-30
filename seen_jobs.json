@@ -24789,5 +24789,13 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-30T21:48:51.931957"
+  },
+  "e5a723dc5bd26d8bce36d98ac9b98172": {
+    "company": "Stripe",
+    "title": "Account Executive, Commercial (New Business)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7856807",
+    "location": "Sydney or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-30T22:42:36.305978"
   }
 }
