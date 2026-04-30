@@ -24709,5 +24709,21 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-30T05:50:15.601201"
+  },
+  "bd4832008f0655e54644032cbe52ab53": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7857010",
+    "location": "Paris, Framce",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-30T10:47:24.390702"
+  },
+  "8afca8759717ad88c11e328dcf4b9510": {
+    "company": "Stripe",
+    "title": "Credit Risk Operations Associate",
+    "url": "https://stripe.com/jobs/search?gh_jid=7608387",
+    "location": "Bangalore ",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-04-30T10:47:24.391479"
   }
 }
