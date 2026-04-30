@@ -24725,5 +24725,13 @@
     "location": "Bangalore ",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-04-30T10:47:24.391479"
+  },
+  "9ff4f6709f8831581fdeff7800463cfd": {
+    "company": "Stripe",
+    "title": "Data Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7813411",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-30T15:01:09.443351"
   }
 }
