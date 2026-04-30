@@ -24765,5 +24765,29 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-30T18:05:48.485594"
+  },
+  "01b5d307efbe2e6b1197efa9230b5dd1": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive, Gaming",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7840555002",
+    "location": "West Coast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-30T21:48:35.740485"
+  },
+  "7b7fa752d5ef8860cee727669ab5d56e": {
+    "company": "Fivetran",
+    "title": "Marketing Business Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7674622003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-30T21:48:38.615606"
+  },
+  "97a04a3ea572b662e7a595fe8f0f9fd4": {
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack ",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7590561003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-30T21:48:51.931957"
   }
 }
