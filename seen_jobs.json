@@ -24693,5 +24693,21 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-30T02:01:24.784685"
+  },
+  "3cc406008b6bdcba060c61e85e78e728": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB (New Business)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7856807",
+    "location": "Sydney or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-30T05:50:15.596346"
+  },
+  "eb91137aeaea414e3f15151fdd05859e": {
+    "company": "Stripe",
+    "title": "User Escalation Specialist ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7863789",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-30T05:50:15.601201"
   }
 }
