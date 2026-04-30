@@ -24733,5 +24733,37 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-04-30T15:01:09.443351"
+  },
+  "b48549f535f30fb80075cbdb6f3d25d9": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8531838002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-30T18:05:30.009068"
+  },
+  "c4aae54393f982e5fc0b06a3b1289c57": {
+    "company": "Replit",
+    "title": "Education Team Intern",
+    "url": "https://jobs.ashbyhq.com/replit/3590c5b2-3983-40f3-a787-ef3b1bc8218c",
+    "location": "Foster City, CA (Hybrid) In office M,W,F",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-04-30T18:05:38.263216"
+  },
+  "975c6d5d3d3fc75f0de41c1b1773074b": {
+    "company": "Stripe",
+    "title": "Administrative Coordinator",
+    "url": "https://stripe.com/jobs/search?gh_jid=7863507",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-30T18:05:48.483712"
+  },
+  "a6bbde9153cb8de2301a3b367e056ff6": {
+    "company": "Stripe",
+    "title": "Implementation Consultant",
+    "url": "https://stripe.com/jobs/search?gh_jid=7862528",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-04-30T18:05:48.485594"
   }
 }
