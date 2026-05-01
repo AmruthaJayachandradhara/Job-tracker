@@ -24813,5 +24813,21 @@
     "location": "Remote, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-01T11:52:03.748211"
+  },
+  "8bfaee45659229c1068eece7f1060ae4": {
+    "company": "Databricks",
+    "title": "Hunter Account Executive, Digital Natives, UKI",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8478702002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-01T14:14:58.856107"
+  },
+  "05175d04a4e3cec8101c09674d8e0210": {
+    "company": "Databricks",
+    "title": "Startup Hunter Account Executive, UKI",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8532835002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-01T14:14:58.862017"
   }
 }
