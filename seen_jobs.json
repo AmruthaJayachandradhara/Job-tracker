@@ -24893,5 +24893,29 @@
     "location": "DC, SF, NYC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-01T18:58:25.377484"
+  },
+  "4c047deb320bcb1e3f3648d9e56b4d4e": {
+    "company": "EarnIn",
+    "title": "Software Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7301892",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-01T21:44:08.195218"
+  },
+  "f7adbeb7667dc359c15e7aa72ca8494e": {
+    "company": "Stripe",
+    "title": "Data Analyst,  Financial Enablement",
+    "url": "https://stripe.com/jobs/search?gh_jid=7874654",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-01T21:44:09.988121"
+  },
+  "8cde4ee43519df4a9b7e0577d8d45a9d": {
+    "company": "Stripe",
+    "title": "PhD Data Scientist, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+    "location": "San Francisco, New York City, Seattle, Chicago",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-05-01T21:44:09.989568"
   }
 }
