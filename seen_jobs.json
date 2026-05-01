@@ -24829,5 +24829,53 @@
     "location": "London, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-01T14:14:58.862017"
+  },
+  "1a6e432995066832fd3c193b06c5fd6f": {
+    "company": "Fivetran",
+    "title": "Account Executive, Commercial - EMEA",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7721820003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-01T15:46:48.417752"
+  },
+  "e99d4f6910a7ccc6f328094023ef55f2": {
+    "company": "Fivetran",
+    "title": "Account Executive, Commercial - EMEA",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7721817003",
+    "location": "Dublin, Dublin, Ireland, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-01T15:46:48.417780"
+  },
+  "5c7e433c5513ded9e3b877bdcfcf2cee": {
+    "company": "GitLab",
+    "title": "Business Development Representative ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002",
+    "location": "Remote, North America",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-01T15:46:51.837269"
+  },
+  "f435e788874163a51984a91f7acb602c": {
+    "company": "GitLab",
+    "title": "Business Development Representative ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002",
+    "location": "Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-01T15:46:51.837290"
+  },
+  "777eb43f7b0f1c929990c0464e20368b": {
+    "company": "GitLab",
+    "title": "Sales Development Representative ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8530337002",
+    "location": "Remote, North America",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-01T15:46:51.837989"
+  },
+  "af8ca85eae214f43925335ca254aed52": {
+    "company": "GitLab",
+    "title": "Sales Development Representative ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8531879002",
+    "location": "Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-01T15:46:51.838000"
   }
 }
