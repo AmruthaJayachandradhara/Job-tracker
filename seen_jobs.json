@@ -24917,5 +24917,13 @@
     "location": "San Francisco, New York City, Seattle, Chicago",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-05-01T21:44:09.989568"
+  },
+  "fa19c7d1ada29555dbaabb180f781bd6": {
+    "company": "Stripe",
+    "title": "Risk Strategist, Financial Crimes",
+    "url": "https://stripe.com/jobs/search?gh_jid=7874562",
+    "location": "US-Chicago, US-Atlanta, US-Remote; Canada-Toronto; Canada-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-01T22:41:26.698643"
   }
 }
