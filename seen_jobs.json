@@ -24877,5 +24877,13 @@
     "location": "Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-01T15:46:51.838000"
+  },
+  "e92aaa4d87ea22303b3aeb2397198593": {
+    "company": "Stripe",
+    "title": "Corporate Comms",
+    "url": "https://stripe.com/jobs/search?gh_jid=7827403",
+    "location": "DC, SF, NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-01T16:45:16.257595"
   }
 }
