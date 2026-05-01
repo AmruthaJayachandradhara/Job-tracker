@@ -24885,5 +24885,13 @@
     "location": "DC, SF, NYC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-01T16:45:16.257595"
+  },
+  "3f29521a7b388b4d8414f750d817bed2": {
+    "company": "Stripe",
+    "title": "Corporate Communications",
+    "url": "https://stripe.com/jobs/search?gh_jid=7827403",
+    "location": "DC, SF, NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-01T18:58:25.377484"
   }
 }
