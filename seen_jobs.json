@@ -24925,5 +24925,13 @@
     "location": "US-Chicago, US-Atlanta, US-Remote; Canada-Toronto; Canada-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-01T22:41:26.698643"
+  },
+  "00fbc1609386c13acf41d73bba4d38ff": {
+    "company": "Stripe",
+    "title": "Customer Success Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7839662",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-03T17:39:49.234131"
   }
 }
