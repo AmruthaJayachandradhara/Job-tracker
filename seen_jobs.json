@@ -24957,5 +24957,29 @@
     "location": "Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-04T15:04:58.108305"
+  },
+  "cff067606a8b71abacadadbf9cf5f5c4": {
+    "company": "EarnIn",
+    "title": "Risk Data Analyst",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7874503",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-04T17:22:37.815623"
+  },
+  "852b1aa4801dfebd13aa0d5b9252d3de": {
+    "company": "EarnIn",
+    "title": "Software Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7874840",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-04T17:22:37.815769"
+  },
+  "5bc1e2ad068c953d91fe5daaa6614b28": {
+    "company": "Gusto",
+    "title": "GustoHR PE",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7868251",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-04T17:22:40.237471"
   }
 }
