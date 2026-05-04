@@ -24941,5 +24941,21 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-05-04T05:28:08.915326"
+  },
+  "eb0bb593dfcea3ca1c3e09570fb86276": {
+    "company": "Tanium",
+    "title": "AVP, Solution Engineering - Washington, D.C.",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7874922",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-04T15:04:48.826766"
+  },
+  "6678e2f500e6d52225cbc658981fefae": {
+    "company": "Stripe",
+    "title": "People Consultant",
+    "url": "https://stripe.com/jobs/search?gh_jid=7866374",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-04T15:04:58.108305"
   }
 }
