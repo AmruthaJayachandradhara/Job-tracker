@@ -25005,5 +25005,21 @@
     "location": "Chicago, Illinois",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-04T22:00:54.132098"
+  },
+  "f90f3cf3a553c20d6aca8628ff053a2c": {
+    "company": "Profound",
+    "title": "AI Strategist, Data",
+    "url": "https://jobs.ashbyhq.com/profound/d98681c2-f665-428d-adca-b4624e7e48ef",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-04T23:43:42.688771"
+  },
+  "622fa5fffc47401bd164b8293c0e8dd5": {
+    "company": "Stripe",
+    "title": "Cloud Security Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7867389",
+    "location": "Seattle, NYC, SF, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-04T23:44:13.047010"
   }
 }
