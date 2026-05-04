@@ -24989,5 +24989,21 @@
     "location": "Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-04T20:59:35.378427"
+  },
+  "641595184326022491c9c4ae0920acc5": {
+    "company": "Databricks",
+    "title": "Solutions Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8534974002",
+    "location": "New York City, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-04T22:00:54.132070"
+  },
+  "9863d3629cf9a5f3355abfcf5c12bbf2": {
+    "company": "Databricks",
+    "title": "Solutions Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8359542002",
+    "location": "Chicago, Illinois",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-04T22:00:54.132098"
   }
 }
