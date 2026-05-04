@@ -24933,5 +24933,13 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-03T17:39:49.234131"
+  },
+  "faf599aacde1bdab0fff15fe08b1d24e": {
+    "company": "Stripe",
+    "title": "Fraud Operations Associate SDC",
+    "url": "https://stripe.com/jobs/search?gh_jid=7462358",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-04T05:28:08.915326"
   }
 }
