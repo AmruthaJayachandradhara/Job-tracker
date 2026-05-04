@@ -24981,5 +24981,13 @@
     "location": "Denver, CO",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-04T17:22:40.237471"
+  },
+  "cd5ba4b7809019e025e6a6bbebceec70": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7866501",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-04T20:59:35.378427"
   }
 }
