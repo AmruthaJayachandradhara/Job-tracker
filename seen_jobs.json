@@ -25165,5 +25165,37 @@
     "location": "San Francisco, California ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-05T19:06:12.250237"
+  },
+  "3e07b52e4f95231511b502c5ca496503": {
+    "company": "Affirm",
+    "title": "Business Systems Analyst II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7721457003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T20:54:16.244772"
+  },
+  "6be28eba7077a26fc1dbf642b989b5f2": {
+    "company": "Affirm",
+    "title": "Business Systems Analyst II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7721455003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T20:54:16.244798"
+  },
+  "485487f1613334245692e015de97021c": {
+    "company": "Stripe",
+    "title": "Account Executive, Velocity Platform (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7891723",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T20:54:17.307491"
+  },
+  "cc25504f284b8f3315444d8b13d3e6fb": {
+    "company": "Gusto",
+    "title": "Software Engineer",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/6923172",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T20:54:18.348485"
   }
 }
