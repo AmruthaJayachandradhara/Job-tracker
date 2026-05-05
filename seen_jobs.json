@@ -25125,5 +25125,45 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-05T17:14:44.380276"
+  },
+  "5613c628ddbc5e401f37befceb70dc58": {
+    "company": "Articul8 AI",
+    "title": "Applied AI Researcher (Dublin, CA)",
+    "url": "https://jobs.ashbyhq.com/articul8/3ff51e5b-fc0c-4dcd-929e-4d5463cfe467",
+    "location": "Dublin, CA (HQ)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T19:05:31.471154"
+  },
+  "4bf391a9e34f17027f1ab23818ae8208": {
+    "company": "Articul8 AI",
+    "title": "Applied AI Researcher (India)",
+    "url": "https://jobs.ashbyhq.com/articul8/73bff7e6-827a-4a70-b7a9-712d421a8dd8",
+    "location": "India/Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T19:05:31.471181"
+  },
+  "15c2fbc755bfeea3b9a4fc80e8aea696": {
+    "company": "Articul8 AI",
+    "title": "Applied AI Researcher (Brazil)",
+    "url": "https://jobs.ashbyhq.com/articul8/50b4a531-f683-4105-9cca-cad851cdcdcd",
+    "location": "Brazil/Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T19:05:31.471192"
+  },
+  "abdd53d85b691c63896c6ed2aa2dfd2e": {
+    "company": "Stripe",
+    "title": "Sales Development Representative, India market",
+    "url": "https://stripe.com/jobs/search?gh_jid=7532742",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T19:06:12.249908"
+  },
+  "985c96d90d383e5bb396d6921d93fd9d": {
+    "company": "Stripe",
+    "title": "Software Engineer IC-02",
+    "url": "https://stripe.com/jobs/search?gh_jid=7895344",
+    "location": "San Francisco, California ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T19:06:12.250237"
   }
 }
