@@ -25269,5 +25269,13 @@
     "location": "US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-05T22:47:13.367802"
+  },
+  "0eb843ae2489c2af20b89a7dccda17b6": {
+    "company": "Replit",
+    "title": "Help Desk Technician",
+    "url": "https://jobs.ashbyhq.com/replit/dd369e14-013c-427a-951f-97e39dee50dd",
+    "location": "NYC (SoHo) Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T23:40:27.814385"
   }
 }
