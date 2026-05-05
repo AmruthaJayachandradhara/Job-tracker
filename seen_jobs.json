@@ -25197,5 +25197,45 @@
     "location": "San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-05T20:54:18.348485"
+  },
+  "5edb52d295e75806a057efebf8bc80f0": {
+    "company": "Northwood Space",
+    "title": "Forward Deployed RF Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/84dd3d37-7f2e-41af-b9d1-42683a28a6b7",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T21:53:44.134091"
+  },
+  "f054363bdf14d7afd25bf41b21c07b6d": {
+    "company": "Stripe",
+    "title": "Account Executive, Velocity Platform (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7891716",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T21:54:33.095500"
+  },
+  "a4712e5e55699da127ae3661f6a2abb0": {
+    "company": "Stripe",
+    "title": "Account Executive, Velocity Platforms (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7891728",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T21:54:33.095524"
+  },
+  "4a39a21eabfed117768cd8b9a3d5d7d5": {
+    "company": "Stripe",
+    "title": "Internal Product Engineer, DevProd AI",
+    "url": "https://stripe.com/jobs/search?gh_jid=7896151",
+    "location": "Toronto, Canada ",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-05-05T21:54:33.097588"
+  },
+  "340b41e0998bbe7072c17b7e8d5a4bc8": {
+    "company": "Stripe",
+    "title": "Technical Enablement Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=7812348",
+    "location": "US-NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T21:54:33.100094"
   }
 }
