@@ -25021,5 +25021,21 @@
     "location": "Seattle, NYC, SF, US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-04T23:44:13.047010"
+  },
+  "8684096b0ab67e8291c24dc60a78263f": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Expansion",
+    "url": "https://stripe.com/jobs/search?gh_jid=7775622",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T04:56:16.400389"
+  },
+  "198c484be47dd21ab8144c61add15674": {
+    "company": "Stripe",
+    "title": "Frontend Engineer, Expansion",
+    "url": "https://stripe.com/jobs/search?gh_jid=7644950",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T04:56:16.401738"
   }
 }
