@@ -25045,5 +25045,45 @@
     "location": "Krakow, Poland ",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-05-05T13:13:00.537870"
+  },
+  "038a8934721b7be03accedf2ea1d1ae4": {
+    "company": "Databricks",
+    "title": "Software Engineer (SDE 2) - Full Stack, Lakeflow",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8530796002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T15:30:03.930071"
+  },
+  "3e3eb9967d0547a7fd7e294638a84629": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive, Named - US West",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8521060002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T15:30:10.858681"
+  },
+  "99307452b5ba3c8eaedd211cc927357d": {
+    "company": "Tanium",
+    "title": "QA Intern",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7868084",
+    "location": "Krakow, Poland (Hybrid)",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-05-05T15:30:12.342812"
+  },
+  "4845145b8503c3e8cb2e9f5a5bf679f1": {
+    "company": "Stripe",
+    "title": "Payments Performance Strategist, Network Cost ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7562148",
+    "location": "San Francisco, CA; New York, NY; Chicago, IL; Seattle, WA; Atlanta, GA ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T15:30:21.267589"
+  },
+  "39ac3ef5903a9080b6797094999845ee": {
+    "company": "Carta",
+    "title": "Finance and Equity Analyst",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7724718003",
+    "location": "Sandy, UT",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T15:30:23.381424"
   }
 }
