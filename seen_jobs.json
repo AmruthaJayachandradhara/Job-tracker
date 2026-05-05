@@ -25237,5 +25237,37 @@
     "location": "US-NYC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-05T21:54:33.100094"
+  },
+  "c9cfd3d90528057f5a16f70394c149f7": {
+    "company": "Listen Labs",
+    "title": "Founding Product Designer",
+    "url": "https://jobs.ashbyhq.com/listenlabs/a8d40c4f-2367-493e-bd41-f3987abb4d4b",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T22:46:38.314647"
+  },
+  "3423a147c4e31ef1199d0adb63f02c79": {
+    "company": "Profound",
+    "title": "Security GRC Specialist",
+    "url": "https://jobs.ashbyhq.com/profound/53bd8e5f-97db-47b4-9b88-f29a043def12",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T22:46:42.696688"
+  },
+  "1092ae6106971433515f2e6bbedcd7ab": {
+    "company": "GitLab",
+    "title": "Candidate Experience Specialist, Contractor ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8536773002",
+    "location": "Remote, Bangalore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T22:47:03.782190"
+  },
+  "77b165003fa50910a968a30a80a901c4": {
+    "company": "Stripe",
+    "title": "Portfolio Pricing Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7858811",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T22:47:13.367802"
   }
 }
