@@ -25037,5 +25037,13 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-05T04:56:16.401738"
+  },
+  "599e97c93fc6014817b786c3b3c85cfa": {
+    "company": "Tanium",
+    "title": "QA Intern",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7726075",
+    "location": "Krakow, Poland ",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-05-05T13:13:00.537870"
   }
 }
