@@ -25085,5 +25085,45 @@
     "location": "Sandy, UT",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-05T15:30:23.381424"
+  },
+  "c74560c9de91fd612d9a4166dfacd7b0": {
+    "company": "Profound",
+    "title": "Product Operations",
+    "url": "https://jobs.ashbyhq.com/profound/c889b8a2-f7a5-40c7-bc4e-9870cffb8691",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T17:14:05.865858"
+  },
+  "49c1a77f286f2fe461241deda05b397d": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive - Retail ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994379002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T17:14:25.156421"
+  },
+  "e9732435f65359a4d9b955df62271342": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms (Italian Speaking) - Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=7852222",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T17:14:44.376677"
+  },
+  "811bf8443673dfee6eaceac0d6dfa497": {
+    "company": "Stripe",
+    "title": "Product Designer, Terminal",
+    "url": "https://stripe.com/jobs/search?gh_jid=7894884",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T17:14:44.379641"
+  },
+  "f9036c6b0025360f3ab803c9f321be05": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (German Speaking) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=6570259",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-05T17:14:44.380276"
   }
 }
