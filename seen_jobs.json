@@ -25485,5 +25485,29 @@
     "location": "Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-06T21:03:38.297692"
+  },
+  "720e7283da0ffbc42885cd7cd63e99f5": {
+    "company": "Profound",
+    "title": "GTM Strategy & Operations",
+    "url": "https://jobs.ashbyhq.com/profound/3dac5de6-fa35-451f-885a-d564c28be42c",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T22:40:09.363614"
+  },
+  "392a20b63e17e5db7f785f209c407c74": {
+    "company": "Affirm",
+    "title": "Strategic Finance Analyst II (Revenue)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7724229003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T22:40:39.495347"
+  },
+  "709134d608d36ec50ed751d4265437be": {
+    "company": "Affirm",
+    "title": "Strategic Finance Analyst II (Revenue)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7724227003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T22:40:39.495367"
   }
 }
