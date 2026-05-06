@@ -25421,5 +25421,37 @@
     "location": "Toronto",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-06T17:23:20.698634"
+  },
+  "58b8a2ae10f3a9fc4d2293c4a4b406b4": {
+    "company": "Pomelo Care",
+    "title": "Referral Specialist",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5989874004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T19:22:17.499842"
+  },
+  "9a6374bb6c7f4e90ae9e59f30ce7d966": {
+    "company": "Databricks",
+    "title": "Strategic Hunter Account Executive, Digital Natives",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8537725002",
+    "location": "California; San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T19:22:49.543875"
+  },
+  "04f50fbed14f0be288a044eb2911d29b": {
+    "company": "Replit",
+    "title": "Support Specialist",
+    "url": "https://jobs.ashbyhq.com/replit/b2418f7c-4262-471b-b131-72a4a8c1c685",
+    "location": "Foster City, CA (Hybrid) In office M,W,F",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T19:22:56.984061"
+  },
+  "d5f654f02f4814ca94672a77df505eed": {
+    "company": "Stripe",
+    "title": "Account Executive, Velocity Platforms (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7891721",
+    "location": "New York City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T19:23:07.044326"
   }
 }
