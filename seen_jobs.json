@@ -25333,5 +25333,13 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-06T10:57:08.931966"
+  },
+  "c21b2f9315df7448a88320b366d4860e": {
+    "company": "Fivetran",
+    "title": "Customer Success, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7725950003",
+    "location": "Remote, Japan, APAC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T12:25:09.539058"
   }
 }
