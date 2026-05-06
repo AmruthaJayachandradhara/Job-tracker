@@ -25309,5 +25309,29 @@
     "location": "San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-06T08:07:48.519801"
+  },
+  "ae2558824cd71138622f7c3fba5edf2b": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive, Cross Border China",
+    "url": "https://stripe.com/jobs/search?gh_jid=7893199",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T10:57:08.928471"
+  },
+  "3a72aec41c9d278ac8428f708b7a4511": {
+    "company": "Stripe",
+    "title": "Sales Development Representative",
+    "url": "https://stripe.com/jobs/search?gh_jid=7532742",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T10:57:08.930674"
+  },
+  "3597bae9eb9fccfc9f1b9d28c0718944": {
+    "company": "Stripe",
+    "title": "Transfer Pricing Specialist  ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7897129",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T10:57:08.931966"
   }
 }
