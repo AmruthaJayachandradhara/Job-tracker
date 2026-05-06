@@ -25293,5 +25293,13 @@
     "location": "San Francisco, Seattle, Chicago, US-remote, New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-06T01:55:46.099957"
+  },
+  "e2e880a10ccd2332736381055a226d9c": {
+    "company": "Databricks",
+    "title": "Digital Native Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8525890002",
+    "location": "Seoul, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T05:21:54.365011"
   }
 }
