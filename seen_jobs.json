@@ -25349,5 +25349,77 @@
     "location": "London, UK",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-06T15:23:16.199999"
+  },
+  "2721ca052562201ca2979c204a7c7a77": {
+    "company": "Articul8 AI",
+    "title": "Software Engineer (Brazil)",
+    "url": "https://jobs.ashbyhq.com/articul8/d243ba6c-5209-4ade-882f-1388cfc7bd1f",
+    "location": "Brazil/Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T17:22:35.714264"
+  },
+  "f254f154f616c4684ef59a4c7a74d314": {
+    "company": "Articul8 AI",
+    "title": "Software Engineer (India)",
+    "url": "https://jobs.ashbyhq.com/articul8/21e643cf-0cf0-48ea-898b-c1b17926d2fb",
+    "location": "Brazil/Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T17:22:35.714285"
+  },
+  "6d777beb8d4fbb2c17079e3d2b5e3636": {
+    "company": "Articul8 AI",
+    "title": "Infrastructure Engineer (Brazil)",
+    "url": "https://jobs.ashbyhq.com/articul8/bcab484a-1557-4656-b464-02cca66a32ed",
+    "location": "Brazil/Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T17:22:35.714298"
+  },
+  "295bdce7e76fa58a82aea66b1925d45f": {
+    "company": "Articul8 AI",
+    "title": "Infrastructure Engineer (India)",
+    "url": "https://jobs.ashbyhq.com/articul8/0092cc6c-3681-4c56-8cdb-53fa637b1f6a",
+    "location": "Brazil/Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T17:22:35.714309"
+  },
+  "24c8b29f934ab4906af9eceddcf56c3d": {
+    "company": "Databricks",
+    "title": "Deployment Strategist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8463063002",
+    "location": "United States; USCA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T17:23:03.371844"
+  },
+  "88c91c30f76cb664b6b0e76fe603bd7b": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive, Healthcare",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8519088002",
+    "location": "Remote - Washington; Tennessee",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T17:23:03.378638"
+  },
+  "d31008230132d2c1ae9f19713ba19e8d": {
+    "company": "Dialpad",
+    "title": "Sales Development Representative II",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8532055002",
+    "location": "Tempe, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T17:23:08.482114"
+  },
+  "3b745b0bc4c8504b21516aa317bbb792": {
+    "company": "EarnIn",
+    "title": "Product Operations Specialist",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7895725",
+    "location": "Mountain View, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T17:23:18.795555"
+  },
+  "0475847b790af2160264119ac6025648": {
+    "company": "Stripe",
+    "title": "Analyst, Product Pricing",
+    "url": "https://stripe.com/jobs/search?gh_jid=7896404",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T17:23:20.698634"
   }
 }
