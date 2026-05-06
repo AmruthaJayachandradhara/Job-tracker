@@ -25277,5 +25277,21 @@
     "location": "NYC (SoHo) Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-05T23:40:27.814385"
+  },
+  "03434f3bd9acf2966a6d7753ae0a5574": {
+    "company": "Databricks",
+    "title": "Scale Solutions Engineer ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8408815002",
+    "location": "Costa Rica",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T01:55:28.541988"
+  },
+  "dfdda36cec6aefdd3163acaeb522112a": {
+    "company": "Stripe",
+    "title": "Strategic Business Performance, Central Strategy & Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=5956528",
+    "location": "San Francisco, Seattle, Chicago, US-remote, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-06T01:55:46.099957"
   }
 }
