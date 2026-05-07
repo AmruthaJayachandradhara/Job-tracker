@@ -25557,5 +25557,29 @@
     "location": "US-Chicago; US-Atlanta; US-Remote; Canada-Toronto; Canada-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-07T11:01:27.832478"
+  },
+  "b4b052ee20a1cd2892723d641e91868a": {
+    "company": "Databricks",
+    "title": "Field Engineering, Platform & Security Product Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493142002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T13:28:51.624231"
+  },
+  "edfe915982615ba0bd5230809632856c": {
+    "company": "Fivetran",
+    "title": "C/C++ Developper - Oracle Databases",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7727110003",
+    "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T13:28:54.422698"
+  },
+  "1ff3c9f79407876bd98542e400c8271d": {
+    "company": "GitLab",
+    "title": "Contract Talent Acquisition Sourcer, Sales ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8532381002",
+    "location": "Remote, Canada; Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T13:28:58.038306"
   }
 }
