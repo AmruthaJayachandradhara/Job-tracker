@@ -25581,5 +25581,21 @@
     "location": "Remote, Canada; Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-07T13:28:58.038306"
+  },
+  "cfaaa1908490e7c515d1de3f56e4f564": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Commercial",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7726793003",
+    "location": "Dublin, Dublin, Ireland, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T15:59:16.756837"
+  },
+  "fa45697f57dc7c7a850105e6ae30d410": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7721242003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T15:59:16.756864"
   }
 }
