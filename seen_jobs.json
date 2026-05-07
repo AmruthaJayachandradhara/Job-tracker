@@ -25509,5 +25509,21 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-06T22:40:39.495367"
+  },
+  "625eb1e98067fbc5a6f608d9052c7891": {
+    "company": "Braintrust",
+    "title": "Cloud Security Engineer",
+    "url": "https://jobs.ashbyhq.com/braintrust/954b72dc-b5f8-4f11-8541-882c20e02fe4",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T01:58:30.387993"
+  },
+  "4059d5512b537ce56a78b0953946e5df": {
+    "company": "Braintrust",
+    "title": "Application Security Engineer",
+    "url": "https://jobs.ashbyhq.com/braintrust/0e402bde-8881-4001-988e-2e3d7b58b5b6",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T01:58:30.388022"
   }
 }
