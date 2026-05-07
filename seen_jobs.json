@@ -25661,5 +25661,21 @@
     "location": "Denver, CO;Atlanta, GA;Chicago, IL;Phoenix, AZ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-07T17:48:10.071695"
+  },
+  "d8db28ae6c367362625d29293a7cfc6e": {
+    "company": "Dialpad",
+    "title": "AVP, AI Ecosystem & Marketplace",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8517373002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T20:58:36.694977"
+  },
+  "72da9e0004a367b590b65e03892cb304": {
+    "company": "Gusto",
+    "title": "Partner Account Executive",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7826328",
+    "location": "Denver, CO, San Francisco, Las Vegas, NV, CA, Phoenix, AZ, Atlanta, GA, Chicago, IL, New York, NY , Toronto, PN",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T20:58:51.860342"
   }
 }
