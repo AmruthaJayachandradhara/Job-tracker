@@ -25597,5 +25597,69 @@
     "location": "London, England, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-07T15:59:16.756864"
+  },
+  "1766335ed0bb86bd25161caa746058a7": {
+    "company": "Databricks",
+    "title": "Enterprise Hunter Account Executive, Nordics",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8518545002",
+    "location": "Remote - Denmark",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T17:47:50.719070"
+  },
+  "2def63114b79dd1898ac066c70758a5f": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Commercial",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7713596003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T17:47:54.496924"
+  },
+  "6eeb83cb849ebba2576542e99d9858c8": {
+    "company": "Dialpad",
+    "title": "IT Support Specialist",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8538832002",
+    "location": "Tempe, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T17:47:56.593903"
+  },
+  "4d9ec1b57085a004950b6a21bec74c9c": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Named, US East",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8535897002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T17:47:58.159004"
+  },
+  "447921474daa555267ee065d2d76e7f2": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups (Existing Business) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7872736",
+    "location": "Chicago ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T17:48:09.319202"
+  },
+  "6a48eaef01c4d0c43c6396f93caf886b": {
+    "company": "Stripe",
+    "title": "Frontend Engineer, Payments & Risk",
+    "url": "https://stripe.com/jobs/search?gh_jid=7325252",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T17:48:09.320959"
+  },
+  "113169d105eeb4372135716c547f3244": {
+    "company": "Stripe",
+    "title": "Scaled Account Executive, Startups ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7872739",
+    "location": "Chicago ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T17:48:09.323079"
+  },
+  "5bd49daa6ff5ce6b3ccdf08dd7d42589": {
+    "company": "Gusto",
+    "title": "Expansion Account Executive",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7902351",
+    "location": "Denver, CO;Atlanta, GA;Chicago, IL;Phoenix, AZ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T17:48:10.071695"
   }
 }
