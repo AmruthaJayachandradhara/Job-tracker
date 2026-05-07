@@ -25525,5 +25525,37 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-07T01:58:30.388022"
+  },
+  "ca0b869899173d525d4f85f12e494888": {
+    "company": "Databricks",
+    "title": "Emerging Enterprise Hunter Account Executive, UKI",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8478702002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T11:01:12.327925"
+  },
+  "728ac00446ca9bb0860925c9af7c60a0": {
+    "company": "Stripe",
+    "title": "Account Executive, Existing Business (CEE)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7861856",
+    "location": "Poland - Remote OR Romania - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T11:01:27.829491"
+  },
+  "3caa2f5b41f06e4fd636af218b31c959": {
+    "company": "Stripe",
+    "title": "Integration Engineer (Client facing) Professional Services ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7896525",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T11:01:27.831333"
+  },
+  "eb6e192e7e4149166c4a4786defb44c2": {
+    "company": "Stripe",
+    "title": "Risk Strategist - Screening (Financial Crimes)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7874862",
+    "location": "US-Chicago; US-Atlanta; US-Remote; Canada-Toronto; Canada-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-07T11:01:27.832478"
   }
 }
