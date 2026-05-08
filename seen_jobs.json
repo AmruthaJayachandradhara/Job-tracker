@@ -25701,5 +25701,29 @@
     "location": "Addison, TX",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-08T05:22:50.736086"
+  },
+  "334ee9d7160771893b5b8c3dfc2adf90": {
+    "company": "Affirm",
+    "title": "\tSoftware Engineer I, Backend (Servicing Platforms)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7724913003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T07:16:37.117914"
+  },
+  "23385d412529cb3d10bdebb11c41e0b5": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Backend (Servicing Platforms)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7724917003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T07:16:37.117941"
+  },
+  "857cd171d2b5c89708673572f77f73e9": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Backend (Servicing Platforms)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7724915003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T07:16:37.117952"
   }
 }
