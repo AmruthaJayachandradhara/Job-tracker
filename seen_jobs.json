@@ -25781,5 +25781,53 @@
     "location": "Remote, Japan, APAC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-08T17:02:47.090930"
+  },
+  "b105a23631dd0ed00096fb1d46d9275c": {
+    "company": "Pomelo Care",
+    "title": "Associate General Counsel, Healthcare and Technology",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5992029004",
+    "location": "United States",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-08T19:04:09.888304"
+  },
+  "11ec8c9b08dd42acb9643004753192e3": {
+    "company": "Pomelo Care",
+    "title": "Payer Enrollment Specialist",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5991903004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T19:04:09.888608"
+  },
+  "6d0e08db165e85d83895da83c31e0dc5": {
+    "company": "Northwood Space",
+    "title": "Solutions Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/fcc683b3-b575-431d-9fca-482227455e87",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T19:04:15.235820"
+  },
+  "efb48b03011f181ea68dafc5c9780b51": {
+    "company": "GitLab",
+    "title": "Business Development Representative",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8539980002",
+    "location": "Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T19:04:48.179745"
+  },
+  "a04a57311f74e756c0d15e879bcf976d": {
+    "company": "EarnIn",
+    "title": "Software Engineer (Gen AI)",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7908987",
+    "location": "Mountain View, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T19:04:56.081302"
+  },
+  "609c963a1cfd35a8653ab7766c5ad7d8": {
+    "company": "Stripe",
+    "title": "Account Executive, Velocity Hunter (Iberia)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7907485",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T19:04:57.808253"
   }
 }
