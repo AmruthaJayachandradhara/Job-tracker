@@ -25757,5 +25757,29 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-08T15:14:13.528922"
+  },
+  "c0e6200e889fecd84c15783baa225b44": {
+    "company": "Databricks",
+    "title": "Core Enterprise Account Executive, Nordics",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8536352002",
+    "location": "Stockholm, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T17:02:44.185151"
+  },
+  "87f6a4d9a46d86894cffc18317d9d2c5": {
+    "company": "Databricks",
+    "title": "Partner Development Representative, Cloud (EMEA)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8535480002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T17:02:44.187217"
+  },
+  "203c94a0f041bf2618528c569dec232b": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Commercial",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7724750003",
+    "location": "Remote, Japan, APAC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T17:02:47.090930"
   }
 }
