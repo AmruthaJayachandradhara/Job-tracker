@@ -25949,5 +25949,37 @@
     "location": "Denver, CO; Phoenix, AZ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-08T20:47:40.882219"
+  },
+  "c45f1552c2a34f8e27c58871b809b8ec": {
+    "company": "Novig",
+    "title": "Fraud and Risk Specialist",
+    "url": "https://jobs.ashbyhq.com/novig/bd216331-c180-4534-b203-336d34c63ab9",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T21:50:52.986965"
+  },
+  "f3262349344699ec3389af060dc914b0": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Merchant Advocacy)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7708925003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T21:51:25.458060"
+  },
+  "f780548e9157d6d6123b0739c1411c0d": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Merchant Advocacy)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7708927003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T21:51:25.458084"
+  },
+  "d33af1caad4f1c949ebc7d32cd19255b": {
+    "company": "Stripe",
+    "title": "Account Executive, Startup Platforms ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7891728",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T21:51:28.326146"
   }
 }
