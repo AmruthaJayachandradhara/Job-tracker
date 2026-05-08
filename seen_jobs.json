@@ -25749,5 +25749,13 @@
     "location": "Bangalore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-08T13:09:06.392609"
+  },
+  "024e0dbbab36079e9bf0dcc47ccefd0d": {
+    "company": "GitLab",
+    "title": "Business Development Representative, DoW",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8539465002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T15:14:13.528922"
   }
 }
