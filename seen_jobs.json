@@ -25741,5 +25741,13 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-08T11:03:28.974021"
+  },
+  "91859299ab3cf7351132a50c2764de96": {
+    "company": "Stripe",
+    "title": "Global Indirect Tax Compliance",
+    "url": "https://stripe.com/jobs/search?gh_jid=7587922",
+    "location": "Bangalore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T13:09:06.392609"
   }
 }
