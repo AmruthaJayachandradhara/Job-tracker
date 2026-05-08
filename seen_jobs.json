@@ -25685,5 +25685,21 @@
     "location": "Foster City, CA (Hybrid) In office M,W,F",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-08T02:05:23.446060"
+  },
+  "4f29634d5771cda528cf3d659e6065f0": {
+    "company": "Tanium",
+    "title": "Executive Protection Agent - FOG",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7906153",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T05:22:50.736048"
+  },
+  "13c61bab520df8eebe17bdbc07eeaa7f": {
+    "company": "Tanium",
+    "title": "Executive Protection Agent - FOG",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7906152",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-08T05:22:50.736086"
   }
 }
