@@ -25989,5 +25989,13 @@
     "location": "Seattle, WA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-08T23:46:51.793454"
+  },
+  "a28f9232dd1b7023cf25a1b501920a3f": {
+    "company": "Gusto",
+    "title": "Onboarding Advocate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7379034",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-09T21:35:22.381380"
   }
 }
