@@ -26037,5 +26037,21 @@
     "location": "Spain",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-11T10:29:15.943936"
+  },
+  "84055a6493805a687ca6c069be7e5673": {
+    "company": "Novig",
+    "title": "Fraud Specialist",
+    "url": "https://jobs.ashbyhq.com/novig/bd216331-c180-4534-b203-336d34c63ab9",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T13:38:06.121741"
+  },
+  "567fb720301ce31bc17da872d5a96b26": {
+    "company": "Stripe",
+    "title": "Data Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7794729",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T13:38:40.420688"
   }
 }
