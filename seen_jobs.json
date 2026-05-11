@@ -26053,5 +26053,45 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-11T13:38:40.420688"
+  },
+  "54bf51085c766ed234810cca7fde7e43": {
+    "company": "Pomelo Care",
+    "title": "Doula (Oklahoma)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5993235004",
+    "location": "Oklahoma, USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T16:24:38.958639"
+  },
+  "4a1b480fe3f08e2791189c47d3f86b70": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive-TELCO",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8431457002",
+    "location": "Atlanta, Georgia; Dallas, Texas; Kansas",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T16:25:22.211678"
+  },
+  "a5bb57b9d8722fcea2aade0619aa4104": {
+    "company": "Fivetran",
+    "title": "Enterprise Sales Engineer- Containerization",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7676567003",
+    "location": "Remote, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T16:25:24.876572"
+  },
+  "7baa132b12d72b83d7b30cb1ddd02ff7": {
+    "company": "Fivetran",
+    "title": "Enterprise Sales Engineering, Security",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7705028003",
+    "location": "Remote, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T16:25:24.876591"
+  },
+  "d4ebbb8a3e32d49b6d84056db6343572": {
+    "company": "Stripe",
+    "title": "Workplace Space Planner",
+    "url": "https://stripe.com/jobs/search?gh_jid=7901827",
+    "location": "Toronto, Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T16:25:38.368020"
   }
 }
