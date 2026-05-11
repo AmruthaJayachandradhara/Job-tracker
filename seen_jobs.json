@@ -26157,5 +26157,37 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-11T20:27:42.530355"
+  },
+  "c6a8dd089688c1850dad0e4b2e532537": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer) - Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8531838002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T21:58:08.587670"
+  },
+  "8de2f632b7515af60108a7506d9caafa": {
+    "company": "Databricks",
+    "title": "Lakewatch Strategic Sales Specialist\u00a0",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493146002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T21:58:08.589430"
+  },
+  "5334bb5633cb5d10985e2aaa674f8ab1": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive, Lakewatch",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493144002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T21:58:08.595291"
+  },
+  "5e774af1d8662991df439dd3429e76c4": {
+    "company": "EarnIn",
+    "title": "Site Reliability Engineer II",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7913314",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T21:58:23.220304"
   }
 }
