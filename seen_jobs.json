@@ -26093,5 +26093,53 @@
     "location": "Toronto, Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-11T16:25:38.368020"
+  },
+  "4b1d4c19c00eb056cb499f0665eda487": {
+    "company": "Pomelo Care",
+    "title": "Enrollment and Matching Specialist",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5993544004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T18:50:43.475113"
+  },
+  "6114ff6d5950030078e81cf9f528357e": {
+    "company": "Affirm",
+    "title": "Quality Assurance Specialist II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7713577003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T18:51:36.094542"
+  },
+  "da656ff64c99ea59c1418e05af891597": {
+    "company": "Affirm",
+    "title": "Quality Assurance Specialist II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7713575003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T18:51:36.094564"
+  },
+  "c868190c59539736177d15ce9edd7494": {
+    "company": "Stripe",
+    "title": "Internal Product Engineer, Developer Productivity AI ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7896151",
+    "location": "Toronto, Canada ",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-05-11T18:51:37.085854"
+  },
+  "e3b67826f365a25b0e86d5b80cd92453": {
+    "company": "Stripe",
+    "title": "Operations Associate, New Grad (Mexico)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7913505",
+    "location": "Mexico City, Mexico",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-05-11T18:51:37.086274"
+  },
+  "0113f9ecacf83152402a1bc97c3d239d": {
+    "company": "Gusto",
+    "title": "Benefits Onboarding Advocate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7379034",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T18:51:37.893988"
   }
 }
