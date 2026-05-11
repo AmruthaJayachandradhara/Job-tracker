@@ -25997,5 +25997,45 @@
     "location": "Denver, CO",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-09T21:35:22.381380"
+  },
+  "ff3b2353c1b3a0d8598c26a05ad28ddd": {
+    "company": "Databricks",
+    "title": "Sr. Resident Solutions Architect",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8501125002",
+    "location": "Bengaluru, India",
+    "filter_reason": "description match: '0+ year'",
+    "first_seen": "2026-05-11T10:29:00.122507"
+  },
+  "8bf8b0d6dfdf2d4c51b2ca42c67967a5": {
+    "company": "GitLab",
+    "title": "Forward Deployed Engineer - UK",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522408002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T10:29:06.164328"
+  },
+  "c74421d38a167d7219cc904736935a37": {
+    "company": "GitLab",
+    "title": "Forward Deployed Engineer - UK",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522265002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T10:29:06.164348"
+  },
+  "9d510c2eededaa1c2209120ff521ec66": {
+    "company": "GitLab",
+    "title": "Forward Deployed Engnieer - META",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8524783002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T10:29:06.164358"
+  },
+  "535d233460c6db4a4984385d54a26fe6": {
+    "company": "Stripe",
+    "title": "Account Executive,Iberia, Enterprise ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7394627",
+    "location": "Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T10:29:15.943936"
   }
 }
