@@ -26141,5 +26141,21 @@
     "location": "Denver, CO",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-11T18:51:37.893988"
+  },
+  "86e481d3162c63df6859ad0e648eaf48": {
+    "company": "Dialpad",
+    "title": "Sales Engineer III",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8539259002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T20:27:41.007101"
+  },
+  "b0fe6d0603b7ef0e1c166a9b6f326587": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Mid-Market, US West",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8534549002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-11T20:27:42.530355"
   }
 }
