@@ -26245,5 +26245,13 @@
     "location": "San Francisco, Seattle, New York, Chicago, Atlanta or Toronto",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-12T16:15:21.079901"
+  },
+  "7b256eb376a791aece8f1a89af00196b": {
+    "company": "Stripe",
+    "title": "Crypto Product Accounting",
+    "url": "https://stripe.com/jobs/search?gh_jid=7774312",
+    "location": "San Francisco, Seattle, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-12T18:51:04.738437"
   }
 }
