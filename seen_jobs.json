@@ -26221,5 +26221,29 @@
     "location": "Tokyo, Japan",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-12T05:58:29.342638"
+  },
+  "54c7af64b0c3c5d4d4db11dbf2652a65": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Nordics",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8536352002",
+    "location": "Stockholm, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-12T16:15:05.331510"
+  },
+  "aa138bdec2f85fddf8fa3b58e795ae7f": {
+    "company": "Stripe",
+    "title": "Corporate Accounting",
+    "url": "https://stripe.com/jobs/search?gh_jid=7618067",
+    "location": "San Francisco, Seattle ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-12T16:15:21.077914"
+  },
+  "abd795819ff747e04580ebbbf40c9223": {
+    "company": "Stripe",
+    "title": "People Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=7704660",
+    "location": "San Francisco, Seattle, New York, Chicago, Atlanta or Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-12T16:15:21.079901"
   }
 }
