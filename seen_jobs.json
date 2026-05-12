@@ -26269,5 +26269,13 @@
     "location": "US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-12T20:26:04.441831"
+  },
+  "2fd99cdf6c25860d0106d774accbb24c": {
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7533759003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-12T22:04:57.150456"
   }
 }
