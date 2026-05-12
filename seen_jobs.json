@@ -26253,5 +26253,21 @@
     "location": "San Francisco, Seattle, New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-12T18:51:04.738437"
+  },
+  "8d8d0628f9ff58b431de4d889577125f": {
+    "company": "Novig",
+    "title": "Customer Experience Specialist",
+    "url": "https://jobs.ashbyhq.com/novig/60e83b10-4702-44d4-a183-a60d9d321267",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-12T20:25:29.926989"
+  },
+  "a2ca3382bfed3788444a92d1750c9978": {
+    "company": "Stripe",
+    "title": "Brand Designer, Link",
+    "url": "https://stripe.com/jobs/search?gh_jid=7917716",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-12T20:26:04.441831"
   }
 }
