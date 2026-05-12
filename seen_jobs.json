@@ -26277,5 +26277,13 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-12T22:04:57.150456"
+  },
+  "e25424c49b943a1f7acf77c3130fb832": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Data",
+    "url": "https://stripe.com/jobs/search?gh_jid=7913700",
+    "location": "Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-12T23:51:39.300493"
   }
 }
