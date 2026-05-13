@@ -26517,5 +26517,29 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-13T21:17:44.450426"
+  },
+  "8c00bc710465372ed8dafe918d23e663": {
+    "company": "Dialpad",
+    "title": "Sales Development Representative II",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8495153002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T22:57:53.637140"
+  },
+  "868ea25e902b8800b02f9ff05600b1f9": {
+    "company": "Mercury",
+    "title": "Head of Growth Marketing",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5812238004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "description match: '0+ year'",
+    "first_seen": "2026-05-13T22:58:02.420031"
+  },
+  "1805457a2d4dce00622c2424b3248a6d": {
+    "company": "Affirm",
+    "title": "Analyst I, Full Stack",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7726627003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T22:58:04.412783"
   }
 }
