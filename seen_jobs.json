@@ -26437,5 +26437,69 @@
     "location": "NYC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-13T17:09:10.362954"
+  },
+  "0976251c1cc81fa853502dc79794348e": {
+    "company": "Databricks",
+    "title": "Named Enterprise Account Executive, Financial Services ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8539134002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T19:40:59.331925"
+  },
+  "deb4dd0628f817deafa5ab0b81a29e65": {
+    "company": "Replit",
+    "title": "GRC Engineer",
+    "url": "https://jobs.ashbyhq.com/replit/b2d681c3-e0da-42a6-b813-f3a8181a1af0",
+    "location": "Foster City, CA (Hybrid) In office M,W,F",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T19:41:06.604703"
+  },
+  "c09cabdf758a5b4b165fc58ec99453dc": {
+    "company": "Tanium",
+    "title": "Security Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7922497",
+    "location": "Addison, TX (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T19:41:07.447482"
+  },
+  "3966b8a6df1f741dcd0ca1bcbdb16513": {
+    "company": "Tanium",
+    "title": "Security Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7922504",
+    "location": "Bellevue, WA (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T19:41:07.447503"
+  },
+  "3ba2fd81b9706cf1f5dfbeff8e02c695": {
+    "company": "Tanium",
+    "title": "Security Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7922506",
+    "location": "Emeryville, CA (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T19:41:07.447511"
+  },
+  "68fc7e0ad1e5ff0a484d0e38ce2347b9": {
+    "company": "EarnIn",
+    "title": "Site Reliability Engineer II",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7895723",
+    "location": "Mexico City, Mexico; Remote, Mexico",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T19:41:14.825800"
+  },
+  "6e40e5f7085d1ade34ae687eca78d303": {
+    "company": "Stripe",
+    "title": "US BSA Officer, Stripe & Bridge",
+    "url": "https://stripe.com/jobs/search?gh_jid=7463165",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T19:41:16.728506"
+  },
+  "4efd215570e4848509543c94fba6eece": {
+    "company": "Carta",
+    "title": "Content Marketer, Carta Law",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7721906003",
+    "location": "London, England",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T19:41:18.947501"
   }
 }
