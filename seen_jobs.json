@@ -26301,5 +26301,13 @@
     "location": "San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-13T02:10:08.877078"
+  },
+  "edfd78d9fd03de159860c04bac5a691d": {
+    "company": "Replit",
+    "title": "Software Engineer, Developer Experience",
+    "url": "https://jobs.ashbyhq.com/replit/d0e0dd7d-59d1-4de8-afbb-54aea680b51d",
+    "location": "Foster City, CA (Hybrid) In office M,W,F",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T06:18:16.143113"
   }
 }
