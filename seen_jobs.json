@@ -26501,5 +26501,21 @@
     "location": "London, England",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-13T19:41:18.947501"
+  },
+  "51492b3c6c2932b9eef520e2ebb136dd": {
+    "company": "Gumloop",
+    "title": "Full Stack Engineer",
+    "url": "https://jobs.ashbyhq.com/gumloop/a7b6de54-8e37-4d69-ac03-f9c1d4075205",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T21:16:54.257707"
+  },
+  "3eae6da823c4d0414cbadeaba793978b": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Named, US West",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8543383002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T21:17:44.450426"
   }
 }
