@@ -26285,5 +26285,21 @@
     "location": "Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-12T23:51:39.300493"
+  },
+  "267c00d9c66b3239f8e92a43029c7fbb": {
+    "company": "Databricks",
+    "title": "GTM Talent Sourcer (Contract)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546786002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T02:09:52.838259"
+  },
+  "95b65faf1d122fb30b061a6f209423aa": {
+    "company": "Stripe",
+    "title": "Account Executive, AI Sales",
+    "url": "https://stripe.com/jobs/search?gh_jid=7546284",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T02:10:08.877078"
   }
 }
