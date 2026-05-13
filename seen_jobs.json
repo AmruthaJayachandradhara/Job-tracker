@@ -26349,5 +26349,21 @@
     "location": "Krakow, Poland (Hybrid)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-13T11:55:52.866278"
+  },
+  "a8f11b1b5e523afdb43ed994bf5a79df": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T14:07:14.478576"
+  },
+  "0e1c93fcc5c370094775d90d5af9c1d6": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive, Germany (Ent Industry)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8520248002",
+    "location": "Remote, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T14:07:20.742907"
   }
 }
