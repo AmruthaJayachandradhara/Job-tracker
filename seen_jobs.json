@@ -26309,5 +26309,29 @@
     "location": "Foster City, CA (Hybrid) In office M,W,F",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-13T06:18:16.143113"
+  },
+  "76eb471a02b083a01df6146409a3201b": {
+    "company": "Databricks",
+    "title": "Field Engineering, AI/ML Product Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476506002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T09:36:21.664552"
+  },
+  "9fc664fabf53fb1cafebc6c52af194d1": {
+    "company": "Databricks",
+    "title": "Forward Deployment Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540455002",
+    "location": "Seoul, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T09:36:21.664636"
+  },
+  "fbc06c41cf9351aa46643761eaa84865": {
+    "company": "Affirm",
+    "title": "Talent Brand Specialist II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7726819003",
+    "location": "Remote UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-13T09:36:37.956569"
   }
 }
