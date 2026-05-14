@@ -26605,5 +26605,13 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-05-14T09:27:33.682313"
+  },
+  "a368bd94e85fda47bd8917e63ee2e76a": {
+    "company": "Dialpad",
+    "title": "QA Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8534957002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T11:44:23.311221"
   }
 }
