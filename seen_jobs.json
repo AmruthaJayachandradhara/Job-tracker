@@ -26741,5 +26741,29 @@
     "location": "Denver, CO, Phoenix, AZ, Chicago, IL, New York, NY, San Fransisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-14T22:02:12.699615"
+  },
+  "32e4f31e7631b814978de5c67fe12bce": {
+    "company": "GitLab",
+    "title": "Customer Success Engineer - PST / MST ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8550268002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T23:45:45.958776"
+  },
+  "0eac32593ca70134978a9b724ec5952c": {
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7666190003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T23:45:55.971755"
+  },
+  "c02c109b38d6fbb85707a017b288e369": {
+    "company": "Stripe",
+    "title": "Accounts Receivable Analyst - Service Strategy Enablement",
+    "url": "https://stripe.com/jobs/search?gh_jid=7926728",
+    "location": "Seattle",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T23:45:56.982257"
   }
 }
