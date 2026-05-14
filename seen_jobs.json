@@ -26677,5 +26677,61 @@
     "location": "Austin, US",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-05-14T18:31:48.465817"
+  },
+  "0a45af092c61a4b41d2537c577ec76a2": {
+    "company": "Encord",
+    "title": "Account Executive, Multimodal",
+    "url": "https://jobs.ashbyhq.com/encord/3084db54-9353-47ae-aa67-a038f613121f",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T20:23:38.200523"
+  },
+  "579c049baf9bfbe2993be1aec9eb0876": {
+    "company": "Encord",
+    "title": "Account Executive, Multimodal",
+    "url": "https://jobs.ashbyhq.com/encord/8b45134b-1cff-4d20-b418-50258301645f",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T20:23:38.200568"
+  },
+  "74d518006d30ea1a82b7d8c1c8b766d8": {
+    "company": "Encord",
+    "title": "Commercial Associate, Multimodal",
+    "url": "https://jobs.ashbyhq.com/encord/fa922dac-6219-4379-be99-29c8ea59b813",
+    "location": "San Francisco",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-14T20:23:38.200579"
+  },
+  "fa080f4c9be23886e6b76245f731f642": {
+    "company": "Encord",
+    "title": "Commercial Associate, Multimodal",
+    "url": "https://jobs.ashbyhq.com/encord/bf7c9a0f-5af4-44fb-b448-406331ab9869",
+    "location": "London",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-14T20:23:38.200591"
+  },
+  "0bc616930f189525253b717d36a14813": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Consumer & Distribution ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8460873002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T20:23:50.237289"
+  },
+  "8dfcbbdd31f79a4f0bbff81df5d9f7da": {
+    "company": "Gusto",
+    "title": "Future Opportunities: Dedicated Service Advisor",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7927184",
+    "location": "Phoenix, AZ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T20:24:08.994994"
+  },
+  "4230172b5ea7f9c1ca7dc7ec6fb1a0e5": {
+    "company": "Gusto",
+    "title": "Future Opportunities: Dedicated Service Advisor",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7927179",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T20:24:08.995016"
   }
 }
