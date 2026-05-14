@@ -26621,5 +26621,45 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-14T13:31:11.517489"
+  },
+  "373821757e7864c1e20aaaab94c214e1": {
+    "company": "Northwood Space",
+    "title": "Inventory Specialist",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/0e3d441e-d453-49e6-94b3-e0b350b75b05",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T16:04:48.336217"
+  },
+  "bd47fc899e956be852696bb863dfd87a": {
+    "company": "Novig",
+    "title": "Product Designer",
+    "url": "https://jobs.ashbyhq.com/novig/fa3a2236-20c0-435d-861e-dba60fa6d1c9",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T16:04:55.956990"
+  },
+  "2504308a2955fc7f34aff3185cee04ce": {
+    "company": "Databricks",
+    "title": "Counsel, Commercial",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8463179002",
+    "location": "Bellevue, Washington; Denver, Colorado; Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T16:05:11.764270"
+  },
+  "52c5d33754cd0328f75ab41d3c4d3f5e": {
+    "company": "Affirm",
+    "title": "Counsel II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7721506003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T16:05:53.260665"
+  },
+  "eefbb4cc9800827d44c5e5cd6d441c5f": {
+    "company": "Stripe",
+    "title": "Integration Engineer (Global) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7896519",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T16:05:54.239739"
   }
 }
