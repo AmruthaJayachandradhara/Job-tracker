@@ -26557,5 +26557,53 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-14T02:12:40.735311"
+  },
+  "01df7a853ff6d36e09d0d5063b8b0a5a": {
+    "company": "Encord",
+    "title": "Revenue Associate",
+    "url": "https://jobs.ashbyhq.com/encord/f2601b44-42ee-4403-a9a6-b29b8937f4b6",
+    "location": "London",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-14T09:27:06.908106"
+  },
+  "ac6ea6670a9666d0a693fcca6ed413c5": {
+    "company": "Databricks",
+    "title": "Account Executive - Federal",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8441877002",
+    "location": "Australian Capital Territory, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T09:27:17.711625"
+  },
+  "cd4b01899fd007c728e471fae62db3c4": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - Digital Native",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549330002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T09:27:17.719744"
+  },
+  "68b07e770f3693a5a484cdcc0cf3a227": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - Digital Native",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8499822002",
+    "location": "Melbourne, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T09:27:17.719762"
+  },
+  "665fdf011823f864c8d13a7b2ebfa114": {
+    "company": "Databricks",
+    "title": "Strategic Hunter Account Executive - BFSI",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8499824002",
+    "location": "Melbourne, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T09:27:17.720022"
+  },
+  "95cad3c437e63ded4f1235225027356b": {
+    "company": "Stripe",
+    "title": "Operations Associate ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7923895",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-14T09:27:33.682313"
   }
 }
