@@ -26661,5 +26661,21 @@
     "location": "Toronto",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-14T16:05:54.239739"
+  },
+  "635e9c3c43b3753b045a0c58405922e3": {
+    "company": "Databricks",
+    "title": "Named Enterprise Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8536432002",
+    "location": "Stockholm, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T18:31:43.702742"
+  },
+  "182ce75784b7aa7500cfec38b0017867": {
+    "company": "Dialpad",
+    "title": "Order Desk Associate",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8537953002",
+    "location": "Austin, US",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-14T18:31:48.465817"
   }
 }
