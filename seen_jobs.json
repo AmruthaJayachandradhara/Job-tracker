@@ -26733,5 +26733,13 @@
     "location": "Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-14T20:24:08.995016"
+  },
+  "4a4f72edc010319c82ba9dc6e263ae6a": {
+    "company": "Gusto",
+    "title": "Future Opportunities: HR Constultant",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7927447",
+    "location": "Denver, CO, Phoenix, AZ, Chicago, IL, New York, NY, San Fransisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T22:02:12.699615"
   }
 }
