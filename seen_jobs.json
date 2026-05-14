@@ -26541,5 +26541,21 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-13T22:58:04.412783"
+  },
+  "56b1526df8b4683c12484565415b5107": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - FSI",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8351131002",
+    "location": "Seoul, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T02:12:24.285907"
+  },
+  "181f820b2f12176b889876e8d6ef855b": {
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7726632003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-14T02:12:40.735311"
   }
 }
