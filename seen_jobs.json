@@ -26765,5 +26765,13 @@
     "location": "Seattle",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-14T23:45:56.982257"
+  },
+  "d5cf2869189d3ca34b3dfdbf7f8064f1": {
+    "company": "Stripe",
+    "title": "[TEMPLATE] Default Template",
+    "url": "https://stripe.com/jobs/search?gh_jid=7919030",
+    "location": "Chicago, IL, Remote in IL",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-15T02:10:14.569660"
   }
 }
