@@ -26829,5 +26829,37 @@
     "location": "Singapore",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-05-15T17:24:43.982647"
+  },
+  "2f67a7a189aca152b7bdfc69aab22dfd": {
+    "company": "Databricks",
+    "title": "Program Analyst, Legal Ops",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8199399002",
+    "location": "Bellevue, Washington; Denver, Colorado; Seattle, Washington; Washington, D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-15T19:17:17.679278"
+  },
+  "391a14f91e2557d164054a5e7d00e67a": {
+    "company": "GitLab",
+    "title": "Business Development Representative, DoD",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8539465002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-15T19:17:31.678587"
+  },
+  "a565ef45dbcc3823e37659c909cab584": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - Brazil",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8535856002",
+    "location": "Remote, Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-15T19:17:31.679462"
+  },
+  "2ee5d39889298bb1c9b30a2f0ac646ee": {
+    "company": "Affirm",
+    "title": "Counsel II, Commercial",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7721506003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-15T19:17:41.340953"
   }
 }
