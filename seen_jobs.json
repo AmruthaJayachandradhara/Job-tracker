@@ -26781,5 +26781,37 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-15T06:23:50.800655"
+  },
+  "fbb4166063780038ad1b27212e769079": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002",
+    "location": "Remote - United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-15T15:57:21.895998"
+  },
+  "d915a25e409eab9f8e52186825007096": {
+    "company": "Databricks",
+    "title": "Deployment Strategist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548183002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-15T15:57:21.896556"
+  },
+  "6fe428ac573c3166c8d0939dce1fd31b": {
+    "company": "Databricks",
+    "title": " Resident Solutions Architect",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8501125002",
+    "location": "Bengaluru, India",
+    "filter_reason": "description match: '0+ year'",
+    "first_seen": "2026-05-15T15:57:21.898726"
+  },
+  "00370ea1d86e8333a5bd55838a674792": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Paid Support Experience",
+    "url": "https://stripe.com/jobs/search?gh_jid=7913464",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-15T15:57:37.392040"
   }
 }
