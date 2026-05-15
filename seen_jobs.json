@@ -26861,5 +26861,37 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-15T19:17:41.340953"
+  },
+  "cc682c410ccb119f38756efb1f34704d": {
+    "company": "Affirm",
+    "title": "Analyst I, Full Stack (Core Analytics)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7726627003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-15T21:50:20.897128"
+  },
+  "6d432c57dfef6c986df407336f819340": {
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack (Customer Servicing Analytics)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7726632003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-15T21:50:20.897186"
+  },
+  "26a9da1959f8a9b073d33abbddd9d017": {
+    "company": "Stripe",
+    "title": "KYB/KYC Operations Associate, Bridge (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7862772",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-15T21:50:21.871445"
+  },
+  "e6d72e112fc77bd04f4e9ae61ecc2efd": {
+    "company": "Gusto",
+    "title": "Group Operations Fulfillment, Benefit Services ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7931506",
+    "location": "Denver",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-15T21:50:22.564545"
   }
 }
