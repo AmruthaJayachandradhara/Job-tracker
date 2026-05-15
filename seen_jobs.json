@@ -26893,5 +26893,21 @@
     "location": "Denver",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-15T21:50:22.564545"
+  },
+  "8ad275c5101875ca2651726f18a14166": {
+    "company": "Databricks",
+    "title": "University Recruiter (Contract)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7295190002",
+    "location": "Remote - California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-15T23:45:25.823667"
+  },
+  "2fb652c22ce36d0785f302c4b2b11a65": {
+    "company": "Fivetran",
+    "title": "Software Engineer III",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7708571003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-15T23:45:28.365942"
   }
 }
