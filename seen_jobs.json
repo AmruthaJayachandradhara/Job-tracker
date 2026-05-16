@@ -26917,5 +26917,13 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-16T02:02:24.281360"
+  },
+  "2b10b7a04d6a304210a1b23f68aedbe3": {
+    "company": "Profound",
+    "title": "GTM Enablement Associate",
+    "url": "https://jobs.ashbyhq.com/profound/f0cdbd4a-7dc4-4384-a052-4b6978e741b1",
+    "location": "New York, New York",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-16T21:39:38.581161"
   }
 }
