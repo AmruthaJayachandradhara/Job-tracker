@@ -26909,5 +26909,13 @@
     "location": "Toronto, Ontario, Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-15T23:45:28.365942"
+  },
+  "1bce73ac7342c001768f45f9d1e72096": {
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack (Fraud Analytics)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7533759003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-16T02:02:24.281360"
   }
 }
