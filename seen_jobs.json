@@ -26925,5 +26925,13 @@
     "location": "New York, New York",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-05-16T21:39:38.581161"
+  },
+  "f66647f2e6a7ea23e63978badc4e896c": {
+    "company": "Gumloop",
+    "title": "Recruiter",
+    "url": "https://jobs.ashbyhq.com/gumloop/8262267a-336a-4fce-9a5f-63779ec4164c",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-17T02:04:45.040773"
   }
 }
