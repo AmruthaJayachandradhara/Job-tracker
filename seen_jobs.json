@@ -26989,5 +26989,21 @@
     "location": "Remote US",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-05-18T14:29:08.784458"
+  },
+  "0bd37c43beee84a10fa7e4331db3053b": {
+    "company": "Mercury",
+    "title": "Strategic Finance - R&D/G&A",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5997883004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T17:26:31.891146"
+  },
+  "7ac4614c8040ff07148aff65102ada64": {
+    "company": "Stripe",
+    "title": "Technical Solutions Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7919030",
+    "location": "Chicago, IL, Remote in IL",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T17:26:36.894471"
   }
 }
