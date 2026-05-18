@@ -27085,5 +27085,21 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-18T21:03:24.555914"
+  },
+  "d8cbf7e08a926fa8ae6244097f106b23": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7734972003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T22:49:33.327203"
+  },
+  "99439ae8d110cb55cc358d81e5d04914": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB (New Business)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7931247",
+    "location": "NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T22:49:46.253158"
   }
 }
