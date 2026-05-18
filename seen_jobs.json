@@ -26949,5 +26949,13 @@
     "location": "United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-18T02:27:25.320091"
+  },
+  "f6b5e5dd92eac4d64e9ad11ab130811a": {
+    "company": "Stripe",
+    "title": "Accounts Receivable Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7882699",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T06:45:33.979186"
   }
 }
