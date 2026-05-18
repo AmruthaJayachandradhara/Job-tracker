@@ -26973,5 +26973,21 @@
     "location": "Dubai, UAE",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-18T10:58:40.384708"
+  },
+  "321339090f3894dd1226cec1be07842a": {
+    "company": "Databricks",
+    "title": "Software Engineer (SDE 2) - Full Stack (Frontend), Lakeflow",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8530796002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T14:28:51.689515"
+  },
+  "47054b322b5a1a7c8fea30da91e9ce21": {
+    "company": "Affirm",
+    "title": "Business Development Associate",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7712707003",
+    "location": "Remote US",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-18T14:29:08.784458"
   }
 }
