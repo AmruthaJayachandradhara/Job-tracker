@@ -26941,5 +26941,13 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-17T23:49:58.780999"
+  },
+  "9787c085a8c841c80b8b838cdb4994e2": {
+    "company": "Databricks",
+    "title": "RVP, Enterprise (Health & Life Sciences)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548505002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T02:27:25.320091"
   }
 }
