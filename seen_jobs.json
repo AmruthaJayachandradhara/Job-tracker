@@ -27061,5 +27061,29 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-18T19:24:55.880952"
+  },
+  "0f0b1157a3d4b2a9b69b7e7f856ec331": {
+    "company": "Fivetran",
+    "title": "Business Development Enterprise Rep I",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7734972003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T21:03:09.960992"
+  },
+  "e131daa13c0bb58bd93e9ce35e19621e": {
+    "company": "Mercury",
+    "title": "Strategic Finance - GTM",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5998488004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T21:03:20.651751"
+  },
+  "06c65db189f8764041d0c5e1e9a23d19": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Support Experience",
+    "url": "https://stripe.com/jobs/search?gh_jid=7913464",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T21:03:24.555914"
   }
 }
