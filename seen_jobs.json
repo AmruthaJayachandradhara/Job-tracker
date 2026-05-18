@@ -27005,5 +27005,61 @@
     "location": "Chicago, IL, Remote in IL",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-18T17:26:36.894471"
+  },
+  "df7cacb007b880441ce4e7156d329776": {
+    "company": "Profound",
+    "title": "Account Executive, Enterprise, London",
+    "url": "https://jobs.ashbyhq.com/profound/430cfb10-1188-466d-a972-74927c00f56e",
+    "location": "London, England",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T19:24:28.624043"
+  },
+  "3c33a4132eeae6e9b53f9269dd73852b": {
+    "company": "Profound",
+    "title": "Account Executive, Mid-Market, London ",
+    "url": "https://jobs.ashbyhq.com/profound/4323c4b0-9aac-4d19-8ad8-790801800329",
+    "location": "London, England",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T19:24:28.624074"
+  },
+  "f69565faa59459f497d5c61d1b3668d8": {
+    "company": "Dialpad",
+    "title": "Client Account Executive, Mid-Market",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8555346002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T19:24:45.169020"
+  },
+  "c5a96e0ad3681c59e58aaa2eadcde7a2": {
+    "company": "Dialpad",
+    "title": "Client Account Executive, Mid-Market",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8555344002",
+    "location": "Denver, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T19:24:45.169046"
+  },
+  "c4ca25d461769ed8537704de933f3221": {
+    "company": "GitLab",
+    "title": "AI Transformation Owner, Marketing",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8548105002",
+    "location": "Remote, Canada; Remote, Ireland; Remote, United Kingdom; Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T19:24:46.549415"
+  },
+  "dcbc090e115761c0fa0014bd99402cfd": {
+    "company": "GitLab",
+    "title": "Site Reliability Engineer, Cloud Cost Utilization",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8515080002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T19:24:46.550359"
+  },
+  "8d13c1be18b10760b9e2d058e636fc72": {
+    "company": "Stripe",
+    "title": "Implementation Specialist, GTM Accelerate",
+    "url": "https://stripe.com/jobs/search?gh_jid=7520686",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-18T19:24:55.880952"
   }
 }
