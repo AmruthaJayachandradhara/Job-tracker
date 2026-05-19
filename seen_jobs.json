@@ -27109,5 +27109,13 @@
     "location": "Costa Rica",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-19T02:37:44.063482"
+  },
+  "ab63026bdffb506dacef326c2fdc8f2c": {
+    "company": "Stripe",
+    "title": "Product Designer, Terminal",
+    "url": "https://stripe.com/jobs/search?gh_jid=7925550",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-19T06:40:43.585429"
   }
 }
