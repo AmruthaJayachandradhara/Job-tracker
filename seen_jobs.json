@@ -27117,5 +27117,13 @@
     "location": "Toronto",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-19T06:40:43.585429"
+  },
+  "28e23bba95658cabed2f1fba535442ac": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8419271002",
+    "location": "Maryland; Virginia; Washington, D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-19T10:32:13.546835"
   }
 }
