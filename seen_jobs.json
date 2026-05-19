@@ -27293,5 +27293,21 @@
     "location": "Remote - Washington D.C.",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-19T20:24:28.500247"
+  },
+  "f0fb925fab2a1cdea856341357c240f4": {
+    "company": "Replit",
+    "title": "Data Scientist, People",
+    "url": "https://jobs.ashbyhq.com/replit/5841bc76-5657-46c2-942e-0860f02ea3ec",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-19T22:06:47.162401"
+  },
+  "4d383add3949af4cbdd7eb1dc2bed214": {
+    "company": "Stripe",
+    "title": "Account Executive, Commercial (New Business)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7863714",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-19T22:06:56.175648"
   }
 }
