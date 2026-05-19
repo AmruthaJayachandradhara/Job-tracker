@@ -27157,5 +27157,29 @@
     "location": "London, England, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-19T13:50:26.670547"
+  },
+  "8b035dac5ecbc475bf87d0449aee2262": {
+    "company": "Render",
+    "title": "Developer Relations Engineer, CommunityRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/4611bde4-47ac-45fc-ab56-235489e52682",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-19T16:44:32.936504"
+  },
+  "6c40259df72e90a69d03feefb1d3e962": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Federal System Integrators (FSI)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438277002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-19T16:45:01.360497"
+  },
+  "74847f9ac827184cacb456015a3c7b62": {
+    "company": "Databricks",
+    "title": "Enterprise Hunter Account Executive - FSI South",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438960002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-19T16:45:01.360699"
   }
 }
