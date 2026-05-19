@@ -27125,5 +27125,37 @@
     "location": "Maryland; Virginia; Washington, D.C.",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-19T10:32:13.546835"
+  },
+  "75bac2d11e39894d588dc0e0a29a7fa8": {
+    "company": "Databricks",
+    "title": "Enterprise Hunter Account Executive - FSI West",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8349331002",
+    "location": "Mumbai, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-19T13:50:23.824209"
+  },
+  "7d3eb6766fe22bcfb63ca630c4a2eced": {
+    "company": "Databricks",
+    "title": "Enterprise Hunter Account Executive - North",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438977002",
+    "location": "Delhi, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-19T13:50:23.824247"
+  },
+  "e2aa59cacb9e14f7e10dd14cd4c91444": {
+    "company": "Databricks",
+    "title": "Enterprise Hunter Account Executive - West",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438954002",
+    "location": "Mumbai, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-19T13:50:23.824257"
+  },
+  "f892026a885a1b81788554c0ff33d084": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise - French Speaker",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7739641003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-19T13:50:26.670547"
   }
 }
