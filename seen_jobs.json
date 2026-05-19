@@ -27101,5 +27101,13 @@
     "location": "NYC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-18T22:49:46.253158"
+  },
+  "1d8638b49c4829c2e43862b286563d30": {
+    "company": "Databricks",
+    "title": "Site Reliability Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493168002",
+    "location": "Costa Rica",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-19T02:37:44.063482"
   }
 }
