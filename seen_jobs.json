@@ -27309,5 +27309,21 @@
     "location": "Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-19T22:06:56.175648"
+  },
+  "df6de5c6921f14b5de3ad488e7272d32": {
+    "company": "Dialpad",
+    "title": "Software Engineer (Search)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8541117002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-20T06:40:26.635258"
+  },
+  "f7512ba4b15171bb7a6b63500461c9cf": {
+    "company": "Stripe",
+    "title": "Associate ( Risk/Fraud Operations)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7577341",
+    "location": "IN-Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-20T06:40:37.905738"
   }
 }
