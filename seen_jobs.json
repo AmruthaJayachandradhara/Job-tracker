@@ -27325,5 +27325,45 @@
     "location": "IN-Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-05-20T06:40:37.905738"
+  },
+  "2202329a6446b7169bdce63ac512d714": {
+    "company": "Databricks",
+    "title": "RVP, GTM Technical & Product Execution Excellence",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8486165002",
+    "location": "USCA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-20T16:47:06.562331"
+  },
+  "ff392f795b58a069bba117c3ff2108ef": {
+    "company": "Tanium",
+    "title": "Sales Development Representative",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7944492",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-20T16:47:14.820138"
+  },
+  "039650a7c05a5fbc4be5509a8505ecc2": {
+    "company": "Tanium",
+    "title": "Sales Development Representative",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7944495",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-20T16:47:14.820167"
+  },
+  "4b9515369ad3c23bd19b7baef52a26db": {
+    "company": "Mercury",
+    "title": "Customer Support Specialist - EMEA",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6000972004",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-20T16:47:20.485542"
+  },
+  "a06f42af9e492945c698d3e2b6eefd6d": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB - New Business",
+    "url": "https://stripe.com/jobs/search?gh_jid=7904613",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-20T16:47:23.622142"
   }
 }
