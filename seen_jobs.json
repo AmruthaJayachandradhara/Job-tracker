@@ -27365,5 +27365,29 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-20T16:47:23.622142"
+  },
+  "c9167a4e5a7cf5d1acde76d1decb9e65": {
+    "company": "Gumloop",
+    "title": "Full Stack Software Engineer",
+    "url": "https://jobs.ashbyhq.com/gumloop/a7b6de54-8e37-4d69-ac03-f9c1d4075205",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-20T19:13:26.269324"
+  },
+  "fdda127d2fe185e7b575fdad6cd9e06e": {
+    "company": "Dialpad",
+    "title": "Account Executive, Commercial",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8557265002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-20T19:14:03.459843"
+  },
+  "7a4f8603d20ec666d1dd80f04c442555": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups - Core Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=7921701",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-20T19:14:15.265646"
   }
 }
