@@ -27389,5 +27389,21 @@
     "location": "Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-20T19:14:15.265646"
+  },
+  "124c163076efded127168b2f473f3123": {
+    "company": "Stripe",
+    "title": "Product Counsel, Data Products",
+    "url": "https://stripe.com/jobs/search?gh_jid=7930151",
+    "location": "US remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-20T21:43:14.208520"
+  },
+  "098b13353cc0a44605c219f8b5d53eff": {
+    "company": "Stripe",
+    "title": "Product Counsel, Terminal",
+    "url": "https://stripe.com/jobs/search?gh_jid=7558757",
+    "location": "US-Remote, US-SEA, US-SF, US-NYC, Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-20T21:43:14.208550"
   }
 }
