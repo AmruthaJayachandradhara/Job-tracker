@@ -27461,5 +27461,13 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-21T10:32:09.787878"
+  },
+  "b01d1e3552c62bba6d206ea4ec6af82e": {
+    "company": "Stripe",
+    "title": "International Reporting Tax Advisory Consultant",
+    "url": "https://stripe.com/jobs/search?gh_jid=7931101",
+    "location": "Dublin",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-05-21T13:56:20.758683"
   }
 }
