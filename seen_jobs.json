@@ -27469,5 +27469,45 @@
     "location": "Dublin",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-05-21T13:56:20.758683"
+  },
+  "c4ff123104bfcb4126142946379916d7": {
+    "company": "Databricks",
+    "title": "TA Operations Associate (Contract)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560319002",
+    "location": "Remote - California",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-21T16:35:44.435090"
+  },
+  "ee9ed59c53d20ed95a1d0d9f85662aa4": {
+    "company": "Dialpad",
+    "title": "Founding AI Systems Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8512122002",
+    "location": "Kitchener, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T16:35:49.131762"
+  },
+  "378d08edcce465781cfb1684d4558df3": {
+    "company": "Carta",
+    "title": "Fund Accountant",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7742705003",
+    "location": "Hong Kong",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T16:36:01.502286"
+  },
+  "16c610bf2c4ea9036a5577750e12f60b": {
+    "company": "Carta",
+    "title": "Fund Accountant",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7742711003",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T16:36:01.502309"
+  },
+  "74845a3e7d81ae8c24fa199a1ce4e55d": {
+    "company": "Carta",
+    "title": "Support Analyst",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7742703003",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T16:36:01.502663"
   }
 }
