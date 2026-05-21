@@ -27437,5 +27437,29 @@
     "location": "IN-Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-21T06:43:31.798859"
+  },
+  "55a45e0da4228eacf3d333f8bfb46ec5": {
+    "company": "Databricks",
+    "title": "Business Development Representative (French-speaking)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8558916002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T10:31:53.486995"
+  },
+  "ef15e971f7ae4cd9ddbfe9714c9ae81d": {
+    "company": "Databricks",
+    "title": "Hunter Account Executive - Middle East",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8556252002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T10:31:53.488464"
+  },
+  "97f465cf5b673258c6daadd3a6ee165d": {
+    "company": "Stripe",
+    "title": "Support Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7945056",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T10:32:09.787878"
   }
 }
