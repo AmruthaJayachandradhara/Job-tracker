@@ -27613,5 +27613,21 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-21T20:45:51.103272"
+  },
+  "d874780e3b96876f96e02346a78a33da": {
+    "company": "Northwood Space",
+    "title": "DSP Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/965d06ea-9701-4b28-a87c-e44897136691",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T22:11:37.308962"
+  },
+  "5a1cd33f16abc5158ebf7adf0f4f6759": {
+    "company": "Northwood Space",
+    "title": "DSP Systems Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/84dd3d37-7f2e-41af-b9d1-42683a28a6b7",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T22:11:37.309231"
   }
 }
