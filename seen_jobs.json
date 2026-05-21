@@ -27405,5 +27405,21 @@
     "location": "US-Remote, US-SEA, US-SF, US-NYC, Toronto",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-20T21:43:14.208550"
+  },
+  "0bf91be90dfd9d3d7f65b7733f8b9820": {
+    "company": "Replit",
+    "title": "Security Engineer - Vuln Management (Code)",
+    "url": "https://jobs.ashbyhq.com/replit/e2e3345e-251c-49c4-821b-6748d73efaeb",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T02:14:44.405043"
+  },
+  "25b952a75eabd82c5d71f3056a744fd4": {
+    "company": "Tanium",
+    "title": "Sales Development Representative",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7944510",
+    "location": "Tokyo, Japan (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T02:14:45.217020"
   }
 }
