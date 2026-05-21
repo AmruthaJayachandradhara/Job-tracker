@@ -27509,5 +27509,101 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-21T16:36:01.502663"
+  },
+  "d8ac724f117e42360573b0293ff256ca": {
+    "company": "Gumloop",
+    "title": "Founding Brand Designer",
+    "url": "https://jobs.ashbyhq.com/gumloop/9bf3a57a-799c-489d-850a-940da2fdb043",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T18:52:55.247224"
+  },
+  "2e4c140f1b3bd9e8457483323f31da85": {
+    "company": "Render",
+    "title": "Software Engineer, Network InfrastructureRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T18:52:56.921619"
+  },
+  "ae041a4574a07f000d2e337db5364c26": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560407002",
+    "location": "Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T18:53:26.253568"
+  },
+  "57acf58befc89cd8d547badd8d1ce24c": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560401002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T18:53:26.253587"
+  },
+  "69c34e91b983ae8d5a7e418fbb969121": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560393002",
+    "location": "Munich, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T18:53:26.253597"
+  },
+  "faa044775e5efc533beb24ee9f4a7844": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8551533002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T18:53:26.253635"
+  },
+  "7d7d15d1ee35f9efb8bd91ea7a080fb0": {
+    "company": "Dialpad",
+    "title": "Analytics Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8558973002",
+    "location": "Kitchener, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T18:53:30.813892"
+  },
+  "3b8677c54eb064c1b96dcbefbdc2542a": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Enterprise & Ecosystem",
+    "url": "https://stripe.com/jobs/search?gh_jid=7767706",
+    "location": "SF, SEA, NYC, Chicago, US Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T18:53:46.273671"
+  },
+  "5836ce11bf554260cf72b5199dbfcfb9": {
+    "company": "Stripe",
+    "title": "Indirect Tax (VAT/GST) Advisory Consultant",
+    "url": "https://stripe.com/jobs/search?gh_jid=7950653",
+    "location": "NYC, SF, SEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T18:53:46.273970"
+  },
+  "f5616f09f9fbd372a89d1ea8323ec3dc": {
+    "company": "Stripe",
+    "title": "People Consultant",
+    "url": "https://stripe.com/jobs/search?gh_jid=7950735",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T18:53:46.274687"
+  },
+  "44794b48289423e70b84f39b3a50ce58": {
+    "company": "Gusto",
+    "title": "Future Opportunities: Dedicated Service Advisor (Chicago)",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7927179",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T18:53:46.962435"
+  },
+  "3d99d1a5578a0ac99d07f951ab6ae8f1": {
+    "company": "Gusto",
+    "title": "Future Opportunities: Dedicated Service Advisor (Phoenix)",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7927184",
+    "location": "Phoenix, AZ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T18:53:46.962464"
   }
 }
