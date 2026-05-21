@@ -27629,5 +27629,21 @@
     "location": "Torrance, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-21T22:11:37.309231"
+  },
+  "4bbed3f5fa7c2e4f5ab127983bb50f0c": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7926587",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T23:52:08.624307"
+  },
+  "3dc716dd0e214cc95fa9f5d7d6d7a08e": {
+    "company": "Stripe",
+    "title": "Software Engineer IC-02 ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7926966",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T23:52:08.624429"
   }
 }
