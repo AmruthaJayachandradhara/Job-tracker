@@ -27421,5 +27421,21 @@
     "location": "Tokyo, Japan (Hybrid)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-21T02:14:45.217020"
+  },
+  "ecd080cbe9ae243915b4c1b1b0d2c7a2": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Retail/CPG",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8440917002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T06:43:15.244541"
+  },
+  "05c1183825f1bc2539c80cd4a2b0b9cb": {
+    "company": "Stripe",
+    "title": "Software Engineer, Payments & Risk",
+    "url": "https://stripe.com/jobs/search?gh_jid=4952353",
+    "location": "IN-Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-21T06:43:31.798859"
   }
 }
