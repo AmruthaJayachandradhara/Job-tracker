@@ -27645,5 +27645,21 @@
     "location": "New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-21T23:52:08.624429"
+  },
+  "294de77995f2c949ad021608e282e98e": {
+    "company": "Databricks",
+    "title": "Business Operations Associate",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482370002",
+    "location": "Bengaluru, India; Mumbai, India",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-22T10:16:33.235273"
+  },
+  "eede5fd54fb925a0626f8a1e3cdf7eb6": {
+    "company": "Stripe",
+    "title": "AI Specialist, Treasury Finance Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=7947074",
+    "location": "IN-Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-22T10:16:48.408919"
   }
 }
