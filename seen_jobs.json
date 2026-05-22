@@ -27677,5 +27677,61 @@
     "location": "Tempe, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-22T16:15:27.614106"
+  },
+  "e71a90e715a1f499eb723a0ddf98ea21": {
+    "company": "Replit",
+    "title": "Tier 2 Help Desk Technician",
+    "url": "https://jobs.ashbyhq.com/replit/60c2656b-5b23-44b8-9b04-98169e7b53e7",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-22T18:29:21.028927"
+  },
+  "7f752dfc4f49446dcb46a4a1aba825ef": {
+    "company": "Stripe",
+    "title": "Account Executive, Commercial (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7863714",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-22T18:29:29.792953"
+  },
+  "ef76766af1a8ab89852fd49bcafb9057": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Tax)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7940059",
+    "location": "US-Chicago, US-SF-HQ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-22T18:29:29.793175"
+  },
+  "3ecc406cb32ae231df2332502b5ff625": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7931247",
+    "location": "NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-22T18:29:29.793194"
+  },
+  "6028bd22138d2c276d566fc02eace179": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7277406",
+    "location": "Chicago and NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-22T18:29:29.793209"
+  },
+  "9ad171f36ed483d6181c10de38afff56": {
+    "company": "Stripe",
+    "title": "Social Media, Customer Support Associate ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7867328",
+    "location": "Mexico",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-22T18:29:29.797209"
+  },
+  "9055eb941e72157c97e289a27326a9e9": {
+    "company": "Gusto",
+    "title": "Jr. Onboarding Associate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7921867",
+    "location": "Denver, CO - Hybrid; Chicago, IL - Remote; Las Vegas, NV - Remote;  Phoenix, AZ - Remote",
+    "filter_reason": "title match: 'jr.'",
+    "first_seen": "2026-05-22T18:29:30.493212"
   }
 }
