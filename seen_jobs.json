@@ -27733,5 +27733,13 @@
     "location": "Denver, CO - Hybrid; Chicago, IL - Remote; Las Vegas, NV - Remote;  Phoenix, AZ - Remote",
     "filter_reason": "title match: 'jr.'",
     "first_seen": "2026-05-22T18:29:30.493212"
+  },
+  "396f9302d0d9c59de2eb3743041be4e7": {
+    "company": "Render",
+    "title": "Recruiting CoordinatorRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/9ea0f458-30ca-48ca-a3e3-3db386bafee4",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-22T20:27:47.843620"
   }
 }
