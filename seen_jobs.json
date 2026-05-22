@@ -27661,5 +27661,13 @@
     "location": "IN-Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-22T10:16:48.408919"
+  },
+  "5a8e647327f57bfc556e02a98bba5982": {
+    "company": "Stripe",
+    "title": "Product Support Specialist (Mandarin-speaking)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7945056",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-22T13:24:27.417232"
   }
 }
