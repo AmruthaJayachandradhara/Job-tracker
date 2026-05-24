@@ -27741,5 +27741,13 @@
     "location": "See posting",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-22T20:27:47.843620"
+  },
+  "988db4f763b503886e224a6001344433": {
+    "company": "Stripe",
+    "title": "Contracting Operations Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7941890",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-24T11:08:12.689196"
   }
 }
