@@ -27749,5 +27749,13 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-24T11:08:12.689196"
+  },
+  "ef57be979f86f7ac4556641f8047701a": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise",
+    "url": "https://stripe.com/jobs/search?gh_jid=7717676",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-25T02:32:25.064865"
   }
 }
