@@ -27765,5 +27765,13 @@
     "location": "Japan",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-25T07:03:16.070081"
+  },
+  "ea97ea57f74c5c834a662e224bd12b31": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Commercial",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7742220003",
+    "location": "Dublin, Dublin, Ireland, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-25T11:43:31.404461"
   }
 }
