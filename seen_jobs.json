@@ -28061,5 +28061,13 @@
     "location": "US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-26T21:29:34.217695"
+  },
+  "a2339e6f084240a1e9b3393d081b6505": {
+    "company": "Stripe",
+    "title": "Commercial Counsel",
+    "url": "https://stripe.com/jobs/search?gh_jid=7950824",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T23:01:51.344437"
   }
 }
