@@ -28037,5 +28037,29 @@
     "location": "CDMX",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-26T19:56:32.445328"
+  },
+  "5d8cc659b13c8084c148e0e55e1b3800": {
+    "company": "Fivetran",
+    "title": "Systems Engineer, Integrations (Data and Systems)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7668146003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T21:29:21.641707"
+  },
+  "8334f431653b3332760a67a5026cfa2d": {
+    "company": "Stripe",
+    "title": "Fraud Patterns Analysts",
+    "url": "https://stripe.com/jobs/search?gh_jid=7913410",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T21:29:34.216583"
+  },
+  "64ae79d41f53db749e44d3a7adcb3f60": {
+    "company": "Stripe",
+    "title": "Payments Fraud Investigator",
+    "url": "https://stripe.com/jobs/search?gh_jid=7913406",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T21:29:34.217695"
   }
 }
