@@ -27821,5 +27821,117 @@
     "location": "Remote Poland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-26T13:48:12.963885"
+  },
+  "06da5695647a2be08c6299ab62b89e51": {
+    "company": "Pomelo Care",
+    "title": "Virtual Doula (California)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6005952004",
+    "location": "California, USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T17:20:52.046762"
+  },
+  "a963580c7b0f5a1f2e0d8662b6eba886": {
+    "company": "Encord",
+    "title": "Software Engineer, Front-End Leaning",
+    "url": "https://jobs.ashbyhq.com/encord/61b5882e-5496-4119-841a-63dd8d42cf14",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T17:21:05.393160"
+  },
+  "dd05135224edb232e3b8954b455e6886": {
+    "company": "Encord",
+    "title": "Software Engineer, Backend",
+    "url": "https://jobs.ashbyhq.com/encord/64f0a320-e978-4aac-95db-de15852daa42",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T17:21:05.393183"
+  },
+  "d8bd73f2881bff5877dd98f26bd7cc64": {
+    "company": "Encord",
+    "title": "Deployment Strategist",
+    "url": "https://jobs.ashbyhq.com/encord/79ad6b1c-cb5b-4caa-a842-aaa12fc82d6b",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T17:21:05.393199"
+  },
+  "412c772b330290a44532facb2d956b9e": {
+    "company": "Encord",
+    "title": "Software Engineer, Full-Stack",
+    "url": "https://jobs.ashbyhq.com/encord/48e61550-e427-4048-a1b1-b1e1b483a6bf",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T17:21:05.393243"
+  },
+  "cb6ac937b9300808f9d5d2795fa52aac": {
+    "company": "Encord",
+    "title": "Human Data Solutions Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/b4eb9359-fb8a-4791-b399-402b01b13a13",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T17:21:05.393254"
+  },
+  "c38046b401e0be74c79e0161f8eeff9e": {
+    "company": "Encord",
+    "title": "Human Data Solutions Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/e9626b7a-56b9-4c74-965d-7dc23d6578d6",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T17:21:05.393267"
+  },
+  "88d184e83bcbc9f7235153226266f8a8": {
+    "company": "Databricks",
+    "title": "Legal Counsel, EMEA Commercial",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8564394002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T17:21:17.856776"
+  },
+  "0fad7cdb8192b5e7de1dd3be3d64f983": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Israel",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8551458002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T17:21:24.395662"
+  },
+  "b7c0a8a265877f37afe4fe26d6b64044": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Mid-Market, Canada",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8561622002",
+    "location": "Remote, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T17:21:24.395682"
+  },
+  "c5f5bffefc29b2c500b644f5cb175e9f": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - Dubai",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8499746002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T17:21:24.396490"
+  },
+  "bf8fcd389557c9370e4a05e5de75ab26": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - South Africa",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8555134002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T17:21:24.396508"
+  },
+  "ba7e54add8ce486fac57823d76164826": {
+    "company": "EarnIn",
+    "title": "GenAI Contractor",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7939469",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T17:21:39.220896"
+  },
+  "f80be2a3264711c9d9f3e113893c4414": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (The Repayment UX)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7748356003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T17:21:40.064542"
   }
 }
