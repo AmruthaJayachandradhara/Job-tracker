@@ -27797,5 +27797,29 @@
     "location": "Pasig City, Metro Manila, Philippines",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-26T06:38:38.820073"
+  },
+  "da2fee6d49147efd5c2b50c93883b044": {
+    "company": "Databricks",
+    "title": "Analyst, Talent Acquisition Operations",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8555819002",
+    "location": "Belgrade, Serbia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T13:47:54.137564"
+  },
+  "ea311487fe824569df4581670a08aa31": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Greece/Malta ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8528922002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T13:48:03.358087"
+  },
+  "fe8182512100b1efee4e12fdd7d4acec": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (The Repayment UX)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7746922003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T13:48:12.963885"
   }
 }
