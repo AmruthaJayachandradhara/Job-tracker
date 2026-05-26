@@ -27933,5 +27933,109 @@
     "location": "Remote Spain",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-26T17:21:40.064542"
+  },
+  "cfcba0a541c43948e2f6b2e8bff2cd59": {
+    "company": "Render",
+    "title": "Software Engineer, Network InfrastructureRemote: United States or Remote: Canada or San Francisco HQ",
+    "url": "https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T19:55:36.950635"
+  },
+  "72e25123742c5599579f84378c50ccbd": {
+    "company": "Encord",
+    "title": "Commercial Associate, Physical AI",
+    "url": "https://jobs.ashbyhq.com/encord/d585cd56-a9f1-4f7b-b205-1ec21a7b8876",
+    "location": "San Francisco",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-26T19:55:55.544138"
+  },
+  "0bd86a90d96d6f4aab0eed167f47d8e3": {
+    "company": "Encord",
+    "title": "Commercial Associate, Physical AI",
+    "url": "https://jobs.ashbyhq.com/encord/99604b6e-3224-406a-a19b-19ddcb554000",
+    "location": "New York",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-26T19:55:55.544472"
+  },
+  "fb099af9b54bd3dd010b7ef895bbd367": {
+    "company": "Encord",
+    "title": "Commercial Associate, Physical AI",
+    "url": "https://jobs.ashbyhq.com/encord/26851f00-863f-4287-b604-1b645500740b",
+    "location": "London",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-26T19:55:55.544482"
+  },
+  "be351e5523a1a314636c0f7caa1fbd83": {
+    "company": "Encord",
+    "title": "GTM Special Projects, Physical AI",
+    "url": "https://jobs.ashbyhq.com/encord/286eb8b3-b0e9-45fd-b9ea-af0681ea9af8",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T19:55:55.544496"
+  },
+  "3cb3504e6020b941f7fc7768fdfb6a5d": {
+    "company": "GitLab",
+    "title": "Business Development Representative, SLED",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8562271002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T19:56:13.256451"
+  },
+  "0a60266a81e94d765bc55cd56c1a8fea": {
+    "company": "Tanium",
+    "title": "Partner Development Representative",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7944492",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T19:56:14.654699"
+  },
+  "9bae92d9c1478103c335516cb201cb50": {
+    "company": "EarnIn",
+    "title": "AI Marketing Creative Specialist",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7954342",
+    "location": "Mountain View, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T19:56:30.727137"
+  },
+  "94f7feba5bc7bd35d0b67f9d31eabcda": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Repayment UX)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7746922003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T19:56:31.500266"
+  },
+  "a9a45cbe1c2515c8a66f2c3fd163c233": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Repayment UX)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7748356003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T19:56:31.500286"
+  },
+  "c2ba35cb89b1171f11d457747c5f0970": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Payments Experiences",
+    "url": "https://stripe.com/jobs/search?gh_jid=7895287",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T19:56:32.441181"
+  },
+  "7684f7d1740e978af369bd9561408fc9": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Payments Experiences",
+    "url": "https://stripe.com/jobs/search?gh_jid=7895284",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T19:56:32.442434"
+  },
+  "f93ccd51dda460b096dd315f0d6f24bd": {
+    "company": "Stripe",
+    "title": "Talent and Development Facilitator",
+    "url": "https://stripe.com/jobs/search?gh_jid=7954511",
+    "location": "CDMX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-26T19:56:32.445328"
   }
 }
