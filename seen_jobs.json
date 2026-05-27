@@ -28173,5 +28173,21 @@
     "location": "Remote, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-27T14:19:41.708528"
+  },
+  "dbd4b0361a876eb677a0d98a94272563": {
+    "company": "GitLab",
+    "title": "G&A Engineer, Netsuite",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8493970002",
+    "location": "Remote, North America",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T17:51:57.499298"
+  },
+  "86b2804527f989be8cb3fd7fade6e378": {
+    "company": "Stripe",
+    "title": "Business Partner Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7919064",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T17:52:06.833629"
   }
 }
