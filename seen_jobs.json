@@ -28085,5 +28085,37 @@
     "location": "San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-27T02:32:05.204265"
+  },
+  "ee462f2db2744bf10409742d8bf009fe": {
+    "company": "EarnIn",
+    "title": "Developer Experience Contractor",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7939471",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T06:55:12.619906"
+  },
+  "8537ba66421270c7e0bb8c8cd5a79956": {
+    "company": "EarnIn",
+    "title": "Platform Services Contractor",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7939467",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T06:55:12.620009"
+  },
+  "9f0c426bd5a50d7562dbb41aef190f3a": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7680548",
+    "location": "Sydney Or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T06:55:14.318595"
+  },
+  "05cf11ce188896ebef5eddfd05634e14": {
+    "company": "Stripe",
+    "title": "Strategic Sourcing Analyst ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7941741",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T06:55:14.323407"
   }
 }
