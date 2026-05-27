@@ -28133,5 +28133,45 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-27T10:48:32.618805"
+  },
+  "3445728e2b0c4419f3e22296285d7cb6": {
+    "company": "Encord",
+    "title": "Software Engineer, Physical AI",
+    "url": "https://jobs.ashbyhq.com/encord/364c9c06-286a-4e94-93b5-57ebe31b9eff",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T14:19:23.545667"
+  },
+  "fad1177ed6fe979d48b2c3f6949f14a0": {
+    "company": "Encord",
+    "title": "Product Engineer, Physical AI",
+    "url": "https://jobs.ashbyhq.com/encord/e93dca3d-7a84-4d0a-b482-81cb3be328df",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T14:19:23.545960"
+  },
+  "3f67a803ca34d4e6e29abafbe0d7c218": {
+    "company": "Encord",
+    "title": "Product Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/0bdd6260-d8e1-41bd-82de-591ee98e5260",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T14:19:23.545979"
+  },
+  "8a0f15273ae3e658a4b07ffce4080fbd": {
+    "company": "GitLab",
+    "title": "Site Reliability Engineer, Environment Automation",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8504232002",
+    "location": "Remote, Canada; Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T14:19:41.708509"
+  },
+  "84750edaf53553a2003ecc40d06d6854": {
+    "company": "GitLab",
+    "title": "Site Reliability Engineer, Environment Automation",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8464417002",
+    "location": "Remote, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T14:19:41.708528"
   }
 }
