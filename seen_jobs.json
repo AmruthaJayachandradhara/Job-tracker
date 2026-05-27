@@ -28069,5 +28069,21 @@
     "location": "United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-26T23:01:51.344437"
+  },
+  "06cec1acc3c15fad0662c03b5e03199b": {
+    "company": "Replit",
+    "title": "Security Engineer - Vuln Management (Infra)",
+    "url": "https://jobs.ashbyhq.com/replit/4b290489-9ce6-45f9-bbc8-e1baa4bd8b6f",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T02:31:53.351254"
+  },
+  "326f550df0318e3b8643b895514a04ed": {
+    "company": "Carta",
+    "title": "Private Equity Content Engineer",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7552210003",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T02:32:05.204265"
   }
 }
