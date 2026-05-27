@@ -28213,5 +28213,45 @@
     "location": "Denver, CO",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-27T20:00:08.291193"
+  },
+  "facc1c62947ee0791e301f98f1abd6db": {
+    "company": "Dialpad",
+    "title": "AI Systems Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8512122002",
+    "location": "Kitchener, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T21:57:20.970077"
+  },
+  "9b8638e2bf989f6a39b820b4fcf1976b": {
+    "company": "GitLab",
+    "title": "Executive Assistant ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8523640002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T21:57:22.384485"
+  },
+  "5af20b3c08a8d98ade1835bd5a578803": {
+    "company": "Stripe",
+    "title": "Account Executive, Mid Market (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7863714",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T21:57:32.468767"
+  },
+  "49042052c6b171940598bb4c6af46071": {
+    "company": "Stripe",
+    "title": "Machine Learning Engineer, Capital Underwriting",
+    "url": "https://stripe.com/jobs/search?gh_jid=7952048",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T21:57:32.471136"
+  },
+  "2ffa8b86f17db83c280902454bed4368": {
+    "company": "Gusto",
+    "title": "Benefit Services - Member Fulfillment",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7939995",
+    "location": "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T21:57:33.544773"
   }
 }
