@@ -28189,5 +28189,29 @@
     "location": "Dublin, Ireland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-27T17:52:06.833629"
+  },
+  "0cd30e346da08941b1d62a6abcbf6ff2": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8323707002",
+    "location": "Remote - California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T19:59:49.113226"
+  },
+  "ac709ed93697af9c836746ac15b66777": {
+    "company": "Stripe",
+    "title": "Account Executive, Velocity Hunter (Spanish Speaking), Iberia",
+    "url": "https://stripe.com/jobs/search?gh_jid=7907485",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T20:00:07.615319"
+  },
+  "bbdeb68223a0537edf633e56a69c38be": {
+    "company": "Gusto",
+    "title": "Fraud Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7943773",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T20:00:08.291193"
   }
 }
