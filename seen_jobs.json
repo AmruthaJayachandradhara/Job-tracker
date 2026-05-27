@@ -28117,5 +28117,21 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-27T06:55:14.323407"
+  },
+  "83323db83582fc95b8bf60e62e4e60f6": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540455002",
+    "location": "Seoul, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T10:48:15.426465"
+  },
+  "e69465ff07d385853d5ab28ee9d7cbf5": {
+    "company": "Stripe",
+    "title": "Services Account Executive",
+    "url": "https://stripe.com/jobs/search?gh_jid=7566383",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-27T10:48:32.618805"
   }
 }
