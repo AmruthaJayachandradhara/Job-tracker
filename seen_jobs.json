@@ -28253,5 +28253,29 @@
     "location": "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-27T21:57:33.544773"
+  },
+  "e4efd3de36a5851295d781174b2ce4a0": {
+    "company": "Carta",
+    "title": "Data Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7750365003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-28T02:06:30.725990"
+  },
+  "35c06d08b2df88622bae0cb0f70e20a9": {
+    "company": "Carta",
+    "title": "Data Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7750374003",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-28T02:06:30.726020"
+  },
+  "75b9a67941d2791ade987b9ef2b8b64b": {
+    "company": "Carta",
+    "title": "Data Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7750376003",
+    "location": "Sandy, UT",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-28T02:06:30.726034"
   }
 }
