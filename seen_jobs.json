@@ -28277,5 +28277,21 @@
     "location": "Sandy, UT",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-28T02:06:30.726034"
+  },
+  "52e8e9e573965e9cbab0524e3b5015b2": {
+    "company": "Affirm",
+    "title": "Compliance Analyst I",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7738010003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-28T10:45:26.235289"
+  },
+  "c5ffba32bc3fe97759d486fd7ce0be09": {
+    "company": "Stripe",
+    "title": "Product Designer, Risk",
+    "url": "https://stripe.com/jobs/search?gh_jid=7954118",
+    "location": "Ireland / United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-28T10:45:27.302492"
   }
 }
