@@ -28301,5 +28301,29 @@
     "location": "Remote - USA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-28T14:29:18.690128"
+  },
+  "fc36f69a5f53dd6caae1db61f0beb776": {
+    "company": "Fivetran",
+    "title": "Customer Support Engineer",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7625836003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-28T17:56:46.984720"
+  },
+  "33fd752cd1ed75da16095b9e46a20f24": {
+    "company": "Stripe",
+    "title": "IT Governance, Risk & Compliance (GRC) Specialist, Luxembourg",
+    "url": "https://stripe.com/jobs/search?gh_jid=7587254",
+    "location": "Luxembourg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-28T17:57:01.709151"
+  },
+  "a04bb218af0a2f901c910c7d25a366a2": {
+    "company": "Gusto",
+    "title": "Readiness Advocate, BenOps",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7950937",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-28T17:57:02.476013"
   }
 }
