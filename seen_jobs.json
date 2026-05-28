@@ -28325,5 +28325,37 @@
     "location": "Denver, CO",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-28T17:57:02.476013"
+  },
+  "a790ec4309795e54714bab20a18b3f7a": {
+    "company": "GitLab",
+    "title": "Design Operations Specialist ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8498821002",
+    "location": "Remote, Canada; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, Spain; Remote, United Kingdom; Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-28T20:10:27.256610"
+  },
+  "d4009416dd421f6707bbe81694b1f12f": {
+    "company": "Mercury",
+    "title": "Revenue Strategy",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5848243004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-28T20:11:04.576509"
+  },
+  "40d194bc27ba344885056cedec5fa292": {
+    "company": "Stripe",
+    "title": "People Systems Platform Engineer (Salesforce)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7930153",
+    "location": "SF, SEA, NY, CHI, US-REM",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-28T20:11:07.935557"
+  },
+  "459e8c97779f543cf7886135bf982d0b": {
+    "company": "Stripe",
+    "title": "Policy Development & Strategy",
+    "url": "https://stripe.com/jobs/search?gh_jid=7858723",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-28T20:11:07.935594"
   }
 }
