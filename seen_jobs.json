@@ -28357,5 +28357,13 @@
     "location": "US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-28T20:11:07.935594"
+  },
+  "bef2d01473a3225b0e9a98e7beafa92d": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Money as a Service",
+    "url": "https://stripe.com/jobs/search?gh_jid=7325118",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-28T22:34:50.822474"
   }
 }
