@@ -28293,5 +28293,13 @@
     "location": "Ireland / United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-28T10:45:27.302492"
+  },
+  "bc7c8bf0791016ded3f6d6d24a9e3877": {
+    "company": "Coinbase",
+    "title": "Test Job",
+    "url": "https://www.coinbase.com/careers/positions/7963314?gh_jid=7963314",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-28T14:29:18.690128"
   }
 }
