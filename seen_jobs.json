@@ -28373,5 +28373,21 @@
     "location": "San Francisco, California, United States",
     "filter_reason": "title match: 'early career'",
     "first_seen": "2026-05-29T00:11:52.963496"
+  },
+  "dd7d062e93f04a7e2be7de643448a7bd": {
+    "company": "Northwood Space",
+    "title": "Network Engineer - Backbone",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/80b61d15-ef41-49c3-8824-d8396b83ad43",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-29T05:07:37.913241"
+  },
+  "21ed53bc15821d31242ae698aac40e61": {
+    "company": "Gusto",
+    "title": "Consumer Money Support Specialist, Tier 2 ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7964801",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-29T05:13:26.773805"
   }
 }
