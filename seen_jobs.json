@@ -28421,5 +28421,29 @@
     "location": "Remote, France",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-29T12:48:22.713603"
+  },
+  "40d8e987018f7d33c6767caba5ead820": {
+    "company": "EarnIn",
+    "title": "Application Programmer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7959016",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-29T16:36:24.667590"
+  },
+  "c070a37ae7fcab16f18cab7ffb7a80f2": {
+    "company": "Stripe",
+    "title": "Product Designer, Internal Tools",
+    "url": "https://stripe.com/jobs/search?gh_jid=7954207",
+    "location": "US / Canada",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-05-29T16:36:26.473172"
+  },
+  "57bdf9565f695020b120bf6685d90094": {
+    "company": "Stripe",
+    "title": "Sales Development Change Enablement Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7953987",
+    "location": "CHI and DUB",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-29T16:36:26.473856"
   }
 }
