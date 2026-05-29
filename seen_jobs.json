@@ -28445,5 +28445,29 @@
     "location": "CHI and DUB",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-29T16:36:26.473856"
+  },
+  "4a8344ffd51ce29c063e6774a9e3cbe2": {
+    "company": "Encord",
+    "title": "Technical Talent Acquisition Partner",
+    "url": "https://jobs.ashbyhq.com/encord/d344ffdf-6528-4f96-8999-42fe70e70b80",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-29T19:27:28.554928"
+  },
+  "100eafcc55861fd561b102ded4c8dd02": {
+    "company": "Dialpad",
+    "title": "Sales Engineer I",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8564663002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-29T19:27:44.262514"
+  },
+  "936bdc4c3cbb1d1e194d10f3161083da": {
+    "company": "Dialpad",
+    "title": "Sales Engineer III",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8564664002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-29T19:27:44.262540"
   }
 }
