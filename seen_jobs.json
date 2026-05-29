@@ -28365,5 +28365,13 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-28T22:34:50.822474"
+  },
+  "8e2cc848984b26bc345d07e80bb42126": {
+    "company": "Affirm",
+    "title": "Software Engineer, Early Career",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003",
+    "location": "San Francisco, California, United States",
+    "filter_reason": "title match: 'early career'",
+    "first_seen": "2026-05-29T00:11:52.963496"
   }
 }
