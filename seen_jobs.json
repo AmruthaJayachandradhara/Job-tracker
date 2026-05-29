@@ -28389,5 +28389,21 @@
     "location": "Denver, CO",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-29T05:13:26.773805"
+  },
+  "5dcfa8cfac560a2cf4b8318bb6ba89fd": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise - French speaking",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7742222003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-29T09:42:49.638324"
+  },
+  "31076755f91908ae5c4b94367cb142d6": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Growth",
+    "url": "https://stripe.com/jobs/search?gh_jid=7964956",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-29T09:43:42.213122"
   }
 }
