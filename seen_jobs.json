@@ -28405,5 +28405,21 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-29T09:43:42.213122"
+  },
+  "306fcf7b4397baf91b9af08c1c2d0f7d": {
+    "company": "GitLab",
+    "title": "AI Engineer",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8565469002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-29T12:48:22.713494"
+  },
+  "9f2f0be06f99c822d65ee4c03affe650": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - France",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8564377002",
+    "location": "Remote, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-29T12:48:22.713603"
   }
 }
