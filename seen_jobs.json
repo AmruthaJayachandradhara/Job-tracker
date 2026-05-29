@@ -28469,5 +28469,29 @@
     "location": "Austin, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-29T19:27:44.262540"
+  },
+  "544e1dfbfbd94162d8560ed123b84ee2": {
+    "company": "Render",
+    "title": "Solutions EngineerRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/d74e304b-7e7e-4c43-9467-cf4b0764cc24",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-29T21:44:20.343927"
+  },
+  "c48d7525c6917024889a00083ae02737": {
+    "company": "Replit",
+    "title": "Technical Sourcer",
+    "url": "https://jobs.ashbyhq.com/replit/73831fe4-c4d5-4e27-91b4-f7f83a99cb73",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-29T21:45:00.552597"
+  },
+  "600753ec159e4cd75c5bbdecf4a4a617": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (AI Agents)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7637067003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-29T21:45:09.286192"
   }
 }
