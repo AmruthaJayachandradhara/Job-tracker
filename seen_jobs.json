@@ -28493,5 +28493,13 @@
     "location": "Remote Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-05-29T21:45:09.286192"
+  },
+  "6110d4a676626225e9dd89226b8254f5": {
+    "company": "Listen Labs",
+    "title": "Growth Associate",
+    "url": "https://jobs.ashbyhq.com/listenlabs/45619706-19e6-4d71-b1e5-5248ba24cf4a",
+    "location": "New York, NY",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-05-30T02:06:07.502661"
   }
 }
