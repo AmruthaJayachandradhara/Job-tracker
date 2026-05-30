@@ -28501,5 +28501,13 @@
     "location": "New York, NY",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-05-30T02:06:07.502661"
+  },
+  "4e7a1527e2e226555081f0cceb636c09": {
+    "company": "Juicebox",
+    "title": "GTM Strategy",
+    "url": "https://jobs.ashbyhq.com/juicebox/54fc01a7-3e7a-4549-8ed0-fecbdaad38cd",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-05-30T20:44:20.839953"
   }
 }
