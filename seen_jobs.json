@@ -28517,5 +28517,53 @@
     "location": "London, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-01T09:12:17.478815"
+  },
+  "6e04d4b8b0e22e21520325940bc7180e": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Fashion & Retail",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8509687002",
+    "location": "Milan, Italy",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-01T15:49:16.403635"
+  },
+  "5dc0dadb4effdc9abf27c61315d4c990": {
+    "company": "GitLab",
+    "title": "Business Development Representative",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8571230002",
+    "location": "Remote, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-01T15:49:22.277560"
+  },
+  "05a96a015f7bf757df95d6bd8a613b8b": {
+    "company": "Affirm",
+    "title": "Machine Learning Engineer II (Servicing ML)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7719651003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-01T15:49:30.645983"
+  },
+  "3ed023dd669660aee26489c963c03f23": {
+    "company": "Affirm",
+    "title": "Machine Learning Engineer II (Servicing ML)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7719653003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-01T15:49:30.646003"
+  },
+  "7f97538995205b0862bcafd7852fd510": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups - Existing Business",
+    "url": "https://stripe.com/jobs/search?gh_jid=7921701",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-01T15:49:31.574535"
+  },
+  "d0ed7d3d716cca4311bf4d26a6a17352": {
+    "company": "Stripe",
+    "title": "Risk Operations Analyst - SSO",
+    "url": "https://stripe.com/jobs/search?gh_jid=7964759",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-01T15:49:31.577899"
   }
 }
