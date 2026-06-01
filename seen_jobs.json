@@ -28597,5 +28597,29 @@
     "location": "Mexico City, Mexico",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-01T20:10:40.335489"
+  },
+  "a83043649052ff9bf4256f67362ff4b5": {
+    "company": "Dialpad",
+    "title": "Software Engineer, Observability",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8475165002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-01T22:56:16.514442"
+  },
+  "df091a7ecdebe18dd64c9478303bd132": {
+    "company": "Stripe",
+    "title": "Executive Content Marketer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7967656",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-01T22:56:27.234392"
+  },
+  "279ea4c228822b7fa6de3b8e9b5c771c": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7922832",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-01T22:56:27.236854"
   }
 }
