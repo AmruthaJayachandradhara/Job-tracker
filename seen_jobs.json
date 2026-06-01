@@ -28565,5 +28565,37 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-01T15:49:31.577899"
+  },
+  "3955501b797667992047169b46f33989": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist - Retail",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569436002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-01T20:10:21.521830"
+  },
+  "82cb378beb48ff0404c2a66bd0325f9c": {
+    "company": "Dialpad",
+    "title": "Software Engineer (Integrations)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8573841002",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-01T20:10:27.542944"
+  },
+  "a1a429a258b7a04566ab593f4b873cd0": {
+    "company": "Dialpad",
+    "title": "Software Engineer, Salesforce (Integrations)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8573833002",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-01T20:10:27.542973"
+  },
+  "133adbbe9fd94bcee94b43ec6278e300": {
+    "company": "EarnIn",
+    "title": "IT Support Specialist",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7968041",
+    "location": "Mexico City, Mexico",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-01T20:10:40.335489"
   }
 }
