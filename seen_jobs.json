@@ -28757,5 +28757,85 @@
     "location": "San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-02T14:44:01.821220"
+  },
+  "d71f25067d376c2e112525b3f43d6c51": {
+    "company": "Profound",
+    "title": "Strategic Operations Associate",
+    "url": "https://jobs.ashbyhq.com/profound/2182bd69-27bd-424f-b297-fe87b2ea9f50",
+    "location": "New York, New York",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-02T18:32:03.664843"
+  },
+  "ddedf1df19725f1e1595683321e45d97": {
+    "company": "Profound",
+    "title": "Strategic Operations Associate, Data",
+    "url": "https://jobs.ashbyhq.com/profound/b91a8908-3abf-421c-83a6-6fe30b3f68b5",
+    "location": "New York, New York",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-02T18:32:03.665166"
+  },
+  "aea6b9332a988817a84a1c11e8620ed3": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569401002",
+    "location": "Toronto, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T18:32:17.473033"
+  },
+  "5533f7d5df8173d3be36351a457e06a1": {
+    "company": "EarnIn",
+    "title": "Machine Learning Analyst",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7958836",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T18:32:33.750993"
+  },
+  "25112c3f8c4ffba047dc532643b12582": {
+    "company": "EarnIn",
+    "title": "Machine Learning Analyst",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7958838",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T18:32:33.751016"
+  },
+  "fb04a59f583625a6d2d455a1fd7dc766": {
+    "company": "EarnIn",
+    "title": "Machine Learning Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7958468",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T18:32:33.751049"
+  },
+  "a1bf00e7ae0cb8e5359c77a3287f4821": {
+    "company": "EarnIn",
+    "title": "Office & People Partnering Specialist",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7958854",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T18:32:33.751070"
+  },
+  "973e9f0b4999a2af21c00d902f41fea1": {
+    "company": "EarnIn",
+    "title": "Platform Engineer (K8s)",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7958828",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T18:32:33.751099"
+  },
+  "83ddcc9d964f4941bf21d383155caa4a": {
+    "company": "Stripe",
+    "title": "Account Executive, AI Sales",
+    "url": "https://stripe.com/jobs/search?gh_jid=7964697",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T18:32:35.696174"
+  },
+  "a0a7653b2eb9afc538591bd985fd24a5": {
+    "company": "Stripe",
+    "title": "Major Financial Crimes & Insider Risk Investigator",
+    "url": "https://stripe.com/jobs/search?gh_jid=7964854",
+    "location": "Dublin, London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T18:32:35.698560"
   }
 }
