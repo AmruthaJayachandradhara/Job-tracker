@@ -28621,5 +28621,85 @@
     "location": "Seattle, WA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-01T22:56:27.236854"
+  },
+  "a8baa1ed49141dd0c5ae73c35d3688a2": {
+    "company": "Listen Labs",
+    "title": "Insights Strategist",
+    "url": "https://jobs.ashbyhq.com/listenlabs/d94d47de-93bf-49b5-80a8-066f21e393b9",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T05:22:56.742607"
+  },
+  "4018167246c08c8fafdb1655274269db": {
+    "company": "Listen Labs",
+    "title": "Insights Strategist",
+    "url": "https://jobs.ashbyhq.com/listenlabs/99e801b6-a0cf-468b-b11d-2d6549178651",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T05:22:56.742718"
+  },
+  "619b24ead7a6b7fd21f48a83d0651b58": {
+    "company": "Listen Labs",
+    "title": "Insights Analyst",
+    "url": "https://jobs.ashbyhq.com/listenlabs/0b65b19c-44c0-4440-9b6c-4d88c6024772",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T05:22:56.742895"
+  },
+  "e46fbce35d62683604f03ae5e86babfb": {
+    "company": "Listen Labs",
+    "title": "Insights Analyst",
+    "url": "https://jobs.ashbyhq.com/listenlabs/d6e5fda8-70a1-4cb8-b858-4d1fb9b30063",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T05:22:56.742910"
+  },
+  "bff9a8487fab24c3d219c60f1ecbde73": {
+    "company": "Databricks",
+    "title": "Lakebase Specialist Sales",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569572002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T05:23:12.054331"
+  },
+  "eb5b6c19349fd0bbaf28fd94714278ed": {
+    "company": "GitLab",
+    "title": "Commercial Legal Counsel",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8562593002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T05:23:18.103350"
+  },
+  "6eccbd6053dab0b0f827b32a2565fbd6": {
+    "company": "EarnIn",
+    "title": "Analytics Engineer ",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7958820",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T05:23:26.087485"
+  },
+  "32e184479a3acfc402326e8ed644ce82": {
+    "company": "EarnIn",
+    "title": "IT Support Specialist",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7958846",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T05:23:26.087630"
+  },
+  "e55a6e2493819a0fcb5cf663313548c8": {
+    "company": "EarnIn",
+    "title": "Machine Learning Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7958834",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T05:23:26.087654"
+  },
+  "a3e348f9dd42ab50bada0caa96c2b7bb": {
+    "company": "EarnIn",
+    "title": "Machine Learning Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7958844",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T05:23:26.087667"
   }
 }
