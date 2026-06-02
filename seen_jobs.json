@@ -28837,5 +28837,69 @@
     "location": "Dublin, London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-02T18:32:35.698560"
+  },
+  "45040c6464e8259fe41a43bbe8f46d53": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist, Healthcare & Life Sciences",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569461002",
+    "location": "Central - United States; Northeast - United States; Southeast - United States; United States; West Coast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T21:41:36.407846"
+  },
+  "992892a0ed6da0a49311fb79bbb4c08e": {
+    "company": "Databricks",
+    "title": "Named Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568153002",
+    "location": "West Coast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T21:41:36.408399"
+  },
+  "df1d3b766cf7d485fe27e7a7efef5209": {
+    "company": "Fivetran",
+    "title": "Business Process Analyst, Systems Engineering",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7761639003",
+    "location": "Oakland, California, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T21:41:39.090383"
+  },
+  "244ef8c9031a42c2972e2e230c315ff3": {
+    "company": "Fivetran",
+    "title": "Business Process Analyst, Systems Engineering",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7753678003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T21:41:39.090408"
+  },
+  "9c6775e497e74c1c4e2d46b3403b69a6": {
+    "company": "Stripe",
+    "title": "Account Executive, Existing Business, Platforms IC-03 ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7922618",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T21:41:51.737110"
+  },
+  "bc98400cdc9502b3e753c25839d259c8": {
+    "company": "Stripe",
+    "title": "Data Analyst - Economic Insights & Communications",
+    "url": "https://stripe.com/jobs/search?gh_jid=7376419",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T21:41:51.738319"
+  },
+  "cf8ad8e9eae7ed862c6f9fe8c62259d6": {
+    "company": "Stripe",
+    "title": "Security Engineer IC-02",
+    "url": "https://stripe.com/jobs/search?gh_jid=7923209",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T21:41:51.741002"
+  },
+  "ad151baa596d59967b6f7ca89c264358": {
+    "company": "Stripe",
+    "title": "Security Engineer IC-03",
+    "url": "https://stripe.com/jobs/search?gh_jid=7923191",
+    "location": "South San Francisco, CA and US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T21:41:51.741017"
   }
 }
