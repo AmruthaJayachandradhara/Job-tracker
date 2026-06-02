@@ -28709,5 +28709,53 @@
     "location": "Paris, France",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-02T10:03:52.075296"
+  },
+  "a150ebb928aa5440b9a2aea3dfb3d4cc": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002",
+    "location": "Maryland; Virginia; Washington, D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T14:43:44.866966"
+  },
+  "10ddc0d42122a470d26eae5283197be3": {
+    "company": "Databricks",
+    "title": "Executive Assistant",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8574366002",
+    "location": "San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T14:43:44.868170"
+  },
+  "33d5f05291ef7c56fea211d68a33e48b": {
+    "company": "Databricks",
+    "title": "Named Enterprise Account Executive - CPG",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8505897002",
+    "location": "Remote - Georgia; Remote - New York; Remote - Pennsylvania; Remote - Texas; Remote - Virginia; Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T14:43:44.868985"
+  },
+  "d098d0d958a8408da691bcf2198bc62d": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive - CMEG",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8573262002",
+    "location": "Remote - New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T14:43:44.873881"
+  },
+  "4f3317c3c80e92ea1f83c0aeee65db25": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive - CPG ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567767002",
+    "location": "Remote - Virginia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T14:43:44.873894"
+  },
+  "79b6ac376fb07a189c4ee44efc8c5526": {
+    "company": "Stripe",
+    "title": "Account Executive, AI Sales (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7954688",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T14:44:01.821220"
   }
 }
