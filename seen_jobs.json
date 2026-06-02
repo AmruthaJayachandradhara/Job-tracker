@@ -28901,5 +28901,45 @@
     "location": "South San Francisco, CA and US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-02T21:41:51.741017"
+  },
+  "0c7750b7d741236abaa347111936a762": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Capital Orchestration)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7749755003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T23:27:43.888900"
+  },
+  "f9556bf4328a298ba5ce4ba40129507b": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Capital Orchestration)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7749753003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T23:27:43.888926"
+  },
+  "6dc0e9f6c1baa180ea118e76ad34b233": {
+    "company": "Stripe",
+    "title": "Sales Strategy & Operations Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=7944515",
+    "location": "US-HQ-SF",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T23:27:44.992770"
+  },
+  "e5f3b96eb8f1a7ae2af534932ddefdfe": {
+    "company": "Carta",
+    "title": "Associate Fund Controller",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/4914327003",
+    "location": "Hamilton, NJ",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-02T23:27:46.819286"
+  },
+  "a1012e741b2023825419241452a9f8bb": {
+    "company": "Carta",
+    "title": "Associate Fund Controller",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/4914328003",
+    "location": "Sandy, UT",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-02T23:27:46.819305"
   }
 }
