@@ -28701,5 +28701,13 @@
     "location": "Bengaluru, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-02T05:23:26.087667"
+  },
+  "7ab8080fb0dbd012255805114824b5e1": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569552002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-02T10:03:52.075296"
   }
 }
