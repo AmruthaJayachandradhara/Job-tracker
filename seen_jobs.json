@@ -28949,5 +28949,21 @@
     "location": "Torrance, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-03T02:48:08.472291"
+  },
+  "66db543288c7080e2384afe620359ec2": {
+    "company": "Databricks",
+    "title": " Lakebase Sales Specialist ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569535002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T08:06:45.848858"
+  },
+  "1509948280633d6ccc1fdc921658ed1c": {
+    "company": "Databricks",
+    "title": "Lakebase Specialist Sales",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569594002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T08:06:45.848918"
   }
 }
