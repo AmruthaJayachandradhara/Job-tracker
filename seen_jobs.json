@@ -28941,5 +28941,13 @@
     "location": "Sandy, UT",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-06-02T23:27:46.819305"
+  },
+  "59682984cc366882848e06a0d67fa594": {
+    "company": "Northwood Space",
+    "title": "Helpdesk Specialist",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/fb29eceb-ef54-4f74-82c9-6d9ba19262e1",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T02:48:08.472291"
   }
 }
