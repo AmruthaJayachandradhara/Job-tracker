@@ -29085,5 +29085,61 @@
     "location": "US-Chicago; US-Atlanta; US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-03T18:16:54.028759"
+  },
+  "dbbeee6bca883ac8d39c5816ffa7e342": {
+    "company": "Juicebox",
+    "title": "Performance Marketer ",
+    "url": "https://jobs.ashbyhq.com/juicebox/0d3e45b0-99bc-4403-ae22-ccac6a54392e",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T21:42:02.826989"
+  },
+  "17fb5456d37fee33440a0cc7af23b7b4": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist- Financial Services",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569479002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T21:42:07.169275"
+  },
+  "0bbc83f1a5ec4779ed11aeb9d5700681": {
+    "company": "GitLab",
+    "title": "Business Development Representative, SLED - East   ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8562271002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T21:42:13.154573"
+  },
+  "4d7844183ab9f7ce998d8936b2779a44": {
+    "company": "EarnIn",
+    "title": "Software Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7958874",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T21:42:23.162985"
+  },
+  "8f75818bd662bbaf1a6c67a59d49a97f": {
+    "company": "Stripe",
+    "title": "Brand Designer, Stripe Press",
+    "url": "https://stripe.com/jobs/search?gh_jid=7793636",
+    "location": "NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T21:42:24.853073"
+  },
+  "ffb77ea5073389f652ef54c8acb1e942": {
+    "company": "Stripe",
+    "title": "CDMX Data Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7978488",
+    "location": "Mexico City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T21:42:24.853151"
+  },
+  "10f1d56e9e67fc6db45ba732e3020d0d": {
+    "company": "Stripe",
+    "title": "User Risk Strategist, Ecosystem Risk Strategy",
+    "url": "https://stripe.com/jobs/search?gh_jid=7977981",
+    "location": "US-Chicago; US-Atlanta; US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T21:42:24.857488"
   }
 }
