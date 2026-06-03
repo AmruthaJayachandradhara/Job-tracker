@@ -29141,5 +29141,13 @@
     "location": "US-Chicago; US-Atlanta; US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-03T21:42:24.857488"
+  },
+  "8d6856643b3d1bc8086c35777896c169": {
+    "company": "Stripe",
+    "title": "Central Engineering Finance & Strategy",
+    "url": "https://stripe.com/jobs/search?gh_jid=7979885",
+    "location": "Remote US, SF, SEA, NYC, CHI",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T23:27:00.039022"
   }
 }
