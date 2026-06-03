@@ -28997,5 +28997,93 @@
     "location": "Dublin OR London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-03T13:07:09.735763"
+  },
+  "b51bf27a5c801eb21d1f45de84a426e7": {
+    "company": "Northwood Space",
+    "title": "DSP Simulation Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/06aaf67f-eea3-4012-8f1b-6002abddbf20",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T18:16:20.926742"
+  },
+  "e41e284b1db3e866eae3707f17d3eed3": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569403002",
+    "location": "Toronto, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T18:16:38.660808"
+  },
+  "978bc062ec8e061ee6f792c54d8ddb91": {
+    "company": "EarnIn",
+    "title": "Machine Learning Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7958894",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T18:16:52.261024"
+  },
+  "b22869ef1a0793ffef243aaead7839d1": {
+    "company": "EarnIn",
+    "title": "Site Reliability Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7895723",
+    "location": "Mexico City, Mexico; Remote, Mexico",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T18:16:52.261426"
+  },
+  "6b27d460ba2a972669988a366b4e00c0": {
+    "company": "EarnIn",
+    "title": "Software Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7959337",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T18:16:52.261450"
+  },
+  "f7b2fb4461c672ea8cb57d97be462b15": {
+    "company": "EarnIn",
+    "title": "Sr Recruiter",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7958884",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T18:16:52.261530"
+  },
+  "14ddf883b8766ba9d8e8f90308b984be": {
+    "company": "Stripe",
+    "title": "Deal Strategist - CDMX",
+    "url": "https://stripe.com/jobs/search?gh_jid=7958087",
+    "location": "Mexico City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T18:16:54.026272"
+  },
+  "6f77fe994535e94e8877abba37ac8b6f": {
+    "company": "Stripe",
+    "title": " Hong Kong Regulatory Compliance & Money Laundering Reporting Officer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7976163",
+    "location": "Hong Kong , Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T18:16:54.027150"
+  },
+  "0104834e24c3eede4be60269f3ebad5e": {
+    "company": "Stripe",
+    "title": "Mobile Engineer, Treasury",
+    "url": "https://stripe.com/jobs/search?gh_jid=7978915",
+    "location": "United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T18:16:54.027551"
+  },
+  "eb46bb8b9a865f4eefce8db0f3a03ace": {
+    "company": "Stripe",
+    "title": "Renewals Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7967523",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T18:16:54.028684"
+  },
+  "d46e99f44883e1c27bf41b718ac3c206": {
+    "company": "Stripe",
+    "title": "Risk Standards Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7977981",
+    "location": "US-Chicago; US-Atlanta; US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T18:16:54.028759"
   }
 }
