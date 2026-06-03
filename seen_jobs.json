@@ -28965,5 +28965,37 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-03T08:06:45.848918"
+  },
+  "3e488268706e7f3f84b1149457b9267a": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive  - BeLux",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8575027002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T13:06:59.412351"
+  },
+  "8e42aa968e7ae5a01cf64261ce3b4edc": {
+    "company": "Tanium",
+    "title": "Junior Accounts Payable Specialist",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7972974",
+    "location": "Krakow, Poland (Hybrid)",
+    "filter_reason": "title match: 'junior'",
+    "first_seen": "2026-06-03T13:07:00.841422"
+  },
+  "82f7d483fae0e08316efa5bbea589f6d": {
+    "company": "Stripe",
+    "title": "EMEA Deal Pricing Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7960873",
+    "location": "London/Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T13:07:09.735483"
+  },
+  "29cbbd0866939927f5ab2e268ed50f68": {
+    "company": "Stripe",
+    "title": "Finance and Strategy Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7963763",
+    "location": "Dublin OR London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-03T13:07:09.735763"
   }
 }
