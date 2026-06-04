@@ -29301,5 +29301,29 @@
     "location": "CHI and DUB",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-04T16:44:26.191197"
+  },
+  "30d80fa1bc53a0ff044363d8d0e07ade": {
+    "company": "Dialpad",
+    "title": "Revenue Intelligence Analyst",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8571219002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T19:13:21.960774"
+  },
+  "82bf0f206d5aca44378c75d2c8316f5c": {
+    "company": "EarnIn",
+    "title": "Data, Growth & Analytics Intern",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7980784",
+    "location": "Mountain View, US",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-06-04T19:13:31.349172"
+  },
+  "43fbec95af3612c11d59869d7f627d29": {
+    "company": "Stripe",
+    "title": "Product Designer - Dashboard",
+    "url": "https://stripe.com/jobs/search?gh_jid=7980578",
+    "location": "US / Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T19:13:33.219152"
   }
 }
