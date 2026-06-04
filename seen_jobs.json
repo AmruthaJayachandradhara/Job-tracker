@@ -29325,5 +29325,29 @@
     "location": "US / Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-04T19:13:33.219152"
+  },
+  "49c7bf8122e5d239625dcbdf8e4e8d4d": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8577057002",
+    "location": "Chicago, Illinois; St. Louis, Missouri",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T21:23:46.718635"
+  },
+  "e1fbb602848d2ebe94b5e4d900a0134e": {
+    "company": "Stripe",
+    "title": "Data Scientist, Economic Insights & Research",
+    "url": "https://stripe.com/jobs/search?gh_jid=7980402",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T21:24:03.266586"
+  },
+  "1d20a8016048fad7893534fc17c29c0d": {
+    "company": "Gusto",
+    "title": "Benefit Customer Care Advocate ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7983701",
+    "location": "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T21:24:04.019830"
   }
 }
