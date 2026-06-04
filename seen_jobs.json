@@ -29213,5 +29213,29 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-04T10:54:35.571038"
+  },
+  "2d23f2019b919c40607194a289b374da": {
+    "company": "Encord",
+    "title": "Software Engineer, Applied AI",
+    "url": "https://jobs.ashbyhq.com/encord/10e76d59-1613-49a6-902a-e936e0ba9915",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T13:52:41.726735"
+  },
+  "0cbdeac017d424d52d1b557a39dd74ff": {
+    "company": "Encord",
+    "title": "Software Engineer, Full-Stack",
+    "url": "https://jobs.ashbyhq.com/encord/345ab5c6-68ed-407f-8623-fc296f69f6c7",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T13:52:41.726764"
+  },
+  "64847e99947a87f722301b69c72533b8": {
+    "company": "Encord",
+    "title": "Software Engineer, Physical AI",
+    "url": "https://jobs.ashbyhq.com/encord/31e3b444-4b92-49ed-b167-b5ab498bac11",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T13:52:41.726790"
   }
 }
