@@ -29165,5 +29165,45 @@
     "location": "Torrance, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-04T02:43:09.716681"
+  },
+  "994c4b284a16669c4d971c187e1f4808": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002",
+    "location": "Seoul, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T07:15:53.749978"
+  },
+  "4acf5061417b885eb883700ad920552a": {
+    "company": "Databricks",
+    "title": "Lakebase Specialist Sales",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569564002",
+    "location": "Melbourne, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T07:15:53.751763"
+  },
+  "71af867f3f9deb1ca4274f2377ccf2a5": {
+    "company": "Databricks",
+    "title": "Lakebase Specialist Sales",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569566002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T07:15:53.751793"
+  },
+  "946d23aad09947ef5bf9e733b6101ee1": {
+    "company": "EarnIn",
+    "title": "Site Reliability Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7913314",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T07:16:07.165940"
+  },
+  "2b69e5a3e705d27a14dddd14e47762d1": {
+    "company": "Stripe",
+    "title": "Product Support Operations Associate, Weekend Shift",
+    "url": "https://stripe.com/jobs/search?gh_jid=7975698",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-04T07:16:08.849008"
   }
 }
