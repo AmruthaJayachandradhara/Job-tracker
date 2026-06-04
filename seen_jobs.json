@@ -29349,5 +29349,29 @@
     "location": "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-04T21:24:04.019830"
+  },
+  "d50b2022e07881ea266ef08f8f0787ff": {
+    "company": "Gusto",
+    "title": "Broker Integration Advocate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7983773",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T23:01:45.506886"
+  },
+  "3bc7c65ab43b3269790d2f79577ad5d4": {
+    "company": "Gusto",
+    "title": "Future Opportunities: Retirement Advocate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7379039",
+    "location": "Denver, CO; Chicago, IL; Phoenix, AZ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T23:01:45.507047"
+  },
+  "44fcdc6985109955b85ca42cf2e9999c": {
+    "company": "Gusto",
+    "title": "Future Opportunities: Retirement Implementation Specialist",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7984004",
+    "location": "Denver, CO, Phoenix, AZ, Chicago, IL, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T23:01:45.507068"
   }
 }
