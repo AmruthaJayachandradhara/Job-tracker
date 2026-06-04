@@ -29205,5 +29205,13 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-06-04T07:16:08.849008"
+  },
+  "33fc5aa82353236179db3cd034c8d7ea": {
+    "company": "Braintrust",
+    "title": "Software Engineer, Developer Experience",
+    "url": "https://jobs.ashbyhq.com/braintrust/b4ea5780-8b8c-4969-a824-416a70de23c2",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T10:54:35.571038"
   }
 }
