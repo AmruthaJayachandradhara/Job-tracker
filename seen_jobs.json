@@ -29149,5 +29149,21 @@
     "location": "Remote US, SF, SEA, NYC, CHI",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-03T23:27:00.039022"
+  },
+  "1e50bb36fbbca30b9543f93dad9edd1e": {
+    "company": "Gumloop",
+    "title": "Founding Business Recruiter",
+    "url": "https://jobs.ashbyhq.com/gumloop/8262267a-336a-4fce-9a5f-63779ec4164c",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T02:43:00.273758"
+  },
+  "91c0cd6c62361b62441270fa85f4b882": {
+    "company": "Northwood Space",
+    "title": "PCB Designer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/be695859-9b9c-4c79-af13-9fb4b8399563",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T02:43:09.716681"
   }
 }
