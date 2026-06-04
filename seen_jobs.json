@@ -29237,5 +29237,69 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-04T13:52:41.726790"
+  },
+  "8cacf0a0ee1ccb7795174dc48d0727d2": {
+    "company": "Gumloop",
+    "title": "Enterprise Account Executive",
+    "url": "https://jobs.ashbyhq.com/gumloop/02a4e41c-ca1e-4dd7-88b6-d14fd8c8d401",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T16:43:40.379912"
+  },
+  "9ac44984198d8d15ca667cb5dcec9b58": {
+    "company": "Braintrust",
+    "title": "Strategic Account Executive, EMEA",
+    "url": "https://jobs.ashbyhq.com/braintrust/94d1dc5e-e62b-4294-b6fa-de025b1ed30a",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T16:43:41.113803"
+  },
+  "4af110fb9540633495c767c3e77a63d9": {
+    "company": "Pomelo Care",
+    "title": "Pediatric Registered Nurse",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6013976004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T16:43:49.712317"
+  },
+  "a83114f8cb7d567b1d49f5970a5d4424": {
+    "company": "Pomelo Care",
+    "title": "Pediatric Registered Nurse (Part-Time)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6014007004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T16:43:49.712337"
+  },
+  "46554644bafe4efcf9d8a9d9c08896fb": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569410002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T16:44:10.586942"
+  },
+  "4681b9225fdeb8aabc1856a8629791f7": {
+    "company": "Tanium",
+    "title": "Sales Development Representative",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7826159",
+    "location": "Remote, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T16:44:17.949564"
+  },
+  "826a33f2320c484a77414f900aa0ddbd": {
+    "company": "EarnIn",
+    "title": "Software Engineer II",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7980786",
+    "location": "Mexico City, Mexico; Remote, Mexico",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T16:44:24.414944"
+  },
+  "fa4e3ae1ebc42454bf492adec2702f2f": {
+    "company": "Stripe",
+    "title": "Sales Development Change Management Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7953987",
+    "location": "CHI and DUB",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-04T16:44:26.191197"
   }
 }
