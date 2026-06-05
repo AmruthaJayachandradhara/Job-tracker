@@ -29381,5 +29381,21 @@
     "location": "US / Cananda",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-05T02:30:31.434745"
+  },
+  "429d8dd76a372db1498ffe5cd03c5464": {
+    "company": "Stripe",
+    "title": "Data Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7978488",
+    "location": "Mexico City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T06:58:40.959707"
+  },
+  "885e719548ee44cf75145d986871aa52": {
+    "company": "Stripe",
+    "title": "Risk Operations Analyst - PRO",
+    "url": "https://stripe.com/jobs/search?gh_jid=7919288",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T06:58:40.961035"
   }
 }
