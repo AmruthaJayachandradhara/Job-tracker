@@ -29405,5 +29405,45 @@
     "location": "Sweden (Remote)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-05T10:45:32.192815"
+  },
+  "79e5b81ec546e45b896b6e9cb3271512": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Federal Financials",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8579388002",
+    "location": "Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T13:48:18.228111"
+  },
+  "0565dead06299187759669c1345c4bc5": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive, State and Local",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8579392002",
+    "location": "Sacramento, California; San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T13:48:18.234613"
+  },
+  "0d359279fef8792091cb566a022f62ec": {
+    "company": "Tanium",
+    "title": "Associate, Customer Success Management",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7983988",
+    "location": "Addison, TX (Hybrid)",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-05T13:48:26.672342"
+  },
+  "5284133d52a5e31cd742162d1d0db172": {
+    "company": "Tanium",
+    "title": "Sales Development Representative",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7983977",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T13:48:26.672849"
+  },
+  "5173c5e5eb7e93bf231dbb8e678bb09b": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms (French Speaking)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7984715",
+    "location": "Dublin, Paris",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T13:48:34.942961"
   }
 }
