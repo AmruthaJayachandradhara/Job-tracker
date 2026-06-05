@@ -29653,5 +29653,77 @@
     "location": "Denver, CO - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-05T18:54:21.389433"
+  },
+  "92c2c0157e24826214eadb841ee4b07e": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Federal Civilian",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8579390002",
+    "location": "Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T20:45:20.242437"
+  },
+  "fcc0266de917e5b8b5f75c3b3c482881": {
+    "company": "Dialpad",
+    "title": "Account Executive, Mid-Market",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8495152002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T20:45:25.024409"
+  },
+  "ae0bad602e8d0cd3ce04e76bc58e117b": {
+    "company": "Stripe",
+    "title": "Account Executive, Hunter (Portuguese Speaking)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7908925",
+    "location": "Madrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T20:45:36.020157"
+  },
+  "6ae8a1be6db6b5f569127eb6492101a9": {
+    "company": "Stripe",
+    "title": "Account Executive,SMB Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=7904613",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T20:45:36.020309"
+  },
+  "e79e87040798b154934f514a8ca319f9": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=7982832",
+    "location": "Sweden (Remote)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T20:45:36.020362"
+  },
+  "fffccddc49989005afa6de7c08030ed1": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups Hunter (India)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7597490",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T20:45:36.020375"
+  },
+  "6811b843cec77ce3bad77153c7409add": {
+    "company": "Stripe",
+    "title": "Integration Engineer (Client facing), Professional Services ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7896525",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T20:45:36.022303"
+  },
+  "8105f0ff82f93dee0d2feba3f61f3e11": {
+    "company": "Stripe",
+    "title": "Secure Device Mobile Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7982720",
+    "location": "New York, New York ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T20:45:36.023951"
+  },
+  "6552077069b534d152e0b8d9a3095f4d": {
+    "company": "Stripe",
+    "title": "Startup Partner, Northern Europe ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7676921",
+    "location": "Stockholm ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T20:45:36.024693"
   }
 }
