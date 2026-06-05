@@ -29725,5 +29725,37 @@
     "location": "Stockholm ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-05T20:45:36.024693"
+  },
+  "137efedf9bee7674a537aa109a880b88": {
+    "company": "Render",
+    "title": "Custome EngineerRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/4bf72ced-b09f-4b42-a4b3-92b38ff21025",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T23:58:47.240210"
+  },
+  "d4fbfa3b2f39a3acf3385379b53ad014": {
+    "company": "Stripe",
+    "title": "Finance & Strategy Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7985368",
+    "location": "CHI, SEA, NYC, SF",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T23:59:33.853558"
+  },
+  "a984ec5bda34f3d9c4d0777619e707b8": {
+    "company": "Stripe",
+    "title": "Finance & Strategy Partner, Central Engineering",
+    "url": "https://stripe.com/jobs/search?gh_jid=7979885",
+    "location": "Remote US, SF, SEA, NYC, CHI",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T23:59:33.853622"
+  },
+  "869c91ceac09a5d394dbdfe0ace0944f": {
+    "company": "Stripe",
+    "title": "Operations Associate - Bridge (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7955051",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-05T23:59:33.854442"
   }
 }
