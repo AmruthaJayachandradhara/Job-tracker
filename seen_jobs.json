@@ -29445,5 +29445,85 @@
     "location": "Dublin, Paris",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-05T13:48:34.942961"
+  },
+  "f6de875381c14a5ed6ad7976909a8a96": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Billing (Existing Business)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7607568",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T16:25:50.334676"
+  },
+  "08307d8f0cee1ff61de70f46c26672dc": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Hunter (DACH Market)  ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7825578",
+    "location": "Germany ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T16:25:50.334704"
+  },
+  "badc64886a11eed0509909b83d253c33": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Hunter (French fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7458833",
+    "location": "Paris",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T16:25:50.334719"
+  },
+  "2304186b19186ce6beb23482925d50dd": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Hunter (Iberia Market) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7394627",
+    "location": "Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T16:25:50.334734"
+  },
+  "a53b1bd59eb26fb6c2f681b1128c463a": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms Hunter (French fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7857010",
+    "location": "Paris, Framce",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T16:25:50.334841"
+  },
+  "264e0c93c2bd8cc126395eb5bc8582c0": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales, Velocity Billing",
+    "url": "https://stripe.com/jobs/search?gh_jid=7393169",
+    "location": "South San Francisco, CA; New York, NY; Seattle, WA; Chicago, IL; Atlanta, GA; Washington DC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T16:25:50.334904"
+  },
+  "74198cb92c9cc4be0f21fc5434faff93": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=7904613",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T16:25:50.334929"
+  },
+  "25894fe07a12e305b1e7d4134b737822": {
+    "company": "Stripe",
+    "title": "Account Executive - Startups Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=7982832",
+    "location": "Sweden (Remote)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T16:25:50.334994"
+  },
+  "cd88cdc3e3f94140b43c675c9af93f79": {
+    "company": "Stripe",
+    "title": "Security Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7923191",
+    "location": "South San Francisco, CA and US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T16:25:50.338579"
+  },
+  "382be2de3824e1ce2aeb3bfe5cb65c5e": {
+    "company": "Stripe",
+    "title": "Security Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7923209",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T16:25:50.338594"
   }
 }
