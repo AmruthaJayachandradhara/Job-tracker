@@ -29373,5 +29373,13 @@
     "location": "Denver, CO, Phoenix, AZ, Chicago, IL, New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-04T23:01:45.507068"
+  },
+  "c30cebe2a8b6acc17a265caf0393ba40": {
+    "company": "Stripe",
+    "title": "Designer, Web Presence & Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=7977745",
+    "location": "US / Cananda",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T02:30:31.434745"
   }
 }
