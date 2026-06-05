@@ -29525,5 +29525,133 @@
     "location": "Seattle, WA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-05T16:25:50.338594"
+  },
+  "6e87d830645a80a2d6b116e6eda3374f": {
+    "company": "Databricks",
+    "title": "Geo Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8556808002",
+    "location": "San Francisco, California; West Coast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:04.147811"
+  },
+  "d27e2f4c0b912b91eb3531c0de9a3054": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist (Central)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569510002",
+    "location": "Munich, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:04.148067"
+  },
+  "d5f35b0f3e23a4639d7a9ac32d6ffeee": {
+    "company": "Stripe",
+    "title": "Account Executive, Commercial Hunter (Japanese fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7789539",
+    "location": "Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:20.711257"
+  },
+  "118098f491f59d85e53133386e6648f1": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Grower (Australia)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7717676",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:20.711314"
+  },
+  "cb10127917bf51fe4e13f644840bdc49": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Hunter (Japanese fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7528816",
+    "location": "Tokyo",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:20.711374"
+  },
+  "90a4832aaa40bdc77a450c105fd81657": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Platforms (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7576967",
+    "location": "San Francisco, CA; Chicago, IL & New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:20.711390"
+  },
+  "fbac920098e7d53a7570fd0e19c2d59d": {
+    "company": "Stripe",
+    "title": "Account Executive, Existing Business, Platforms",
+    "url": "https://stripe.com/jobs/search?gh_jid=7922618",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:20.711407"
+  },
+  "5af3746865075b334ef9148a6b61eb3b": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms Grower (AUNZ)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7680548",
+    "location": "Sydney Or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:20.711461"
+  },
+  "5954153c12d6f10981b400b145301ceb": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB Grower (Japanese fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7953511",
+    "location": "Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:20.711574"
+  },
+  "26eeb75f80c96ad8317dc8c816a005e7": {
+    "company": "Stripe",
+    "title": "Fraud Patterns Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7913410",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:20.713210"
+  },
+  "79160e5a4a4a3bf46d5de90d751fbd7b": {
+    "company": "Stripe",
+    "title": "People Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=7466921",
+    "location": "San Francisco, Chicago or NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:20.714257"
+  },
+  "4447ec41b2397eefde4943306efbc92e": {
+    "company": "Stripe",
+    "title": "Security Analyst, Bug Bounty",
+    "url": "https://stripe.com/jobs/search?gh_jid=7979393",
+    "location": "Remote, North America",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:20.715346"
+  },
+  "4a864fef08d839882faa2f9e66b2ab05": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7926966",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:20.715500"
+  },
+  "23bd17dd96e758f30276fd839c622b2d": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7895344",
+    "location": "San Francisco, California ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:20.715521"
+  },
+  "60a253f8c27dbf0c80e71bd11b29c43d": {
+    "company": "Gusto",
+    "title": "Benefits Enrollment Specialist",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7931506",
+    "location": "Denver",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:21.389126"
+  },
+  "382184c918860683f89a3b8b8520d4de": {
+    "company": "Gusto",
+    "title": "Member Benefits Specialist",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7939995",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-05T18:54:21.389433"
   }
 }
