@@ -29773,5 +29773,21 @@
     "location": "Tokyo",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-06T09:18:51.479058"
+  },
+  "9230c17444a2b34800484f1180f9dc4a": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (German fluency) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=6570259",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-06T20:04:33.748598"
+  },
+  "b3851eb2729704b40f5ea16c724b06d7": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (Mandarin fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7813755",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-06T20:04:33.748627"
   }
 }
