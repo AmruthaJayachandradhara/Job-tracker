@@ -29765,5 +29765,13 @@
     "location": "See posting",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-06T06:46:38.228362"
+  },
+  "9384f3e50b0a4fcbae242a49b3a6c35c": {
+    "company": "Stripe",
+    "title": "Implementation Consultant",
+    "url": "https://stripe.com/jobs/search?gh_jid=7744344",
+    "location": "Tokyo",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-06T09:18:51.479058"
   }
 }
