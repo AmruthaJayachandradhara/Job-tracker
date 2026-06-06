@@ -29757,5 +29757,13 @@
     "location": "Mexico City",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-06-05T23:59:33.854442"
+  },
+  "4c800978ae60101c76f104023cf014fc": {
+    "company": "Render",
+    "title": "Customer EngineerRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/4bf72ced-b09f-4b42-a4b3-92b38ff21025",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-06T06:46:38.228362"
   }
 }
