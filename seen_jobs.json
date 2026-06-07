@@ -29789,5 +29789,21 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-06T20:04:33.748627"
+  },
+  "328918b11869b2ace9d45e7aa657bd6c": {
+    "company": "Replit",
+    "title": "Support Engineer I (NYC)",
+    "url": "https://jobs.ashbyhq.com/replit/764fddd2-f81e-4c1f-9ab4-81ae086d4086",
+    "location": "Remote - Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-07T22:07:17.440757"
+  },
+  "5bdbd55fead7d534a7949df0518a61a1": {
+    "company": "Replit",
+    "title": "Support Engineer II (NYC)",
+    "url": "https://jobs.ashbyhq.com/replit/6e6f744b-76bf-4910-99b7-0ced590a6873",
+    "location": "Remote - Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-07T22:07:17.440798"
   }
 }
