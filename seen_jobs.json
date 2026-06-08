@@ -29949,5 +29949,29 @@
     "location": "San Francisco or New York City ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-08T22:19:04.428132"
+  },
+  "e2f4b05e839b15b2ae87a39ed004c5ed": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7991636",
+    "location": "Seattle ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T23:57:44.281838"
+  },
+  "a40a2fd0c626c9bd79c66fcb0eb8fb13": {
+    "company": "Gusto",
+    "title": "Executive Operations - R&D",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7958363",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T23:57:45.001100"
+  },
+  "9cffb4c7768355ca5cc5a8e63b6d1588": {
+    "company": "Gusto",
+    "title": "Future Opportunities: Payroll and Taxes Customer Care Advocate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7379026",
+    "location": "Chicago, IL; Phoenix, AZ; ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T23:57:45.001189"
   }
 }
