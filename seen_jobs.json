@@ -29813,5 +29813,21 @@
     "location": "Tokyo, Japan",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-08T04:05:09.989128"
+  },
+  "516940605f21e7bf886e5ba35da74399": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569592002",
+    "location": "Seoul, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T09:17:32.276878"
+  },
+  "b577f6b6fa823ce3d0874c8057b88697": {
+    "company": "Tanium",
+    "title": "Advanced Consulting Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7967983",
+    "location": "Seoul, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T09:17:39.460723"
   }
 }
