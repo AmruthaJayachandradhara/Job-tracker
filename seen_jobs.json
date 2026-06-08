@@ -29925,5 +29925,29 @@
     "location": "brazil",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-08T20:01:39.891959"
+  },
+  "03172c70b02573426fb0140822aed5d5": {
+    "company": "Northwood Space",
+    "title": "Integration Technician II",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/a364b9df-3280-4d89-91ea-960bc789d73f",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T22:18:26.837143"
+  },
+  "c62c5b0aa8535306d7b1a611124dec24": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups, Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=7746888",
+    "location": "San Francisco, New York City ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T22:19:04.427928"
+  },
+  "48ac10f046ebca86835017e2c7158e77": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups, Grower ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7872736",
+    "location": "San Francisco or New York City ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T22:19:04.428132"
   }
 }
