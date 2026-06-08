@@ -29877,5 +29877,53 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-08T17:22:22.225881"
+  },
+  "e660488555daa056416423b94822b99c": {
+    "company": "Pomelo Care",
+    "title": "Obstetrics Care Provider (CNM or NP) - Weekday Schedule ",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6016432004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T20:00:59.039767"
+  },
+  "29bcd161e350180dbb00353ab3db4779": {
+    "company": "Databricks",
+    "title": "Enterprise Core Account Executive, Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582323002",
+    "location": "British Columbia, Canada; Calgary, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T20:01:22.689761"
+  },
+  "c3c526b7c8343ada2d3214741443dc03": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569522002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T20:01:22.690210"
+  },
+  "d599ed7355bacbe845eb3087db003615": {
+    "company": "GitLab",
+    "title": "Public Sector Strategic Account Executive - SLED, Texas",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8575667002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T20:01:29.102961"
+  },
+  "277164c41c92f8d34e754e1ed829b95d": {
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack (Core Analytics)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7726627003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T20:01:38.817234"
+  },
+  "c61c582f25d0f44fdd10194ae37eeb71": {
+    "company": "Stripe",
+    "title": "Fullstack Engineer ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7895284",
+    "location": "brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T20:01:39.891959"
   }
 }
