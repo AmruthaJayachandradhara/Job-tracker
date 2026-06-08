@@ -29805,5 +29805,13 @@
     "location": "Remote - Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-07T22:07:17.440798"
+  },
+  "8000123087efb9121370aba513b397e0": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569572002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T04:05:09.989128"
   }
 }
