@@ -29845,5 +29845,37 @@
     "location": "Foster City, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-08T13:58:40.971150"
+  },
+  "54ee8d42c6ee9a8b8c859d3c067a8fdc": {
+    "company": "Databricks",
+    "title": "Business Development Representative ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575801002",
+    "location": "Heredia, Costa Rica",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T17:22:05.464878"
+  },
+  "751f6c60acb483d5d4b2c9fafa61ca9b": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist-Manufacturing",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569496002",
+    "location": "Remote - Texas; United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T17:22:05.466156"
+  },
+  "3285250122ad4d07c515f2fce58fb3e5": {
+    "company": "Coinbase",
+    "title": "Payments Risk Analyst II",
+    "url": "https://www.coinbase.com/careers/positions/7984814?gh_jid=7984814",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T17:22:18.435197"
+  },
+  "6c859b2a4a5cb1e2e4b613eaaa55edd8": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Grower (Billing)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7607568",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-08T17:22:22.225881"
   }
 }
