@@ -30133,5 +30133,29 @@
     "location": "Germany, Berlin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-09T19:07:44.624684"
+  },
+  "13f6eb5dbfbd4c7029a5d2ef87ca6c84": {
+    "company": "Tanium",
+    "title": "Sales Development Representative",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/6531353",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T21:30:45.894408"
+  },
+  "0775b65475715dd3f6d17b5f08467a82": {
+    "company": "Coinbase",
+    "title": "Data Protection Engineer",
+    "url": "https://www.coinbase.com/careers/positions/7993887?gh_jid=7993887",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T21:30:51.009922"
+  },
+  "c38ad001bd42786790cb9d8e6328aa42": {
+    "company": "Coinbase",
+    "title": "Insider Threat Analyst",
+    "url": "https://www.coinbase.com/careers/positions/7967336?gh_jid=7967336",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T21:30:51.009957"
   }
 }
