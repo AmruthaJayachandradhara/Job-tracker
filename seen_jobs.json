@@ -30077,5 +30077,61 @@
     "location": "Remote, Netherlands",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-09T16:25:43.482493"
+  },
+  "8e387f648e92bd8d58afe4a851ed18f2": {
+    "company": "Coinbase",
+    "title": "Software Engineer, Backend (Consumer - Risk)",
+    "url": "https://www.coinbase.com/careers/positions/7991763?gh_jid=7991763",
+    "location": "Remote - Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T19:07:41.021104"
+  },
+  "087386a475c069bd49a6e3e5bd3a4d88": {
+    "company": "Stripe",
+    "title": "Account Executive - Enterprise, Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=7993151",
+    "location": "US-Remote, US-San Francisco, US-Chicago, US-New York, US-Seattle",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T19:07:44.622409"
+  },
+  "6354c79a8746f7cf1f9e4f15a914fcc7": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms (New Business) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7298935",
+    "location": "US-Remote ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T19:07:44.622623"
+  },
+  "7f328c157b93e98139daa4adbe5a303e": {
+    "company": "Stripe",
+    "title": "Deal Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7984686",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T19:07:44.623677"
+  },
+  "a72944a5a2dcd6bab17e6159e2f0ea85": {
+    "company": "Stripe",
+    "title": "Deal Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7984688",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T19:07:44.623691"
+  },
+  "75749a3a179112b6e2272b85bbe12704": {
+    "company": "Stripe",
+    "title": "Integration Engineer (Chicago) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7819426",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T19:07:44.624656"
+  },
+  "de3503f183b93e9a641be8a56104ab4c": {
+    "company": "Stripe",
+    "title": "Integration Engineer (German Speaking), Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=7989111",
+    "location": "Germany, Berlin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T19:07:44.624684"
   }
 }
