@@ -29989,5 +29989,13 @@
     "location": "MX- Mexico City",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-06-09T02:41:48.512573"
+  },
+  "5513f11376c6952de40bef6488b0c5f6": {
+    "company": "Coinbase",
+    "title": "Derivatives Sales Associate",
+    "url": "https://www.coinbase.com/careers/positions/7962675?gh_jid=7962675",
+    "location": "Remote - Singapore",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-09T06:40:35.358966"
   }
 }
