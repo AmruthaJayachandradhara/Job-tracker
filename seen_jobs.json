@@ -30157,5 +30157,37 @@
     "location": "Remote - USA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-09T21:30:51.009957"
+  },
+  "28b3886b163f856254771158e7626666": {
+    "company": "Databricks",
+    "title": " Candidate Experience Coordinator",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6174735002",
+    "location": "Bellevue, Washington; Seattle, Washington",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T23:11:06.229124"
+  },
+  "2ea548dc4a506889a25f7bc1d4ec583d": {
+    "company": "Databricks",
+    "title": "RVP, Retail",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582310002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T23:11:06.231976"
+  },
+  "45ea4f70412041d2e9d1cc56c481b501": {
+    "company": "Coinbase",
+    "title": "Assistant Controller, Revenue",
+    "url": "https://www.coinbase.com/careers/positions/7994277?gh_jid=7994277",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T23:11:18.983870"
+  },
+  "2b4102d7d2c60af785bb0df2c43bb13d": {
+    "company": "Gusto",
+    "title": "Software Engineer, People Technology",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7947424",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T23:11:23.576877"
   }
 }
