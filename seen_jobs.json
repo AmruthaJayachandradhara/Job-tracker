@@ -29973,5 +29973,21 @@
     "location": "Chicago, IL; Phoenix, AZ; ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-08T23:57:45.001189"
+  },
+  "0aecc49965bb60904c0ec7ed348957c7": {
+    "company": "Northwood Space",
+    "title": "Office Coordinator",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/35e942f2-a015-4390-8eed-ecc15d17cdf1",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T02:41:04.872538"
+  },
+  "73e9bd66f76b8cbca53d2a0d0a41fc15": {
+    "company": "Stripe",
+    "title": "Operations Associate - Product Support Operations (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7981587",
+    "location": "MX- Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-09T02:41:48.512573"
   }
 }
