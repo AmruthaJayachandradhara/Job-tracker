@@ -30029,5 +30029,53 @@
     "location": "LOCATION",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-09T10:28:31.889080"
+  },
+  "7b929f368ff0d7561e1b2a464614601b": {
+    "company": "Cape",
+    "title": "Forward Deployed Engineer (East Asia)",
+    "url": "https://jobs.ashbyhq.com/cape/cc18572e-fa2f-46cb-94e9-fcac492314f8",
+    "location": "Washington, DC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T16:25:12.839912"
+  },
+  "4d9ee28eeae1749db2da709d7a73951d": {
+    "company": "Cape",
+    "title": "Forward Deployed Engineer (Federal)",
+    "url": "https://jobs.ashbyhq.com/cape/8ea483bd-4753-45e3-933f-075412844a02",
+    "location": "Washington, DC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T16:25:12.839938"
+  },
+  "80c17c7bef5f7b91f1e993c45e55e4ee": {
+    "company": "Northwood Space",
+    "title": "Global Logistics Specialist",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/12b9a0ab-230a-4501-aeee-594f23cf4101",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T16:25:18.077395"
+  },
+  "528631a2cd94248a1a4f40b3e881eb37": {
+    "company": "GitLab",
+    "title": "Enterprise Account Executive - CIS (Russian Speaker)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8583758002",
+    "location": "Remote, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T16:25:43.482464"
+  },
+  "dcf59f341217f17efd05e33d766291ac": {
+    "company": "GitLab",
+    "title": "Enterprise Account Executive - CIS (Russian Speaker)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8583759002",
+    "location": "Remote, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T16:25:43.482484"
+  },
+  "f9ba743e6b384451f105f1898530b246": {
+    "company": "GitLab",
+    "title": "Enterprise Account Executive - CIS (Russian Speaker)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8583761002",
+    "location": "Remote, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T16:25:43.482493"
   }
 }
