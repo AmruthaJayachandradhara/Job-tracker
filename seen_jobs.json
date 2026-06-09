@@ -29997,5 +29997,37 @@
     "location": "Remote - Singapore",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-06-09T06:40:35.358966"
+  },
+  "5de027f1b8afa2f11141730914a19d47": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms",
+    "url": "https://stripe.com/jobs/search?gh_jid=7451366",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T10:28:31.886558"
+  },
+  "cff129e9bb307416ab9a0c5e7fb4b4fa": {
+    "company": "Stripe",
+    "title": "Integration Engineer, Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=7989111",
+    "location": "Germany, Berlin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T10:28:31.888578"
+  },
+  "16b177bcb012b1e96f29c061afabf102": {
+    "company": "Stripe",
+    "title": "Integration Reliability Engineer, Technical Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=7988429",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T10:28:31.888606"
+  },
+  "7eaff51032f1ae6e63b08f90d4af60aa": {
+    "company": "Stripe",
+    "title": "Payments Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7975721",
+    "location": "LOCATION",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-09T10:28:31.889080"
   }
 }
