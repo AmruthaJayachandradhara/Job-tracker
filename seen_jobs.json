@@ -30317,5 +30317,21 @@
     "location": "US-New York, US-Chicago, US-Atlanta, US-San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-10T20:12:14.201320"
+  },
+  "2d00ebe9b92c5aac505005f66121e454": {
+    "company": "Databricks",
+    "title": "Strategy & Execution AI Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582459002",
+    "location": "USCA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T22:47:13.542637"
+  },
+  "db90f9690f947a8a94142852167bf219": {
+    "company": "Coinbase",
+    "title": "FP&A Analyst",
+    "url": "https://www.coinbase.com/careers/positions/7997976?gh_jid=7997976",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T22:47:25.614935"
   }
 }
