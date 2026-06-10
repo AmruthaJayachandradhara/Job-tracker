@@ -30205,5 +30205,69 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-10T06:59:28.079862"
+  },
+  "c96e80f6f435f4333506bc428252c493": {
+    "company": "Paraform",
+    "title": "Founding Technical Recruiter",
+    "url": "https://jobs.ashbyhq.com/paraform/491337d0-2f4f-4e0c-b1e5-515fde742795",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T17:51:01.293673"
+  },
+  "6ff8177a3060c54818ca54729dca8ab1": {
+    "company": "Paraform",
+    "title": "Founding GTM Recruiter",
+    "url": "https://jobs.ashbyhq.com/paraform/69998068-8358-4888-88d6-4e3dec9489a8",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T17:51:01.293764"
+  },
+  "2373c429a26811dc51c84155baf298da": {
+    "company": "Cape",
+    "title": "Software Engineer, Android",
+    "url": "https://jobs.ashbyhq.com/cape/c2b9c1b7-ae65-4e1a-928b-47360274a3ee",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T17:51:02.674656"
+  },
+  "e588b4ecafcf4c3fee73a1c89870dd2f": {
+    "company": "Cape",
+    "title": "Forward Deployed Engineer, East Asia",
+    "url": "https://jobs.ashbyhq.com/cape/cc18572e-fa2f-46cb-94e9-fcac492314f8",
+    "location": "Arlington, VA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T17:51:02.674817"
+  },
+  "5e403e6b2fe6370bc69dae07415a011a": {
+    "company": "Cape",
+    "title": "Forward Deployed Engineer, Federal",
+    "url": "https://jobs.ashbyhq.com/cape/8ea483bd-4753-45e3-933f-075412844a02",
+    "location": "Arlington, VA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T17:51:02.674831"
+  },
+  "8879b330f728f4230e13628f5842170c": {
+    "company": "Northwood Space",
+    "title": "Buyer / Planner ",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/4eed9c9c-9477-4bf2-8044-bb544952084f",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T17:51:07.505155"
+  },
+  "21a031d7942e5a8ad2e265affbb1b51b": {
+    "company": "Encord",
+    "title": "Strategic Operations",
+    "url": "https://jobs.ashbyhq.com/encord/06c4ed58-8331-48d9-a414-a30fca549265",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T17:51:14.793772"
+  },
+  "aea9ab5e8954b532fc549fd4fa9bca62": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise - Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=7994330",
+    "location": "US-CA-Remote, US-San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T17:51:42.051549"
   }
 }
