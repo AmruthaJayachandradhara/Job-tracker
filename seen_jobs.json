@@ -30189,5 +30189,13 @@
     "location": "San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-09T23:11:23.576877"
+  },
+  "fba3d4bfff26af27fa85bb10e39976cd": {
+    "company": "Stripe",
+    "title": "Creative Producer, Link",
+    "url": "https://stripe.com/jobs/search?gh_jid=7991528",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T02:31:07.896665"
   }
 }
