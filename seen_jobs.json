@@ -30269,5 +30269,53 @@
     "location": "US-CA-Remote, US-San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-10T17:51:42.051549"
+  },
+  "7647ebb7e737ebde4fc243ede119dd19": {
+    "company": "Cape",
+    "title": "Software Engineer, iOS",
+    "url": "https://jobs.ashbyhq.com/cape/72b03d27-d02b-4aca-915d-b9409feff11b",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T20:11:35.694790"
+  },
+  "83f9f3e378b1a85f248bc2c0b3b17e41": {
+    "company": "Cape",
+    "title": "Facility Security Officer",
+    "url": "https://jobs.ashbyhq.com/cape/50848a5d-d82b-4fb8-9345-bbd2c1280b47",
+    "location": "Arlington, VA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T20:11:35.695036"
+  },
+  "0338463245b9aab4c880f0b5da2c85f3": {
+    "company": "Cape",
+    "title": "Contract Specialist",
+    "url": "https://jobs.ashbyhq.com/cape/32de0467-f269-45f7-bc8e-aaed34d79be6",
+    "location": "Arlington, VA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T20:11:35.695050"
+  },
+  "6de8a0f5985c91fe984bb6d3195915f6": {
+    "company": "Coinbase",
+    "title": "Paralegal, Litigation",
+    "url": "https://www.coinbase.com/careers/positions/7952032?gh_jid=7952032",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T20:12:10.582218"
+  },
+  "7bfca601aa7094fe899905386f46f810": {
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack (Credit Analytics)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7764035003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T20:12:13.263160"
+  },
+  "dab1ccba4e95bfd7483bbd2336f0c0d3": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise - Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=7997555",
+    "location": "US-New York, US-Chicago, US-Atlanta, US-San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T20:12:14.201320"
   }
 }
