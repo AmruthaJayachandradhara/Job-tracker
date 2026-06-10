@@ -30197,5 +30197,13 @@
     "location": "US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-10T02:31:07.896665"
+  },
+  "fe4cd5afdfac4d5b6c0ef749ce724694": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (Greater China)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7994590",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-10T06:59:28.079862"
   }
 }
