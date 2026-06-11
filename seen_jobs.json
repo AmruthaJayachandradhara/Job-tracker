@@ -30341,5 +30341,13 @@
     "location": "Toronto",
     "filter_reason": "title match: 'new grad'",
     "first_seen": "2026-06-11T00:09:06.861701"
+  },
+  "cd8038bb7ff7fff14d3cee9505dc5545": {
+    "company": "Coinbase",
+    "title": "Concierge Specialist IV",
+    "url": "https://www.coinbase.com/careers/positions/7994501?gh_jid=7994501",
+    "location": "Remote - Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T05:21:32.461090"
   }
 }
