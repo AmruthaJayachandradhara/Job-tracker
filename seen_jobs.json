@@ -30517,5 +30517,29 @@
     "location": "Foster City, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-11T21:12:44.758549"
+  },
+  "7ada7216ebdf755715cbd5789ef96820": {
+    "company": "Coinbase",
+    "title": "Customer Success Specialist II ",
+    "url": "https://www.coinbase.com/careers/positions/7759747?gh_jid=7759747",
+    "location": "Remote - Cyprus",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T23:14:42.573857"
+  },
+  "81360d5da17d4dfeff954494346be700": {
+    "company": "Gusto",
+    "title": "Future Opportunities: Early Career Sales Talent",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8001931",
+    "location": "Denver, CO;Atlanta, GA;Phoenix, AZ;Las Vegas, NV;Chicago, IL",
+    "filter_reason": "title match: 'early career'",
+    "first_seen": "2026-06-11T23:14:46.766735"
+  },
+  "595533cfac020dac7f0df40b3bcd3214": {
+    "company": "Carta",
+    "title": "Fund Controller",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7768907003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T23:14:47.989722"
   }
 }
