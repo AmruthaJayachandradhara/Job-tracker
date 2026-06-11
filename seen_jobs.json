@@ -30389,5 +30389,13 @@
     "location": "Krakow, Poland (Hybrid)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-11T10:06:08.702254"
+  },
+  "1cfef20ff24a93ebdd6f2516a9f6860f": {
+    "company": "Stripe",
+    "title": "Software Engineer, Collaboration",
+    "url": "https://stripe.com/jobs/search?gh_jid=7532806",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T14:30:29.827649"
   }
 }
