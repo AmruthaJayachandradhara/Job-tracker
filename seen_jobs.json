@@ -30493,5 +30493,29 @@
     "location": "Toronto",
     "filter_reason": "title match: 'new grad'",
     "first_seen": "2026-06-11T18:05:19.332131"
+  },
+  "4eb98ebc5dae60d45867425637725106": {
+    "company": "Northwood Space",
+    "title": "Strategic Sourcing Specialist",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/662b34b0-629c-47f9-9e17-d2f58011706b",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T21:12:16.350256"
+  },
+  "5ab2930ab6ac0fffc0c3bfd437e46c9f": {
+    "company": "Novig",
+    "title": "Market Operations Specialist",
+    "url": "https://jobs.ashbyhq.com/novig/2eddd226-7ee3-41f0-983c-4d0a9a36b744",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T21:12:24.353459"
+  },
+  "78f68cf9dc61c9b716035804860a83c6": {
+    "company": "Replit",
+    "title": "Sourcer",
+    "url": "https://jobs.ashbyhq.com/replit/806139fd-e262-49af-89f5-83f1efc43050",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T21:12:44.758549"
   }
 }
