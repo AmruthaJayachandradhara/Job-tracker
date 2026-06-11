@@ -30333,5 +30333,13 @@
     "location": "Hybrid - New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-10T22:47:25.614935"
+  },
+  "4e616f2af66e0975e6a565acac0c587c": {
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad, Developer Experience & Product Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=7991718",
+    "location": "Toronto",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-06-11T00:09:06.861701"
   }
 }
