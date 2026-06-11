@@ -30349,5 +30349,45 @@
     "location": "Remote - Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-11T05:21:32.461090"
+  },
+  "c2a2803b3b6b2db4922c749d920ddd6a": {
+    "company": "Databricks",
+    "title": "Emerging Enterprise Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438946002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T10:06:00.443858"
+  },
+  "508c90bde2b75da06a308eac027c69dd": {
+    "company": "Databricks",
+    "title": "Sales Specialist - Lakebase",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8477547002",
+    "location": "Bengaluru, India; Mumbai, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T10:06:00.446064"
+  },
+  "6b94adb45a9d6f463fc059863d2713b4": {
+    "company": "Databricks",
+    "title": "Strategic Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585188002",
+    "location": "China; Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T10:06:00.450872"
+  },
+  "edb40e8fae05ac761de75c0c1183c722": {
+    "company": "Dialpad",
+    "title": "Security Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8561223002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T10:06:05.556387"
+  },
+  "5c6b3390e5a240a91d41a64e2e859717": {
+    "company": "Tanium",
+    "title": "Quoting Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7981419",
+    "location": "Krakow, Poland (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T10:06:08.702254"
   }
 }
