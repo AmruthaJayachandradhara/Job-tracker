@@ -30397,5 +30397,101 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-11T14:30:29.827649"
+  },
+  "55654e10be49022c4dabb0dc532c84f6": {
+    "company": "Databricks",
+    "title": "Hunter Account Executive - Abu Dhabi Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8556252002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T18:05:03.151260"
+  },
+  "f5895b8a5bb7138ecd6d6a3a8ba41cb8": {
+    "company": "Tanium",
+    "title": "Sales Development Representative",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8001033",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T18:05:10.336727"
+  },
+  "c91dc06c0cafca6f230182106c28e07a": {
+    "company": "Coinbase",
+    "title": "EDD Compliance Analyst III",
+    "url": "https://www.coinbase.com/careers/positions/7732497?gh_jid=7732497",
+    "location": "Hybrid - Luxembourg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T18:05:15.123225"
+  },
+  "ae403fb48fb5ed8a2c703edd1437f237": {
+    "company": "Affirm",
+    "title": "Capital Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7764115003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T18:05:17.619271"
+  },
+  "78ae44c876cbfbb51617b2d9927aae95": {
+    "company": "Affirm",
+    "title": "Capital Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7764113003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T18:05:17.619296"
+  },
+  "1cda8b179bfd7eac7c6a77eea39f7189": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (ML Training & Serving)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7762570003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T18:05:17.620380"
+  },
+  "9d9fe43506b7325b77c57f8d0be77fd4": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (ML Training & Serving)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7762568003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T18:05:17.620391"
+  },
+  "e11de0b1a06034bd165e4b86a6104391": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Platforms, Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=7961609",
+    "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Denver, CO; Austin, TX; US-West Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T18:05:19.327869"
+  },
+  "2a0f4e312bceeccd22f1aa6d8ab41964": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms, Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=7965001",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T18:05:19.327983"
+  },
+  "6411479ff08137048f8a48adcff69f6c": {
+    "company": "Stripe",
+    "title": "Fullstack Engineer, Payments and Risk",
+    "url": "https://stripe.com/jobs/search?gh_jid=6717520",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T18:05:19.329768"
+  },
+  "d5598b6ab7b54ff8b092ac2763edbcb4": {
+    "company": "Stripe",
+    "title": "Product Support Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7813279",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-11T18:05:19.331304"
+  },
+  "370e2ef6f5afcc8f94e841e10ade05ad": {
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad, Developer & End User Experience Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=7991718",
+    "location": "Toronto",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-06-11T18:05:19.332131"
   }
 }
