@@ -30541,5 +30541,21 @@
     "location": "Toronto, Ontario, Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-11T23:14:47.989722"
+  },
+  "2da18b99800f34552b0e429db0875462": {
+    "company": "Braintrust",
+    "title": "Strategic Account Executive (West Region)",
+    "url": "https://jobs.ashbyhq.com/braintrust/19d791ab-1e90-4182-8a96-df697b8adf19",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-12T02:35:32.557686"
+  },
+  "40778daa9cd528c0392a0b713db7068f": {
+    "company": "Databricks",
+    "title": "Sr Technical Solutions Engineering",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8589172002",
+    "location": "McLean, Virginia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-12T02:36:01.223172"
   }
 }
