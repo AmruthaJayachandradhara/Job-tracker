@@ -30645,5 +30645,21 @@
     "location": "London, Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-12T17:31:45.266867"
+  },
+  "519fbcf72d460304f33fff97b420bcf7": {
+    "company": "Replit",
+    "title": "Product Engineer, Product Platform (Frontend)",
+    "url": "https://jobs.ashbyhq.com/replit/657a90d2-23cc-4c86-b9ed-a21900efee0d",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-12T19:53:25.754057"
+  },
+  "87e094c79cf18afa45a355312b44b848": {
+    "company": "Coinbase",
+    "title": "Concierge Specialist IV",
+    "url": "https://www.coinbase.com/careers/positions/7994498?gh_jid=7994498",
+    "location": "Remote - Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-12T19:53:31.486909"
   }
 }
