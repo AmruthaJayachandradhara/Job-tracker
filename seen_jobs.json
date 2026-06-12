@@ -30597,5 +30597,29 @@
     "location": "London, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-12T11:35:25.817384"
+  },
+  "1c9e43a3d33b865cd537b7e85831b2ce": {
+    "company": "Coinbase",
+    "title": "Analytics Engineer",
+    "url": "https://www.coinbase.com/careers/positions/7843712?gh_jid=7843712",
+    "location": "Hybrid - Luxembourg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-12T14:35:32.285359"
+  },
+  "2f867fd5bd0df3e9130f80a3896f48e4": {
+    "company": "Stripe",
+    "title": "Integration Engineer, Professional Services (French fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7992740",
+    "location": "Paris",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-12T14:35:35.773072"
+  },
+  "bfd5317838f46adbba13d392670df9df": {
+    "company": "Stripe",
+    "title": "Risk Operations Analyst (Mandarin Speaking)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7994384",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-12T14:35:35.774486"
   }
 }
