@@ -30621,5 +30621,29 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-12T14:35:35.774486"
+  },
+  "21db53dc5798f4949dd77e5156b6e202": {
+    "company": "Coinbase",
+    "title": "HR Business Partner",
+    "url": "https://www.coinbase.com/careers/positions/7997879?gh_jid=7997879",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-12T17:31:41.809598"
+  },
+  "c458709fc614b75a2f931f7ec099ab80": {
+    "company": "Stripe",
+    "title": "Credit Operations Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7722943",
+    "location": "Toronto, Atlanta, or Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-12T17:31:45.264655"
+  },
+  "5aa3ed5971f0c56badc5b64070cdeac0": {
+    "company": "Stripe",
+    "title": "Product Enablement Advisor",
+    "url": "https://stripe.com/jobs/search?gh_jid=8003129",
+    "location": "London, Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-12T17:31:45.266867"
   }
 }
