@@ -30661,5 +30661,13 @@
     "location": "Remote - Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-12T19:53:31.486909"
+  },
+  "385cf73124b794d1e146e8f508928602": {
+    "company": "Fivetran",
+    "title": "Business Development Rep Commercial",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7768882003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-12T21:24:04.275321"
   }
 }
