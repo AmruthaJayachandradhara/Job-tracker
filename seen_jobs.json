@@ -30677,5 +30677,13 @@
     "location": "US Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-13T02:29:34.548527"
+  },
+  "d843e28bbaf2c1b22d8bddb227d4c9cd": {
+    "company": "Stripe",
+    "title": "Payments Performance Strategist, Card Authorization",
+    "url": "https://stripe.com/jobs/search?gh_jid=8004054",
+    "location": "San Francisco, CA; Seattle, WA; Chicago, IL; New York, NY; Atlanta, GA; US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-13T21:03:04.823669"
   }
 }
