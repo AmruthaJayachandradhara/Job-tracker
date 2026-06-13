@@ -30669,5 +30669,13 @@
     "location": "Denver, Colorado, United States, AMER",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-12T21:24:04.275321"
+  },
+  "a0763ca1b3174e3458d8fedb49fb9590": {
+    "company": "Stripe",
+    "title": "Copy Editor",
+    "url": "https://stripe.com/jobs/search?gh_jid=8004035",
+    "location": "US Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-13T02:29:34.548527"
   }
 }
