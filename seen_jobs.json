@@ -30805,5 +30805,37 @@
     "location": "Mexico City, Mexico",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-15T20:45:54.605734"
+  },
+  "fc262ec67b1cadcb0441d852c46750c5": {
+    "company": "Coinbase",
+    "title": "Privacy Analyst",
+    "url": "https://www.coinbase.com/careers/positions/8008594?gh_jid=8008594",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T22:55:59.598759"
+  },
+  "385c6ca24ab33d6f53359bcd6765c16b": {
+    "company": "Stripe",
+    "title": "Full-Stack Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8003382",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T22:56:03.394391"
+  },
+  "c361c9d3433fce4ead39cda311b8be3c": {
+    "company": "Stripe",
+    "title": "Growth Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8008880",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T22:56:03.394609"
+  },
+  "ea6cb25f81eb89e0e43b62a487e888c3": {
+    "company": "Gusto",
+    "title": "Business Development Representative ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8002008",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T22:56:04.131844"
   }
 }
