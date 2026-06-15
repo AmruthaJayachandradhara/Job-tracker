@@ -30685,5 +30685,13 @@
     "location": "San Francisco, CA; Seattle, WA; Chicago, IL; New York, NY; Atlanta, GA; US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-13T21:03:04.823669"
+  },
+  "a66b48b42b49aff34b2a1e0835fbb3c8": {
+    "company": "Stripe",
+    "title": "Operations Associate, GTM Implementation Specialist ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7393071",
+    "location": "Mexico",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-15T06:14:34.028016"
   }
 }
