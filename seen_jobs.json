@@ -30733,5 +30733,53 @@
     "location": "Sydney, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-15T12:57:51.534488"
+  },
+  "a60ccb766d385c470bcaea441d2797ac": {
+    "company": "Databricks",
+    "title": " Lakebase Sales Specialist-MFG",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569506002",
+    "location": "Remote - Georgia; Remote - Texas; San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T17:51:07.298110"
+  },
+  "60b2ec2efe3ec6798956c64b8e832dbe": {
+    "company": "Fivetran",
+    "title": "Account Executive, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7771588003",
+    "location": "Remote, Germany, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T17:51:09.818105"
+  },
+  "fa8276a03ec4535369f80b18e33fc8e2": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive  - Belgium & Luxembourg (Public Sector)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8575027002",
+    "location": "Remote, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T17:51:13.005034"
+  },
+  "1e65a201a8f9fadb117bfb2e717105d3": {
+    "company": "GitLab",
+    "title": " Strategic Account Executive - Retail & Media ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8592110002",
+    "location": "Remote, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T17:51:13.005080"
+  },
+  "08061b385fb95a1c50461649e545155a": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB Hunter (French Fluency) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8007641",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T17:51:31.416381"
+  },
+  "34b3499c66ad18f45bc65bde4a8176e5": {
+    "company": "Gusto",
+    "title": "Benefits Broker Onboarding Advocate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7983773",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T17:51:32.092518"
   }
 }
