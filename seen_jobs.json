@@ -30693,5 +30693,45 @@
     "location": "Mexico",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-06-15T06:14:34.028016"
+  },
+  "d00f6f5c96a29603ed8e470700c39eb7": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Benelux",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8589349002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T12:57:34.995264"
+  },
+  "5b8ca4950c28ac7925fb82963a6b6e4f": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer - Emerging Enterprise & DNB",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439047002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T12:57:34.995717"
+  },
+  "3ab4732551293bc8db88b77b6e84b705": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer (FDE)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8367942002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T12:57:34.995735"
+  },
+  "a19277711587f9b1cd749278c933561f": {
+    "company": "Databricks",
+    "title": "Startup Hunter Account Executive - Switzerland",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575200002",
+    "location": "Z\u00fcrich, Switzerland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T12:57:35.001247"
+  },
+  "3271bcc43ff644fd4d0b224a003585db": {
+    "company": "Stripe",
+    "title": "Software Engineer, Core Infrastructure",
+    "url": "https://stripe.com/jobs/search?gh_jid=7975725",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-15T12:57:51.534488"
   }
 }
