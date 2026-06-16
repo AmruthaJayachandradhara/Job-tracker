@@ -30885,5 +30885,37 @@
     "location": "Austin, TX",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-16T00:23:37.860635"
+  },
+  "30dac17604a492bd48e83c944a34b121": {
+    "company": "Profound",
+    "title": "Recruiter",
+    "url": "https://jobs.ashbyhq.com/profound/c6aece71-f565-4d15-9afd-245cfc9c2d25",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T06:24:22.912075"
+  },
+  "f8c55809284d86021c0b08f7e47f464a": {
+    "company": "Profound",
+    "title": "Field Coordinator",
+    "url": "https://jobs.ashbyhq.com/profound/b7220300-12c2-4f7f-ac05-7da9ffd32069",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T06:24:22.912278"
+  },
+  "4c88ce406e198f23118e23ad8b0b3037": {
+    "company": "Juicebox",
+    "title": "Channel Partnerships",
+    "url": "https://jobs.ashbyhq.com/juicebox/027aaf8c-e854-4363-81ce-f806493c6bc0",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T06:24:30.870102"
+  },
+  "4fa52c9a34a0de3b57537e05cd4f86e3": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8009143",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T06:24:51.011617"
   }
 }
