@@ -30981,5 +30981,77 @@
     "location": "Spain",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-16T12:03:58.236361"
+  },
+  "272be46a5884e22ce85b046b167c0cd0": {
+    "company": "Articul8 AI",
+    "title": "Machine Learning Engineer - Data Pipeline",
+    "url": "https://jobs.ashbyhq.com/articul8/a6a71ee8-68af-4d33-ab48-2bee47b56ed9",
+    "location": "Dublin, CA (HQ)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T17:54:32.976700"
+  },
+  "bbc456b5070d029ae0a485fab062e0f8": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer - FDE (Fullstack)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554531002",
+    "location": "Munich, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T17:54:52.708039"
+  },
+  "d5cb2c878261868ddccde9b5073478a3": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer (FDE, Full Stack)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8367942002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T17:54:52.708068"
+  },
+  "cb66d5e47d83f52b58c70abaf9dac9a4": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer - FDE (Fullstack) - Digital Native Business ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8488399002",
+    "location": "Atlanta, Georgia; Bellevue, Washington; Boston, Massachusetts; Maryland; Philadelphia, Pennsylvania; Portland, Oregon; Remote - California; Remote - North Carolina; Remote - Virginia; Remote - Washington D.C.; Seattle, Washington; South Carolina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T17:54:52.708081"
+  },
+  "898697cf72646fe47424c7607f213cbb": {
+    "company": "GitLab",
+    "title": "Executive Assistant (United Kingdom)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8584747002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T17:54:58.532268"
+  },
+  "a9ae0a08b8b03d1ac4eaad50b48cac5a": {
+    "company": "Stripe",
+    "title": "Account Executive, Existing Business (Central Eastern Europe)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7861856",
+    "location": "Poland - Remote OR Romania - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T17:55:08.361536"
+  },
+  "f159d73001568310f6045fa2330fa2e9": {
+    "company": "Stripe",
+    "title": "Bridge - Operations Associate, Financial Crimes (AML Investigations)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7991791",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-16T17:55:08.362252"
+  },
+  "3b4645899c0f66bc23e743ae4f242d3c": {
+    "company": "Stripe",
+    "title": "Commercial Counsel, Sales",
+    "url": "https://stripe.com/jobs/search?gh_jid=7967034",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T17:55:08.362358"
+  },
+  "2ae637d34fc6eee0fb4f97a76441dd96": {
+    "company": "Stripe",
+    "title": "Global Sales Enablement Systems Administrator",
+    "url": "https://stripe.com/jobs/search?gh_jid=7993682",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T17:55:08.363627"
   }
 }
