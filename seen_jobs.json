@@ -30917,5 +30917,69 @@
     "location": "New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-16T06:24:51.011617"
+  },
+  "821f6e4181c6e2e0427cdfd5e995f2e2": {
+    "company": "WitnessAI",
+    "title": "Technical Support Engineer",
+    "url": "https://jobs.ashbyhq.com/witnessai/434ec843-f75e-4cf1-9d67-8a774c8f197b",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T12:03:17.290121"
+  },
+  "2cd3d091e6112acbace9ad0c5fa53f61": {
+    "company": "Databricks",
+    "title": "Business Development Representative (German-speaking, DACH)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8590411002",
+    "location": "Munich, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T12:03:40.185971"
+  },
+  "8080a71acf3fe0cb0f541c55be5e0335": {
+    "company": "Databricks",
+    "title": "Business Development Representative (Italian-speaking)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8590201002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T12:03:40.186000"
+  },
+  "0338c625d2f936fd8e94b8f8e0fa69d4": {
+    "company": "Databricks",
+    "title": " Lakebase Sales Specialist ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8451296002",
+    "location": "Munich, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T12:03:40.187500"
+  },
+  "4683d164e2c6e48a70187e7379e83b24": {
+    "company": "Coinbase",
+    "title": "Software Engineer, EAA Integrations",
+    "url": "https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051",
+    "location": "Remote - India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T12:03:54.111030"
+  },
+  "c9ae2ba76777a8e6f11edb8fb41f20ec": {
+    "company": "Stripe",
+    "title": "Forward Deployed Integration Engineer, Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8009604",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T12:03:58.235731"
+  },
+  "a265e6908fc6ea6203d8e95492962d05": {
+    "company": "Stripe",
+    "title": "Fullstack Engineer, Internal Tools",
+    "url": "https://stripe.com/jobs/search?gh_jid=7532806",
+    "location": "Dublin",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-06-16T12:03:58.235895"
+  },
+  "8f58c87610f66207d70b3729dffc8c23": {
+    "company": "Stripe",
+    "title": "Integration Engineer, Professional Services (Spanish fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8000359",
+    "location": "Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T12:03:58.236361"
   }
 }
