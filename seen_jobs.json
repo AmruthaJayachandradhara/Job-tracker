@@ -31061,5 +31061,21 @@
     "location": "Denver, Colorado, United States, AMER",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-16T20:38:09.858844"
+  },
+  "c305646908ae7843fe04ddba4540d4df": {
+    "company": "Tanium",
+    "title": "Business Analyst (Data Engineering)",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7669997",
+    "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T22:48:06.868215"
+  },
+  "8ea5af39c8d08ead3e59ee8bcd87bd49": {
+    "company": "Stripe",
+    "title": "Company Strategy & Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=5956522",
+    "location": "San Francisco, Seattle, Chicago, US-remote, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-16T22:48:15.718474"
   }
 }
