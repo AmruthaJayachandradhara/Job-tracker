@@ -31077,5 +31077,21 @@
     "location": "San Francisco, Seattle, Chicago, US-remote, New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-16T22:48:15.718474"
+  },
+  "3b3a2f212a60371ec796a9b6108f4821": {
+    "company": "Pomelo Care",
+    "title": "Midlife Registered Dietitian (Contract) - Licensed in Any US State",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6092211004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T06:00:24.881145"
+  },
+  "0e4b8348748bc51a0e716c4c1951cd92": {
+    "company": "Databricks",
+    "title": "Emerging Enterprise Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8194916002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T06:00:46.383474"
   }
 }
