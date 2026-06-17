@@ -31117,5 +31117,37 @@
     "location": "Remote Poland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-17T11:27:29.292279"
+  },
+  "6496351a3a648d5c070233a461ff59c4": {
+    "company": "Cape",
+    "title": "Government Contract Specialist",
+    "url": "https://jobs.ashbyhq.com/cape/32de0467-f269-45f7-bc8e-aaed34d79be6",
+    "location": "Arlington, VA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T14:50:13.904475"
+  },
+  "d990a0a9ab9c02df62ffa336460a29ce": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist (UKI)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569548002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T14:50:35.740775"
+  },
+  "4195afed8778f05d0cce371f7cd66e53": {
+    "company": "Replit",
+    "title": "GTM/G&A Sourcer",
+    "url": "https://jobs.ashbyhq.com/replit/806139fd-e262-49af-89f5-83f1efc43050",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T14:50:42.099504"
+  },
+  "c03a82f79d7fa127c4539a3c83efeffd": {
+    "company": "Coinbase",
+    "title": "Software Engineer",
+    "url": "https://www.coinbase.com/careers/positions/8003605?gh_jid=8003605",
+    "location": "Charlotte, NC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T14:50:47.490064"
   }
 }
