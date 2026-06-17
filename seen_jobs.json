@@ -31181,5 +31181,29 @@
     "location": "Denver, Colorado, United States, AMER",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-17T19:59:30.403945"
+  },
+  "8c0d8aec12833524dd9a7c9d3f27f90f": {
+    "company": "Doctronic",
+    "title": "Medical Content Editor",
+    "url": "https://jobs.ashbyhq.com/doctronic/510bf9ec-e15d-4529-a7d6-e5e2322661c3",
+    "location": "Los Angeles",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T22:01:15.864208"
+  },
+  "3ad5d7f1e1684a971b553d29aa168eda": {
+    "company": "Databricks",
+    "title": "Candidate Experience Coordinator (6-month contract) ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6174735002",
+    "location": "Bellevue, Washington; Seattle, Washington",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T22:01:37.039182"
+  },
+  "a1a7bc0bf5232233b9c4a45f9148121e": {
+    "company": "Coinbase",
+    "title": "Prime Sales Trader",
+    "url": "https://www.coinbase.com/careers/positions/8013951?gh_jid=8013951",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T22:01:49.619831"
   }
 }
