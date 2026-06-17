@@ -31093,5 +31093,29 @@
     "location": "Tokyo, Japan",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-17T06:00:46.383474"
+  },
+  "7c39bb21b03e4dd5c04961f056b78c17": {
+    "company": "Databricks",
+    "title": "Digital Native Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8194920002",
+    "location": "Seoul, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T11:27:14.751922"
+  },
+  "b11b272f6ccc670036a9f5a60a44318c": {
+    "company": "Databricks",
+    "title": "Startup Hunter Account Executive - Eastern Europe",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575200002",
+    "location": "Z\u00fcrich, Switzerland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T11:27:14.758886"
+  },
+  "8e31d67aeaae7406297f6442789f971e": {
+    "company": "Affirm",
+    "title": "Analytics Engineer II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7764109003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T11:27:29.292279"
   }
 }
