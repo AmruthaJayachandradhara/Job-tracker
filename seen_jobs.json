@@ -31165,5 +31165,21 @@
     "location": "US / Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-17T17:45:43.166003"
+  },
+  "8eeaa9eaa133efe0d498aefe578b7c7b": {
+    "company": "Fivetran",
+    "title": "Product Attorney",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7776505003",
+    "location": "Oakland, California, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T19:59:30.403920"
+  },
+  "d6bacf1b34488045d6dac8548c29a91d": {
+    "company": "Fivetran",
+    "title": "Product Attorney",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7768985003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T19:59:30.403945"
   }
 }
