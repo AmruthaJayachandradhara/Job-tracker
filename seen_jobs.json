@@ -31149,5 +31149,21 @@
     "location": "Charlotte, NC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-17T14:50:47.490064"
+  },
+  "66afb865404d800ac3febb993c4f4267": {
+    "company": "EarnIn",
+    "title": "Compensation Analyst II",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8013283",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T17:45:41.366378"
+  },
+  "e98b6677ab299473dd204ba16bc8b923": {
+    "company": "Stripe",
+    "title": "Product Designer, Connect Risk",
+    "url": "https://stripe.com/jobs/search?gh_jid=7568117",
+    "location": "US / Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-17T17:45:43.166003"
   }
 }
