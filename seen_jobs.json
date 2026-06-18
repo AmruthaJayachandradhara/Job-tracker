@@ -31349,5 +31349,21 @@
     "location": "Mexico City",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-06-18T21:57:19.650145"
+  },
+  "93e6651cb7d76c8ccf889392b24962a7": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups - Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8017336",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T23:41:29.147719"
+  },
+  "2ea05d69e3c4dffc1ab94af78ad76e51": {
+    "company": "Gusto",
+    "title": "Technical Tax Support Specialist",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7991685",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T23:41:29.855670"
   }
 }
