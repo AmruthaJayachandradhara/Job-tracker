@@ -31221,5 +31221,37 @@
     "location": "Sydney Or Melbourne",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-18T05:28:20.357633"
+  },
+  "23e0b4d6e081f9d1c1b6b3a9d10f1ddc": {
+    "company": "Tanium",
+    "title": "Enterprise Services Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8009083",
+    "location": "Remote, France; Remote, Germany; Remote, Italy; Remote, Spain; Remote, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T13:56:12.432155"
+  },
+  "2550e8a7b603ab8b9034a3220588f05a": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Back-end (Card Mgmt & Transaction Processing)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7766277003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T13:56:19.760736"
+  },
+  "999337614bc0e6c670d9f7e6e1c2240e": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Back-end (Card Mgmt & Transaction Processing)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7777094003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T13:56:19.760765"
+  },
+  "88f36a3100af1aa70614510d55840faa": {
+    "company": "Stripe",
+    "title": "Operations Insights, Tax",
+    "url": "https://stripe.com/jobs/search?gh_jid=7997542",
+    "location": "US Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T13:56:20.711531"
   }
 }
