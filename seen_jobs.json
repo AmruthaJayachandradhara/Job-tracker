@@ -31301,5 +31301,29 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-18T16:51:48.888392"
+  },
+  "460682e946bdda6bf954279c55f69917": {
+    "company": "Databricks",
+    "title": "Geo Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8598730002",
+    "location": "Northeast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T19:16:20.234003"
+  },
+  "f199173a94828135272f7dae5527a992": {
+    "company": "Mercury",
+    "title": "Disputes Specialist",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6094862004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T19:16:34.110902"
+  },
+  "188897f114454406a8feb1cb28533efa": {
+    "company": "Stripe",
+    "title": "Operations Associate, Financial Crimes (AML Investigations)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8014995",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-18T19:16:38.521661"
   }
 }
