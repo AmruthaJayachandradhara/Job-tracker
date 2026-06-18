@@ -31213,5 +31213,13 @@
     "location": "Remote - USA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-18T00:07:15.922776"
+  },
+  "c979c8e1feb4b6e7ab5630ea286784e3": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7693271",
+    "location": "Sydney Or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T05:28:20.357633"
   }
 }
