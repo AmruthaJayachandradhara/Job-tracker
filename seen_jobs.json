@@ -31325,5 +31325,29 @@
     "location": "Mexico City",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-06-18T19:16:38.521661"
+  },
+  "bf7ac6a6f5fc9a3ea1c14a763cdf5a8c": {
+    "company": "Gumloop",
+    "title": "Founding Product Designer",
+    "url": "https://jobs.ashbyhq.com/gumloop/d3d8321d-6b1d-4a93-bfac-0a5a850c82ec",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T21:56:34.729780"
+  },
+  "6f42279b6cd75bfa30fc9575e07d4a34": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups - Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=7921701",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T21:57:19.646506"
+  },
+  "e514a50af3b8426a49c2fb58ce5a2628": {
+    "company": "Stripe",
+    "title": "Sanctions, Operations Associate(CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8017084",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-18T21:57:19.650145"
   }
 }
