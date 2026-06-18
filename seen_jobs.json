@@ -31205,5 +31205,13 @@
     "location": "Remote - USA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-17T22:01:49.619831"
+  },
+  "5001062d9a6fc8c8fcaa72f39a6aa633": {
+    "company": "Coinbase",
+    "title": "Software Engineer",
+    "url": "https://www.coinbase.com/careers/positions/7967649?gh_jid=7967649",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T00:07:15.922776"
   }
 }
