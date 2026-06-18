@@ -31253,5 +31253,53 @@
     "location": "US Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-18T13:56:20.711531"
+  },
+  "d239e5458435c73ef41c69914c42443b": {
+    "company": "Cape",
+    "title": "Data Engineer",
+    "url": "https://jobs.ashbyhq.com/cape/4b93114b-59c0-4f15-91f8-843083b28c3c",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T16:51:09.366164"
+  },
+  "fba97f18e4627543983dd1eacc44bb82": {
+    "company": "Databricks",
+    "title": " Lakebase Sales Specialist (Enterprise UKI) ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569535002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T16:51:33.496373"
+  },
+  "c236f312fcab96323d206709b99fe7c2": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive - Financial Services ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8596443002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T16:51:33.501864"
+  },
+  "a440f4b4b0ef773c97f546156d9ecb9c": {
+    "company": "GitLab",
+    "title": "Public Sector Strategic Account Executive, Federal Civilian",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8589192002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T16:51:39.287530"
+  },
+  "cb2dd6531b0858f6c9156ff246660c71": {
+    "company": "EarnIn",
+    "title": "AI Builder",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8013281",
+    "location": "Mountain View, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T16:51:47.165696"
+  },
+  "72902f2adb3dbd615d4cd32308ddaf62": {
+    "company": "Stripe",
+    "title": "Product Enablement Advisor",
+    "url": "https://stripe.com/jobs/search?gh_jid=8010302",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-18T16:51:48.888392"
   }
 }
