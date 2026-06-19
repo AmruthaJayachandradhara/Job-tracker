@@ -31381,5 +31381,29 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-19T08:28:31.315301"
+  },
+  "5e52291be61c74f3ee4d9c17916c5b9f": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer - Full Stack",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8521090002",
+    "location": "Remote - Denmark",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-19T12:40:44.432740"
+  },
+  "0d30fceb1aa38cecfd67d167c9b87785": {
+    "company": "Databricks",
+    "title": "Strategic Hunter Account Executive - Oil & Gas",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8596445002",
+    "location": "Riyadh, Saudi Arabia ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-19T12:40:44.438451"
+  },
+  "db973594eb9818b0b91f3dcd677672e1": {
+    "company": "Stripe",
+    "title": "Data Scientist, Payments",
+    "url": "https://stripe.com/jobs/search?gh_jid=8018297",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-19T12:40:59.825621"
   }
 }
