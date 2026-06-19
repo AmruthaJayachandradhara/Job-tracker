@@ -31405,5 +31405,21 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-19T12:40:59.825621"
+  },
+  "95ec25a2d9866c584ec654233f44374f": {
+    "company": "Profound",
+    "title": "VP, Strategic Partnerships",
+    "url": "https://jobs.ashbyhq.com/profound/816c2ab6-7398-4cd8-b1b5-695d4673b476",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-19T15:55:48.784545"
+  },
+  "43c479a7f5609a5c21c17b1948c0f9e1": {
+    "company": "Databricks",
+    "title": "Sr Forward Deployed Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8362737002",
+    "location": "Remote - India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-19T15:56:00.194369"
   }
 }
