@@ -31421,5 +31421,29 @@
     "location": "Remote - India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-19T15:56:00.194369"
+  },
+  "9ac277acb0a6a9ccc6067b6565ee7acf": {
+    "company": "Databricks",
+    "title": "Start-up Hunter Account Executive - Eastern Europe",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8601193002",
+    "location": "Munich, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-19T17:48:08.111431"
+  },
+  "27fa1467e30fd325273b3c5b50f5d9bd": {
+    "company": "Dialpad",
+    "title": "AI Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8601273002",
+    "location": "Kitchener, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-19T17:48:12.934512"
+  },
+  "e86a8493bf9497fbc5c5b4fb0abb9a11": {
+    "company": "Dialpad",
+    "title": "AI Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8597852002",
+    "location": "Vancouver, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-19T17:48:12.934530"
   }
 }
