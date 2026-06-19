@@ -31365,5 +31365,13 @@
     "location": "Denver, CO - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-18T23:41:29.855670"
+  },
+  "1c6ab997c8721b1a829730017932fa81": {
+    "company": "Braintrust",
+    "title": "Data Engineer",
+    "url": "https://jobs.ashbyhq.com/braintrust/d1756ad8-be7c-4acd-961e-7e81e4f69024",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-19T02:56:42.905306"
   }
 }
