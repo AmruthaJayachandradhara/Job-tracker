@@ -31373,5 +31373,13 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-19T02:56:42.905306"
+  },
+  "d3d67da1b84f38a43f297a24d3142830": {
+    "company": "Stripe",
+    "title": "Strategy and Analytics Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=7813411",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-19T08:28:31.315301"
   }
 }
