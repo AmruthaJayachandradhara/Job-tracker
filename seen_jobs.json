@@ -31453,5 +31453,21 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-19T19:25:29.549054"
+  },
+  "44ca5a30ba88bd6bc30722063432dda9": {
+    "company": "Tanium",
+    "title": "Corporate AI Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7967943",
+    "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-19T22:44:10.596462"
+  },
+  "38cad8b052b27acb9c94abc7f999aaf2": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Billing",
+    "url": "https://stripe.com/jobs/search?gh_jid=6786324",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-19T22:44:19.454429"
   }
 }
