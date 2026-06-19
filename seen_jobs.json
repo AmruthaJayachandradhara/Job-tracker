@@ -31445,5 +31445,13 @@
     "location": "Vancouver, Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-19T17:48:12.934530"
+  },
+  "e0aa63df6be3137c43c8b0a90ef0a7cf": {
+    "company": "Encord",
+    "title": "Machine Learning Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/a9f062da-4ff8-450f-ac16-f7f9bd54233a",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-19T19:25:29.549054"
   }
 }
