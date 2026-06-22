@@ -31485,5 +31485,21 @@
     "location": "Bengaluru, India",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-06-22T08:48:53.306840"
+  },
+  "0cf7e1385ae10d43ebf33a6ba02b67f6": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist (Central region)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569516002",
+    "location": "Z\u00fcrich, Switzerland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T14:25:15.185311"
+  },
+  "bb8dbd3bdf814a566a01ccbd4fb8383d": {
+    "company": "Stripe",
+    "title": "Business Partner Analyst,  Financial Enablement",
+    "url": "https://stripe.com/jobs/search?gh_jid=7874654",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T14:25:30.710413"
   }
 }
