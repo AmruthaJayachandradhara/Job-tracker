@@ -31581,5 +31581,21 @@
     "location": "San Francisco or New York City ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-22T21:27:45.955757"
+  },
+  "0c51794b275a4cc429fb931c516419d6": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive, DNB FinTech",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8587891002",
+    "location": "Sao Paulo, Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T23:12:00.725862"
+  },
+  "8146b6b4a89572308a1da4f6d479da90": {
+    "company": "Databricks",
+    "title": "Sr Software Engineer, Agentic Applications",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8220814002",
+    "location": "Mountain View, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T23:12:00.728773"
   }
 }
