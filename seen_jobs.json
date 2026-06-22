@@ -31549,5 +31549,37 @@
     "location": "London, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-22T18:39:35.524043"
+  },
+  "8081b4ee6ffd1a31521e74469591b698": {
+    "company": "Databricks",
+    "title": "Strategic Genie and AI Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8441890002",
+    "location": "Remote - New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T21:27:30.622510"
+  },
+  "38ef42d72c8edb6597463259a28833c1": {
+    "company": "Coinbase",
+    "title": "Derivative Sales Analyst (Prosumer Sales)",
+    "url": "https://www.coinbase.com/careers/positions/8021857?gh_jid=8021857",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T21:27:42.417565"
+  },
+  "a7b787ac7ad75ed20cd4119e409a2c6e": {
+    "company": "Coinbase",
+    "title": "Machine Learning Engineer",
+    "url": "https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187",
+    "location": "Remote - India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T21:27:42.417706"
+  },
+  "88bdc626e906801a5911ce65e78dcf68": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups, Early Grower ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7872736",
+    "location": "San Francisco or New York City ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T21:27:45.955757"
   }
 }
