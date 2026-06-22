@@ -31501,5 +31501,53 @@
     "location": "Dublin, Ireland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-22T14:25:30.710413"
+  },
+  "dd84c050092ca2cfff99bb5d3ef7f628": {
+    "company": "Cape",
+    "title": "Accounting Analyst",
+    "url": "https://jobs.ashbyhq.com/cape/c7834b0e-60de-438e-b208-505f3b501c67",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T18:39:12.855839"
+  },
+  "e394ce75df4fa1debe20c9e7de993ae5": {
+    "company": "Pomelo Care",
+    "title": "Obstetrics Overnight Triage RN",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5596899004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T18:39:15.793285"
+  },
+  "b6851a0cb9b6a4654213f294d2bac645": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569558002",
+    "location": "Herzliya, Israel",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T18:39:35.523931"
+  },
+  "f9c53fd08f8e3a1720799f38acf7a543": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569554002",
+    "location": "Milan, Italy",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T18:39:35.523966"
+  },
+  "90628c7da4faec72ec5da7421bf7b398": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569556002",
+    "location": "Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T18:39:35.523975"
+  },
+  "0f1d901aa453aa3374ad689deb1d8523": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist - MEA",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569562002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T18:39:35.524043"
   }
 }
