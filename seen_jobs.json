@@ -31469,5 +31469,21 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-19T22:44:19.454429"
+  },
+  "5c04948b88b56ada4a21080a28a9ffd7": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive - Financial Services",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8600912002",
+    "location": "New York City, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-22T08:48:48.911330"
+  },
+  "7c10360d5450137b2b2d466b7b283c23": {
+    "company": "Dialpad",
+    "title": "Account Receivable Associate",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8589259002",
+    "location": "Bengaluru, India",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-22T08:48:53.306840"
   }
 }
