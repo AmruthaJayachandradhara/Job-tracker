@@ -31789,5 +31789,45 @@
     "location": "United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-23T19:03:12.258630"
+  },
+  "4a3de4c2369e0636c121bbd85a7dbe7e": {
+    "company": "Pomelo Care",
+    "title": "HR Business Partner",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6100011004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T21:23:44.378828"
+  },
+  "3a2272a0995e9c5e197669d457135f11": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Atlas",
+    "url": "https://stripe.com/jobs/search?gh_jid=7994887",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T21:24:20.699087"
+  },
+  "dbc218ac7381d90e2b62b35aa7b5887d": {
+    "company": "Stripe",
+    "title": "Machine Learning Engineer, Payment Intelligence",
+    "url": "https://stripe.com/jobs/search?gh_jid=7983456",
+    "location": "Seattle",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T21:24:20.699726"
+  },
+  "5c54d00182714c1099a62bb718a245e6": {
+    "company": "Stripe",
+    "title": "Software Engineer, Brazil",
+    "url": "https://stripe.com/jobs/search?gh_jid=7895284",
+    "location": "Sao Paulo",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T21:24:20.701474"
+  },
+  "143177506786067c5401215b45f2c254": {
+    "company": "Gusto",
+    "title": "Benefits Onboarding Advocate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7983773",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T21:24:21.386598"
   }
 }
