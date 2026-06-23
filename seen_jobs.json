@@ -31597,5 +31597,53 @@
     "location": "Mountain View, California",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-22T23:12:00.728773"
+  },
+  "3c876d1940138f755f046b37d0fd77eb": {
+    "company": "Northwood Space",
+    "title": "Production Coordinator",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/663b1032-93a2-4714-aa11-bfdd6d934c34",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T02:12:35.459856"
+  },
+  "f2a40cf6140009b3c3a56acb57b1302e": {
+    "company": "Spade",
+    "title": "Backend Engineer (Mid/Sr)",
+    "url": "https://jobs.ashbyhq.com/spade/087011f5-17f1-4f27-a352-ac11f6a5ba58",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T02:12:38.655302"
+  },
+  "d61be8860040dca3ae5981df45341464": {
+    "company": "Spade",
+    "title": "Product",
+    "url": "https://jobs.ashbyhq.com/spade/e084792c-e54d-46aa-ae7d-8db558894cbf",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T02:12:38.655325"
+  },
+  "2b5a656aa4f42800e81bcd26ea19cd52": {
+    "company": "Spade",
+    "title": "Tech Recruiter",
+    "url": "https://jobs.ashbyhq.com/spade/1c2c1091-46bf-4bb7-8f47-f88320893124",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T02:12:38.655340"
+  },
+  "c2a0b722e23fe84f2ed56373723c30b6": {
+    "company": "Spade",
+    "title": "Technical Customer Support",
+    "url": "https://jobs.ashbyhq.com/spade/b4ec0a7d-b396-43b4-afc5-dc50b9daf72d",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T02:12:38.655353"
+  },
+  "d495ed646094e13f39281ae408c7a326": {
+    "company": "Encord",
+    "title": "Account Executive, Physical AI",
+    "url": "https://jobs.ashbyhq.com/encord/8a88f55e-ae21-4a3f-b2ba-a72fa196007a",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T02:12:43.041568"
   }
 }
