@@ -31829,5 +31829,37 @@
     "location": "Denver, CO",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-23T21:24:21.386598"
+  },
+  "98c33f1529a2f446682c7616e52be6ad": {
+    "company": "Coinbase",
+    "title": "Analyst, Business Controller",
+    "url": "https://www.coinbase.com/careers/positions/7875558?gh_jid=7875558",
+    "location": "Remote - EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T23:00:06.555794"
+  },
+  "86997dd6801f3125ba1dcfc412c1c161": {
+    "company": "Coinbase",
+    "title": "Software Engineer, Enterprise Apps",
+    "url": "https://www.coinbase.com/careers/positions/8024814?gh_jid=8024814",
+    "location": "Remote - Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T23:00:06.556525"
+  },
+  "a02087fe810b192b203996917010f51e": {
+    "company": "EarnIn",
+    "title": "DevOps Platform Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/7980786",
+    "location": "Mexico City, Mexico; Remote, Mexico",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T23:00:08.461762"
+  },
+  "98eb7b51dc5f2bdcd86e83d425d6b9d2": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Startup Products",
+    "url": "https://stripe.com/jobs/search?gh_jid=7994887",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T23:00:10.261633"
   }
 }
