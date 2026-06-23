@@ -31685,5 +31685,29 @@
     "location": "Amsterdam ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-23T10:28:14.344297"
+  },
+  "6cc2f64a8bfdef663e510dfe6ba33cb1": {
+    "company": "Dialpad",
+    "title": "Account Receivable Associate ( 6 Months Contract)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8589259002",
+    "location": "Bengaluru, India",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-23T13:36:21.955758"
+  },
+  "f32708c884893a19496dcde6e2e37668": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (French Fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8023124",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T13:36:32.981134"
+  },
+  "2b6f99c60fd09ea218d96274497ce6af": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (German Fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8023120",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T13:36:32.981161"
   }
 }
