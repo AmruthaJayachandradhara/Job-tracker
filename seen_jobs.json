@@ -31749,5 +31749,45 @@
     "location": "Remote Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-23T16:21:04.927176"
+  },
+  "9aa8d02a393d025d644298d44c16d491": {
+    "company": "Databricks",
+    "title": "Software Engineer, Web Products",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002",
+    "location": "Mountain View, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T19:02:55.972871"
+  },
+  "1dcae2ea054d40a90e0301e8ecc63ca6": {
+    "company": "Dialpad",
+    "title": "Software Engineer (Growth)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8599677002",
+    "location": "Vancouver, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T19:03:00.627422"
+  },
+  "14ede8237ae9b7ef083d648046592ca9": {
+    "company": "Coinbase",
+    "title": "Specialist, Market Operations",
+    "url": "https://www.coinbase.com/careers/positions/8022540?gh_jid=8022540",
+    "location": "Remote - EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T19:03:08.598014"
+  },
+  "0e79846950a3519cb6e0fa4fdcb038c0": {
+    "company": "Stripe",
+    "title": "KYB/KYC Operations Associate, Bridge (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8022463",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-23T19:03:12.257382"
+  },
+  "5ba1329c06d74eeca055571023cd26cb": {
+    "company": "Stripe",
+    "title": "Risk Operations Analyst, Financial Crimes",
+    "url": "https://stripe.com/jobs/search?gh_jid=7974209",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T19:03:12.258630"
   }
 }
