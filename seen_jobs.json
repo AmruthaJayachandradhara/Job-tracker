@@ -31709,5 +31709,45 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-23T13:36:32.981161"
+  },
+  "188a03aa2a5ac6e40c72535b3d4436b1": {
+    "company": "Databricks",
+    "title": "Enterprise Hunter Account Executive, State and Local",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604250002",
+    "location": "Southeast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T16:20:50.891125"
+  },
+  "7dd7fbe50fc1bc3702c3ea2d0b8aa161": {
+    "company": "Dialpad",
+    "title": "Software Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8599677002",
+    "location": "Vancouver, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T16:20:55.261225"
+  },
+  "ce3fb93a55654fa8e4c0f6c4f565f4bb": {
+    "company": "Coinbase",
+    "title": "Software Engineer, Enterprise Apps",
+    "url": "https://www.coinbase.com/careers/positions/7958901?gh_jid=7958901",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T16:21:02.460439"
+  },
+  "6fa04ea6ec5a390c5510f48e4f587608": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Infrastructure Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7764834003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T16:21:04.927151"
+  },
+  "b4eb834f5c3a912f996ee15d48f89bdd": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Infrastructure Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7764836003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T16:21:04.927176"
   }
 }
