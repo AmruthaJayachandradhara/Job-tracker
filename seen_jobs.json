@@ -31645,5 +31645,13 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-23T02:12:43.041568"
+  },
+  "3315f5969c3722081f2f33d973c6417a": {
+    "company": "Tanium",
+    "title": "IT Infrastructure Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8008599",
+    "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T06:39:41.013893"
   }
 }
