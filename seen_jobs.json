@@ -31653,5 +31653,37 @@
     "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-23T06:39:41.013893"
+  },
+  "0dbe488ec0905ce2093406bce75924a8": {
+    "company": "Databricks",
+    "title": "Executive Assistant ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8603380002",
+    "location": "Seoul, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T10:27:58.900697"
+  },
+  "e9022867a7cfe1782ac9bae0d02dee75": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569524002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T10:27:58.901102"
+  },
+  "065139f0ede6425c25bed8b5c815326f": {
+    "company": "Stripe",
+    "title": "Integration Engineer (Client facing), Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8023136",
+    "location": "Stockholm",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T10:28:14.344272"
+  },
+  "72dece3a9713d9bc12207e9ed6a096c7": {
+    "company": "Stripe",
+    "title": "Integration Engineer (Client facing), Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8023134",
+    "location": "Amsterdam ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-23T10:28:14.344297"
   }
 }
