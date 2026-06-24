@@ -31877,5 +31877,21 @@
     "location": "IN - Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-24T10:40:50.430850"
+  },
+  "265d5589558b0f5c054c7965465fe883": {
+    "company": "GitLab",
+    "title": "Forward Deployed Engineer - Germany",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522408002",
+    "location": "Remote, Austria; Remote, Germany; Remote, Switzerland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T13:11:55.566858"
+  },
+  "e855b78719325dd5477bc231abca14f8": {
+    "company": "GitLab",
+    "title": "Forward Deployed Engineer - META",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8524783002",
+    "location": "Remote, United Arab Emirates",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T13:11:55.566880"
   }
 }
