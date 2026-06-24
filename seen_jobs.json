@@ -31893,5 +31893,29 @@
     "location": "Remote, United Arab Emirates",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-24T13:11:55.566880"
+  },
+  "e3b1694a5ec8987b4dfa37ecb6804dd0": {
+    "company": "Stripe",
+    "title": "Autofile Specialist, Tax",
+    "url": "https://stripe.com/jobs/search?gh_jid=7997545",
+    "location": "US Remote,Toronto, CA-Remote-Ontario",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T16:09:21.088943"
+  },
+  "250e6102c4be7296a96dc3c8be3f9527": {
+    "company": "Stripe",
+    "title": "Credit Risk Analyst Commercial Underwriter, West Coast",
+    "url": "https://stripe.com/jobs/search?gh_jid=7540441",
+    "location": "Chicago, US-Remote, Canada-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T16:09:21.089443"
+  },
+  "7b48808a03f4915879267abbc3b1d848": {
+    "company": "Stripe",
+    "title": "Security Engineer, Mobile ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7982720",
+    "location": "New York, New York ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T16:09:21.092420"
   }
 }
