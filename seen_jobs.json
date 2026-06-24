@@ -31861,5 +31861,21 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-23T23:00:10.261633"
+  },
+  "a1da605bedb8cf1c49ab1d11ce378ad2": {
+    "company": "Stripe",
+    "title": "GTM Recruiter (Fixed-Term)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8015838",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T10:40:50.430441"
+  },
+  "a3f0d2fee3bd30fc2ec5f4910800f954": {
+    "company": "Stripe",
+    "title": "Monetization Operations Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8021192",
+    "location": "IN - Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T10:40:50.430850"
   }
 }
