@@ -31933,5 +31933,37 @@
     "location": "United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-24T18:27:05.046699"
+  },
+  "bdd23e57996cc93425dfbd0d475f90f3": {
+    "company": "Render",
+    "title": "Software Engineer, Dev Velocity (all levels)Remote: United States or Remote: Canada",
+    "url": "https://jobs.ashbyhq.com/render/a3f88090-5e37-43a7-b392-04b02056db6d",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T20:27:05.846569"
+  },
+  "35e4c6eb39187d21652e757e4b1e3b31": {
+    "company": "Coinbase",
+    "title": "Analytics Engineer",
+    "url": "https://www.coinbase.com/careers/positions/8020892?gh_jid=8020892",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T20:27:43.949301"
+  },
+  "37a4dafe714054b59aff13b7202897f4": {
+    "company": "Stripe",
+    "title": "Product Sales Enablement Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=7994063",
+    "location": "US-San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T20:27:47.449159"
+  },
+  "4999d1ef581bfdd1200b7ba8ecd3fd74": {
+    "company": "Gusto",
+    "title": "PEO Sales, Account Executive",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8008902",
+    "location": "Denver, CO;San Francisco, CA;New York, NY;Las Vegas, NV;Atlanta, GA;Chicago, IL;Phoenix, AZ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T20:27:48.115958"
   }
 }
