@@ -31965,5 +31965,45 @@
     "location": "Denver, CO;San Francisco, CA;New York, NY;Las Vegas, NV;Atlanta, GA;Chicago, IL;Phoenix, AZ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-24T20:27:48.115958"
+  },
+  "0afa39fcce83a760721aa9b3d3d6f875": {
+    "company": "Render",
+    "title": "Software Engineer, Network InfrastructureRemote: United States or San Francisco HQ or Remote: Canada",
+    "url": "https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T22:07:15.518601"
+  },
+  "a765cdfe05330695cd70759785340b34": {
+    "company": "Encord",
+    "title": "Special Projects, GTM",
+    "url": "https://jobs.ashbyhq.com/encord/286eb8b3-b0e9-45fd-b9ea-af0681ea9af8",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T22:07:32.063586"
+  },
+  "68cc4521ad6488b60d2541ea8e9576fe": {
+    "company": "Encord",
+    "title": "Special Projects, GTM",
+    "url": "https://jobs.ashbyhq.com/encord/49d6db4e-ddf1-4635-8f5b-3eabe4735ea9",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T22:07:32.063717"
+  },
+  "de3102f095d99ed670ee8a802c6c493e": {
+    "company": "Novig",
+    "title": "Security Engineer",
+    "url": "https://jobs.ashbyhq.com/novig/40be951b-7f50-4269-8412-2ab7c0a5c854",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T22:07:32.715403"
+  },
+  "793e1d0d329bb578f933c4bc4dc4b159": {
+    "company": "Juicebox",
+    "title": "GTM Recruiter",
+    "url": "https://jobs.ashbyhq.com/juicebox/2a585955-8aaf-43b2-b1d7-50d84d45fb03",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T22:07:40.144506"
   }
 }
