@@ -31917,5 +31917,21 @@
     "location": "New York, New York ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-24T16:09:21.092420"
+  },
+  "28f33b18e8ae93a515efa530e98a96f1": {
+    "company": "Cape",
+    "title": "Recruiting Coordinator",
+    "url": "https://jobs.ashbyhq.com/cape/567de6f9-8590-4eeb-9108-be91d476f1e6",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T18:27:01.711657"
+  },
+  "cf2a4af12600a0fa00687d259cd0b005": {
+    "company": "Pomelo Care",
+    "title": "Sales Development Representative",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6100537004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-24T18:27:05.046699"
   }
 }
