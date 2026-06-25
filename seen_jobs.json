@@ -32093,5 +32093,101 @@
     "location": "US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-25T16:15:40.422746"
+  },
+  "da1543a3216b88b3a236ca069c40b668": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7785892003",
+    "location": "USA - Austin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T19:01:44.424124"
+  },
+  "83e5dbd47f3fd5c9bcf2782814413cb5": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7785884003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T19:01:44.424161"
+  },
+  "32a7f4b021945844231368738bec5ffb": {
+    "company": "Dialpad",
+    "title": "AI Engineer, Voice Designer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8597852002",
+    "location": "Vancouver, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T19:01:46.281128"
+  },
+  "88b27f97364d12195630c31e3fdee460": {
+    "company": "Dialpad",
+    "title": "AI Engineer, Voice Designer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8601273002",
+    "location": "Kitchener, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T19:01:46.281145"
+  },
+  "e68ffd31b5e25b321af4495d5cb40fec": {
+    "company": "GitLab",
+    "title": "Business Development Representative - Saudi Arabia",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8608546002",
+    "location": "Remote, Saudi Arabia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T19:01:47.646128"
+  },
+  "cf0d7ed84df8bd7bed28184717099a92": {
+    "company": "Replit",
+    "title": "Administrative Assistant",
+    "url": "https://jobs.ashbyhq.com/replit/32fa018b-35df-480c-9090-00d0f37d7fe5",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T19:01:48.244715"
+  },
+  "633d3c057ca73ce250bde5ece351fa2b": {
+    "company": "Coinbase",
+    "title": "Software Engineer, Frontend (Consumer - Card)",
+    "url": "https://www.coinbase.com/careers/positions/8028985?gh_jid=8028985",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T19:01:53.747465"
+  },
+  "a9c320d4ace23545cd0b4ba09cc12e54": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Machine Learning (Feature Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7785602003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T19:01:56.408128"
+  },
+  "e1d3859604884b92e64f9f9402ad0f74": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Machine Learning (Feature Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7785600003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T19:01:56.408152"
+  },
+  "40d369d2a89338f1b284f71bb84b2dc6": {
+    "company": "Stripe",
+    "title": "Global Filing Specialist, Tax",
+    "url": "https://stripe.com/jobs/search?gh_jid=7997545",
+    "location": "US Remote,Toronto, CA-Remote-Ontario",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T19:01:57.398244"
+  },
+  "8935891047d4e9f00125ee2a54fccf19": {
+    "company": "Gusto",
+    "title": "Broker Integration Advocate ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7983773",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T19:01:58.083208"
+  },
+  "34fe6829646ed91e8e6b0346d4139d1f": {
+    "company": "Carta",
+    "title": "Treasury Associate",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7780114003",
+    "location": "Sandy, UT",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-25T19:01:59.348387"
   }
 }
