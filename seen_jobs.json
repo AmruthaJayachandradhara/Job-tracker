@@ -32221,5 +32221,21 @@
     "location": "London, Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-25T21:22:07.694804"
+  },
+  "aefe37d8457eb1911ad7c63cebe938be": {
+    "company": "EarnIn",
+    "title": "Software Engineer II",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8027065",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T23:08:11.594484"
+  },
+  "66568f8f8770c5f0caf8cd01ff964380": {
+    "company": "Gusto",
+    "title": "Sales Associate ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8029190",
+    "location": "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-25T23:08:17.114830"
   }
 }
