@@ -32069,5 +32069,13 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-25T10:34:29.883799"
+  },
+  "afd549fdfd07093c5218cc12110657eb": {
+    "company": "Fivetran",
+    "title": "Business Development, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7784493003",
+    "location": "Remote, Germany, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T13:10:58.211538"
   }
 }
