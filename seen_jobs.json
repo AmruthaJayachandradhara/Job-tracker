@@ -32005,5 +32005,37 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-24T22:07:40.144506"
+  },
+  "17ed7ac0b6bc205088d0c2bccff8f43d": {
+    "company": "Fivetran",
+    "title": "Software Engineer",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7778979003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T03:29:29.305256"
+  },
+  "3054eb1212c66abead7f8899d91f3252": {
+    "company": "Dialpad",
+    "title": "Account Receivable Associate (6-Month Contract)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8589259002",
+    "location": "Bengaluru, India",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-25T03:29:31.169602"
+  },
+  "5a9b2ed33d1fb38bcd784cdd6bde122f": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups - Core Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8017336",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T03:29:42.465179"
+  },
+  "7d1f30ae7a9c8d3d88daf7935e9e3657": {
+    "company": "Stripe",
+    "title": "Credit Operations Collections Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7722943",
+    "location": "Toronto, Atlanta, or Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T03:29:42.466121"
   }
 }
