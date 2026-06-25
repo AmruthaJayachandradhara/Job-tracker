@@ -32189,5 +32189,37 @@
     "location": "Sandy, UT",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-06-25T19:01:59.348387"
+  },
+  "c56f6b0049141d35c5e1d8276e5adef8": {
+    "company": "Pomelo Care",
+    "title": "Copy of Women\u2019s Mental Health Specialist (Contract) - LCSW or LPC - Colorado License",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6102031004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T21:21:32.892221"
+  },
+  "8a80b70639f441ef08e4ff1a28d14669": {
+    "company": "Databricks",
+    "title": "Geo Core Account Executive, Financial Services",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7675324002",
+    "location": "Sao Paulo, Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T21:21:52.305340"
+  },
+  "b322cc1b9e39a07d6b3be266145d5c8b": {
+    "company": "GitLab",
+    "title": "VP, Corporate Security ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8608270002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T21:21:58.035540"
+  },
+  "1fd4ab9584f52a3aa61ddfdcabbd3df2": {
+    "company": "Stripe",
+    "title": "Product Compliance and Enablement Advisor",
+    "url": "https://stripe.com/jobs/search?gh_jid=8003129",
+    "location": "London, Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T21:22:07.694804"
   }
 }
