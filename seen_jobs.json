@@ -32045,5 +32045,29 @@
     "location": "Remote, France",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-25T07:34:09.770562"
+  },
+  "0bbee0d5ce07ed029a6505f735024ac2": {
+    "company": "GitLab",
+    "title": "Customer Success Engineer, EMEA ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8583490002",
+    "location": "Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T10:34:19.300058"
+  },
+  "bfe6ccb688d745eeb1b082ebed431f8e": {
+    "company": "GitLab",
+    "title": "Major Account Executive, Germany",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8433107002",
+    "location": "Remote, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T10:34:19.300279"
+  },
+  "8807d61a15c97e90b1724a0cee555875": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (Italian and Spanish Fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7993149",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T10:34:29.883799"
   }
 }
