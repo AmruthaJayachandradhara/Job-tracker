@@ -32077,5 +32077,21 @@
     "location": "Remote, Germany, EMEA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-25T13:10:58.211538"
+  },
+  "1b7e56121018ebae274970967bf42755": {
+    "company": "Stripe",
+    "title": "Operations Associate - Managed Support (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8011682",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-25T16:15:40.421742"
+  },
+  "4f5a0dd8a491507319f61ceabdd5f72e": {
+    "company": "Stripe",
+    "title": "Risk & Control Health Data Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8013657",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-25T16:15:40.422746"
   }
 }
