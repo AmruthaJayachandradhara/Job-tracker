@@ -32421,5 +32421,69 @@
     "location": "New York City, New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-26T18:23:10.853742"
+  },
+  "b4dc1cc2899e07dcca5670f475abdfe6": {
+    "company": "Fivetran",
+    "title": "Software Engineer II",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7778979003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T22:03:05.027420"
+  },
+  "2f771c7020299892b0f2ac26cdc8a8f3": {
+    "company": "Dialpad",
+    "title": "Accounts Receivable Associate (Contract)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8590263002",
+    "location": "Pasig City, Metro Manila, Philippines",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-06-26T22:03:06.967352"
+  },
+  "b90bedf0614112d335951d961d7e91f8": {
+    "company": "Dialpad",
+    "title": "Sr AI Engineer - Agentic Systems",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8610775002",
+    "location": "Anywhere, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T22:03:06.967665"
+  },
+  "b01bf29e07c873e894e7136a1b0bbef4": {
+    "company": "Coinbase",
+    "title": "Concierge Specialist IV",
+    "url": "https://www.coinbase.com/careers/positions/8031308?gh_jid=8031308",
+    "location": "Remote - UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T22:03:14.986174"
+  },
+  "4a4b2e81884020e82c6dd4fd80f8f847": {
+    "company": "Coinbase",
+    "title": "Concierge Specialist IV",
+    "url": "https://www.coinbase.com/careers/positions/8031253?gh_jid=8031253",
+    "location": "Remote - UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T22:03:14.986204"
+  },
+  "870f438422f4416736759ab9706b695b": {
+    "company": "Coinbase",
+    "title": "Risk & Monitoring Analyst IV",
+    "url": "https://www.coinbase.com/careers/positions/8030686?gh_jid=8030686",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T22:03:14.986483"
+  },
+  "f599452e88a6b38a00ac36300a304dcf": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Reliability Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7764836003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T22:03:17.625711"
+  },
+  "a2209481e42462df56360a1e42f9bc87": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Reliability Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7764834003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T22:03:17.625737"
   }
 }
