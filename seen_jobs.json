@@ -32485,5 +32485,21 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-26T22:03:17.625737"
+  },
+  "9bd9a5b3d142c35aaf076b52cec3cdb6": {
+    "company": "Coinbase",
+    "title": "Internal Audit Analyst",
+    "url": "https://www.coinbase.com/careers/positions/8031603?gh_jid=8031603",
+    "location": "Remote - USA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-06-26T23:55:16.664809"
+  },
+  "5a51cbac7318a3be3ccf473b98de1f30": {
+    "company": "Affirm",
+    "title": "Counsel II, Vendor",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7764151003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T23:55:19.260530"
   }
 }
