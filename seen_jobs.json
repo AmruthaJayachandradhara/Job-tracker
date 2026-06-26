@@ -32333,5 +32333,93 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-26T16:07:22.646273"
+  },
+  "37889b0972d7e44cdf5b620e114aaa8f": {
+    "company": "Render",
+    "title": "People Operations CoordinatorSan Francisco HQ",
+    "url": "https://jobs.ashbyhq.com/render/b304eb09-6910-4d7f-9e61-e8abdcf254de",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T18:22:22.214906"
+  },
+  "bae716aaa4cb8a75f2a65e243d0f417c": {
+    "company": "Dialpad",
+    "title": "Account Executive, Mid-Market",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8606879002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T18:22:54.139638"
+  },
+  "863f6e9f7fc3c748b06fc0549fcd46d6": {
+    "company": "Mercury",
+    "title": "Senior Software Engineer - Mercury Command",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5803347004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "description match: '0 year'",
+    "first_seen": "2026-06-26T18:23:02.505024"
+  },
+  "accdfee095cf94a4b0f7128f4adab527": {
+    "company": "Affirm",
+    "title": "Client Success Specialist II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7779929003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T18:23:08.033318"
+  },
+  "d556e19fc533d2eb557293c0975b0130": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups - Expansion",
+    "url": "https://stripe.com/jobs/search?gh_jid=8017336",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T18:23:08.967582"
+  },
+  "8872290838cacced2be12593d12980bb": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups - Expansion",
+    "url": "https://stripe.com/jobs/search?gh_jid=8024368",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T18:23:08.967606"
+  },
+  "00dc0966659121b68ee15bafcec391f0": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups, Early Expansion",
+    "url": "https://stripe.com/jobs/search?gh_jid=7872736",
+    "location": "San Francisco or New York City ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T18:23:08.967830"
+  },
+  "9a0e414e01814200a41f7d927b4e44bd": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Financial Connections",
+    "url": "https://stripe.com/jobs/search?gh_jid=8030859",
+    "location": "Toronto, Remote in Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T18:23:08.968115"
+  },
+  "81dd84a609eed3f6910a4ad6874f201a": {
+    "company": "Stripe",
+    "title": "Counsel, Leasing & Operational Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8010009",
+    "location": "Chicago, Atlanta, US Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T18:23:08.968443"
+  },
+  "a69afb6efb03c6c053b39ee9192251c0": {
+    "company": "Stripe",
+    "title": "Data Analyst, Macro Analytics",
+    "url": "https://stripe.com/jobs/search?gh_jid=6166982",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T18:23:08.968673"
+  },
+  "658bc2d37e686a93b9fc96e51f6215b4": {
+    "company": "Carta",
+    "title": "Account Executive, Emerging Firm",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7787054003",
+    "location": "New York City, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T18:23:10.853742"
   }
 }
