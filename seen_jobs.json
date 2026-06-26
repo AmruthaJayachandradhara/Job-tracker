@@ -32237,5 +32237,45 @@
     "location": "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-06-25T23:08:17.114830"
+  },
+  "70eb76ab094f8c3495687e043e43f0d8": {
+    "company": "Databricks",
+    "title": "Geo Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8598732002",
+    "location": "Toronto, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T02:27:43.805848"
+  },
+  "6feb579e9a9f649ea4e1447c5884a2d5": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569457002",
+    "location": "Mexico City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T02:27:43.806044"
+  },
+  "2a91606719fee56acc0b1f667a81fc0e": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569453002",
+    "location": "Sao Paulo, Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T02:27:43.806063"
+  },
+  "1c1d56a3051a54d476ee2b45836defdf": {
+    "company": "Coinbase",
+    "title": "Analytics Engineer, GFCO Analytics",
+    "url": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T02:27:56.032231"
+  },
+  "281b7f2e88099c8f667c997dc63d0109": {
+    "company": "Carta",
+    "title": "Account Executive, SMB",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7782040003",
+    "location": "New York City, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T02:28:01.459438"
   }
 }
