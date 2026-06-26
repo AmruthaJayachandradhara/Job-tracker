@@ -32293,5 +32293,45 @@
     "location": "London, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-26T10:14:11.039192"
+  },
+  "425d78d102fe51a51190ac8c1847e016": {
+    "company": "Coinbase",
+    "title": "Derivatives Sales Analyst",
+    "url": "https://www.coinbase.com/careers/positions/7962675?gh_jid=7962675",
+    "location": "Remote - Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T16:07:19.136352"
+  },
+  "bf56679b58fd6ff44edc351880c386f5": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Merchant & Partner Lifecycle)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7708927003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T16:07:21.699656"
+  },
+  "d85952813cd3d8f00cd0de9acbf1c8e0": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Merchant & Partner Lifecycle)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7708925003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T16:07:21.699680"
+  },
+  "9e41d71077bee02b23e34165a18c098d": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups - Core Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8024368",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T16:07:22.643434"
+  },
+  "c2e79158084efe8b437d980217cf6da0": {
+    "company": "Stripe",
+    "title": "Product Compliance and Enablement Advisor",
+    "url": "https://stripe.com/jobs/search?gh_jid=8010302",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-26T16:07:22.646273"
   }
 }
