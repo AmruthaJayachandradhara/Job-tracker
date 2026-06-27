@@ -32501,5 +32501,21 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-26T23:55:19.260530"
+  },
+  "608b6793f464847cce7890e105e06812": {
+    "company": "GitLab",
+    "title": "Public Sector Strategic Account Executive, FSI",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8596778002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-27T06:21:54.386354"
+  },
+  "58f3d3938b54081f571457b67d726626": {
+    "company": "GitLab",
+    "title": "Public Sector Strategic Account Executive, SLED - Texas",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8575667002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-27T06:21:54.386377"
   }
 }
