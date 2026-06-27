@@ -78,4 +78,4 @@ Edit `scripts/check_jobs.py` and add to the `COMPANIES` list:
 
 ---
 
-*Built with ❤️ using Python + GitHub Actions*
+*Built using Python + GitHub Actions*
