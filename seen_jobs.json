@@ -32597,5 +32597,13 @@
     "location": "United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-29T19:42:12.302391"
+  },
+  "5bbf4acdc11f41a698b8d57d946015e0": {
+    "company": "Render",
+    "title": "Software Engineer, Compute InfrastructureRemote: United States or San Francisco HQ or Remote: Canada",
+    "url": "https://jobs.ashbyhq.com/render/af5b6699-2e4a-47de-99f7-664baa738190",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-29T22:45:31.145321"
   }
 }
