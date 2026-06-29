@@ -32549,5 +32549,45 @@
     "location": "US-San Francisco, US-California",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-29T14:42:04.230421"
+  },
+  "0d1340628f642604f253460e3c7c7281": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Financial Services",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8610931002",
+    "location": "New York City, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-29T17:27:19.006681"
+  },
+  "413de7c0b162e2408db3226dd53b56af": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Financial Services",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8610933002",
+    "location": "Boston, Massachusetts; New Jersey; New York City, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-29T17:27:19.006727"
+  },
+  "ae87003624cacee107b4268ccd539695": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - Retail & Media",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8605313002",
+    "location": "Remote, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-29T17:27:24.847069"
+  },
+  "39eda68ee594e0bc93f6007ac418f381": {
+    "company": "Coinbase",
+    "title": "Counsel, Commercial",
+    "url": "https://www.coinbase.com/careers/positions/8030594?gh_jid=8030594",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-29T17:27:30.914091"
+  },
+  "cbf2c0c1c317fc34d2bacc1cbfa1501c": {
+    "company": "Mercury",
+    "title": "Counsel, Product & Regulatory - Payments & AML",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6103801004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-29T17:27:31.523065"
   }
 }
