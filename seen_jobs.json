@@ -32605,5 +32605,21 @@
     "location": "See posting",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-29T22:45:31.145321"
+  },
+  "725f9524f37cbc61efe5a4eeff10534c": {
+    "company": "Gumloop",
+    "title": "Design Engineer",
+    "url": "https://jobs.ashbyhq.com/gumloop/cdb897fd-bd89-4395-bbb0-d29a83c02357",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-29T23:53:19.672170"
+  },
+  "a2dedbef07567a3891f6746dd85034b5": {
+    "company": "Replit",
+    "title": "Recruiting Coordinator",
+    "url": "https://jobs.ashbyhq.com/replit/08aa6e3d-a5df-4751-bc35-4876e671ce8f",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-29T23:53:52.525094"
   }
 }
