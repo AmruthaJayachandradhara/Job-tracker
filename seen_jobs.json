@@ -32517,5 +32517,13 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-27T06:21:54.386377"
+  },
+  "f5ed82bac6e103b2affe2b62504d00eb": {
+    "company": "Stripe",
+    "title": "Account Executive, Mid-Market (Japan)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7789539",
+    "location": "Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-29T05:22:49.983411"
   }
 }
