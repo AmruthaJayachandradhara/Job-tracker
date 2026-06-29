@@ -32525,5 +32525,29 @@
     "location": "Japan",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-29T05:22:49.983411"
+  },
+  "cb7f7727c06582a98f82f8b1e8523b35": {
+    "company": "Fivetran",
+    "title": "Deal Desk Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7780210003",
+    "location": "Sydney, New South Wales, Australia, APAC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-29T14:41:50.961508"
+  },
+  "2cd6a8152fd041ce3e047c0d4d5956d6": {
+    "company": "Affirm",
+    "title": "Software Engineer II (Money Movement & Card Ledger)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7779962003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-29T14:42:03.197591"
+  },
+  "b87bfc0253f71e75a54b42a2e64863b9": {
+    "company": "Stripe",
+    "title": "Account Executive - Enterprise, Growth",
+    "url": "https://stripe.com/jobs/search?gh_jid=7997146",
+    "location": "US-San Francisco, US-California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-29T14:42:04.230421"
   }
 }
