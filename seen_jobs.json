@@ -32733,5 +32733,21 @@
     "location": "New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-30T20:51:32.785491"
+  },
+  "3ba144cdc4a4053a270f73228de7be05": {
+    "company": "Encord",
+    "title": "Customer Engineer ",
+    "url": "https://jobs.ashbyhq.com/encord/e85d5fb9-9efb-482b-813e-4d9c8c5f7c00",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-30T22:08:52.485253"
+  },
+  "f64c1ec912d8eb3b41b224bc3a1c4d7b": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Billing)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7984339",
+    "location": "US-NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-30T22:09:19.475734"
   }
 }
