@@ -32749,5 +32749,21 @@
     "location": "US-NYC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-30T22:09:19.475734"
+  },
+  "91da8a42089e1701bb59061650457d27": {
+    "company": "Gumloop",
+    "title": "Design Engineer Intern ",
+    "url": "https://jobs.ashbyhq.com/gumloop/d1c82673-a98a-4e27-8ec0-014740eb5a22",
+    "location": "San Francisco Office",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-06-30T23:58:13.546960"
+  },
+  "303a18281272a899070d7f00caaed135": {
+    "company": "Stripe",
+    "title": "Software Engineer, Product Security Data Platforms",
+    "url": "https://stripe.com/jobs/search?gh_jid=8039800",
+    "location": "Seattle",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-30T23:58:56.076515"
   }
 }
