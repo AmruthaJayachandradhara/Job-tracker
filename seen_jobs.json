@@ -32645,5 +32645,29 @@
     "location": "Remote, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-30T10:25:26.610067"
+  },
+  "9d08f0cf08f3ea7453a29e82055c9e05": {
+    "company": "Databricks",
+    "title": "Geo Hunter Account Executive - South Africa",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8596447002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-30T13:04:05.012641"
+  },
+  "265e8de0210a98aac8d5125ada39f12b": {
+    "company": "Databricks",
+    "title": "Named Hunter Account Executive - Abu Dhabi Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611549002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-30T13:04:05.013487"
+  },
+  "b4c86a3e2cbf5d33f61ee61497b90132": {
+    "company": "Stripe",
+    "title": "React Native Engineer, Merchant Experience Mobile",
+    "url": "https://stripe.com/jobs/search?gh_jid=8035557",
+    "location": "Barcelona",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-30T13:04:34.250380"
   }
 }
