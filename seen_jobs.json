@@ -32621,5 +32621,13 @@
     "location": "Foster City, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-29T23:53:52.525094"
+  },
+  "b90dab64bd7efcbd9dd5c6ec376a32c8": {
+    "company": "Stripe",
+    "title": "Internal Auditor - APAC Regulatory & Financial Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8036233",
+    "location": "Singapore",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-06-30T06:47:23.127665"
   }
 }
