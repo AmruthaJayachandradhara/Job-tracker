@@ -32709,5 +32709,29 @@
     "location": "New York, New York ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-30T18:28:49.452058"
+  },
+  "c924e37ba441a84f0204d1d129eb5a7e": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Developer SDKs",
+    "url": "https://stripe.com/jobs/search?gh_jid=7557899",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-30T20:51:32.100159"
+  },
+  "682eed8842385e06d6da803e1c24d5e3": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Support Experience (Greater China Support)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8039548",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-30T20:51:32.101529"
+  },
+  "dba548d3c5c16f9c8edb65c41cb149c2": {
+    "company": "Gusto",
+    "title": "Payment Operations",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8001121",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-30T20:51:32.785491"
   }
 }
