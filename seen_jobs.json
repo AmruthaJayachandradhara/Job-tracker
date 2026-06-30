@@ -32685,5 +32685,29 @@
     "location": "Remote Poland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-30T16:16:45.283414"
+  },
+  "929735fa2a680aa471429850c92f7e91": {
+    "company": "Coinbase",
+    "title": "Software Engineer",
+    "url": "https://www.coinbase.com/careers/positions/8022068?gh_jid=8022068",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-30T18:28:45.912230"
+  },
+  "df294392104f4a7a07db711c4d8aab65": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Support Experience",
+    "url": "https://stripe.com/jobs/search?gh_jid=6717520",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-30T18:28:49.451370"
+  },
+  "f94e12ea1adbf0b38009028551f1589c": {
+    "company": "Stripe",
+    "title": "Mobile Security Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7982720",
+    "location": "New York, New York ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-30T18:28:49.452058"
   }
 }
