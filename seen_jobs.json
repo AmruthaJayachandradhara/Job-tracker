@@ -32629,5 +32629,21 @@
     "location": "Singapore",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-06-30T06:47:23.127665"
+  },
+  "590500147d3d4ece8966a52d5440f2f9": {
+    "company": "Databricks",
+    "title": "Account Executive ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6918763002",
+    "location": "Bengaluru, India; Mumbai, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-30T10:25:19.827811"
+  },
+  "47a90563c1c5b2372a0d280afa0171c4": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - UK",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8611663002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-06-30T10:25:26.610067"
   }
 }
