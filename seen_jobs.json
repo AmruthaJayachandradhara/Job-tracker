@@ -32845,5 +32845,21 @@
     "location": "Denver, CO;San Francisco, CA;New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-01T19:29:54.807702"
+  },
+  "a081d6c8f2977d2677add97475ebd613": {
+    "company": "Fivetran",
+    "title": "Enterprise Account Executive",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7790795003",
+    "location": "Remote, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T21:17:46.196437"
+  },
+  "6e1b92856fc0600adc28ecb1fd989e53": {
+    "company": "Mercury",
+    "title": "Open Call for Founders / Founding Teams - Product Management and Engineering",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6107075004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T21:17:56.269753"
   }
 }
