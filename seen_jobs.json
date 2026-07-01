@@ -32765,5 +32765,13 @@
     "location": "Seattle",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-06-30T23:58:56.076515"
+  },
+  "8734dc897719c7d5df5dca84848701be": {
+    "company": "Mercury",
+    "title": "Software Engineer - Product",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6101145004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T08:03:20.651130"
   }
 }
