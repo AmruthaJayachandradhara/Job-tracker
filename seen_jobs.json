@@ -32789,5 +32789,13 @@
     "location": "Remote, Canada; Remote, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-01T11:51:21.250867"
+  },
+  "fe2f582085924a78e485b33ee65eaf89": {
+    "company": "Fivetran",
+    "title": "Business Value Engineer",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7790860003",
+    "location": "Remote, New York, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T17:06:36.726893"
   }
 }
