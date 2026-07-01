@@ -32797,5 +32797,53 @@
     "location": "Remote, New York, United States, AMER",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-01T17:06:36.726893"
+  },
+  "80e6c6e61e88653b6208746d28014ec0": {
+    "company": "Cape",
+    "title": "Corporate Counsel",
+    "url": "https://jobs.ashbyhq.com/cape/4d420e3e-8135-4866-9ba1-1ccd6c6be185",
+    "location": "Arlington, VA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T19:29:13.924228"
+  },
+  "2bf1613c5a8ad9671f63324d18578dbb": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive - CMEG",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8610866002",
+    "location": "Remote - New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T19:29:38.645905"
+  },
+  "991324b9f7c15224ce5749c58637d07f": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive, San Francisco ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8604630002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T19:29:44.442820"
+  },
+  "98fbad0eb0f8be44c59d701b7d053614": {
+    "company": "Mercury",
+    "title": "Open call for Founders / Founding Teams - Product Management and Engineering",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6107075004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T19:29:51.232022"
+  },
+  "78bb9244b6bf88d5236578a505e7a577": {
+    "company": "Stripe",
+    "title": "Employee Relations & HR Compliance Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8041850",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T19:29:54.127806"
+  },
+  "6376127fd7351645ba5b1bc15d801825": {
+    "company": "Gusto",
+    "title": "Fraud Investigations Analyst",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8029175",
+    "location": "Denver, CO;San Francisco, CA;New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T19:29:54.807702"
   }
 }
