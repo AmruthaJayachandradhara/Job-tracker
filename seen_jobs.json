@@ -32861,5 +32861,29 @@
     "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-01T21:17:56.269753"
+  },
+  "dd7473d553f110fd1ccb39a71f701d43": {
+    "company": "Replit",
+    "title": "Founding Account Executive (Brazil)",
+    "url": "https://jobs.ashbyhq.com/replit/afd16138-8863-4236-b9c9-fbaf6526624f",
+    "location": "Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T23:02:33.869384"
+  },
+  "d0ba398519acac882f578923792b95b1": {
+    "company": "Replit",
+    "title": "Founding Account Executive (Japan)",
+    "url": "https://jobs.ashbyhq.com/replit/bcfdb564-48c9-42c9-ab5b-c901b6babb44",
+    "location": "Remote - Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T23:02:33.869444"
+  },
+  "8ba98ddc6e24f8de2526cdc2532e5b6a": {
+    "company": "Gusto",
+    "title": "HR Consultant",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8001872",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T23:02:45.397532"
   }
 }
