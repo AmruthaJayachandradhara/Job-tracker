@@ -32773,5 +32773,21 @@
     "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-01T08:03:20.651130"
+  },
+  "5e3cf1176177dcc51cd0ca3748c279b6": {
+    "company": "Databricks",
+    "title": "Finance Data and AI Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604579002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T11:51:15.395372"
+  },
+  "17ca633bb3e49c2f19de2d53a07c028c": {
+    "company": "GitLab",
+    "title": "Backend Engineer (Ruby), AI Engineering: Duo Agent Platform Tools",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8605283002",
+    "location": "Remote, Canada; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-01T11:51:21.250867"
   }
 }
