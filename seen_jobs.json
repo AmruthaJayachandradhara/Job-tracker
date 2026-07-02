@@ -32949,5 +32949,13 @@
     "location": "Remote Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-02T15:05:54.800318"
+  },
+  "b0b733d2657ad48b2e6a0f9aba2c375a": {
+    "company": "Gusto",
+    "title": "Data Scientist, Risk ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7656216",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T17:27:04.801511"
   }
 }
