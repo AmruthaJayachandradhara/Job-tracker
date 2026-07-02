@@ -32957,5 +32957,13 @@
     "location": "San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-02T17:27:04.801511"
+  },
+  "14e8e8c8073493ab6f364326bd7312b9": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Nordics",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8617875002",
+    "location": "Remote, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T19:09:19.238979"
   }
 }
