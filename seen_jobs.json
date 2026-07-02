@@ -32965,5 +32965,37 @@
     "location": "Remote, Sweden",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-02T19:09:19.238979"
+  },
+  "17578a7972d8ac97c885822d4786f24c": {
+    "company": "Fivetran",
+    "title": "Sales Operations Analyst IV",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7786001003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T20:54:15.469559"
+  },
+  "6d8f857ab384ddb21bde59ed2fa7ae43": {
+    "company": "Carta",
+    "title": "Data Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7792998003",
+    "location": "Sandy, UT",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T20:54:37.070709"
+  },
+  "47bc07e0d69e051157c9095d69328ab4": {
+    "company": "Carta",
+    "title": "Data Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7632778003",
+    "location": "Rio de Janeiro, Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T20:54:37.070731"
+  },
+  "3ff9c957ccd0a9446da7986b598526e3": {
+    "company": "Carta",
+    "title": "Data Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7792994003",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T20:54:37.070743"
   }
 }
