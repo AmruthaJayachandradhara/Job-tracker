@@ -32909,5 +32909,13 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-02T02:13:53.311335"
+  },
+  "0c12538aaad542814f04e9d7165001f2": {
+    "company": "GitLab",
+    "title": "New Business Account Executive - Nordics",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615513002",
+    "location": "Remote, Netherlands; Remote, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T09:52:24.158187"
   }
 }
