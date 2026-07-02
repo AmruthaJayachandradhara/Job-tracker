@@ -32885,5 +32885,29 @@
     "location": "Denver, CO",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-01T23:02:45.397532"
+  },
+  "73468f6d90d1d3c10165bf14f5d2961d": {
+    "company": "Fivetran",
+    "title": "Account Executive, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7790795003",
+    "location": "Remote, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T02:13:41.291320"
+  },
+  "a5f8f2d275500b47fbd7415ab9504741": {
+    "company": "Affirm",
+    "title": "AI Solutions Engineer",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7778206003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T02:13:53.311318"
+  },
+  "812e20d0f10c60eed030b81d194c4f73": {
+    "company": "Affirm",
+    "title": "AI Solutions Engineer",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7778204003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T02:13:53.311335"
   }
 }
