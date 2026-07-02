@@ -33013,5 +33013,13 @@
     "location": "Chicago, US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-02T21:59:36.526075"
+  },
+  "b0d3cbc432425107b72ae38922a6ef78": {
+    "company": "Stripe",
+    "title": "Technical Operations Engineer, Payments ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8029252",
+    "location": "South San Francisco ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T23:08:28.623440"
   }
 }
