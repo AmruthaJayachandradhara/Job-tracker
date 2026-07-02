@@ -32997,5 +32997,21 @@
     "location": "Seattle, WA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-02T20:54:37.070743"
+  },
+  "e49e71a124660390c4a1973b921564e7": {
+    "company": "Profound",
+    "title": "Web Designer",
+    "url": "https://jobs.ashbyhq.com/profound/7ffc652b-6cdc-44c0-8143-4c89229b7438",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T21:59:08.860343"
+  },
+  "50ad4e9f36829eec070728e0f5460759": {
+    "company": "Stripe",
+    "title": "GTM Recruiter, AMER (Fixed Term)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7942216",
+    "location": "Chicago, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T21:59:36.526075"
   }
 }
