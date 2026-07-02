@@ -32917,5 +32917,37 @@
     "location": "Remote, Netherlands; Remote, Sweden",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-02T09:52:24.158187"
+  },
+  "5c5f754d699ac118830c41033eff2db1": {
+    "company": "Cape",
+    "title": "Web Developer, Contract",
+    "url": "https://jobs.ashbyhq.com/cape/9c2ad71e-6529-4272-86fa-83307963f90c",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T15:05:15.819139"
+  },
+  "20a5a1f6e96c4fa6bff8d255aff1aa4e": {
+    "company": "Profound",
+    "title": "Motion Designer",
+    "url": "https://jobs.ashbyhq.com/profound/7f22fa95-3fc6-4920-9d0a-8237f875de4b",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T15:05:27.740937"
+  },
+  "ff14998544fa0e4b42918bae2daa3eb7": {
+    "company": "Affirm",
+    "title": "Talent Acquisition Experience Specialist II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7782353003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T15:05:54.800294"
+  },
+  "740f6aa9b254b09aecf5167e6f25bf5f": {
+    "company": "Affirm",
+    "title": "Talent Acquisition Experience Specialist II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7782355003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-02T15:05:54.800318"
   }
 }
