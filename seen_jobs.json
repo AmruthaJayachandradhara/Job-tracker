@@ -33061,5 +33061,13 @@
     "location": "Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-03T13:43:05.710858"
+  },
+  "4b322915b227205ecd13abf2c4ca9fae": {
+    "company": "Databricks",
+    "title": "Sr Security Engineer, Incident Response",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8618455002",
+    "location": "Belgium; Finland; Remote - Denmark; Remote - France; Remote - Germany; Remote - Netherlands; Remote - Spain; Remote - Sweden; Remote - United Kingdom; Switzerland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-03T15:49:04.567557"
   }
 }
