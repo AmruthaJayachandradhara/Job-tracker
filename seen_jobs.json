@@ -33069,5 +33069,13 @@
     "location": "Belgium; Finland; Remote - Denmark; Remote - France; Remote - Germany; Remote - Netherlands; Remote - Spain; Remote - Sweden; Remote - United Kingdom; Switzerland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-03T15:49:04.567557"
+  },
+  "d45245a031f9289a86fb65e739da788c": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8432827002",
+    "location": "Remote - India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-03T19:01:58.254668"
   }
 }
