@@ -33037,5 +33037,21 @@
     "location": "Japan",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-03T01:58:22.200554"
+  },
+  "12d4eaee2f9c2d1540a1b60a98e9a691": {
+    "company": "Stripe",
+    "title": "Account Executive - Startups, Hunter ANZ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8040874",
+    "location": "Sydney Or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-03T05:51:34.107254"
+  },
+  "9de0cad5180e59a730d7a551ee24f6bc": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive (Hunter FSI)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7693271",
+    "location": "Sydney Or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-03T05:51:34.108438"
   }
 }
