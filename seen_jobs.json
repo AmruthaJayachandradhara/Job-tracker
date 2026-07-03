@@ -33021,5 +33021,21 @@
     "location": "South San Francisco ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-02T23:08:28.623440"
+  },
+  "bad7792feb104a276115e531fe91826b": {
+    "company": "Stripe",
+    "title": "Account Executive, Commercial Grower (Japanese Fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8042978",
+    "location": "Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-03T01:58:22.200522"
+  },
+  "329d8b892dd0ad2b66d72a746f57472a": {
+    "company": "Stripe",
+    "title": "Account Executive, Commercial Hunter (Japanese Fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7789539",
+    "location": "Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-03T01:58:22.200554"
   }
 }
