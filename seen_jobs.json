@@ -33053,5 +33053,13 @@
     "location": "Sydney Or Melbourne",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-03T05:51:34.108438"
+  },
+  "2a63c95672d8397a069753304a4600e0": {
+    "company": "Stripe",
+    "title": "AI Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8044460",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-03T13:43:05.710858"
   }
 }
