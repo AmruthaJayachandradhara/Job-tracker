@@ -33133,5 +33133,37 @@
     "location": "NYC, Toronto, Remote in Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-06T19:42:11.595702"
+  },
+  "acbb956067a0edbaf7174285eb22ff3b": {
+    "company": "Braintrust",
+    "title": "Developer Support Engineer",
+    "url": "https://jobs.ashbyhq.com/braintrust/dcc9982f-212a-4303-be44-c145b35606db",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-06T21:20:46.065674"
+  },
+  "308c4bcb161464b895a51bf554d4eb99": {
+    "company": "Cape",
+    "title": "Visual Designer, Contract",
+    "url": "https://jobs.ashbyhq.com/cape/fc847bee-97ee-4f41-8440-aa919b2b5517",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-06T21:20:50.270754"
+  },
+  "4570eabcd58b82576841155a18c7f632": {
+    "company": "Fivetran",
+    "title": "Product Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7768985003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-06T21:21:17.987705"
+  },
+  "1b5f22ff4d03b1189783fb825c8be3ec": {
+    "company": "Fivetran",
+    "title": "Product Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7776505003",
+    "location": "Oakland, California, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-06T21:21:17.987727"
   }
 }
