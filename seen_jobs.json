@@ -33093,5 +33093,37 @@
     "location": "Remote, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-06T07:02:08.902479"
+  },
+  "650d3c836e9e37462354d2622be986ed": {
+    "company": "WitnessAI",
+    "title": "Sales Development Representative",
+    "url": "https://jobs.ashbyhq.com/witnessai/ce0eadb9-060a-4d43-8a4e-f1829b2039ac",
+    "location": "Atlanta",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-06T17:41:40.347510"
+  },
+  "b8426bda9388b4e0379361dd149fb512": {
+    "company": "Dialpad",
+    "title": "Partner Technical Delivery Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8614466002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-06T17:42:08.769583"
+  },
+  "649e0878680530f9d90e32a0dbbca0cd": {
+    "company": "Stripe",
+    "title": "Account Executive, FX and Multi-Currency",
+    "url": "https://stripe.com/jobs/search?gh_jid=8022645",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-06T17:42:20.431960"
+  },
+  "a2264419085410e80bfae4101f228268": {
+    "company": "Stripe",
+    "title": "Credit Risk Strategy and Analytics",
+    "url": "https://stripe.com/jobs/search?gh_jid=8044686",
+    "location": "Remote ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-06T17:42:20.432832"
   }
 }
