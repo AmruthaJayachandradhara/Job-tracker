@@ -33077,5 +33077,13 @@
     "location": "Remote - India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-03T19:01:58.254668"
+  },
+  "095323b4a55ed26e2b299b4f550bc29a": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive (Mid-Market) - Australia",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8589163002",
+    "location": "Remote, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-06T02:42:38.059495"
   }
 }
