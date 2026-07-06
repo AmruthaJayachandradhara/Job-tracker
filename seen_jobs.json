@@ -33125,5 +33125,13 @@
     "location": "Remote ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-06T17:42:20.432832"
+  },
+  "51eb4b8e011e8ad0e1559ac139869ede": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Financial Connections",
+    "url": "https://stripe.com/jobs/search?gh_jid=8047083",
+    "location": "NYC, Toronto, Remote in Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-06T19:42:11.595702"
   }
 }
