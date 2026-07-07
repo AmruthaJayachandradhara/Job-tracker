@@ -33261,5 +33261,53 @@
     "location": "Dublin, Ireland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-07T17:05:38.071646"
+  },
+  "5a398edb6a7e4799b3c6446245eca368": {
+    "company": "Novig",
+    "title": "Lifecycle Marketing Specialist",
+    "url": "https://jobs.ashbyhq.com/novig/7010929d-911d-45d4-bfa1-8d1f45a94e71",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T19:40:59.888405"
+  },
+  "a324c399ac7338434b5fb73a54e49163": {
+    "company": "Dialpad",
+    "title": "Sales Development Representative II",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8616558002",
+    "location": "Tempe, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T19:41:14.531156"
+  },
+  "e8bbdd28e587991283c3d89d0e21d59e": {
+    "company": "GitLab",
+    "title": "New Business Account Executive - SLED",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8610803002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T19:41:16.000450"
+  },
+  "1a5b051a36ff6d1d1306082b0d1389b2": {
+    "company": "GitLab",
+    "title": "New Business Account Executive - Southern California ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615797002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T19:41:16.000472"
+  },
+  "2e85931fbc3f869f63858d4c98bd05f9": {
+    "company": "Stripe",
+    "title": "Software Engineer, Payments, Risk, & Premium Merchant Experiences",
+    "url": "https://stripe.com/jobs/search?gh_jid=6717520",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T19:41:25.620499"
+  },
+  "41747e9bf5f43285c4f661a6f31f7317": {
+    "company": "Stripe",
+    "title": "Solutions Engineer, Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=7975567",
+    "location": "LOCATION",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T19:41:25.620677"
   }
 }
