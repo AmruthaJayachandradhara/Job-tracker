@@ -33213,5 +33213,21 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-07T11:38:10.884711"
+  },
+  "e37f23bd5cd647319d76f61f0c73b26c": {
+    "company": "Doctronic",
+    "title": "DevOps Engineer",
+    "url": "https://jobs.ashbyhq.com/doctronic/9efeb330-851c-445b-a346-27bd57b9ff5b",
+    "location": "New York City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T14:06:52.400399"
+  },
+  "f70c22440b9f06448254b6e733ed4037": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - France",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8618928002",
+    "location": "Remote, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T14:07:16.199671"
   }
 }
