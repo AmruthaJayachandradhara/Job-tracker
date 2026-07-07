@@ -33165,5 +33165,29 @@
     "location": "Oakland, California, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-06T21:21:17.987727"
+  },
+  "12a54c780d2bddcedbb0bfe684051f2e": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise  Account Executive - CMEG",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8588518002",
+    "location": "Remote - New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T00:06:22.333275"
+  },
+  "65214decfc1c15a8d15ec0df6362ff52": {
+    "company": "Stripe",
+    "title": "iOS & macOS Security Engineer ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7982720",
+    "location": "New York, New York ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T00:06:38.084267"
+  },
+  "baf13f549c0900983b0c9cdee567a8d9": {
+    "company": "Carta",
+    "title": "Junior Implementations Accountant, Fund Administration",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7566853003",
+    "location": "Rio de Janeiro, Brazil",
+    "filter_reason": "title match: 'junior'",
+    "first_seen": "2026-07-07T00:06:39.949256"
   }
 }
