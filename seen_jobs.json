@@ -33309,5 +33309,29 @@
     "location": "LOCATION",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-07T19:41:25.620677"
+  },
+  "57b527fd4b0c6eb2ec15befe146fef71": {
+    "company": "Stripe",
+    "title": "Motion Designer, Experiential",
+    "url": "https://stripe.com/jobs/search?gh_jid=8047129",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T21:15:19.661794"
+  },
+  "055e8715a6f46c6b53b63067efdd6530": {
+    "company": "Stripe",
+    "title": "Technical Writer, Docs Content",
+    "url": "https://stripe.com/jobs/search?gh_jid=8036155",
+    "location": "US Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T21:15:19.664128"
+  },
+  "e453de0588ebaec8b787490ac141dbf7": {
+    "company": "Gusto",
+    "title": "Product Designer, Contractors",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7488373",
+    "location": "New York, NY; San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T21:15:20.362636"
   }
 }
