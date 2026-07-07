@@ -33229,5 +33229,37 @@
     "location": "Remote, France",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-07T14:07:16.199671"
+  },
+  "7c37a65c46f94d1a61cad7b28225cc56": {
+    "company": "Fivetran",
+    "title": "Account Executive, Commercial - DACH",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7791685003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T17:05:23.714868"
+  },
+  "839fd6e53f9d0f692d1baf6f96a4a3d1": {
+    "company": "Coinbase",
+    "title": "Machine Learning Engineer, CX Intelligence",
+    "url": "https://www.coinbase.com/careers/positions/8031260?gh_jid=8031260",
+    "location": "Remote - Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T17:05:34.481143"
+  },
+  "5cdabf9fa2f7db5de8dffa9407c9a1b6": {
+    "company": "Mercury",
+    "title": "Events and Experiences Specialist - NYC",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6110536004",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T17:05:35.141352"
+  },
+  "9359bc6a9ab907e296923ec989434e7c": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Payments, Risk, & Premium Merchant Experiences",
+    "url": "https://stripe.com/jobs/search?gh_jid=6717520",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T17:05:38.071646"
   }
 }
