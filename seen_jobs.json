@@ -33189,5 +33189,13 @@
     "location": "Rio de Janeiro, Brazil",
     "filter_reason": "title match: 'junior'",
     "first_seen": "2026-07-07T00:06:39.949256"
+  },
+  "d391046f8ac6bb134cf5979578ea2e2b": {
+    "company": "Gusto",
+    "title": "Retirement Implementation Specialist",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8040766",
+    "location": "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-07T04:42:41.680987"
   }
 }
