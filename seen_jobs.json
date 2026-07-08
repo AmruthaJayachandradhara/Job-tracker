@@ -33517,5 +33517,21 @@
     "location": "Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-08T20:56:52.502199"
+  },
+  "8e6033074c6d67fad8a358b34aeb0a20": {
+    "company": "Cape",
+    "title": "G&A Recruiter",
+    "url": "https://jobs.ashbyhq.com/cape/5bec54ea-a51a-41b9-8da9-b9f2ff5f90a2",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T22:00:02.029182"
+  },
+  "c1e21c1121226b8190e4c96deb4f7729": {
+    "company": "Stripe",
+    "title": "Credit Risk Strategy and Analytics ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8052468",
+    "location": "United States ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T22:00:47.407981"
   }
 }
