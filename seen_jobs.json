@@ -33341,5 +33341,29 @@
     "location": "Remote - UK",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-08T01:46:20.324122"
+  },
+  "ece9eca5594377d916fc3b51e3b1c5af": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569390002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T04:59:42.419570"
+  },
+  "90f32c268d6df078f8695035c58d73b4": {
+    "company": "Stripe",
+    "title": "Finance and Strategy Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7597613",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T04:59:57.723175"
+  },
+  "2ac0c8852a85d66df92b9eb1f330a4c6": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (Southeast Asia)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8048373",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T04:59:57.725389"
   }
 }
