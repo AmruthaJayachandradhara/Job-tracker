@@ -33397,5 +33397,45 @@
     "location": "Texas",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-08T15:09:26.520572"
+  },
+  "c4b922ec3f1104e534c205890ebd35a5": {
+    "company": "Northwood Space",
+    "title": "Tooling Engineer ",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/222776fe-9549-4699-80bd-f55edee3fd53",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T17:19:04.634718"
+  },
+  "ab677f442b0741dccc9c23ed89153fbb": {
+    "company": "Stripe",
+    "title": "Account Executive, Hunter, Iberia ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7908925",
+    "location": "Madrid, Barcelona ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T17:19:41.916818"
+  },
+  "1f275564a14a5df38a2820bd1a061a98": {
+    "company": "Carta",
+    "title": "Client Data Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7792994003",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T17:19:43.871106"
+  },
+  "35b45683b11c91097b65b187c895ad82": {
+    "company": "Carta",
+    "title": "Client Data Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7632778003",
+    "location": "Rio de Janeiro, Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T17:19:43.871126"
+  },
+  "c052b7a4ff2756bb6cdae7ff2a58100a": {
+    "company": "Carta",
+    "title": "Client Data Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7792998003",
+    "location": "Sandy, UT",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T17:19:43.871139"
   }
 }
