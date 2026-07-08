@@ -33437,5 +33437,45 @@
     "location": "Sandy, UT",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-08T17:19:43.871139"
+  },
+  "8390632bb24e9436021ba55bebb24855": {
+    "company": "Listen Labs",
+    "title": "Sales Recruiter (Contractor)",
+    "url": "https://jobs.ashbyhq.com/listenlabs/35a5ace8-564b-4a8c-8110-47ff4b7cd917",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T19:07:01.246004"
+  },
+  "85686f206a8f6a24ca49d6482e69beb3": {
+    "company": "Coinbase",
+    "title": "Payment Sales Analyst",
+    "url": "https://www.coinbase.com/careers/positions/8047427?gh_jid=8047427",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T19:07:30.364651"
+  },
+  "eb3a969cb54587e3188018b36f0fda49": {
+    "company": "Stripe",
+    "title": "Account Executive, Product (Link and Financial Connections)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8047510",
+    "location": "SF, NYC, CHI, SEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T19:07:33.906546"
+  },
+  "81cabfc767dcaf27ea7e5c3e2fa96162": {
+    "company": "Stripe",
+    "title": "Financial Connections TechOps Integration Reliability Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8004223",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T19:07:33.907936"
+  },
+  "5162a556685a8040d2009446796f006a": {
+    "company": "Gusto",
+    "title": "Sales Compensation Analyst",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7744015",
+    "location": "Denver, CO;San Francisco, CA;Las Vegas, NV;Atlanta, GA;Phoenix, AZ;United States - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T19:07:34.574091"
   }
 }
