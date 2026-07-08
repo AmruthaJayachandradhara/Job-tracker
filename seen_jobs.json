@@ -33373,5 +33373,21 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-08T10:07:34.550115"
+  },
+  "43d1567bf16b31630e221562c1a4ac37": {
+    "company": "Encord",
+    "title": "Finance Business Partner \u2013 GTM",
+    "url": "https://jobs.ashbyhq.com/encord/a2d2d4fd-2ec4-4c9c-bcf9-818894c826dc",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T12:14:13.560576"
+  },
+  "1369ba94dd18d6849e54673453d3d354": {
+    "company": "GitLab",
+    "title": "Backend Engineer (Ruby), AI Engineering: Agent Observability",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8620720002",
+    "location": "Remote, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T12:14:36.765508"
   }
 }
