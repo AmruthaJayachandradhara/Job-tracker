@@ -33365,5 +33365,13 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-08T04:59:57.725389"
+  },
+  "da58fbf3101df6133855243f36efe28b": {
+    "company": "Stripe",
+    "title": "Sales Development Representative",
+    "url": "https://stripe.com/jobs/search?gh_jid=8048266",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T10:07:34.550115"
   }
 }
