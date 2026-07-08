@@ -33477,5 +33477,45 @@
     "location": "Denver, CO;San Francisco, CA;Las Vegas, NV;Atlanta, GA;Phoenix, AZ;United States - Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-08T19:07:34.574091"
+  },
+  "1508671b5cc761dabee8a54f700bf816": {
+    "company": "Braintrust",
+    "title": "Developer Support Engineer",
+    "url": "https://jobs.ashbyhq.com/braintrust/a91a8a47-b273-489d-b225-4cb89e023c21",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T20:56:06.268037"
+  },
+  "7ba44ace538a1bb637f51233668d245a": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive - Consumer Goods Industry ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8622413002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T20:56:34.946100"
+  },
+  "6654195d551af04557cde2f581034817": {
+    "company": "Mercury",
+    "title": "Customer Support Specialist - Payroll",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6111827004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T20:56:48.783881"
+  },
+  "c12c8f2b7aadab2dc7ec1730c0825746": {
+    "company": "Stripe",
+    "title": "Fraud Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8039803",
+    "location": "United States ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T20:56:51.850322"
+  },
+  "64dcecddb81b55a095a7fb6aeecc0b37": {
+    "company": "Gusto",
+    "title": "Sr Software Engineer, Database Infrastructure",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7413644",
+    "location": "Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-08T20:56:52.502199"
   }
 }
