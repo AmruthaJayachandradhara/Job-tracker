@@ -33589,5 +33589,61 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-09T13:43:04.658762"
+  },
+  "275b300096c81d16fbcfa27e2c6ceeb0": {
+    "company": "Cape",
+    "title": "Web Developer",
+    "url": "https://jobs.ashbyhq.com/cape/9c2ad71e-6529-4272-86fa-83307963f90c",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T16:21:31.540547"
+  },
+  "8500d258d7ed14e446389b95104bf499": {
+    "company": "Cape",
+    "title": "Visual Designer",
+    "url": "https://jobs.ashbyhq.com/cape/fc847bee-97ee-4f41-8440-aa919b2b5517",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T16:21:31.540618"
+  },
+  "799c35f7c5c23df322984263b0c99d8f": {
+    "company": "Databricks",
+    "title": "Applied AI Engineer, Learning Intelligence",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8625462002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T16:21:54.962926"
+  },
+  "8b4ddada09845846638c64a1c78e43af": {
+    "company": "Stripe",
+    "title": "Account Executive, Product - Link",
+    "url": "https://stripe.com/jobs/search?gh_jid=8049828",
+    "location": "NYC, SF",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T16:22:17.522405"
+  },
+  "0874d2a2e80c4732f0c72c9034cb1881": {
+    "company": "Carta",
+    "title": "Paralegal, Compliance",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7798948003",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T16:22:19.418131"
+  },
+  "58289814474109d950a85e0dcd89d0cf": {
+    "company": "Carta",
+    "title": "Paralegal, Contracts",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7798919003",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T16:22:19.418174"
+  },
+  "7409e25c5f70b779084580ea857ed9b4": {
+    "company": "Carta",
+    "title": "Paralegal, Funds",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7798935003",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T16:22:19.418188"
   }
 }
