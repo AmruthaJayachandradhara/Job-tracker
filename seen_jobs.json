@@ -33557,5 +33557,21 @@
     "location": "Foster City, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-09T01:58:21.395175"
+  },
+  "8323e4cd59a6fe1e9978897b18246c9d": {
+    "company": "GitLab",
+    "title": "Customer Success Engineer, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8607271002",
+    "location": "Remote, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T06:02:27.950460"
+  },
+  "4dcfb2f6240dca604363d03cab9059ba": {
+    "company": "Stripe",
+    "title": "Data Scientist, Global Growth",
+    "url": "https://stripe.com/jobs/search?gh_jid=8043052",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T06:02:37.468116"
   }
 }
