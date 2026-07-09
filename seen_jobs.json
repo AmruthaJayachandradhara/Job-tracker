@@ -33541,5 +33541,21 @@
     "location": "San Ramon, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-08T23:11:25.010061"
+  },
+  "23adbbfdc190b9d668393951f152394a": {
+    "company": "Northwood Space",
+    "title": "Tooling Engineer II",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/222776fe-9549-4699-80bd-f55edee3fd53",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T01:57:49.171061"
+  },
+  "04f709ffe01bbad28677df638cf6aab4": {
+    "company": "Replit",
+    "title": "Copywriter",
+    "url": "https://jobs.ashbyhq.com/replit/b81bd36b-7868-477c-b2e3-465f4acc5ef0",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T01:58:21.395175"
   }
 }
