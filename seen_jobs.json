@@ -33573,5 +33573,21 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-09T06:02:37.468116"
+  },
+  "0c1579bf41750f2c3dea2571471330f3": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (Italian Fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8051493",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T13:43:04.658716"
+  },
+  "512a736bfcac9fbce831c2c2e2582e63": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (Spanish Fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8051488",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T13:43:04.658762"
   }
 }
