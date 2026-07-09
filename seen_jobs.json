@@ -33645,5 +33645,37 @@
     "location": "London, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-09T16:22:19.418188"
+  },
+  "97ed913d76711a380ff098172ebcbb5d": {
+    "company": "Profound",
+    "title": "Marketing Operations",
+    "url": "https://jobs.ashbyhq.com/profound/6d337d28-4d71-4396-b63e-0514edb76d37",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T18:45:24.499947"
+  },
+  "37aa65958ad18b5ac79add650341930b": {
+    "company": "Dialpad",
+    "title": "Agentic Transformation Advisor",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8624613002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T18:45:40.132059"
+  },
+  "3ecb08a9a5d9caef4289e8a2af654150": {
+    "company": "Dialpad",
+    "title": "VP, Financial Services & Insurance Strategy",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8615051002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T18:45:40.132494"
+  },
+  "9bbb02e340ee54972ba47d42dac92237": {
+    "company": "Stripe",
+    "title": "Client Platform Security Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7982720",
+    "location": "New York, New York ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T18:45:51.080953"
   }
 }
