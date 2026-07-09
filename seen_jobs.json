@@ -33685,5 +33685,13 @@
     "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-09T20:41:51.304117"
+  },
+  "799c58ae8ceafcbdd6b4cf81f704dfb3": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Developer SDKs (Golang)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7557899",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-09T22:13:28.698996"
   }
 }
