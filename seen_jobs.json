@@ -33701,5 +33701,21 @@
     "location": "San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-09T23:58:09.401330"
+  },
+  "f6b6cfb0ac8feddd80e9111efe4dfc15": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive - Western Canada",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8610864002",
+    "location": "Calgary, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T06:32:59.045490"
+  },
+  "b2da3ed85bd6cae9bfc18ade3a48542f": {
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-07-10T06:33:14.556128"
   }
 }
