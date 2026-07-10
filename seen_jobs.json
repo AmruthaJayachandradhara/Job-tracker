@@ -33821,5 +33821,53 @@
     "location": "Phoenix, Arizona, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-10T20:13:55.178166"
+  },
+  "81680ae0f8b693651b501dd159088eba": {
+    "company": "Render",
+    "title": "GTM EngineerRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/ca865a27-e5c2-4b3d-843a-076f898ad1df",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T21:51:02.050014"
+  },
+  "be42086a14f683ed0a0284399289dea7": {
+    "company": "Stripe",
+    "title": "Machine Learning Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8014859",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T21:51:46.579289"
+  },
+  "d5660aeb86ae08f3c306b3ed48ea4030": {
+    "company": "Carta",
+    "title": "Contract Solutions Counsel",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7801297003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T21:51:48.595598"
+  },
+  "8d7f476f34b903ad6bd25c98403057c5": {
+    "company": "Carta",
+    "title": "Contract Solutions Counsel",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7788815003",
+    "location": "Hamilton Township, NJ; Sandy, UT; Seattle, WA; Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T21:51:48.595621"
+  },
+  "aa7728fb94bae7d30bfa7003e9728eda": {
+    "company": "Carta",
+    "title": "Junior Paralegal, Contracts",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7801309003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "title match: 'junior'",
+    "first_seen": "2026-07-10T21:51:48.595738"
+  },
+  "333c70ff7a8fe04b4b3274d8f96aa364": {
+    "company": "Carta",
+    "title": "Junior Paralegal, Contracts",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7801725003",
+    "location": "Hamilton, NJ; Seattle,WA; Sandy,UT",
+    "filter_reason": "title match: 'junior'",
+    "first_seen": "2026-07-10T21:51:48.595749"
   }
 }
