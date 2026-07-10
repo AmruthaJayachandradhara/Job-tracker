@@ -33805,5 +33805,21 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-10T18:16:39.525363"
+  },
+  "e7af14be89f9a803769c673f0e4eb7a8": {
+    "company": "Cape",
+    "title": "Software Engineer, Developer Experience",
+    "url": "https://jobs.ashbyhq.com/cape/13f3921d-ace0-40e4-9b82-e00630878197",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T20:13:14.639891"
+  },
+  "a0aead557794512bb07d6ed05acbc2b1": {
+    "company": "Gusto",
+    "title": "Benefits Care Advocate, Phoenix ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8055761",
+    "location": "Phoenix, Arizona, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T20:13:55.178166"
   }
 }
