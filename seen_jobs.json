@@ -33765,5 +33765,45 @@
     "location": "New York, NY; San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-10T16:14:19.923449"
+  },
+  "1012e7d0d0ba24eee01e01439b06a9f3": {
+    "company": "Pomelo Care",
+    "title": "Care Coordinator",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6113888004",
+    "location": "United States ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T18:15:59.409784"
+  },
+  "d025c6031a55b90fb5fbc065ea4ca624": {
+    "company": "Databricks",
+    "title": "Counsel, Commercial ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8223331002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T18:16:23.381536"
+  },
+  "8dc7c438e2e29161388356a21949d395": {
+    "company": "Mercury",
+    "title": "Content Marketer",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6113790004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T18:16:36.521011"
+  },
+  "9854d13f82465689f501ae75bb547e92": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise - Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8054695",
+    "location": "US-New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T18:16:39.523624"
+  },
+  "fc7e1cf007cfda7cb6fdd6b147f4e091": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Expansion",
+    "url": "https://stripe.com/jobs/search?gh_jid=7775622",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T18:16:39.525363"
   }
 }
