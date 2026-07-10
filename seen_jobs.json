@@ -33869,5 +33869,29 @@
     "location": "Hamilton, NJ; Seattle,WA; Sandy,UT",
     "filter_reason": "title match: 'junior'",
     "first_seen": "2026-07-10T21:51:48.595749"
+  },
+  "26b9fc41e51ee3bc18b230699bb9806b": {
+    "company": "Stripe",
+    "title": "Startup and Venture Partnerships Associate",
+    "url": "https://stripe.com/jobs/search?gh_jid=8049941",
+    "location": "San Francisco",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-07-10T23:48:52.521728"
+  },
+  "ea5a6ef6747d366762bf39dccf5ab440": {
+    "company": "Gusto",
+    "title": "Business Money Engineering",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8035802",
+    "location": "San Francisco, CA;New York, NY;Ontario, CAN - Remote;Toronto, Ontario, CAN - Remote;United States - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T23:48:53.201735"
+  },
+  "26daaf1bb78411a8374f8cd8d00216f5": {
+    "company": "Carta",
+    "title": "Inbound Compliance Analyst (KYC)",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7801328003",
+    "location": "Hamilton, New Jersey; Sandy, Utah; Seattle, Washington",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T23:48:54.560928"
   }
 }
