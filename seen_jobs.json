@@ -33717,5 +33717,53 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-07-10T06:33:14.556128"
+  },
+  "1a11f400ec1373bc00e244c2ac513652": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - South Africa",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8596447002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T16:14:04.276635"
+  },
+  "899db3151e7e531f8ca5802ffceee015": {
+    "company": "Databricks",
+    "title": "SDR",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8621920002",
+    "location": "Heredia, Costa Rica",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T16:14:04.278275"
+  },
+  "0bd3c3678d51606fde4e2638fcf8ee72": {
+    "company": "Fivetran",
+    "title": "Business Development Representative",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7796551003",
+    "location": "Dublin, Dublin, Ireland, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T16:14:06.962075"
+  },
+  "40a5c6385563dd90dc8f4e9926b650f1": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Test Infra)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7727320003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T16:14:18.977292"
+  },
+  "8b63213e196b135f09a1a51366ba5ae9": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Test Infra)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T16:14:18.977313"
+  },
+  "702de7e4276c20b5808d17a17d4c120f": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8041894",
+    "location": "New York, NY; San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-10T16:14:19.923449"
   }
 }
