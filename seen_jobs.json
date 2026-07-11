@@ -33893,5 +33893,21 @@
     "location": "Hamilton, New Jersey; Sandy, Utah; Seattle, Washington",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-10T23:48:54.560928"
+  },
+  "e5c8c6d9e412640963117994c3e4a223": {
+    "company": "Carta",
+    "title": "Paralegal, Compliance",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7801331003",
+    "location": "Hamilton, NJ; Seattle,WA; Sandy,UT",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-11T01:45:16.078380"
+  },
+  "e39790b834b27f908b28d5b69e94feb9": {
+    "company": "Carta",
+    "title": "Paralegal, Funds",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7801787003",
+    "location": "San Francisco, CA; New York, NY; Hamilton, NJ; Sandy, UT; Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-11T01:45:16.078441"
   }
 }
