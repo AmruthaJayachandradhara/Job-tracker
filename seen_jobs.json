@@ -33917,5 +33917,13 @@
     "location": "Torrance, CA",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-07-11T04:54:19.350023"
+  },
+  "4788639c3959d1c22cbfbdd0d7c6c15e": {
+    "company": "Stripe",
+    "title": "Administrative Business Partner, Office of the CEO",
+    "url": "https://stripe.com/jobs/search?gh_jid=8050878",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-11T20:47:01.901423"
   }
 }
