@@ -33909,5 +33909,13 @@
     "location": "San Francisco, CA; New York, NY; Hamilton, NJ; Sandy, UT; Seattle, WA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-11T01:45:16.078441"
+  },
+  "8306133c4e72cae6a016a5afd980d2d4": {
+    "company": "Northwood Space",
+    "title": "Analyst / Associate, Finance & Business Operations",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/0a4748c7-79b2-4233-8b62-e716b2bf457e",
+    "location": "Torrance, CA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-07-11T04:54:19.350023"
   }
 }
