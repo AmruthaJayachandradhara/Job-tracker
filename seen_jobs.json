@@ -33989,5 +33989,37 @@
     "location": "Remote Poland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-13T11:51:59.170895"
+  },
+  "47d3ef4648d8c40af0f5485cc8d81349": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive - TTH",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7698278002",
+    "location": "Remote - Texas",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T14:05:42.068640"
+  },
+  "0e42b8a0f71a3be86a65ce9b5c706ffe": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (ML Training & Serving)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7800444003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T14:06:11.738152"
+  },
+  "82a9a9235ef63275d25e42f439b10369": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (ML Training & Serving)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7800446003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T14:06:11.738176"
+  },
+  "f0031b3fcabc74f6b09fdae68e345a8d": {
+    "company": "Stripe",
+    "title": "Integration Engineer, Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8055050",
+    "location": "Dublin, Ireland ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T14:06:12.672461"
   }
 }
