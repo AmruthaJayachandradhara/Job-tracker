@@ -33973,5 +33973,21 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-13T08:48:55.500986"
+  },
+  "08c3115ee979e86c72af864d1e933a52": {
+    "company": "Affirm",
+    "title": "Software Engineer II , Backend, (Furnishing Platform) ",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799346003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T11:51:59.170872"
+  },
+  "0c4052323c52de4d9a01520a5f224cf8": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Furnishing Platform) ",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799348003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T11:51:59.170895"
   }
 }
