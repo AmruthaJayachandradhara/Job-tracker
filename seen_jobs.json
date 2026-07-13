@@ -34069,5 +34069,29 @@
     "location": "Mountain View, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-13T19:12:14.573040"
+  },
+  "ec084b824874494017d45942a5644d9c": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive - Insurance  ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8596443002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T20:49:43.595910"
+  },
+  "3ed1beef796e9f5c6784c2c0089f9db4": {
+    "company": "Dialpad",
+    "title": "AI Systems Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8631737002",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T20:49:48.293795"
+  },
+  "8da2eee0fe94e2f3272212654a1e2a3e": {
+    "company": "GitLab",
+    "title": "Revenue Technical Analyst",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8618795002",
+    "location": "Remote, Canada; Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T20:49:50.328697"
   }
 }
