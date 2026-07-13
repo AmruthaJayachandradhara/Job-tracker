@@ -34021,5 +34021,45 @@
     "location": "Dublin, Ireland ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-13T14:06:12.672461"
+  },
+  "0d2c57484ba5d20fe9683312e8ebf2cf": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7782797003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T17:07:00.833734"
+  },
+  "95501fdf296a54b7f6e3cbab8a380b5e": {
+    "company": "Fivetran",
+    "title": "Deal Desk Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7800393003",
+    "location": "CRI - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T17:07:00.833896"
+  },
+  "bd5f07a0313e4473883c519e4a6ff0a7": {
+    "company": "GitLab",
+    "title": "Enterprise Account Executive - DACH",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8631153002",
+    "location": "Remote, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T17:07:04.592938"
+  },
+  "9efcc09c51f6d0d4940e1071a8a91df0": {
+    "company": "Mercury",
+    "title": "Organic Search Marketer - SEO/AEO",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6114209004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T17:07:12.105987"
+  },
+  "9ff402c6988c242101bdb87fa7ec8c26": {
+    "company": "Stripe",
+    "title": "Account Executive, Financial Services, Grower ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8048193",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T17:07:15.447196"
   }
 }
