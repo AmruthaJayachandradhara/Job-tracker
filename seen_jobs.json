@@ -34093,5 +34093,21 @@
     "location": "Remote, Canada; Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-13T20:49:50.328697"
+  },
+  "10af6f400482797d0f17187349b1638d": {
+    "company": "Dialpad",
+    "title": "Partner Technical Delivery Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8632113002",
+    "location": "Denver, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T22:45:00.653830"
+  },
+  "83907cec6df90493453ba331c6f1b5ff": {
+    "company": "Dialpad",
+    "title": "Partner Technical Delivery Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8628855002",
+    "location": "Tempe, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T22:45:00.653861"
   }
 }
