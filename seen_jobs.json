@@ -33949,5 +33949,29 @@
     "location": "Tokyo, Japan",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-13T05:26:54.695904"
+  },
+  "211e2ae9b6aabd8babeacdf4902103d2": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer - Analytics Instrumentation",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615389002",
+    "location": "Remote, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T08:48:45.673872"
+  },
+  "bcbaf265c174e908453244872d2ab2af": {
+    "company": "GitLab",
+    "title": "Intermediate Fullstack Engineer - Data Products",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8623751002",
+    "location": "Remote, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T08:48:45.673900"
+  },
+  "bda7cdfad9cac226ed3980c331e8684a": {
+    "company": "Stripe",
+    "title": "Financial Data Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8044924",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T08:48:55.500986"
   }
 }
