@@ -34109,5 +34109,37 @@
     "location": "Tempe, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-13T22:45:00.653861"
+  },
+  "e34881b8bec4e1cd230c82c3bde0847b": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Financial Connections",
+    "url": "https://stripe.com/jobs/search?gh_jid=8062299",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T23:43:23.484619"
+  },
+  "aff152ba95c6bf0c7059cee245e3f41c": {
+    "company": "Stripe",
+    "title": "Forward Deployed AI Accelerator, Marketing",
+    "url": "https://stripe.com/jobs/search?gh_jid=8055930",
+    "location": "Remote in the US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T23:43:23.485678"
+  },
+  "4bda5110e62cd8d52531325cd73eb9f0": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Link",
+    "url": "https://stripe.com/jobs/search?gh_jid=8062305",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T23:43:23.485896"
+  },
+  "4158aec4a518d214c0d14ba556738384": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Support Experience",
+    "url": "https://stripe.com/jobs/search?gh_jid=8062708",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-13T23:43:23.485962"
   }
 }
