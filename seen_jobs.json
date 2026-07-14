@@ -34141,5 +34141,13 @@
     "location": "Toronto",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-13T23:43:23.485962"
+  },
+  "da42babe16c85dbc1d6ab89d24428449": {
+    "company": "Databricks",
+    "title": "Legal Counsel, Commercial ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8223331002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-14T04:41:08.410134"
   }
 }
