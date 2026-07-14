@@ -34277,5 +34277,21 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-14T20:49:50.621403"
+  },
+  "bb733c22ff601b777d6c788583af45c0": {
+    "company": "Spade",
+    "title": "Account Executive",
+    "url": "https://jobs.ashbyhq.com/spade/6297ade8-b25d-4b9f-8c53-6654849f14e8",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-14T23:42:03.202322"
+  },
+  "09fe8893dc7a598ef450080959193f98": {
+    "company": "Profound",
+    "title": "Information Security Analyst",
+    "url": "https://jobs.ashbyhq.com/profound/86863e6b-05d1-4c82-b37b-a5cab68e5d75",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-14T23:42:06.763769"
   }
 }
