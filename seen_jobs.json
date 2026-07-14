@@ -34253,5 +34253,29 @@
     "location": "Hamilton Township, NJ; Sandy, UT; Seattle, WA; Denver, CO",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-14T19:02:45.482607"
+  },
+  "5cacbdbde8896293072564f917f267aa": {
+    "company": "Pomelo Care",
+    "title": "Doula (Louisiana)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5745289004",
+    "location": "Louisiana, USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-14T20:49:25.685947"
+  },
+  "879d62de1b6178aeff11bd4b216ac2dd": {
+    "company": "Dialpad",
+    "title": "Agent Experience Designer, Agentic Voice",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8633475002",
+    "location": "San Ramon, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-14T20:49:49.157999"
+  },
+  "aeab2c8ba9d745f979df74ddac24510c": {
+    "company": "GitLab",
+    "title": "Support Engineer, U.S. Government Support",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8628780002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-14T20:49:50.621403"
   }
 }
