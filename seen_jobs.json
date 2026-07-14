@@ -34189,5 +34189,13 @@
     "location": "Dublin, Ireland ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-14T13:08:10.602690"
+  },
+  "40bb864a87966ecff9771d48aa7cdd53": {
+    "company": "Databricks",
+    "title": "Field CTO - Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8583083002",
+    "location": "Maryland; Virginia; Washington, D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-14T15:16:32.183865"
   }
 }
