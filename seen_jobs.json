@@ -34181,5 +34181,13 @@
     "location": "Remote, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-14T11:17:48.898587"
+  },
+  "d9a8c7670bf5fb073a5a6e043c4b5252": {
+    "company": "Stripe",
+    "title": "Integration Engineer (Customer facing), Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8055050",
+    "location": "Dublin, Ireland ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-14T13:08:10.602690"
   }
 }
