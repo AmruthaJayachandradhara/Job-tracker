@@ -34197,5 +34197,37 @@
     "location": "Maryland; Virginia; Washington, D.C.",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-14T15:16:32.183865"
+  },
+  "572f7a0886f01685c077e00597be769e": {
+    "company": "Fivetran",
+    "title": "Account Executive, Commercial - DACH",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7804810003",
+    "location": "Dublin, Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-14T17:03:00.552730"
+  },
+  "33a7c83f76db11d6e2801a2152502569": {
+    "company": "Stripe",
+    "title": " Air Cleaning Technologies Associate",
+    "url": "https://stripe.com/jobs/search?gh_jid=8060391",
+    "location": "New York, San Francisco, US-Remote",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-07-14T17:03:13.698947"
+  },
+  "bb2c3fafbf9b844eb7d9bf9a777d3e85": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive, Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=8063657",
+    "location": "NYC-Privy",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-14T17:03:13.700071"
+  },
+  "cc8da9a97bbdf1f447691330961df3cb": {
+    "company": "Stripe",
+    "title": "Forward Deployed Engineer, Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8055050",
+    "location": "Dublin, Ireland ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-14T17:03:13.700291"
   }
 }
