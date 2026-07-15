@@ -34429,5 +34429,21 @@
     "location": "Remote, Canada; Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-15T22:49:16.493611"
+  },
+  "d4d183d034811b8d68c6036d3720f175": {
+    "company": "Databricks",
+    "title": "Software Engineer, Web Products",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002",
+    "location": "Mountain View, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T23:50:24.261167"
+  },
+  "caea03ddce9100f71171d21b77e376c1": {
+    "company": "Stripe",
+    "title": "Technical Support Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7733725",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T23:50:40.671917"
   }
 }
