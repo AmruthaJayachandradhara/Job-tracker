@@ -34349,5 +34349,37 @@
     "location": "CHI",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-15T17:05:47.567051"
+  },
+  "480917ace5f56279eeea0902fc6055f0": {
+    "company": "Cape",
+    "title": "Legal Counsel",
+    "url": "https://jobs.ashbyhq.com/cape/4d420e3e-8135-4866-9ba1-1ccd6c6be185",
+    "location": "Arlington",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T18:54:42.006281"
+  },
+  "4bb8b620a2248acb7648fd70154ded4c": {
+    "company": "Databricks",
+    "title": "Frontier AI Lab Account Executive ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8519282002",
+    "location": "San Francisco, California; Seattle, Washington",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T18:55:13.028369"
+  },
+  "b592ec5dcd52ad9959ede5e30b02f476": {
+    "company": "Coinbase",
+    "title": "Concierge Specialist IV-1",
+    "url": "https://www.coinbase.com/careers/positions/8067612?gh_jid=8067612",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T18:55:26.296528"
+  },
+  "250ef6a39b55184895441449de6a4e1c": {
+    "company": "Stripe",
+    "title": "Product StratOps, Air Cleaning Technologies",
+    "url": "https://stripe.com/jobs/search?gh_jid=8060391",
+    "location": "New York, San Francisco, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T18:55:31.712340"
   }
 }
