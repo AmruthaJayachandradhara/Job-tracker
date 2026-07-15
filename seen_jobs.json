@@ -34293,5 +34293,37 @@
     "location": "Buenos Aires, Argentina",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-14T23:42:06.763769"
+  },
+  "c21a153d1dce20c8541f018d0c70f070": {
+    "company": "Stripe",
+    "title": "Bridge Operations Associate ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7957302",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-07-15T07:07:02.400929"
+  },
+  "862a1e1d161cfd3520972fe9e1b8a52f": {
+    "company": "Stripe",
+    "title": "Financial Analyst, Business F&S",
+    "url": "https://stripe.com/jobs/search?gh_jid=8066264",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T07:07:02.401883"
+  },
+  "255118b5925cd50042680177ea80b95f": {
+    "company": "Stripe",
+    "title": "Seller Systems Operations Associate,  (Night Shift)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7966029",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-07-15T07:07:02.404416"
+  },
+  "3b66c897df7fd5af3fa5771b6612db44": {
+    "company": "Stripe",
+    "title": "Social Media, Customer Support Associate",
+    "url": "https://stripe.com/jobs/search?gh_jid=7962437",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-07-15T07:07:02.404489"
   }
 }
