@@ -34381,5 +34381,21 @@
     "location": "New York, San Francisco, US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-15T18:55:31.712340"
+  },
+  "15bafc0633a712e0403041e47924efd4": {
+    "company": "Coinbase",
+    "title": "Global Intelligence Analyst",
+    "url": "https://www.coinbase.com/careers/positions/8067617?gh_jid=8067617",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T21:48:29.011330"
+  },
+  "5544c81a926686c99d6a4727ee18713a": {
+    "company": "Gusto",
+    "title": "ERP Applications Analyst - Order to Cash",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8039570",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T21:48:33.188471"
   }
 }
