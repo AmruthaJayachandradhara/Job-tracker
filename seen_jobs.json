@@ -34325,5 +34325,29 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-07-15T07:07:02.404489"
+  },
+  "275f481c7e6d7821eb48c55abe49fec0": {
+    "company": "Stripe",
+    "title": "Compliance and Anti Money Laundering Officer \u2014 French Branch",
+    "url": "https://stripe.com/jobs/search?gh_jid=8007740",
+    "location": "Paris",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T17:05:47.564789"
+  },
+  "a81549c278f423c98a7a356f3d0c9087": {
+    "company": "Stripe",
+    "title": "Product Counsel (Crypto/Bridge) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8066956",
+    "location": "SF, NYC, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T17:05:47.566575"
+  },
+  "44dfd6d1345ab63ee3350b0a502a1ace": {
+    "company": "Stripe",
+    "title": "Recruiting Scheduler (Fixed Term Contract)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8059929",
+    "location": "CHI",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T17:05:47.567051"
   }
 }
