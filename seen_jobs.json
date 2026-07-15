@@ -34397,5 +34397,37 @@
     "location": "San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-15T21:48:33.188471"
+  },
+  "11c27ca53e7eb6bc4d62ecabfdb2717e": {
+    "company": "Databricks",
+    "title": "Alliance RVP, Boston Consulting Group (BCG)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632401002",
+    "location": "Atlanta, Georgia; Boston, Massachusetts; Chicago, Illinois; Dallas, Texas; New York City, New York; San Francisco, California; Seattle, Washington",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T22:49:08.942657"
+  },
+  "f377ad675deec538979860ce6f656d3c": {
+    "company": "Databricks",
+    "title": "Alliance RVP, McKinsey",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632403002",
+    "location": "Atlanta, Georgia; Boston, Massachusetts; Chicago, Illinois; Dallas, Texas; New York City, New York; San Francisco, California; Seattle, Washington",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T22:49:08.942684"
+  },
+  "0e27fa220955996e207243f01057a28c": {
+    "company": "Databricks",
+    "title": "Sr Software Engineer- CXI",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8617901002",
+    "location": "Mountain View, California; San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T22:49:08.948302"
+  },
+  "e5524b0210bb1d4f7a4180f5acf2dd05": {
+    "company": "GitLab",
+    "title": "Revenue Technology Analyst",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8618795002",
+    "location": "Remote, Canada; Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-15T22:49:16.493611"
   }
 }
