@@ -34557,5 +34557,21 @@
     "location": "Chicago, SEA, SF, NYC, US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-16T17:03:34.158808"
+  },
+  "1d89e9d6a0eb5971513038c0152fa27e": {
+    "company": "Northwood Space",
+    "title": "Accounts Payable Specialist",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/c7cc35a6-e1ba-44bd-bf44-17640e13610f",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T18:55:27.778419"
+  },
+  "bc02ada8c564713c8bade24a864162e2": {
+    "company": "Dialpad",
+    "title": "Engineering & Operations Assistant",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8636214002",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T18:55:57.835757"
   }
 }
