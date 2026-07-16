@@ -34477,5 +34477,29 @@
     "location": "Sydney",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-16T07:15:36.241189"
+  },
+  "3143ef70c0124134ec1f048a6cb6ce70": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Balkans",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8617751002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T09:57:16.241792"
+  },
+  "7d9eee9eebdcfc8e65d60d7a96815411": {
+    "company": "GitLab",
+    "title": "Forward Deployed Engineer - EMEA",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522265002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T09:57:16.242069"
+  },
+  "5c0667e3aefe93bee143a73ebcdf049a": {
+    "company": "GitLab",
+    "title": "Forward Deployed Engineer - EMEA",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522408002",
+    "location": "Remote Ireland; Remote, Austria; Remote, Denmark; Remote, France; Remote, Germany; Remote, Switzerland; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T09:57:16.242079"
   }
 }
