@@ -34501,5 +34501,21 @@
     "location": "Remote Ireland; Remote, Austria; Remote, Denmark; Remote, France; Remote, Germany; Remote, Switzerland; Remote, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-16T09:57:16.242079"
+  },
+  "4e7caf00e7c8e84c59984d4db963056f": {
+    "company": "Carta",
+    "title": "Contracts Lawyer",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7805107003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T13:20:26.368604"
+  },
+  "b6c502a078c9a938ebcdb1bce2527d25": {
+    "company": "Carta",
+    "title": "Funds Lawyer",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7805125003",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T13:20:26.368697"
   }
 }
