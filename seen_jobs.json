@@ -34461,5 +34461,13 @@
     "location": "Dublin, Ireland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-16T01:44:21.978628"
+  },
+  "a58a78fef7e1eed544cb53ea7892aeaa": {
+    "company": "Stripe",
+    "title": "Payment Performance Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8068669",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T04:51:47.827799"
   }
 }
