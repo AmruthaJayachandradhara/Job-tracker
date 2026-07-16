@@ -34573,5 +34573,21 @@
     "location": "Buenos Aires, Argentina",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-16T18:55:57.835757"
+  },
+  "f657125f4057fb9ae67f23e6f256d07f": {
+    "company": "Render",
+    "title": "Postgres Product EngineerRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/f4883b3d-ada1-4859-931b-61881f7f9c00",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T19:56:11.795841"
+  },
+  "dcccdf8cf4dee49df29c85a5a00faf05": {
+    "company": "GitLab",
+    "title": "Commercial Legal Counsel, Public Sector ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8562593002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T19:56:54.565308"
   }
 }
