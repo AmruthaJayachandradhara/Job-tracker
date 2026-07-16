@@ -34517,5 +34517,21 @@
     "location": "London, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-16T13:20:26.368697"
+  },
+  "aa21b5eafd25f814c8dc4ef93d0ced2b": {
+    "company": "Stripe",
+    "title": "Account Executive, Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=7566383",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T15:26:19.456287"
+  },
+  "c492db677e040422a9c0e68e863bc34d": {
+    "company": "Stripe",
+    "title": "Machine Learning Engineer, Radar",
+    "url": "https://stripe.com/jobs/search?gh_jid=7983456",
+    "location": "Seattle",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T15:26:19.458597"
   }
 }
