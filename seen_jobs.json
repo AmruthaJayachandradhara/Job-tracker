@@ -34445,5 +34445,21 @@
     "location": "San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-15T23:50:40.671917"
+  },
+  "414c7a547f4365e9e9d92187688d072e": {
+    "company": "Databricks",
+    "title": "Enterprise Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8634063002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T01:43:51.934562"
+  },
+  "055d537da0501027cfc07ac154ec16d7": {
+    "company": "Stripe",
+    "title": "Technical Support Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7860377",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T01:44:21.978628"
   }
 }
