@@ -34469,5 +34469,13 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-16T04:51:47.827799"
+  },
+  "632c074a1534c67bca9c3be36d581976": {
+    "company": "Stripe",
+    "title": "Account Executive, Billing",
+    "url": "https://stripe.com/jobs/search?gh_jid=8029128",
+    "location": "Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T07:15:36.241189"
   }
 }
