@@ -34613,5 +34613,29 @@
     "location": "See posting",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-16T21:55:32.614512"
+  },
+  "8eba37134a44b9e6be03f1358547345f": {
+    "company": "Stripe",
+    "title": "Company Strategy & Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8070054",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T23:50:29.301085"
+  },
+  "717c4e35c1292c55d1652a306612e12e": {
+    "company": "Carta",
+    "title": "Finance and Equity Analyst - Rotational Program",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7807641003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T23:50:31.366725"
+  },
+  "5dd2e7207e99e4d7310c9535266bc1d7": {
+    "company": "Carta",
+    "title": "Junior Sales Representative - HK/China Market",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7591996003",
+    "location": "Hong Kong, China",
+    "filter_reason": "title match: 'junior'",
+    "first_seen": "2026-07-16T23:50:31.366850"
   }
 }
