@@ -34533,5 +34533,29 @@
     "location": "Seattle",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-16T15:26:19.458597"
+  },
+  "f00af906b2876ed4cc89deb9e0a4ba09": {
+    "company": "Databricks",
+    "title": "Product Management Intern (Summer 2027)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-07-16T17:03:15.454239"
+  },
+  "a904e2e907a2aae657866538f5209437": {
+    "company": "Stripe",
+    "title": "Backend/API Engineer, Money as a Service",
+    "url": "https://stripe.com/jobs/search?gh_jid=7369543",
+    "location": "United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T17:03:34.155469"
+  },
+  "97b7e1d3774a94061ce23cbda352d442": {
+    "company": "Stripe",
+    "title": "Risk Strategist, Industry Expansion Strategy",
+    "url": "https://stripe.com/jobs/search?gh_jid=7594866",
+    "location": "Chicago, SEA, SF, NYC, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T17:03:34.158808"
   }
 }
