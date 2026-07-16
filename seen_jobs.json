@@ -34589,5 +34589,29 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-16T19:56:54.565308"
+  },
+  "94f229ee3603df5e37c96c814c237492": {
+    "company": "Gumloop",
+    "title": "Design Engineer Intern ",
+    "url": "https://jobs.ashbyhq.com/gumloop/dcdc0658-b3fd-44cd-b0cf-4016c9513d40",
+    "location": "San Francisco Office",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-07-16T21:55:30.988820"
+  },
+  "9cbdcb26fe3bf8b24b2bf4b455aa67c5": {
+    "company": "Render",
+    "title": "Object Storage Product EngineerRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/40378b18-ad46-4040-9514-121ec5eb047f",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T21:55:32.614440"
+  },
+  "a7d85407c31fa20bea5536f0c1cdea01": {
+    "company": "Render",
+    "title": "Valkey Product EngineerRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/b011a0c1-eed8-4afd-ab8b-3b4f974df199",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-16T21:55:32.614512"
   }
 }
