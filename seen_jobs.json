@@ -34957,5 +34957,29 @@
     "location": "USA - Philadelphia (dbt)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-17T20:52:44.503152"
+  },
+  "133b5e66248ba283e5b0859667cc1b45": {
+    "company": "Dialpad",
+    "title": "AI Engineer, Agentic Voice (TTS)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8601273002",
+    "location": "Kitchener, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T21:41:53.384393"
+  },
+  "fd718b1f30aab4b37d8f72efbe571137": {
+    "company": "Dialpad",
+    "title": "AI Engineer, Agentic Voice (TTS)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8597852002",
+    "location": "Vancouver, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T21:41:53.384429"
+  },
+  "b09ef38560eaa1431933234d641f962e": {
+    "company": "Dialpad",
+    "title": "Voice Experience Designer, Agentic Voice",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8633475002",
+    "location": "San Ramon, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T21:41:53.384872"
   }
 }
