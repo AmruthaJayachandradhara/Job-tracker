@@ -34661,5 +34661,37 @@
     "location": "IN - Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-07-17T09:47:20.586994"
+  },
+  "cc8d0f9a5a1d4409a9f4c6bb7f3b1028": {
+    "company": "Fivetran",
+    "title": "Account Executive, Commercial - Middle East/Africa",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7806328003",
+    "location": "Dublin, Dublin, Ireland, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T11:14:40.756477"
+  },
+  "d9e96bcce02b80b734e5c2207e777413": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive  - Belgium & Luxembourg (Paris / Lille area based)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8575027002",
+    "location": "Remote, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T11:14:44.116156"
+  },
+  "a7910ea54c2393da149af0ade14e0ac6": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - Retail & Media (Paris)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8605313002",
+    "location": "Remote, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T11:14:44.116186"
+  },
+  "9e25072ceefd2bb2705eb18998a603f6": {
+    "company": "Stripe",
+    "title": "Integration Engineer, SEA/GCN",
+    "url": "https://stripe.com/jobs/search?gh_jid=8053417",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T11:14:53.818390"
   }
 }
