@@ -34981,5 +34981,53 @@
     "location": "San Ramon, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-17T21:41:53.384872"
+  },
+  "faa2ee4eb51c84c00a9bace7153c2c62": {
+    "company": "Fivetran",
+    "title": "Commercial Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7808648003",
+    "location": "USA - New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T22:38:43.399360"
+  },
+  "a6c29d4b27b5a65dc33af76e39c6a5b0": {
+    "company": "Fivetran",
+    "title": "Commercial Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7807405003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T22:38:43.399386"
+  },
+  "c685ee3a1ef1e2bbd259ad4420ba6e9a": {
+    "company": "Fivetran",
+    "title": "Commercial Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7808640003",
+    "location": "Oakland, California, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T22:38:43.399400"
+  },
+  "e80e743b89cfedf887cdefc3889eedbc": {
+    "company": "Fivetran",
+    "title": "Commercial Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7808643003",
+    "location": "USA - Austin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T22:38:43.399412"
+  },
+  "92d0438a2716e1fa53f466740a78991c": {
+    "company": "Fivetran",
+    "title": "Commercial Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7808646003",
+    "location": "USA - Philadelphia (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T22:38:43.399425"
+  },
+  "25e4de0ee5942bf56ce6681736ed63ab": {
+    "company": "Dialpad",
+    "title": "Sales Development Representative I",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8520747002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T22:38:45.257013"
   }
 }
