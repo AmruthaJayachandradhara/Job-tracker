@@ -34757,5 +34757,37 @@
     "location": "Remote - USA",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-07-17T16:59:53.412415"
+  },
+  "34b091e3eb84cefee83e00409ce4d730": {
+    "company": "Juicebox",
+    "title": "Forward Deployed Engineer",
+    "url": "https://jobs.ashbyhq.com/juicebox/373bcadb-163c-477d-908e-f4ecca0369e1",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T18:06:16.435593"
+  },
+  "4057be6da6d9c15d87e8ade99a562e8a": {
+    "company": "Dialpad",
+    "title": "Software Engineer (Salesforce)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8636221002",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T18:06:27.188287"
+  },
+  "46eb00f555623e0bd51042762fd71f68": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Unified Data Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7800446003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T18:06:37.374572"
+  },
+  "793308a6a8555edb71b6801ce54b73c5": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Unified Data Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7800444003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T18:06:37.374594"
   }
 }
