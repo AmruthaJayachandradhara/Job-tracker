@@ -34789,5 +34789,53 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-17T18:06:37.374594"
+  },
+  "4bf48827972d5dd186fa7acc8ea49121": {
+    "company": "Spade",
+    "title": "Backend Engineer (Mid-Sr)",
+    "url": "https://jobs.ashbyhq.com/spade/087011f5-17f1-4f27-a352-ac11f6a5ba58",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T19:58:14.652415"
+  },
+  "66ebb754517a727b39f8c02c3f51e793": {
+    "company": "Spade",
+    "title": "Data Scientist (Mid-Sr)",
+    "url": "https://jobs.ashbyhq.com/spade/eeca5a13-7958-46b4-b295-8d48da58cd65",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T19:58:14.652489"
+  },
+  "a395f012c2aeb5dcaf3b2c8c975cf616": {
+    "company": "Dialpad",
+    "title": "Applied Scientist",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8633549002",
+    "location": "Kitchener, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T19:58:34.856439"
+  },
+  "2f0739ee656eb761bc35a27d1a4bc181": {
+    "company": "Dialpad",
+    "title": "Applied Scientist",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8639037002",
+    "location": "Vancouver, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T19:58:34.856463"
+  },
+  "f8032584e8d15371bfd69f0265bad065": {
+    "company": "Stripe",
+    "title": "Technical Connectivity Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7589978",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T19:58:45.908273"
+  },
+  "8dd4635427a768e31d69830a2b8b149c": {
+    "company": "Gusto",
+    "title": "Product Designer, Benefits",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7676166",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T19:58:46.573914"
   }
 }
