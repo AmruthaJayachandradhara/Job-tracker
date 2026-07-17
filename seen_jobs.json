@@ -34637,5 +34637,13 @@
     "location": "Hong Kong, China",
     "filter_reason": "title match: 'junior'",
     "first_seen": "2026-07-16T23:50:31.366850"
+  },
+  "83a1ef432568cee2d75dd51138a93090": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive - DNB",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438975002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T07:10:53.491705"
   }
 }
