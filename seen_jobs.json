@@ -34645,5 +34645,21 @@
     "location": "Bengaluru, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-17T07:10:53.491705"
+  },
+  "6d2885d100932a9894e298590b360bdf": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Optimised Checkout ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8040940",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T09:47:20.584771"
+  },
+  "ce6d6c62e6417d06bbeceab9bdbd6dd9": {
+    "company": "Stripe",
+    "title": "People Operations Associate - Recruitment Coordination",
+    "url": "https://stripe.com/jobs/search?gh_jid=8049722",
+    "location": "IN - Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-07-17T09:47:20.586994"
   }
 }
