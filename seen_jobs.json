@@ -34693,5 +34693,21 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-17T11:14:53.818390"
+  },
+  "f242638d98581447f9ad5a7d8c19acdb": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - Turkey ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8609979002",
+    "location": "Remote, Turkey",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T13:05:02.737615"
+  },
+  "a0dabcaa6a0f5b099da3c9e43bfa33ff": {
+    "company": "Stripe",
+    "title": "Product Counsel, Payments & Terminal",
+    "url": "https://stripe.com/jobs/search?gh_jid=7558757",
+    "location": "Toronto, US Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T13:05:13.624834"
   }
 }
