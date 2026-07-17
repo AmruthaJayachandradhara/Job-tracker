@@ -34741,5 +34741,21 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-17T15:06:10.557350"
+  },
+  "ca0322e45c35e2556fe5d5ba11617c91": {
+    "company": "Databricks",
+    "title": "Evergreen - FDE Brazil",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8638732002",
+    "location": "Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T16:59:40.978659"
+  },
+  "13ac1061503fc42033151de499b6d0f2": {
+    "company": "Coinbase",
+    "title": "Associate, Financial Services Partnerships",
+    "url": "https://www.coinbase.com/careers/positions/8070386?gh_jid=8070386",
+    "location": "Remote - USA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-07-17T16:59:53.412415"
   }
 }
