@@ -34709,5 +34709,37 @@
     "location": "Toronto, US Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-17T13:05:13.624834"
+  },
+  "a4ec8949fc4697cfed3fac94de6e5fb0": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive, Life Science",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8626215002",
+    "location": "Denmark",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T15:05:54.882025"
+  },
+  "67c6f3d4d2de895e479fc774f2260b7e": {
+    "company": "Fivetran",
+    "title": "Sales Development Representative - Texas",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7792160003",
+    "location": "USA - Austin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T15:05:57.502297"
+  },
+  "2e9d14e0ac9c9cf33f16f6fb72a9dc5d": {
+    "company": "Dialpad",
+    "title": "Software Engineer (Integrations)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8636221002",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T15:05:59.381812"
+  },
+  "114f48d1329b3f6b522f71a3390832f3": {
+    "company": "Stripe",
+    "title": "Entity Controller",
+    "url": "https://stripe.com/jobs/search?gh_jid=8070480",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-17T15:06:10.557350"
   }
 }
