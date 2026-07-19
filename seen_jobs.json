@@ -35029,5 +35029,13 @@
     "location": "Austin, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-17T22:38:45.257013"
+  },
+  "3cb42d638c82abcde2c5b19b5f780d1c": {
+    "company": "WitnessAI",
+    "title": "Sales Development Representative",
+    "url": "https://jobs.ashbyhq.com/witnessai/c9e8f872-3554-4550-9cf1-b8c5910cd11a",
+    "location": "Atlanta",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-19T09:51:18.495325"
   }
 }
