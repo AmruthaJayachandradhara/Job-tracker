@@ -35053,5 +35053,21 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-20T11:36:15.728316"
+  },
+  "6b55bbb7ff6ef42b97500847c320608e": {
+    "company": "Profound",
+    "title": "Engagement Associate",
+    "url": "https://jobs.ashbyhq.com/profound/e5f79878-b5ed-49a3-b9a0-4dbb9df6f2b5",
+    "location": "London, England",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-07-20T13:48:04.202783"
+  },
+  "6b132999f5a2f05c05dad54fc98ce9bf": {
+    "company": "Stripe",
+    "title": "Strategy & Ops, Intercept",
+    "url": "https://stripe.com/jobs/search?gh_jid=8060391",
+    "location": "New York, San Francisco, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T13:48:32.828981"
   }
 }
