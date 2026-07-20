@@ -35045,5 +35045,13 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-07-20T08:40:35.467647"
+  },
+  "5c1751b2c8d1cabcdd29b7b22f3a3ab9": {
+    "company": "Encord",
+    "title": "DevOps Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/312b9d04-ea38-4872-96d4-22e14ca7fdf1",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T11:36:15.728316"
   }
 }
