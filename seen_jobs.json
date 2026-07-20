@@ -35141,5 +35141,37 @@
     "location": "SF, NYC, SEA, CHI",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-20T19:25:05.027825"
+  },
+  "aa5f441e01c2665bde1708b7674e63d2": {
+    "company": "GitLab",
+    "title": "Business Development Representative - MENA   ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8608546002",
+    "location": "Remote, UAE",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T21:01:29.120924"
+  },
+  "0a5802e02144756aa50441d084b3d218": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Issuing and Treasury",
+    "url": "https://stripe.com/jobs/search?gh_jid=7456716",
+    "location": "SF, NYC, remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T21:01:42.989724"
+  },
+  "856097f6ba2f4813dd6db33395c00493": {
+    "company": "Stripe",
+    "title": "Software Engineer, Authorization Infrastructure",
+    "url": "https://stripe.com/jobs/search?gh_jid=8069941",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T21:01:42.993763"
+  },
+  "7129aabde13631500376ec50c2e4114e": {
+    "company": "Stripe",
+    "title": "Software Engineer, Data Privacy Technologies",
+    "url": "https://stripe.com/jobs/search?gh_jid=8070260",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T21:01:42.993837"
   }
 }
