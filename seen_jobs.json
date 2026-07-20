@@ -35085,5 +35085,13 @@
     "location": "Denver, CO;San Francisco, CA;New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-20T15:45:18.559387"
+  },
+  "9abee8b867ed82055382042cca2eeec0": {
+    "company": "Stripe",
+    "title": "Security Analyst, Bug Bounty",
+    "url": "https://stripe.com/jobs/search?gh_jid=8070570",
+    "location": "Remote, North America",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T17:22:48.145352"
   }
 }
