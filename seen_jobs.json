@@ -35037,5 +35037,13 @@
     "location": "Atlanta",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-19T09:51:18.495325"
+  },
+  "885d69ec8de4733d70844ea71a105090": {
+    "company": "Stripe",
+    "title": "Fraud Operations Associate SDC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8066310",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-07-20T08:40:35.467647"
   }
 }
