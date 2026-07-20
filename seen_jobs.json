@@ -35093,5 +35093,53 @@
     "location": "Remote, North America",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-20T17:22:48.145352"
+  },
+  "871b74e4edf5b26bf5826f567a217132": {
+    "company": "Fivetran",
+    "title": " Product Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7810003003",
+    "location": "Remote, Washington, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T19:24:52.123890"
+  },
+  "29963a73edbc66948b20e267423c0083": {
+    "company": "Dialpad",
+    "title": "Product and Privacy Counsel",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8499362002",
+    "location": "San Ramon, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T19:24:54.063831"
+  },
+  "a435d7eba9e55ca513ac92121e8f12d7": {
+    "company": "Dialpad",
+    "title": "Sales Account Executive, SB II",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8614840002",
+    "location": "Pasig City, Metro Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T19:24:54.063885"
+  },
+  "a08a3936cdfcdf99139e28d3cfb0e7f5": {
+    "company": "Dialpad",
+    "title": "Sales Development Representative, Mid-Market",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8532055002",
+    "location": "Tempe, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T19:24:54.063917"
+  },
+  "28274676bc60b7a86218512b73ab081f": {
+    "company": "Stripe",
+    "title": "Account Executive, Strategic Platform Partnerships",
+    "url": "https://stripe.com/jobs/search?gh_jid=8060387",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T19:25:05.023066"
+  },
+  "8a134bfae31b78686879aebc6d57e05a": {
+    "company": "Stripe",
+    "title": "Tech & Product Strategic Sourcing Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8072213",
+    "location": "SF, NYC, SEA, CHI",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T19:25:05.027825"
   }
 }
