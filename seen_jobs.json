@@ -35069,5 +35069,21 @@
     "location": "New York, San Francisco, US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-20T13:48:32.828981"
+  },
+  "a1997052fa653db41672dae0d396fbff": {
+    "company": "Fivetran",
+    "title": "Marketing Insights Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7809734003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T15:45:03.492164"
+  },
+  "3f4cfc07253cdda2e5559dab591aafc1": {
+    "company": "Gusto",
+    "title": "Product Designer, Retirement",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7514758",
+    "location": "Denver, CO;San Francisco, CA;New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T15:45:18.559387"
   }
 }
