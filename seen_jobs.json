@@ -35173,5 +35173,21 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-20T21:01:42.993837"
+  },
+  "48780840297b4751ad0d78e4b296e25b": {
+    "company": "Northwood Space",
+    "title": "Product Systems Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/5d5833d9-6d3e-4e49-8264-f0322b66f684",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T22:45:55.826571"
+  },
+  "dba3930d3ed9cacd5ed93d9163c87656": {
+    "company": "Stripe",
+    "title": "Software Engineer, Optimized Checkout & Link",
+    "url": "https://stripe.com/jobs/search?gh_jid=8075469",
+    "location": "US Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T22:46:34.094249"
   }
 }
