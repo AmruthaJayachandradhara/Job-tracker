@@ -35189,5 +35189,21 @@
     "location": "US Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-20T22:46:34.094249"
+  },
+  "1a065fb2d9324c696becdc04ca5d2d48": {
+    "company": "Dialpad",
+    "title": "Partner Marketing Coordinator",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8639486002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T23:47:10.698192"
+  },
+  "0b0673adf9a091eb1a42360f66a56acf": {
+    "company": "Replit",
+    "title": "Data Scientist, Trust & Safety",
+    "url": "https://jobs.ashbyhq.com/replit/07c4c890-0dd4-4022-bba4-8dfba6ff16ee",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-20T23:47:12.833461"
   }
 }
