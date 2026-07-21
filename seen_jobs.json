@@ -35205,5 +35205,45 @@
     "location": "Foster City, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-20T23:47:12.833461"
+  },
+  "af0ac0fed5589f7870e216f830d782a6": {
+    "company": "Northwood Space",
+    "title": "Mechanical Engineer (Product Owner)",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/5d5833d9-6d3e-4e49-8264-f0322b66f684",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T01:44:43.809785"
+  },
+  "158e9ccfae5b7f2edf008e7c78b48217": {
+    "company": "Replit",
+    "title": "VP, Communication",
+    "url": "https://jobs.ashbyhq.com/replit/52bb2b5e-18b9-45bf-99a9-43310f556cf6",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T01:45:09.844280"
+  },
+  "0f1ff14ebbbc5bcbc75eacc269de7915": {
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack ",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7804953003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T01:45:18.416507"
+  },
+  "b249c9282dd420043e50313f9a543cbb": {
+    "company": "Stripe",
+    "title": "Android BSP Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8074125",
+    "location": "Taipei, Taiwan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T01:45:19.595539"
+  },
+  "484204d1e3a53d67ed09b6c2f909f979": {
+    "company": "Stripe",
+    "title": "Sales Development Representative",
+    "url": "https://stripe.com/jobs/search?gh_jid=8074892",
+    "location": "Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T01:45:19.598907"
   }
 }
