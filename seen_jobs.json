@@ -35389,5 +35389,37 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-21T20:14:10.525496"
+  },
+  "a2e8bf9a6d10b1a259f10f9848f5370e": {
+    "company": "Fivetran",
+    "title": "Customer Solutions Engineer",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7812210003",
+    "location": "USA - Philadelphia (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T21:55:41.071882"
+  },
+  "6362d2a5c9d685f60514ec2843df3ff1": {
+    "company": "Fivetran",
+    "title": "Customer Solutions Engineer",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7807605003",
+    "location": "Remote, Texas, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T21:55:41.071909"
+  },
+  "70ff79693e0b8eef89bff730824608c7": {
+    "company": "Mercury",
+    "title": "Payroll Operations Specialist",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6122010004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T21:55:54.522242"
+  },
+  "1eddad7db412e390081d8950c2e3d154": {
+    "company": "Carta",
+    "title": "Private Capital Client Partner",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7810453003",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T21:55:59.525712"
   }
 }
