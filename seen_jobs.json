@@ -35245,5 +35245,13 @@
     "location": "Sydney",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-21T01:45:19.598907"
+  },
+  "523588a800fd9ee8448545ce1922cb9c": {
+    "company": "Databricks",
+    "title": "Candidate Experience Coordinator (fixed-term contract) ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7294953002",
+    "location": "Belgrade, Serbia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T04:59:27.261157"
   }
 }
