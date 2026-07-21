@@ -35261,5 +35261,29 @@
     "location": "Remote, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-21T10:14:49.984528"
+  },
+  "21038b90bde73597440d1dae33523427": {
+    "company": "Cape",
+    "title": "Business Recruiter",
+    "url": "https://jobs.ashbyhq.com/cape/5bec54ea-a51a-41b9-8da9-b9f2ff5f90a2",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T14:54:54.033971"
+  },
+  "ef2587be968c71c219383f01cfb1ef9c": {
+    "company": "Profound",
+    "title": "Software Engineer, Rust, Agent Runtime",
+    "url": "https://jobs.ashbyhq.com/profound/4c29c22e-c6fa-4bde-97ed-79edd5a96cea",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T14:55:04.932606"
+  },
+  "d2f8ad5525f30f07cce83d6b6412c2cd": {
+    "company": "Dialpad",
+    "title": "Software Engineer (Sell Core)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8633535002",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T14:55:21.021019"
   }
 }
