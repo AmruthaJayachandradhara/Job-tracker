@@ -35253,5 +35253,13 @@
     "location": "Belgrade, Serbia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-21T04:59:27.261157"
+  },
+  "6df22d0db1b212dfec99da423224801c": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Australia",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8617211002",
+    "location": "Remote, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T10:14:49.984528"
   }
 }
