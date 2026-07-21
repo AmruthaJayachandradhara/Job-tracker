@@ -35325,5 +35325,69 @@
     "location": "Buenos Aires, Argentina",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-21T18:09:40.779405"
+  },
+  "dee3e09a2ba2bca7051a984e27e8df7c": {
+    "company": "Gumloop",
+    "title": "Video Editor",
+    "url": "https://jobs.ashbyhq.com/gumloop/52185932-c8c4-480d-8c2a-cfe25ec56026",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T20:13:08.596130"
+  },
+  "150b1176d3c05fb148938b9dfa90d7e6": {
+    "company": "Fivetran",
+    "title": "Compliance, Employment & Litigation Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7812058003",
+    "location": "Oakland, California, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T20:13:44.813965"
+  },
+  "63e077276df9aee9088602ba863bd8e7": {
+    "company": "Fivetran",
+    "title": "Compliance, Employment & Litigation Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7807403003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T20:13:44.813987"
+  },
+  "56c58ced5fc2a49ad86b39f3fa29922e": {
+    "company": "Fivetran",
+    "title": "Sales Engineer Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7811981003",
+    "location": "Remote, Georgia, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T20:13:44.814597"
+  },
+  "08edaae985a05912e16883889556dc62": {
+    "company": "Fivetran",
+    "title": "Sales Engineer Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7811982003",
+    "location": "Remote, Florida, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T20:13:44.814619"
+  },
+  "ac96f7a4b3cdc5b3e65cbf2ee8cae55e": {
+    "company": "Fivetran",
+    "title": "Sales Engineer Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7811977003",
+    "location": "Remote, Virginia, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T20:13:44.814631"
+  },
+  "33a25ac55f8908d2e088a5ba82b48b34": {
+    "company": "Fivetran",
+    "title": "Sales Engineer Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7811980003",
+    "location": "Remote, South Carolina, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T20:13:44.814643"
+  },
+  "74cf58ff9d43ba84c2275a9adf7a398f": {
+    "company": "Affirm",
+    "title": "Analyst II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7804953003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T20:14:10.525496"
   }
 }
