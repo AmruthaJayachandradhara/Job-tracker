@@ -35285,5 +35285,45 @@
     "location": "Buenos Aires, Argentina",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-21T14:55:21.021019"
+  },
+  "1195f6b99fc69f3f9d74a7eb74336d94": {
+    "company": "Pomelo Care",
+    "title": "Menopause Provider (Contract) - CNM or NP - Texas License",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6121455004",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T18:09:16.476988"
+  },
+  "2012f17fe57da85dd9268b5a8d673bec": {
+    "company": "Fivetran",
+    "title": "Sales Engineer Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7807409003",
+    "location": "Remote, North Carolina, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T18:09:38.844228"
+  },
+  "79f6e43fdebdbc95ecabac2bec103469": {
+    "company": "Dialpad",
+    "title": "Sales Engineer III",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8633657002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T18:09:40.779330"
+  },
+  "21530b3b9182ff98811b5a8d72ec998c": {
+    "company": "Dialpad",
+    "title": "Software Engineer, ML Inference Platform",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8512122002",
+    "location": "Kitchener, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T18:09:40.779395"
+  },
+  "3a29f46b34fe9c5e5e0691bbd3beb48f": {
+    "company": "Dialpad",
+    "title": "Software Engineer, ML Inference Platform",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8631737002",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-21T18:09:40.779405"
   }
 }
