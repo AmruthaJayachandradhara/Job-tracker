@@ -35653,5 +35653,45 @@
     "location": "Denver",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-22T20:07:00.654765"
+  },
+  "0f16f4273c9140837f343ac3dffc7799": {
+    "company": "Databricks",
+    "title": "Geo Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8636159002",
+    "location": "Northeast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T21:56:59.317052"
+  },
+  "80eb475094382cf0586c240b234e2090": {
+    "company": "Databricks",
+    "title": "Geo Hunter Account Executive - Digital Natives",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643053002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T21:56:59.317107"
+  },
+  "8c45e75cd1349628531b9b844176eb0a": {
+    "company": "Replit",
+    "title": "Help Desk Technician",
+    "url": "https://jobs.ashbyhq.com/replit/c8fbfa33-67cc-436d-841d-a29622dcbc61",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T21:57:06.023043"
+  },
+  "cde94c7116e1032b51dfae2bd884ca5d": {
+    "company": "Stripe",
+    "title": "Data Scientist, Core Infrastructure",
+    "url": "https://stripe.com/jobs/search?gh_jid=8080614",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T21:57:15.000934"
+  },
+  "b0d21a3ef8fa3033c9103f7209ff7c2c": {
+    "company": "Stripe",
+    "title": "Motion Designer, Stripe Identity",
+    "url": "https://stripe.com/jobs/search?gh_jid=7769564",
+    "location": "Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T21:57:15.002487"
   }
 }
