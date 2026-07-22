@@ -35461,5 +35461,21 @@
     "location": "Taipei City",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-22T07:33:50.772446"
+  },
+  "92ceaaace02149dffdafdabcf65779ea": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - MENA",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8638001002",
+    "location": "Remote, KSA; Remote, UAE",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T10:15:03.791267"
+  },
+  "8ad7238be53383bdb8597e4c543df79c": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - MENA",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8637995002",
+    "location": "Remote, KSA; Remote, UAE",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T10:15:03.792104"
   }
 }
