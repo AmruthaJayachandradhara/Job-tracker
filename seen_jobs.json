@@ -35421,5 +35421,13 @@
     "location": "Seattle, WA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-21T21:55:59.525712"
+  },
+  "6785d3bb3a74dfb3ceac1f91325e1221": {
+    "company": "Stripe",
+    "title": "Integration Reliability Engineer, Payments",
+    "url": "https://stripe.com/jobs/search?gh_jid=8054241",
+    "location": "Canada ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T01:44:37.003101"
   }
 }
