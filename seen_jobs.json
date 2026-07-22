@@ -35549,5 +35549,69 @@
     "location": "Addison, TX (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-22T16:14:53.729701"
+  },
+  "a393e10cfb530ab3c3764793b3e9c4f2": {
+    "company": "Databricks",
+    "title": "AI Operations",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8397501002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T18:02:12.431733"
+  },
+  "5d490c646f3396eebb6b7476f9c8c4aa": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive - CMEG ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8633152002",
+    "location": "Remote - California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T18:02:12.439565"
+  },
+  "9f472a0d10187e0ecd1a47e86a95a00b": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Commercial",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7812202003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T18:02:15.321323"
+  },
+  "eb60b6efc8207aa03fe061e09366b690": {
+    "company": "GitLab",
+    "title": "AI Operations Specialist",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8638246002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T18:02:18.685679"
+  },
+  "d9d81c16fb3ce65538dd41c9934773dc": {
+    "company": "GitLab",
+    "title": "AI Transformation Owner",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8638232002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T18:02:18.685701"
+  },
+  "37fc3e71261da8003526ab808a910d2f": {
+    "company": "Mercury",
+    "title": "Risk Investigator - Third Party/ATO Fraud",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6122578004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T18:02:25.483865"
+  },
+  "7cf592630ce767d3ba9accd917b5a643": {
+    "company": "Stripe",
+    "title": "Account Executive, Bridge ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8077887",
+    "location": "SF, NYC, SEA, CHI",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T18:02:28.472574"
+  },
+  "a521ce88f824645806068631864695c6": {
+    "company": "Stripe",
+    "title": "Data Analyst, Financial Data Engineering",
+    "url": "https://stripe.com/jobs/search?gh_jid=8070572",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T18:02:28.473994"
   }
 }
