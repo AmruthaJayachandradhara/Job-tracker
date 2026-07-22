@@ -35477,5 +35477,13 @@
     "location": "Remote, KSA; Remote, UAE",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-22T10:15:03.792104"
+  },
+  "35797efdfbd596878de175de6f8efde7": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive, Hunter, Iberia ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7908925",
+    "location": "Madrid, Barcelona ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T12:22:15.794611"
   }
 }
