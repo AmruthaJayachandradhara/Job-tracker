@@ -35453,5 +35453,13 @@
     "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-22T04:59:13.761296"
+  },
+  "1229877ad4af24b4296304917f4dead9": {
+    "company": "Stripe",
+    "title": "Firmware Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8040825",
+    "location": "Taipei City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T07:33:50.772446"
   }
 }
