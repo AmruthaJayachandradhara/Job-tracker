@@ -35533,5 +35533,21 @@
     "location": "Remote Spain",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-22T14:56:05.273983"
+  },
+  "5ac612ec1c74b7899fb89f55ff8c2cf6": {
+    "company": "GitLab",
+    "title": "Customer Success Engineer, LATAM (Spanish, Portugese) ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8637426002",
+    "location": "Remote, Brazil; Remote, Mexico; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T16:14:52.408599"
+  },
+  "1f4bed9e2f0ab4fa8d8fffa2ea788dbe": {
+    "company": "Tanium",
+    "title": "Product Counsel",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8078236",
+    "location": "Addison, TX (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T16:14:53.729701"
   }
 }
