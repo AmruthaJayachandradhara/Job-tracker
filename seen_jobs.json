@@ -35485,5 +35485,53 @@
     "location": "Madrid, Barcelona ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-22T12:22:15.794611"
+  },
+  "b83e772eafd8cdf72ff1f020a338b74b": {
+    "company": "Cape",
+    "title": "Platform Software Engineer",
+    "url": "https://jobs.ashbyhq.com/cape/87e4fac9-9193-40d7-9b28-dbc73e55615c",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T14:55:26.294452"
+  },
+  "f89b815ae625c6aedfc69b57789579d2": {
+    "company": "Dialpad",
+    "title": "AI Voice Experience Designer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8638277002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T14:55:54.824018"
+  },
+  "7d4a7ecb00040dfff3d722ba819869c6": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Mid-Market, US ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8534549002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T14:55:56.354354"
+  },
+  "e2727de89e7759535730737e85b2e6e1": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Mid-Market, US East   ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8613913002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T14:55:56.354372"
+  },
+  "e2506bc682b86f07c4c3924020f32d50": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Backend (Collections)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7807508003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T14:56:05.273962"
+  },
+  "99974e6861497120c3ad746ee59dffa2": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Backend (Collections)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7807506003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T14:56:05.273983"
   }
 }
