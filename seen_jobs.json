@@ -35613,5 +35613,45 @@
     "location": "New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-22T18:02:28.473994"
+  },
+  "23d8752072f82fb87edfc6ceccc86d14": {
+    "company": "GitLab",
+    "title": "AI Transformation Owner, CRO",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8638232002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T20:06:49.180238"
+  },
+  "99271113100a0b0278a579652a30dd43": {
+    "company": "Stripe",
+    "title": "Consumer Operations Associate",
+    "url": "https://stripe.com/jobs/search?gh_jid=7967890",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-07-22T20:06:59.963554"
+  },
+  "3e26ebb703ddeda3a6cd9f57ecddb5a7": {
+    "company": "Stripe",
+    "title": "Deal Pricing Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8080240",
+    "location": "San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T20:06:59.963993"
+  },
+  "93b7a848c3c27c94be2b8805cf78447e": {
+    "company": "Stripe",
+    "title": "Risk Strategist, Card Network Compliance",
+    "url": "https://stripe.com/jobs/search?gh_jid=7594866",
+    "location": "Chicago, SEA, SF, NYC, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T20:06:59.966546"
+  },
+  "85642d2e8f63a82cc221ef0b3dbbb8d9": {
+    "company": "Gusto",
+    "title": "Retirement Implementation Specialist (Conversion Plans)",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8040766",
+    "location": "Denver",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T20:07:00.654765"
   }
 }
