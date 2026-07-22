@@ -35693,5 +35693,13 @@
     "location": "Spain",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-22T21:57:15.002487"
+  },
+  "0e61df5895fccdfd98cc4214b8cc482b": {
+    "company": "Databricks",
+    "title": "Partner Engineer: Partner Intelligence, AI & Apps",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643542002",
+    "location": "San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-22T23:55:51.605175"
   }
 }
