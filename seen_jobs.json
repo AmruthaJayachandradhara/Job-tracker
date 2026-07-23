@@ -35773,5 +35773,13 @@
     "location": "Denver, CO;San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-23T15:02:25.896509"
+  },
+  "c833bc589ca9fe8f3e711fa0b0ed955b": {
+    "company": "GitLab",
+    "title": "Tech Operations Specialist",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8638246002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-23T17:09:12.408753"
   }
 }
