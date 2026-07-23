@@ -35797,5 +35797,21 @@
     "location": "Austin, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-23T20:11:48.753255"
+  },
+  "c2c459d1c0520693f402b47327d88a55": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer - Remote ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611108002",
+    "location": "USCA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-23T21:56:49.927026"
+  },
+  "0e4f67e73352903a0e31f3c44e3f25f9": {
+    "company": "Affirm",
+    "title": "Analyst I",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7808667003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-23T21:57:05.069897"
   }
 }
