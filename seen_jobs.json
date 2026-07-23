@@ -35781,5 +35781,21 @@
     "location": "Remote, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-23T17:09:12.408753"
+  },
+  "6409b50248f4006595ea94011a70a486": {
+    "company": "Pomelo Care",
+    "title": "IT Support Engineer (Remote \u2014 West Coast Hours)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6123666004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-23T20:11:23.139590"
+  },
+  "a0489bb3fa64dfdbf90b7e50dda12434": {
+    "company": "Dialpad",
+    "title": "AVP, AI Transformation Advisor",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8647151002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-23T20:11:48.753255"
   }
 }
