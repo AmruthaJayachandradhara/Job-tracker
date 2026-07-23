@@ -35725,5 +35725,13 @@
     "location": "Scottsdale, AZ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-23T08:11:47.310549"
+  },
+  "6f414eca9c4ae4db8d83739bacae5158": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer - Platform Integrations (Monetization)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615332002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-23T11:00:20.490424"
   }
 }
