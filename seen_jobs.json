@@ -35733,5 +35733,45 @@
     "location": "Bangalore, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-23T11:00:20.490424"
+  },
+  "8561be35509c5f158ec47aae6b7ac67e": {
+    "company": "Dialpad",
+    "title": "AI Evaluation Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8407071002",
+    "location": "Vancouver, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-23T15:02:13.627495"
+  },
+  "d7b53998e1c9e3322c86ed6eea7f3b16": {
+    "company": "Dialpad",
+    "title": "AI Evaluation Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8642915002",
+    "location": "Kitchener, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-23T15:02:13.627519"
+  },
+  "c1b123b14749293474ae49453e4dc2aa": {
+    "company": "GitLab",
+    "title": "Site Reliability Engineer - Dedicated Hosted Runners",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8644274002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-23T15:02:15.080440"
+  },
+  "6cd15b97e27410138559d9eb3505c659": {
+    "company": "Stripe",
+    "title": "Software Engineer, Stripe Tax ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8076626",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-23T15:02:25.206753"
+  },
+  "5b025dba2658cb99728d7df94c6843cb": {
+    "company": "Gusto",
+    "title": "Legal Operations Partner",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8047260",
+    "location": "Denver, CO;San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-23T15:02:25.896509"
   }
 }
