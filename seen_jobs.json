@@ -35877,5 +35877,13 @@
     "location": "Remote Poland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-24T10:53:50.757573"
+  },
+  "74c92beb75094c1428e3dfc49f376ad3": {
+    "company": "Stripe",
+    "title": "AutoFile Specialist, Tax",
+    "url": "https://stripe.com/jobs/search?gh_jid=8076623",
+    "location": "US-Remote ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T14:45:11.249150"
   }
 }
