@@ -35885,5 +35885,37 @@
     "location": "US-Remote ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-24T14:45:11.249150"
+  },
+  "91ac66b238c8f5e7b8fbb5dc9dfa06e4": {
+    "company": "Northwood Space",
+    "title": "Tooling Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/222776fe-9549-4699-80bd-f55edee3fd53",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T18:10:40.750691"
+  },
+  "0fd6cef19de2d67ef64674c9468a8f4a": {
+    "company": "Profound",
+    "title": "Analytics Engineer",
+    "url": "https://jobs.ashbyhq.com/profound/a6a442ba-00b4-4c70-b7fd-6a27eca54d8e",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T18:10:47.988388"
+  },
+  "9bc44ccedebbf3764a6b99534862396a": {
+    "company": "Fivetran",
+    "title": "Sales Development Representative ",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7792160003",
+    "location": "USA - Austin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T18:11:03.735030"
+  },
+  "a14a747864a970962475615e2080fab9": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (Hebrew Fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8083685",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T18:11:20.372111"
   }
 }
