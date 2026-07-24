@@ -35997,5 +35997,13 @@
     "location": "NYC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-24T21:56:29.881888"
+  },
+  "857ce043ef7f66ced756626996cca562": {
+    "company": "Stripe",
+    "title": "Software Engineer, Machine Learning Infrastructure",
+    "url": "https://stripe.com/jobs/search?gh_jid=8084476",
+    "location": "Toronto, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T23:55:51.192169"
   }
 }
