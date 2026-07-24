@@ -35917,5 +35917,61 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-24T18:11:20.372111"
+  },
+  "70b47138508c2366477ef3970490cf35": {
+    "company": "Northwood Space",
+    "title": "Corporate IT Security Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/8156dd0b-7115-4089-a3e5-4986d72ab594",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T20:10:02.070136"
+  },
+  "77f9ecf3ad51c6f645cd7768a97c0efd": {
+    "company": "Northwood Space",
+    "title": " Identity & Endpoint Security Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/3f3101bf-b8f3-4a20-9364-90700b869e6a",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T20:10:02.070231"
+  },
+  "54a5cf23e370110b3241725b258d4183": {
+    "company": "Coinbase",
+    "title": "Social Support Specialist III",
+    "url": "https://www.coinbase.com/careers/positions/8083917?gh_jid=8083917",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T20:10:33.624871"
+  },
+  "d6b3783b87d8e1b6293a8ed3986a291a": {
+    "company": "Coinbase",
+    "title": "Supervisor, Customer Success Team",
+    "url": "https://www.coinbase.com/careers/positions/8082829?gh_jid=8082829",
+    "location": "Remote - Cyprus",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T20:10:33.625151"
+  },
+  "51f6b54451502e11784ef3d2312718ee": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Credit Decisions ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8084195",
+    "location": "Chicago, IL ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T20:10:38.593640"
+  },
+  "4b97dbeebeab9dc35718c0b805f0f463": {
+    "company": "Stripe",
+    "title": "Product Marketing, Data Products",
+    "url": "https://stripe.com/jobs/search?gh_jid=7773461",
+    "location": "US / Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T20:10:38.596454"
+  },
+  "9881a750a79cad07f9531668843fbbd8": {
+    "company": "Stripe",
+    "title": "Software Engineer - Full Stack",
+    "url": "https://stripe.com/jobs/search?gh_jid=8084193",
+    "location": "South San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T20:10:38.597305"
   }
 }
