@@ -35973,5 +35973,29 @@
     "location": "South San Francisco, California",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-24T20:10:38.597305"
+  },
+  "7d07019a901f9861db918d75d3252820": {
+    "company": "Fivetran",
+    "title": "Software Engineer III",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7811889003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T21:56:15.081493"
+  },
+  "c5ee0e6a0680875df5e995ab600f9709": {
+    "company": "Mercury",
+    "title": "Investment Support Specialist",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6126780004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T21:56:26.913602"
+  },
+  "1c090b21cf2135a520399481fce8db09": {
+    "company": "Stripe",
+    "title": "Treasury Finance AI and Quantitative Analytics, Americas",
+    "url": "https://stripe.com/jobs/search?gh_jid=8079132",
+    "location": "NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T21:56:29.881888"
   }
 }
