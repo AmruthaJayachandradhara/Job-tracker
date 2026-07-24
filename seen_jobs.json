@@ -35829,5 +35829,21 @@
     "location": "United States; USCA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-24T01:47:41.680584"
+  },
+  "e1a2fb7d5b37aced2afb929fe2922bca": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer (FDE) - Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611108002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T05:11:11.127725"
+  },
+  "bae4beaedad28411f537c8ed539ed35a": {
+    "company": "Stripe",
+    "title": "Payment Performance Strategist (Greater China)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8068669",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T05:11:27.350359"
   }
 }
