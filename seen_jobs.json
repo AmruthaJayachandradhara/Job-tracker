@@ -35861,5 +35861,21 @@
     "location": "Dublin OR London",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-07-24T08:07:28.120085"
+  },
+  "40f15e843e54b538de55a19ce42d4a42": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Collections)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7813157003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T10:53:50.757547"
+  },
+  "2a2854a4dddd05bc8b8dea2662b08db6": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Collections)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7813159003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T10:53:50.757573"
   }
 }
