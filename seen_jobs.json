@@ -35845,5 +35845,21 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-24T05:11:27.350359"
+  },
+  "dd9a4b9fd41fe1447fea67a4722bc937": {
+    "company": "GitLab",
+    "title": "Enterprise Account Executive - Singapore ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8640151002",
+    "location": "Remote, Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-24T08:07:18.732140"
+  },
+  "d1efa344bfd94ddf57fabebe0ce48e56": {
+    "company": "Stripe",
+    "title": "Internal Audit - Treasury",
+    "url": "https://stripe.com/jobs/search?gh_jid=7678541",
+    "location": "Dublin OR London",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-07-24T08:07:28.120085"
   }
 }
