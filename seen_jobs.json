@@ -36253,5 +36253,13 @@
     "location": "US remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-27T21:02:39.191659"
+  },
+  "0f178793ad3288cf26952d271327424b": {
+    "company": "Carta",
+    "title": "Account Specialist",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/6260369003",
+    "location": "Rio de Janeiro, Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T22:52:18.300519"
   }
 }
