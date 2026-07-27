@@ -36141,5 +36141,117 @@
     "location": "SF",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-27T19:12:40.566187"
+  },
+  "3a6af647b17514b20fb11cd7b136b846": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive-HiTech",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8645720002",
+    "location": "Boston, Massachusetts; New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T21:02:15.915403"
+  },
+  "f0a3e2e95074901068147e5c095dfa57": {
+    "company": "Fivetran",
+    "title": "Account Executive, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7818053003",
+    "location": "Remote, Wisconsin, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T21:02:19.029651"
+  },
+  "5c6cc367d5c985e247685cf27bf9f328": {
+    "company": "Fivetran",
+    "title": "Account Executive, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7812261003",
+    "location": "Remote, Massachusetts, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T21:02:19.029688"
+  },
+  "1f4ba4b3eff51c9871ecd6820f8497f3": {
+    "company": "Fivetran",
+    "title": "Account Executive, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7818063003",
+    "location": "Remote, Michigan, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T21:02:19.029712"
+  },
+  "a99f301b613b32829bb5d99cdce6e1c7": {
+    "company": "Fivetran",
+    "title": "Account Executive, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7818051003",
+    "location": "Remote, Illinois, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T21:02:19.029724"
+  },
+  "2fcdcfacdd2eb3b186f3f6b5f2c075a4": {
+    "company": "Fivetran",
+    "title": "Account Executive, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7818058003",
+    "location": "Remote, Ohio, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T21:02:19.029735"
+  },
+  "b1b094674f715a2d93d540f1d13e283e": {
+    "company": "Dialpad",
+    "title": "AI Platform Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8636223002",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T21:02:21.155904"
+  },
+  "a10aecf6d0ccfd52541dd915139595ec": {
+    "company": "Dialpad",
+    "title": "AI Transformation Analyst",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8462328002",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T21:02:21.155923"
+  },
+  "46cc988d989aeceabc6e7197c4c85a81": {
+    "company": "EarnIn",
+    "title": "Product Operations Specialist",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8089561",
+    "location": "Mountain View, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T21:02:37.346794"
+  },
+  "75a4a93fe9c700ebfbf6f79c2ec6a35b": {
+    "company": "Affirm",
+    "title": "Product Security Engineer II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7796530003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T21:02:38.176804"
+  },
+  "c14e8517386fa524837d982c4ac3730b": {
+    "company": "Affirm",
+    "title": "Product Security Engineer II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7796534003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T21:02:38.176825"
+  },
+  "4f14e392e3e9208b4557c10fe4131e02": {
+    "company": "Affirm",
+    "title": "Product Security Engineer II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7796536003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T21:02:38.176836"
+  },
+  "f14ee293d40275546e5e203d28d8c72b": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8075473",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T21:02:39.188460"
+  },
+  "06c094a1ab97231e9f320ef2c29fe025": {
+    "company": "Stripe",
+    "title": "Product Counsel",
+    "url": "https://stripe.com/jobs/search?gh_jid=8089069",
+    "location": "US remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T21:02:39.191659"
   }
 }
