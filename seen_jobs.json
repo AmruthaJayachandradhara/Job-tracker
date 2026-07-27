@@ -36053,5 +36053,21 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-27T12:50:46.859388"
+  },
+  "4f387cf1091585a2af65db0857a83f86": {
+    "company": "Stripe",
+    "title": "Credit Risk Analyst, EMEA Underwriting",
+    "url": "https://stripe.com/jobs/search?gh_jid=7697969",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T15:37:14.241355"
+  },
+  "7c02bacd172572b4d480270b8879c5e6": {
+    "company": "Stripe",
+    "title": "Data Analyst, Payments",
+    "url": "https://stripe.com/jobs/search?gh_jid=8044924",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T15:37:14.241565"
   }
 }
