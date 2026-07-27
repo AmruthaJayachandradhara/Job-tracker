@@ -36045,5 +36045,13 @@
     "location": "Bangkok",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-27T09:30:51.488322"
+  },
+  "6c607cf62fc8a8848c5c46c567eec509": {
+    "company": "Stripe",
+    "title": "Product Strategy & Operations ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8081423",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T12:50:46.859388"
   }
 }
