@@ -36117,5 +36117,29 @@
     "location": "Dublin, London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-27T17:30:09.474366"
+  },
+  "30284cb96548c1d6e0a886c6d08d273e": {
+    "company": "Render",
+    "title": "Software Engineer, User Auth ExperienceRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/8815f772-6895-4383-a9e5-6c7bdc2bf141",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T19:11:55.705394"
+  },
+  "09a65d02c52d9176b5d525b3aed5edbb": {
+    "company": "Fivetran",
+    "title": "Account Executive, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7817959003",
+    "location": "Remote, Georgia, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T19:12:26.413517"
+  },
+  "5b63fddd643f9242296805632620f61a": {
+    "company": "Stripe",
+    "title": "Administrative Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=8081673",
+    "location": "SF",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T19:12:40.566187"
   }
 }
