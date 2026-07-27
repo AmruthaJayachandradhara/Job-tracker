@@ -36069,5 +36069,53 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-27T15:37:14.241565"
+  },
+  "600b469665e4440d5f14ba1926aec61f": {
+    "company": "Render",
+    "title": "People PartnerSan Francisco HQ",
+    "url": "https://jobs.ashbyhq.com/render/bce71e37-e1c4-4605-8906-1c9d6fcbc399",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T17:29:27.669065"
+  },
+  "865a693c2ac9acf19aed84257ada029b": {
+    "company": "Render",
+    "title": "Revenue OperationsRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/ca865a27-e5c2-4b3d-843a-076f898ad1df",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T17:29:27.669117"
+  },
+  "f9858971d23cc6ef09d16016faacb6fb": {
+    "company": "Northwood Space",
+    "title": "DSP Engineer (Data Handling)",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/965d06ea-9701-4b28-a87c-e44897136691",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T17:29:35.324089"
+  },
+  "f0696c8fb64097cd24c50c3154e3635e": {
+    "company": "Dialpad",
+    "title": "Customer Success Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8652237002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T17:29:58.152178"
+  },
+  "5f384477c3c8e01e83705346a303cd2c": {
+    "company": "Dialpad",
+    "title": "Customer Success Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8643677002",
+    "location": "Denver, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T17:29:58.152200"
+  },
+  "3a45802f94c7ebe07e4dc9ec9b31ed47": {
+    "company": "Stripe",
+    "title": "People Analytics Analyst & Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=8069694",
+    "location": "Dublin, London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T17:30:09.474366"
   }
 }
