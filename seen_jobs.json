@@ -36013,5 +36013,13 @@
     "location": "San Francisco, Seattle, New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-25T04:57:12.544461"
+  },
+  "6af04c7a67a4b413de3f29419bcfb807": {
+    "company": "Stripe",
+    "title": "Payments Performance Strategist (Greater China)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8068669",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T01:58:14.983845"
   }
 }
