@@ -36021,5 +36021,29 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-27T01:58:14.983845"
+  },
+  "49355f775339439fe1884dec494d83ac": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales-  Money Management ANZ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8068744",
+    "location": "Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T09:30:51.482313"
+  },
+  "a992e8a12d1da31181a3c2487df197a1": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Money Management  ASEAN",
+    "url": "https://stripe.com/jobs/search?gh_jid=8068746",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T09:30:51.482346"
+  },
+  "a580627a019de1b5288685e340f1068f": {
+    "company": "Stripe",
+    "title": "Thailand Compliance Officer & Money Laundering Reporting Officer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8076966",
+    "location": "Bangkok",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-27T09:30:51.488322"
   }
 }
