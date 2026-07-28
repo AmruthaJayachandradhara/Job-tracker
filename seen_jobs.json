@@ -36269,5 +36269,13 @@
     "location": "Sydney, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-28T01:41:10.613763"
+  },
+  "b99fbcf6a4f64d220a908e3158734363": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (AUNZ)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8074892",
+    "location": "Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T04:54:50.004234"
   }
 }
