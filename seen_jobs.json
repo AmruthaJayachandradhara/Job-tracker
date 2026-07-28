@@ -36341,5 +36341,45 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-28T15:12:01.458835"
+  },
+  "42aad1b745c5bb16e7a9f8366d6ce41d": {
+    "company": "Databricks",
+    "title": "Named Hunter Account Executive - Digital Natives",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8617101002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T17:18:44.103760"
+  },
+  "e51eb5159a312f96398b57aebcac6633": {
+    "company": "Databricks",
+    "title": "Strategic  Account Executive, Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8652590002",
+    "location": "Montr\u00e9al, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T17:18:44.109070"
+  },
+  "9b658305f297e8deb948e19f48ce2266": {
+    "company": "Dialpad",
+    "title": "Software Engineer, Developer Platform",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8636218002",
+    "location": "Vancouver, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T17:18:49.276806"
+  },
+  "ce9ca7fcf0acbffa21cc80df4a8c5865": {
+    "company": "Stripe",
+    "title": "Deal Pricing",
+    "url": "https://stripe.com/jobs/search?gh_jid=7998031",
+    "location": "Mexico City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T17:19:05.325567"
+  },
+  "83182ee0acc9d31cc9e61e9b38b4973b": {
+    "company": "Carta",
+    "title": "Account Executive, Legal Services",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7817118003",
+    "location": "New York City, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T17:19:08.845611"
   }
 }
