@@ -36285,5 +36285,13 @@
     "location": "Sydney, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-28T07:32:26.571840"
+  },
+  "4022e3fcae4711f2d0d48fa15a36fbc8": {
+    "company": "Stripe",
+    "title": "Android Engineer, Dev Productivity",
+    "url": "https://stripe.com/jobs/search?gh_jid=8074127",
+    "location": "Taipei,Taiwan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T10:24:25.477889"
   }
 }
