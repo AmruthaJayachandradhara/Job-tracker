@@ -36309,5 +36309,37 @@
     "location": "Remote Poland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-28T12:48:12.565300"
+  },
+  "5231dba0865c81d513eeb0f904fe2e70": {
+    "company": "Databricks",
+    "title": "Deployment Strategist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8630011002",
+    "location": "India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T15:11:43.667151"
+  },
+  "a4659bec03e8dd36abfd594c5709f216": {
+    "company": "Databricks",
+    "title": "Workplace Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8628958002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T15:11:43.673043"
+  },
+  "807536ee37a04a8a61476c57b45fbde0": {
+    "company": "GitLab",
+    "title": "Enterprise QA Engineer, Salesforce ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8648964002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T15:11:52.020711"
+  },
+  "5e1acd5281976debe5c80df3130db52f": {
+    "company": "Stripe",
+    "title": "Product Strategy & Operations APAC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8081423",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T15:12:01.458835"
   }
 }
