@@ -36477,5 +36477,29 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-28T22:04:09.802440"
+  },
+  "252172205588bccf52c170fc3eb34df7": {
+    "company": "Affirm",
+    "title": "Analyst",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7808667003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T23:51:25.011238"
+  },
+  "8c246dbf629c36b00747d9543ce31666": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Developer & End User Experience Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=6567104",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T23:51:25.987798"
+  },
+  "8bc726ebebc9c883cf1ab310440dbae8": {
+    "company": "Gusto",
+    "title": "Retirement Sales Account Executive",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8075935",
+    "location": "Denver, CO; Atlanta, GA; Phoenix, AZ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T23:51:26.741201"
   }
 }
