@@ -36469,5 +36469,13 @@
     "location": "Madrid, Barcelona ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-28T20:59:10.819484"
+  },
+  "42372604057e6a8562bce93baba516c1": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Developer & End-user Experience Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=6567104",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T22:04:09.802440"
   }
 }
