@@ -36389,5 +36389,85 @@
     "location": "New York City, New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-28T19:07:41.694285"
+  },
+  "696d4aeb29e427ba7a840d42deb1c44d": {
+    "company": "Render",
+    "title": "Software Engineer, Agent Auth ExperienceRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/8815f772-6895-4383-a9e5-6c7bdc2bf141",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T20:58:27.318152"
+  },
+  "30f093a9cd729edb9c66b6d57e351c56": {
+    "company": "Databricks",
+    "title": "Geo Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8633743002",
+    "location": "Montr\u00e9al, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T20:58:53.341005"
+  },
+  "4b9633b9582f875c33eabcd7a223b42e": {
+    "company": "Databricks",
+    "title": "Startup Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643831002",
+    "location": "Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T20:58:53.347152"
+  },
+  "03edcf248a29750e09e8bae079d806e1": {
+    "company": "Fivetran",
+    "title": "Sales Engineer Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7819682003",
+    "location": "Remote, Washington, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T20:58:56.182863"
+  },
+  "7fa1043588a3c37e71543b5d1c40c9f6": {
+    "company": "Fivetran",
+    "title": "Sales Engineer Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7805788003",
+    "location": "Remote, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T20:58:56.182936"
+  },
+  "6f6a3fdbcf415bc2d6cbcba9deadc181": {
+    "company": "Fivetran",
+    "title": "Sales Engineer Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7819678003",
+    "location": "Remote, Arizona, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T20:58:56.182948"
+  },
+  "6f3b360d69060f4690e72e7a92fc9599": {
+    "company": "Fivetran",
+    "title": "Sales Engineer Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7819675003",
+    "location": "Remote, Texas, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T20:58:56.182961"
+  },
+  "82e468eda809cf85405fcc767e4a17fb": {
+    "company": "Fivetran",
+    "title": "Sales Engineer Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7819680003",
+    "location": "Remote, Nevada, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T20:58:56.182972"
+  },
+  "68f3a80cc781d6937a504069e40b936a": {
+    "company": "Fivetran",
+    "title": "Sales Engineer Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7819681003",
+    "location": "Remote, Oregon, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T20:58:56.182984"
+  },
+  "562690d16e89435619a68e21ab2886cd": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive, Iberia ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7908925",
+    "location": "Madrid, Barcelona ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T20:59:10.819484"
   }
 }
