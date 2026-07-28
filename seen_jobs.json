@@ -36277,5 +36277,13 @@
     "location": "Sydney",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-28T04:54:50.004234"
+  },
+  "1886df2f85c8a968a59f8ddbd995a874": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8644179002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-28T07:32:26.571840"
   }
 }
