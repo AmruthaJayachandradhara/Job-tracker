@@ -36717,5 +36717,21 @@
     "location": "United States or Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-29T21:49:04.931426"
+  },
+  "48376df0e5edfa574a12920be1d1f24b": {
+    "company": "Mercury",
+    "title": "Account Executive",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6130351004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T22:50:49.232858"
+  },
+  "348fcfc2835d0ffed84b280c69205de3": {
+    "company": "Gusto",
+    "title": "Health Insurance Sales Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8075901",
+    "location": "Scottsdale, AZ;Denver, CO;San Francisco, CA;New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T22:50:53.232104"
   }
 }
