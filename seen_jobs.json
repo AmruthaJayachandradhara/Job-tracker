@@ -36701,5 +36701,21 @@
     "location": "Dublin, Ireland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-29T18:57:20.831769"
+  },
+  "9545a2a502c3b4fd823909c179ea5b63": {
+    "company": "Stripe",
+    "title": "Forward Deployed Engineer, Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8075570",
+    "location": "Seattle, San Francisco, or New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T21:49:04.931400"
+  },
+  "7422920339924544a65b61f4030301c0": {
+    "company": "Stripe",
+    "title": "Forward Deployed Engineer, Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8075577",
+    "location": "United States or Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T21:49:04.931426"
   }
 }
