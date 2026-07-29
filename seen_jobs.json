@@ -36541,5 +36541,53 @@
     "location": "Austin, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-29T12:55:34.505693"
+  },
+  "df4b4540f4b46b4cf416454986238c9e": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - Telco",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8652521002",
+    "location": "Remote - Texas",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T15:04:52.901612"
+  },
+  "ba365d7b1675f252b94383ef12d76608": {
+    "company": "Dialpad",
+    "title": "Software Engineer (Agentic Systems)",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8633544002",
+    "location": "San Francisco, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T15:04:58.083032"
+  },
+  "be8a8702bb9e2cefc68a1b55889d9710": {
+    "company": "Affirm",
+    "title": "Learning Specialist II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7808247003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T15:05:09.872711"
+  },
+  "53e333dc288e6a67724951fc3477a11c": {
+    "company": "Affirm",
+    "title": "Learning Specialist II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7808249003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T15:05:09.872735"
+  },
+  "6a489ec5ca27ca1fb81b8a1607fc1910": {
+    "company": "Stripe",
+    "title": "Risk Strategist, Platform Risk Strategy",
+    "url": "https://stripe.com/jobs/search?gh_jid=7811937",
+    "location": "Chicago, US-Remote, Toronto ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T15:05:10.923000"
+  },
+  "165abd6f4dceb21e43f9349b4a8bf151": {
+    "company": "Gusto",
+    "title": "Product Counsel - HR Apps/Employment Law",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8092845",
+    "location": "Denver, CO;San Francisco, CA;New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T15:05:11.665125"
   }
 }
