@@ -36509,5 +36509,21 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-29T01:41:57.452303"
+  },
+  "d6ad820df3a1f87dc92d746f38363495": {
+    "company": "Stripe",
+    "title": "Sales Development Representative, AUNZ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8074892",
+    "location": "Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T05:00:28.015710"
+  },
+  "a194945d58d8caba78b5f58b83876b98": {
+    "company": "Stripe",
+    "title": "Sales Development Representative, Southeast Asia",
+    "url": "https://stripe.com/jobs/search?gh_jid=8048373",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T05:00:28.015786"
   }
 }
