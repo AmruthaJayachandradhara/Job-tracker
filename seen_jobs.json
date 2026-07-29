@@ -36629,5 +36629,77 @@
     "location": "Mexico City, Mexico",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-29T17:04:17.783163"
+  },
+  "f8d528164f3142c1a641750165f6aec9": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise AE (Hunter) Telco",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438124002",
+    "location": "Toronto, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T18:56:57.706095"
+  },
+  "6a9289dfc89f3269d6b03b67b9464dba": {
+    "company": "Dialpad",
+    "title": "Workplace Experience Coordinator",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8653479002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T18:57:02.248799"
+  },
+  "45dfc49c547437475f3ca328c809484d": {
+    "company": "Replit",
+    "title": "Account Executive (Japan)",
+    "url": "https://jobs.ashbyhq.com/replit/bcfdb564-48c9-42c9-ab5b-c901b6babb44",
+    "location": "Remote - Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T18:57:04.256465"
+  },
+  "d2804a677f89723f0e013edf0046986f": {
+    "company": "Replit",
+    "title": "Account Executive (Brazil)",
+    "url": "https://jobs.ashbyhq.com/replit/afd16138-8863-4236-b9c9-fbaf6526624f",
+    "location": "Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T18:57:04.256485"
+  },
+  "82f759dfac88318e5f5b7d1c309d3f4c": {
+    "company": "Replit",
+    "title": "Account Executive (India)",
+    "url": "https://jobs.ashbyhq.com/replit/910691ab-8f9a-4859-b4ad-786c63ed51e2",
+    "location": "India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T18:57:04.256576"
+  },
+  "85396d0a37cf15bf8827bee3a78015e9": {
+    "company": "Stripe",
+    "title": "Backend / API Engineer, Metronome (Billing)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7737237",
+    "location": "Toronto, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T18:57:20.827163"
+  },
+  "db99f2ef9562ef0503d6a7bd7fac9e3d": {
+    "company": "Stripe",
+    "title": "Software Engineer, Connect Tax Reporting",
+    "url": "https://stripe.com/jobs/search?gh_jid=8078337",
+    "location": "Bucharest, Romania",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T18:57:20.830855"
+  },
+  "27eeff017e5c419989692472fdd5cdda": {
+    "company": "Stripe",
+    "title": "Technical Support Engineer, Metronome",
+    "url": "https://stripe.com/jobs/search?gh_jid=7733725",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T18:57:20.831756"
+  },
+  "2d50aa2e45fba54a6089411dc3d94724": {
+    "company": "Stripe",
+    "title": "Technical Support Engineer, Metronome",
+    "url": "https://stripe.com/jobs/search?gh_jid=7860377",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T18:57:20.831769"
   }
 }
