@@ -36533,5 +36533,13 @@
     "location": "Amsterdam, Netherlands",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-29T10:30:02.088142"
+  },
+  "04bc9cbda3a82a710cb8d9e252b243ef": {
+    "company": "Dialpad",
+    "title": "Client Account Executive, Enterprise",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8652992002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T12:55:34.505693"
   }
 }
