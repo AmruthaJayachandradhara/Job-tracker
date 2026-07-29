@@ -36501,5 +36501,13 @@
     "location": "Denver, CO; Atlanta, GA; Phoenix, AZ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-28T23:51:26.741201"
+  },
+  "d378f0714fb839651be88bcf35721fb9": {
+    "company": "Braintrust",
+    "title": "Office Coordinator",
+    "url": "https://jobs.ashbyhq.com/braintrust/86cc1eae-0abd-46c5-9eb4-2f92c3f38bb6",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T01:41:57.452303"
   }
 }
