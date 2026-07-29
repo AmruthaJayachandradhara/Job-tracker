@@ -36525,5 +36525,13 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-29T05:00:28.015786"
+  },
+  "afec6038db7fd2de52b063c84643cd11": {
+    "company": "Databricks",
+    "title": "Enterprise Hunter Account Executive, Benelux ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8642499002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-29T10:30:02.088142"
   }
 }
