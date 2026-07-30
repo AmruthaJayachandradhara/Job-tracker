@@ -36781,5 +36781,21 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-07-30T07:27:41.672344"
+  },
+  "3a8b6b0599193cbb7a4415497d271eb0": {
+    "company": "Databricks",
+    "title": "Deployment Strategist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637736002",
+    "location": "Remote - India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T10:12:35.469941"
+  },
+  "ecea341b9868cd0afce5e146fe9cf109": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - Automotive/OEM",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8656210002",
+    "location": "Munich, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T10:12:35.476799"
   }
 }
