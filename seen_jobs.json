@@ -36733,5 +36733,13 @@
     "location": "Scottsdale, AZ;Denver, CO;San Francisco, CA;New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-29T22:50:53.232104"
+  },
+  "af33996ab82b7d36c8b7ffba1c072e60": {
+    "company": "Stripe",
+    "title": "Brand Designer, Advertising",
+    "url": "https://stripe.com/jobs/search?gh_jid=7793636",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T01:25:09.614594"
   }
 }
