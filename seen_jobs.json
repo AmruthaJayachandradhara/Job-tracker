@@ -36741,5 +36741,29 @@
     "location": "US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-30T01:25:09.614594"
+  },
+  "cb4400b379bcbfd5b219b48d98bd993e": {
+    "company": "Gusto",
+    "title": "Tax Resolution Advocate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8094625",
+    "location": "Denver, CO;Las Vegas, NV;Chicago, IL;Los Angeles, CA;Phoenix, AZ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T04:48:40.609807"
+  },
+  "5c28a550397f27e03e75d340e52a217a": {
+    "company": "Gusto",
+    "title": "Tax Resolution Advocate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8094612",
+    "location": "Denver, CO;Las Vegas, NV;Chicago, IL;Los Angeles, CA;Phoenix, AZ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T04:48:40.609835"
+  },
+  "f6c8481f37b2599b48ba61bd00ebd747": {
+    "company": "Carta",
+    "title": "Law Clerk, Contracts",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7801309003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T04:48:41.870290"
   }
 }
