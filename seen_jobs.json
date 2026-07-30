@@ -36845,5 +36845,21 @@
     "location": "(San Francisco, Chicago, NYC)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-30T15:02:29.164338"
+  },
+  "9db5975e101e6c7900d53fbd56a633c8": {
+    "company": "Novig",
+    "title": "Developer Relations Engineer",
+    "url": "https://jobs.ashbyhq.com/novig/719dc79e-9324-4894-a545-849aba99f5d7",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T17:14:50.547031"
+  },
+  "d487ad3c67cc2e20787dfc579dc9efb4": {
+    "company": "Stripe",
+    "title": "Business Partner Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8079783",
+    "location": "US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T17:15:16.784202"
   }
 }
