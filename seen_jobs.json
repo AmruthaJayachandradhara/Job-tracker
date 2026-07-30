@@ -36813,5 +36813,37 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-30T12:23:45.486427"
+  },
+  "ab2e0669df58449163d566d22380dc20": {
+    "company": "Fivetran",
+    "title": "Accountant",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7812903003",
+    "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T15:02:16.044604"
+  },
+  "e9a731d9a92f83d325188ce32dbd4d2e": {
+    "company": "Stripe",
+    "title": "Account Executive, Scaled (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8095679",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T15:02:29.160535"
+  },
+  "4e4f9cf3620469aa81a298017d68c5d5": {
+    "company": "Stripe",
+    "title": "Commercial Counsel, EMEA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8092304",
+    "location": "Paris",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T15:02:29.161123"
+  },
+  "fa3da127459cbf6335b3b9520c063ce1": {
+    "company": "Stripe",
+    "title": "Sales Strategy & Operations Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=8089882",
+    "location": "(San Francisco, Chicago, NYC)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T15:02:29.164338"
   }
 }
