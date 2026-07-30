@@ -36941,5 +36941,21 @@
     "location": "Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-30T21:59:17.039580"
+  },
+  "3a2c25ac6538178cc7038fac7e9d4e8c": {
+    "company": "Paraform",
+    "title": "Talent Sourcer and Coordinator",
+    "url": "https://jobs.ashbyhq.com/paraform/8855ea2f-adfe-4f39-b002-550674ce1bf9",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T23:08:00.088944"
+  },
+  "92ada1d72e7fc4a23fed6347c63b931a": {
+    "company": "Gusto",
+    "title": "Future Opportunities: Retirement Onboarding Coordinator",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7379039",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T23:08:42.161548"
   }
 }
