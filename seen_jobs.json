@@ -36797,5 +36797,21 @@
     "location": "Munich, Germany",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-30T10:12:35.476799"
+  },
+  "bb7809e29d64688c523267da01c44321": {
+    "company": "Spade",
+    "title": "Backend Engineer (Mid-level)",
+    "url": "https://jobs.ashbyhq.com/spade/087011f5-17f1-4f27-a352-ac11f6a5ba58",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T12:23:14.732711"
+  },
+  "02a6dc4cb9c0024ade11b3e2bf4c43f5": {
+    "company": "Stripe",
+    "title": "Account Executive, Bridge",
+    "url": "https://stripe.com/jobs/search?gh_jid=8023928",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T12:23:45.486427"
   }
 }
