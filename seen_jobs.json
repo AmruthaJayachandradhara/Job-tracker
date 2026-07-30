@@ -36917,5 +36917,21 @@
     "location": "New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-30T19:09:39.776856"
+  },
+  "33eb835e564e6e5b337cd51bb16c1ee5": {
+    "company": "Stripe",
+    "title": "Security Engineer, Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=8073092",
+    "location": "NYC-Privy",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T20:56:23.513875"
+  },
+  "dc88950c20ed46b2e5737eb4e6793f6d": {
+    "company": "Gusto",
+    "title": "Workday Developer - People Tech",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8075975",
+    "location": "San Francisco, CA - Denver, CO - New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T20:56:24.206209"
   }
 }
