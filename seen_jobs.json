@@ -36933,5 +36933,13 @@
     "location": "San Francisco, CA - Denver, CO - New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-30T20:56:24.206209"
+  },
+  "138967b00175006cbcb52e566a20e1f7": {
+    "company": "Cape",
+    "title": "Security Engineer, Corporate Security",
+    "url": "https://jobs.ashbyhq.com/cape/4b53c96d-e950-494f-a03e-f377728df5e7",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T21:59:17.039580"
   }
 }
