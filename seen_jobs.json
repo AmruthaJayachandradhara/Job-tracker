@@ -36765,5 +36765,21 @@
     "location": "Toronto, Ontario, Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-30T04:48:41.870290"
+  },
+  "1f538e995dda23b569f46cda4b915045": {
+    "company": "Databricks",
+    "title": "Full Stack Developer (AI Agents)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-30T07:27:25.618891"
+  },
+  "fdcb7f633cf08a095a3628603c6bd0b2": {
+    "company": "Stripe",
+    "title": "Fraud Operations Associate (Mandarin Speaking)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8076652",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-07-30T07:27:41.672344"
   }
 }
