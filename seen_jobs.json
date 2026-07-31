@@ -36957,5 +36957,13 @@
     "location": "Denver, CO",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-30T23:08:42.161548"
+  },
+  "5a2a2269426410f49905b51f0b3d7983": {
+    "company": "Coinbase",
+    "title": "Software Engineer, Developer Infrastructure",
+    "url": "https://www.coinbase.com/careers/positions/8022068?gh_jid=8022068",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T01:52:25.249909"
   }
 }
