@@ -36997,5 +36997,13 @@
     "location": "Remote Poland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-31T08:33:49.192363"
+  },
+  "66f05301ae2b4d1c2339d640822237ec": {
+    "company": "Stripe",
+    "title": "IT Support Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8096788",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T11:20:21.949921"
   }
 }
