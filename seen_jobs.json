@@ -37013,5 +37013,21 @@
     "location": "Seattle, WA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-31T17:19:29.271155"
+  },
+  "58020a0720698d4def6304c6e8e196bf": {
+    "company": "GitLab",
+    "title": "Support Engineer (AMER)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8654230002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T19:08:07.810060"
+  },
+  "cb93996fef72ad2794dc6cb077472333": {
+    "company": "Stripe",
+    "title": "Strategy & Ops, Enterprise",
+    "url": "https://stripe.com/jobs/search?gh_jid=8053933",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T19:08:18.397043"
   }
 }
