@@ -36981,5 +36981,21 @@
     "location": "Mexico ",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-07-31T05:26:05.528977"
+  },
+  "8fa8b672e0b08057767130c7c76b1b39": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8628029002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T08:33:34.383458"
+  },
+  "4e4021c1fe4fb40dfd79eebba6a398e9": {
+    "company": "Affirm",
+    "title": "Compliance Analyst II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7812099003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T08:33:49.192363"
   }
 }
