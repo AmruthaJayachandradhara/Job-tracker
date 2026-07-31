@@ -37077,5 +37077,21 @@
     "location": "Remote - Brazil",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-31T20:54:02.467816"
+  },
+  "012d0f9964797ab0361a3f414744f612": {
+    "company": "Paraform",
+    "title": "Supply Support Specialist",
+    "url": "https://jobs.ashbyhq.com/paraform/9f21bdce-6921-43ae-bce2-b3641d28384f",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T21:56:47.313742"
+  },
+  "ab219ce42b0d27544662b32b8a6d5662": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive, Southeast",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8656848002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T21:57:19.131278"
   }
 }
