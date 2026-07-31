@@ -37005,5 +37005,13 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-31T11:20:21.949921"
+  },
+  "bdca645314e211b9bdf21169aec0730c": {
+    "company": "Stripe",
+    "title": "Software Engineer - Infrastructure",
+    "url": "https://stripe.com/jobs/search?gh_jid=8099239",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T17:19:29.271155"
   }
 }
