@@ -37029,5 +37029,53 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-31T19:08:18.397043"
+  },
+  "3b5e18153593b10bce143c4c4044eff4": {
+    "company": "Braintrust",
+    "title": "Strategic Account Executive (Central Region)",
+    "url": "https://jobs.ashbyhq.com/braintrust/1eff314f-8261-484b-9ead-e44646d79003",
+    "location": "Austin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T20:53:10.690892"
+  },
+  "cb93ecf716f40581508392cc6d2302b0": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569498002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T20:53:38.785299"
+  },
+  "5256acdbebcdda75664df093a3c0490b": {
+    "company": "Coinbase",
+    "title": "Forward Deployed Engineer, Finance [Office of the CTO]",
+    "url": "https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T20:54:02.467089"
+  },
+  "04d1e9fba53ed209ce91733500c88ba1": {
+    "company": "Coinbase",
+    "title": "Forward Deployed Engineer, Legal [Office of the CTO]",
+    "url": "https://www.coinbase.com/careers/positions/8060884?gh_jid=8060884",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T20:54:02.467114"
+  },
+  "688df343a971e3aa423ab5327b00836d": {
+    "company": "Coinbase",
+    "title": "IT Service Desk Engineer",
+    "url": "https://www.coinbase.com/careers/positions/8097880?gh_jid=8097880",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T20:54:02.467243"
+  },
+  "25cc02a784476f15f1000341b7cc0530": {
+    "company": "Coinbase",
+    "title": "Software Engineer, EAA ",
+    "url": "https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066",
+    "location": "Remote - Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T20:54:02.467816"
   }
 }
