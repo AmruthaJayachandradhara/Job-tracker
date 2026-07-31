@@ -36965,5 +36965,21 @@
     "location": "Remote - USA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-31T01:52:25.249909"
+  },
+  "2a2a54e8c6b72316e16ec64f8b5c7872": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive, Revenue Suite",
+    "url": "https://stripe.com/jobs/search?gh_jid=8029128",
+    "location": "Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-07-31T05:26:05.527645"
+  },
+  "3c088688726ffdd58b890ce297f02dba": {
+    "company": "Stripe",
+    "title": "Operations Associate, TaxJar Support",
+    "url": "https://stripe.com/jobs/search?gh_jid=8052736",
+    "location": "Mexico ",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-07-31T05:26:05.528977"
   }
 }
