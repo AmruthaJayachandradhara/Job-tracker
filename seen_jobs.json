@@ -37173,5 +37173,45 @@
     "location": "Phoenix, AZ - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-03T15:37:45.987772"
+  },
+  "3ecd3be2d89d93b986e2c470ab98530e": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive, Life Sciences",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8645718002",
+    "location": "West Coast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T17:47:17.116928"
+  },
+  "3fa9c2052c5786f98a4a639c3b174d80": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive, Life Sciences",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8599138002",
+    "location": "Northeast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T17:47:17.116964"
+  },
+  "c46ba9ff807b04cbea561523705f4f12": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive, Life Sciences",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8648999002",
+    "location": "Chicago, Illinois; Indiana",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T17:47:17.116976"
+  },
+  "4af7a2de994b062cd5eba1f83d665c0c": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Named, US East",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8611838002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T17:47:28.040803"
+  },
+  "bb5bc5f8726c6981b94900eafbb8c70e": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive, Named - West",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8592555002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T17:47:28.040827"
   }
 }
