@@ -37285,5 +37285,21 @@
     "location": "Denver, CO; Atlanta, GA; Phoenix, AZ ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-03T19:18:53.218621"
+  },
+  "515d678aa0b5c5589ae63f0c02df75bb": {
+    "company": "Novig",
+    "title": "Finance Operations Associate",
+    "url": "https://jobs.ashbyhq.com/novig/22644de1-88c0-4e85-8e8b-83def9d5d840",
+    "location": "New York",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-03T20:54:39.646070"
+  },
+  "92045a05f56bc3d31db3bcda9e08085d": {
+    "company": "Databricks",
+    "title": "P2P Data & Automation Analyst",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8633071002",
+    "location": "San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T20:54:50.196492"
   }
 }
