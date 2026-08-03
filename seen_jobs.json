@@ -37301,5 +37301,21 @@
     "location": "San Francisco, California",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-03T20:54:50.196492"
+  },
+  "7c66606477c03e3c9b115250871bc9df": {
+    "company": "Gusto",
+    "title": "Resource Management & Analytics, WFM",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8104224",
+    "location": "Denver, CO, Phoenix, Las Vegas ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T21:58:45.284014"
+  },
+  "b30b2699f29d2c399a046e021813d020": {
+    "company": "Gusto",
+    "title": "WFM Capacity & Analytics Planner ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8104180",
+    "location": "Denver, Pheonix, Las Vegas",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T21:58:45.284415"
   }
 }
