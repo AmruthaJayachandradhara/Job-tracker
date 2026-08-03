@@ -37109,5 +37109,13 @@
     "location": "Austin, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-07-31T23:53:38.278305"
+  },
+  "0d85386cd66e2b8397834b85f8d30ec4": {
+    "company": "Fivetran",
+    "title": " Software Development Engineer in Test II ",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7798460003",
+    "location": "Bengaluru, Karnataka, India, APAC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T09:21:14.073783"
   }
 }
