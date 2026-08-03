@@ -37133,5 +37133,45 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-08-03T12:49:53.102315"
+  },
+  "b9a044557b81c488c4485859e6324d08": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T15:37:28.114323"
+  },
+  "47d3b26f492284d3b98c4527cc532855": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer, Platform Readiness",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8644569002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T15:37:35.259924"
+  },
+  "96e84cea8695fd76fd933e4a1dbebe1d": {
+    "company": "EarnIn",
+    "title": "Customer Solutions Specialist",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8099819",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T15:37:43.481606"
+  },
+  "e76e083b389d7c943c9a107523b4480d": {
+    "company": "Stripe",
+    "title": "Administrative Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=8081670",
+    "location": "Chicago, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T15:37:45.286921"
+  },
+  "52fc96e8ac3afd59a5423540ffc03e43": {
+    "company": "Gusto",
+    "title": "Payroll and Taxes Customer Care Advocate ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8100272",
+    "location": "Phoenix, AZ - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T15:37:45.987772"
   }
 }
