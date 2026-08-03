@@ -37213,5 +37213,77 @@
     "location": "Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-03T17:47:28.040827"
+  },
+  "0a1cb3081719a73f309e3c4428eba50f": {
+    "company": "Cape",
+    "title": "IT Support Specialist",
+    "url": "https://jobs.ashbyhq.com/cape/74b860e6-1e8f-4bda-9f97-9aede0b0253f",
+    "location": "Arlington",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T19:18:13.026881"
+  },
+  "9e627ae251bb1a572529f89302b237c5": {
+    "company": "Pomelo Care",
+    "title": "Midlife Registered Dietitian (Contract) - Licensed in Massachusetts",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6133429004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T19:18:15.943205"
+  },
+  "ead5c765db3bab033f2e2e17cfb86774": {
+    "company": "Pomelo Care",
+    "title": "Midlife Registered Dietitian (Contract) - Licensed in Michigan",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6133435004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T19:18:15.943230"
+  },
+  "9b82e14ef3b322a9399705aa16247e04": {
+    "company": "Pomelo Care",
+    "title": "Midlife Registered Dietitian (Contract) - Licensed in Ohio",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6133492004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T19:18:15.943244"
+  },
+  "96bb8ec2b13af6b5b7b95435b4ede217": {
+    "company": "Pomelo Care",
+    "title": "Midlife Registered Dietitian (Contract) - Licensed in Pennsylvania",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6133488004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T19:18:15.943258"
+  },
+  "0e0032988772f83c2d6dbd91a49a5fbc": {
+    "company": "Pomelo Care",
+    "title": "Midlife Registered Dietitian (Contract) - Licensed in Texas",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6133431004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T19:18:15.943270"
+  },
+  "65fe89952b5d55da466e5f23800fb753": {
+    "company": "Encord",
+    "title": "Commercial Associate, Physical AI",
+    "url": "https://jobs.ashbyhq.com/encord/fa922dac-6219-4379-be99-29c8ea59b813",
+    "location": "San Francisco",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-03T19:18:24.461397"
+  },
+  "d8a5713a5054d1c7d6296e7a0628992c": {
+    "company": "Replit",
+    "title": "Product Engineer, New Products",
+    "url": "https://jobs.ashbyhq.com/replit/2fa2d079-96a5-4d51-8718-04134ed39032",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T19:18:43.000398"
+  },
+  "3cc6d3b49532aa9ac57eba843e0dd340": {
+    "company": "Gusto",
+    "title": "Small Business Outbound PE",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8097576",
+    "location": "Denver, CO; Atlanta, GA; Phoenix, AZ ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T19:18:53.218621"
   }
 }
