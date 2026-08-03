@@ -37317,5 +37317,29 @@
     "location": "Denver, Pheonix, Las Vegas",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-03T21:58:45.284415"
+  },
+  "7ff8d7d8fff2e45b44e75e39e66e675e": {
+    "company": "Northwood Space",
+    "title": "Telecommunications Software Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/3f2564e0-0c16-40fc-880e-fbb88f180623",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T22:57:24.217844"
+  },
+  "f6b01d03509a9077d9aa9e899262ada9": {
+    "company": "Northwood Space",
+    "title": "DSP Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/135405b4-f27a-42ef-8206-89caef240496",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T22:57:24.217874"
+  },
+  "2f067b4593ad389bc14ff652939581e0": {
+    "company": "Northwood Space",
+    "title": "Telecommunications Software Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/56c839ae-d9c7-4647-a0d9-87e3e18f5d42",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-03T22:57:24.217884"
   }
 }
