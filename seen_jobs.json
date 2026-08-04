@@ -37357,5 +37357,13 @@
     "location": "Chicago, Atlanta, US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-04T00:05:09.312390"
+  },
+  "b7fb74bf886b70f1026d0bbfe29635d2": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive (Public Sector)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8537058002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T09:33:34.160628"
   }
 }
