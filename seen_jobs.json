@@ -37389,5 +37389,29 @@
     "location": "Remote, Netherlands",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-04T13:48:53.292568"
+  },
+  "931407b62fd28d6ca941e7f8e190f6ef": {
+    "company": "Databricks",
+    "title": "Named Enterprise Account Executive, Financial Services",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8660983002",
+    "location": "Milan, Italy",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T16:06:59.996862"
+  },
+  "7e1ddd30536a64d1ddfc608539ce9dc5": {
+    "company": "Stripe",
+    "title": "Risk Operations Analyst, Financial Crimes",
+    "url": "https://stripe.com/jobs/search?gh_jid=7974211",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T16:07:15.835980"
+  },
+  "33aaf06d594ef01af89441f50a45a0cd": {
+    "company": "Gusto",
+    "title": "Expansion Account Executive ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8092462",
+    "location": "Denver, CO;Atlanta, GA;Phoenix, AZ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T16:07:16.536184"
   }
 }
