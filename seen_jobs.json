@@ -37421,5 +37421,181 @@
     "location": "Dublin, CA (HQ)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-04T18:22:22.807229"
+  },
+  "9fc76953863ab85245ea0525116e15fa": {
+    "company": "Gumloop",
+    "title": "GTM Engineer",
+    "url": "https://jobs.ashbyhq.com/gumloop/009e7242-01da-4b78-beb1-a39e8156b766",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:20.399744"
+  },
+  "53db0d993ea05be3d2c671deccfc1e09": {
+    "company": "Pomelo Care",
+    "title": "Doula (South Carolina)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6134714004",
+    "location": "South Carolina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:27.840828"
+  },
+  "40627faef4aa774041cd5f293b1f4b25": {
+    "company": "Hex",
+    "title": "Enterprise Account Executive",
+    "url": "https://jobs.ashbyhq.com/hex/2b2b56f7-1175-4302-a87c-944d7106c29e",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238018"
+  },
+  "f908417496a8b1f48a0b96aa988f7416": {
+    "company": "Hex",
+    "title": "Account Executive, Commercial",
+    "url": "https://jobs.ashbyhq.com/hex/7a70a2fd-35af-44d5-8fc1-4b5096a67e5c",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238044"
+  },
+  "ac7e85c33f31f9f7d1f9de549f37346a": {
+    "company": "Hex",
+    "title": "Sales Engineer, Commercial Mid-Market",
+    "url": "https://jobs.ashbyhq.com/hex/a3cb1f18-0b37-454a-a3bd-3ce55444cbf6",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238063"
+  },
+  "67f591e1d6ebb03c664ca3eced123fb0": {
+    "company": "Hex",
+    "title": "Software Engineer, Growth and Monetization",
+    "url": "https://jobs.ashbyhq.com/hex/e8b614b5-6dd1-4a6a-9a35-2ee252d555a1",
+    "location": "US Timezones",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238081"
+  },
+  "617f14b7a82b84562613a56faf2c6d9d": {
+    "company": "Hex",
+    "title": "Mid-Market Account Executive (International)",
+    "url": "https://jobs.ashbyhq.com/hex/d8760ad5-7228-4c94-b86a-d198531096fd",
+    "location": "New York",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-08-04T22:03:59.238091"
+  },
+  "555e0679e398636319e4d67be9e563f4": {
+    "company": "Hex",
+    "title": "Mid-Market Account Executive",
+    "url": "https://jobs.ashbyhq.com/hex/4a2311c7-1119-4ddc-9b2c-4b44ffc3e080",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238108"
+  },
+  "824eb1cf05f3d3f39f7de2910b63f639": {
+    "company": "Hex",
+    "title": "Sales Development Representative",
+    "url": "https://jobs.ashbyhq.com/hex/93be0230-02b0-422c-95f2-128a430e5673",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238125"
+  },
+  "32583edef17ccacd4a08ef1b04df577d": {
+    "company": "Hex",
+    "title": "Customer Engineer",
+    "url": "https://jobs.ashbyhq.com/hex/977eca81-fdff-40f5-93df-8a0a1ffd56a8",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238138"
+  },
+  "8d099e725385d954d0de194179a509cc": {
+    "company": "Hex",
+    "title": "Software Engineer, Backend (Platform)",
+    "url": "https://jobs.ashbyhq.com/hex/a059b174-d3ac-4916-b66b-eacdcf436500",
+    "location": "US Timezones",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238166"
+  },
+  "6771c1a3770517980bb9ac6409f6a9ff": {
+    "company": "Hex",
+    "title": "Web Designer",
+    "url": "https://jobs.ashbyhq.com/hex/954a640c-47f8-4186-b6cc-79f1c6ebe255",
+    "location": "US Timezones",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238184"
+  },
+  "601d1a9087d4ebf7b9fc6b3499ebf12e": {
+    "company": "Hex",
+    "title": "Cloud Security Engineer",
+    "url": "https://jobs.ashbyhq.com/hex/3f3c943c-7d46-46a7-bc58-5a66785c1e87",
+    "location": "US Timezones",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238201"
+  },
+  "eacd8fa20aba58253b85f2f3dbe4005b": {
+    "company": "Hex",
+    "title": "Software Engineer, Foundations",
+    "url": "https://jobs.ashbyhq.com/hex/3477e108-195c-414a-a16b-23a6356d1b09",
+    "location": "US Timezones",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238218"
+  },
+  "453182e50a910c0f236c361af9cbf2dc": {
+    "company": "Hex",
+    "title": "AI Research Engineer",
+    "url": "https://jobs.ashbyhq.com/hex/4159564c-f4a6-4034-93a6-928c579d96ce",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238245"
+  },
+  "b38fcb68c0720652e177a291b36fbff0": {
+    "company": "Hex",
+    "title": "Software Engineer, AI Agent",
+    "url": "https://jobs.ashbyhq.com/hex/f5e3e677-5fdb-4012-badb-1b709ed37e11",
+    "location": "US Timezones",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238263"
+  },
+  "008ef4b213027e121e94d25067600fc4": {
+    "company": "Hex",
+    "title": "Software Engineer, Fullstack",
+    "url": "https://jobs.ashbyhq.com/hex/996c38fd-0a7a-4df9-a5c3-4234b20b7b71",
+    "location": "US Timezones",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238280"
+  },
+  "b77c2ffc6edce7ebbd95240443ec29c9": {
+    "company": "Hex",
+    "title": "Software Engineer, Backend (Product)",
+    "url": "https://jobs.ashbyhq.com/hex/9fdd996d-b844-4844-9958-eb2482de2c4c",
+    "location": "US Timezones",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238298"
+  },
+  "e41f95e019da68fe2fd1ef2ee72f2d49": {
+    "company": "Hex",
+    "title": "Sales Engineer, Enterprise",
+    "url": "https://jobs.ashbyhq.com/hex/0117460e-c11e-4435-889f-461714655db7",
+    "location": "US Timezones",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:03:59.238432"
+  },
+  "b9a2707b082c9f38924f8b71e0278562": {
+    "company": "Affirm",
+    "title": "Internal Events Specialist I",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7808245003",
+    "location": "Remote Canada",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-08-04T22:04:03.965640"
+  },
+  "5e0c859654211759376a5588f972bfd9": {
+    "company": "Affirm",
+    "title": "Internal Events Specialist I",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7808243003",
+    "location": "Remote US",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-08-04T22:04:03.965659"
+  },
+  "a98e9bd2310c843f376bc7545434ca4e": {
+    "company": "Gusto",
+    "title": "Employee Relations Partner",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7961009",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T22:04:05.677618"
   }
 }
