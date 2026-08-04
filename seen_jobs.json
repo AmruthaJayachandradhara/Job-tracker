@@ -37381,5 +37381,13 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-04T11:56:10.175929"
+  },
+  "78bad3a556a31e84231a19eefc77d958": {
+    "company": "GitLab",
+    "title": "New Business Account Executive - Netherlands",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8675597002",
+    "location": "Remote, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T13:48:53.292568"
   }
 }
