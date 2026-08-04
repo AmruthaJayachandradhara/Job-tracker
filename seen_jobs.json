@@ -37341,5 +37341,21 @@
     "location": "Torrance, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-03T22:57:24.217884"
+  },
+  "fe86fad3d4326c3cce2bad5dca6bfb55": {
+    "company": "Replit",
+    "title": "Partner Sales Specialist",
+    "url": "https://jobs.ashbyhq.com/replit/3864bbb5-b990-4899-8b68-322b6c70bd6a",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T00:04:45.236828"
+  },
+  "0dfe6aeb3d89546821baa256ca6ef401": {
+    "company": "Stripe",
+    "title": "Executive Compensation Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=8036761",
+    "location": "Chicago, Atlanta, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T00:05:09.312390"
   }
 }
