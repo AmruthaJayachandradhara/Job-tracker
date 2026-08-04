@@ -37413,5 +37413,13 @@
     "location": "Denver, CO;Atlanta, GA;Phoenix, AZ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-04T16:07:16.536184"
+  },
+  "7f4d2a55022ae7254a152cc1f118c73f": {
+    "company": "Articul8 AI",
+    "title": "Machine Learning Engineer ",
+    "url": "https://jobs.ashbyhq.com/articul8/a6a71ee8-68af-4d33-ab48-2bee47b56ed9",
+    "location": "Dublin, CA (HQ)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T18:22:22.807229"
   }
 }
