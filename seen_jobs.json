@@ -37365,5 +37365,21 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-04T09:33:34.160628"
+  },
+  "7082d0506e865d35af6e5478f9c5eef5": {
+    "company": "Stripe",
+    "title": "Services Consultant - Scaled Professional Services (AUNZ)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8099206",
+    "location": "Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T11:56:10.175902"
+  },
+  "4ac6ebe9974fb290668260a5206ffc8a": {
+    "company": "Stripe",
+    "title": "Services Consultant - Scaled Professional Services (SEA/GCN)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8099216",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T11:56:10.175929"
   }
 }
