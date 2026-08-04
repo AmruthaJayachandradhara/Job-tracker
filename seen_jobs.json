@@ -37597,5 +37597,29 @@
     "location": "Denver, CO",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-04T22:04:05.677618"
+  },
+  "7957a8339287a341d862794de3800de0": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8107379",
+    "location": "South San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T23:55:05.583570"
+  },
+  "05055dc70fc85b793521cc5e9fed8ce8": {
+    "company": "Stripe",
+    "title": "Software Engineer, Sending",
+    "url": "https://stripe.com/jobs/search?gh_jid=8107302",
+    "location": "South San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T23:55:05.583780"
+  },
+  "669182ac5980ad1babde9c17d58c5a38": {
+    "company": "Carta",
+    "title": "Account Executive, PE Standard",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7824339003",
+    "location": "San Francisco, CA, New York City, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-04T23:55:07.706575"
   }
 }
