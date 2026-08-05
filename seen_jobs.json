@@ -37621,5 +37621,13 @@
     "location": "San Francisco, CA, New York City, New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-04T23:55:07.706575"
+  },
+  "0fa9130c7b2caa3937b0bb7f28d92bac": {
+    "company": "Stripe",
+    "title": "Software Engineer, Vulnerability Management",
+    "url": "https://stripe.com/jobs/search?gh_jid=8089353",
+    "location": "US - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T01:41:25.229776"
   }
 }
