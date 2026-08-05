@@ -37829,5 +37829,21 @@
     "location": "SF",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-05T22:07:50.277291"
+  },
+  "fd2833fade0510371ae08e19a49250a6": {
+    "company": "Carta",
+    "title": "Account Executive, Legal Services",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7822002003",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T23:49:08.184940"
+  },
+  "6a4bd87f61e2acdc7129e1c5e390ccc8": {
+    "company": "Carta",
+    "title": "Sales Development Representative, Legal Services",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7817050003",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T23:49:08.185285"
   }
 }
