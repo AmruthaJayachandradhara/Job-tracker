@@ -37661,5 +37661,37 @@
     "location": "Remote, Bangalore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-05T12:47:27.363812"
+  },
+  "d0fa38015c6926421d04ee9b8d9231c2": {
+    "company": "Databricks",
+    "title": "Enterprise Geo Account Executive - Financial Services",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8672712002",
+    "location": "New York City, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T15:08:00.244601"
+  },
+  "e06bd7f9fafa3521a6c0e7e6fe1f5ba6": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - Turkey",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8617751002",
+    "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Italy; Remote, Spain; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T15:08:06.656198"
+  },
+  "07634ad933194d910e379c4b1a46050c": {
+    "company": "Hex",
+    "title": "Product Expert",
+    "url": "https://jobs.ashbyhq.com/hex/b2c81c35-8f47-46f0-b0c7-cab734109c19",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T15:08:11.130754"
+  },
+  "0ace405e065ecbd62295e2872d298d4d": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Core Technology",
+    "url": "https://stripe.com/jobs/search?gh_jid=6686634",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T15:08:16.841525"
   }
 }
