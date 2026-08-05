@@ -37717,5 +37717,37 @@
     "location": "US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-05T17:20:11.900467"
+  },
+  "d69e783d67ee4496ed14253913627751": {
+    "company": "Coinbase",
+    "title": "Forward Deployed Engineer, Compliance [Office of the CTO]",
+    "url": "https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T19:14:22.573332"
+  },
+  "08bd2bdf7e4251f999f73ca147c889de": {
+    "company": "Stripe",
+    "title": "Business Value Consultant",
+    "url": "https://stripe.com/jobs/search?gh_jid=8097051",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T19:14:26.132785"
+  },
+  "5c7e1311cb0d5bcd040bcc7da3286114": {
+    "company": "Stripe",
+    "title": "Business Value Scale Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8097047",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T19:14:26.132809"
+  },
+  "4c01fb8ecadfb1bed9dcba73ccb92fd8": {
+    "company": "Stripe",
+    "title": "Monetization Operations Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8109554",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T19:14:26.134754"
   }
 }
