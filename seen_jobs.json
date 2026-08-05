@@ -37749,5 +37749,69 @@
     "location": "Seattle, WA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-05T19:14:26.134754"
+  },
+  "329daec461db17482155350d17657284": {
+    "company": "Dialpad",
+    "title": "Client Account Executive, Commercial",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8642583002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T20:57:11.610105"
+  },
+  "424e45bad3ade871ac5c9281f001b475": {
+    "company": "Dialpad",
+    "title": "Client Account Executive, Mid-Market",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8648247002",
+    "location": "Denver, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T20:57:11.610132"
+  },
+  "5c16defafa277f93f25c4a9372ee3efc": {
+    "company": "Dialpad",
+    "title": "Client Account Executive, Mid-Market",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8686155002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T20:57:11.610143"
+  },
+  "e5d3dadedbccbeadd48aaa04badf69a3": {
+    "company": "GitLab",
+    "title": "Intermediate Support Engineer (SHIFT)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8684078002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T20:57:13.219570"
+  },
+  "c8073bfd820686537eb4646a92980322": {
+    "company": "GitLab",
+    "title": "Intermediate Support Engineer (SHIFT) ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8684061002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T20:57:13.219593"
+  },
+  "3e0e955047b4a3d5bd8d01a28a4e8c83": {
+    "company": "Coinbase",
+    "title": "Derivative Sales Analyst",
+    "url": "https://www.coinbase.com/careers/positions/8097446?gh_jid=8097446",
+    "location": "Remote - UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T20:57:19.886215"
+  },
+  "0397ada4eb2e73eca9c73fb5ad733d89": {
+    "company": "Stripe",
+    "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8011682",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-05T20:57:24.011336"
+  },
+  "352a9175ed828aa9c0cff8ad180f7a15": {
+    "company": "Stripe",
+    "title": "Social Media, Customer Support Associate (Includes Weekend Rotations)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7867328",
+    "location": "Mexico",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-05T20:57:24.012822"
   }
 }
