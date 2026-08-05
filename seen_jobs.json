@@ -37813,5 +37813,21 @@
     "location": "Mexico",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-08-05T20:57:24.012822"
+  },
+  "d8102177e199b064832c7bf5a8a60cd4": {
+    "company": "Coinbase",
+    "title": "Internal Audit Analytics Associate",
+    "url": "https://www.coinbase.com/careers/positions/8109575?gh_jid=8109575",
+    "location": "Remote - USA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-08-05T22:07:46.645579"
+  },
+  "208902b4e9d067aa9e42d72316f706af": {
+    "company": "Stripe",
+    "title": "Product Communications: crypto products",
+    "url": "https://stripe.com/jobs/search?gh_jid=8089358",
+    "location": "SF",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T22:07:50.277291"
   }
 }
