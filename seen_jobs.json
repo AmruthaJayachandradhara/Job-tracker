@@ -37693,5 +37693,29 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-05T15:08:16.841525"
+  },
+  "65a7f4e4388b404ebb5f6349536e3b63": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms (Hunter) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7298935",
+    "location": "US-Remote ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T17:20:11.899490"
+  },
+  "5d13fd9b29474e3474e497cd308089f8": {
+    "company": "Stripe",
+    "title": "Deal Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7958087",
+    "location": "Mexico City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T17:20:11.900456"
+  },
+  "df22ed658cf94ef00f5625b8f09d4085": {
+    "company": "Stripe",
+    "title": "Deal Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7958150",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T17:20:11.900467"
   }
 }
