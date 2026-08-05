@@ -37645,5 +37645,21 @@
     "location": "Remote Spain",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-08-05T10:25:36.214039"
+  },
+  "535d47028f56837466d2e48b8355ec6a": {
+    "company": "Fivetran",
+    "title": "Accountant",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7827799003",
+    "location": "SRB - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T12:47:23.985628"
+  },
+  "af9a596047bf19a51c07f4a5830d248a": {
+    "company": "GitLab",
+    "title": "AI Engineer",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8556658002",
+    "location": "Remote, Bangalore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-05T12:47:27.363812"
   }
 }
