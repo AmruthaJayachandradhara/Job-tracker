@@ -37869,5 +37869,165 @@
     "location": "Remote - Massachusetts; Remote - New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-06T15:06:39.113314"
+  },
+  "8591157a8f6711829e04c50c0625946a": {
+    "company": "Render",
+    "title": "People Operations GeneralistSan Francisco HQ",
+    "url": "https://jobs.ashbyhq.com/render/b304eb09-6910-4d7f-9e61-e8abdcf254de",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:49:10.515985"
+  },
+  "ac82013adee70411f5d6409999a5a1e7": {
+    "company": "Northwood Space",
+    "title": "Manufacturing Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/0babeac4-7f2a-4d8c-94d3-e589a3b3be0b",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:49:20.685972"
+  },
+  "abb0f85cd4c4f2e4f1887f11e8c304ad": {
+    "company": "Northwood Space",
+    "title": "Ground Software Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/56c839ae-d9c7-4647-a0d9-87e3e18f5d42",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:49:20.686184"
+  },
+  "122d561a72d98bd4ca016f3151f100a2": {
+    "company": "Northwood Space",
+    "title": "Purchasing Coordinator",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/d9fc4ccd-7ffa-4d38-8381-caa1f7b85a21",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:49:20.686197"
+  },
+  "5fea22fa40498e66499a38adff8d7bc9": {
+    "company": "Fivetran",
+    "title": " Imaginner ",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7002126003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:49:46.271956"
+  },
+  "af99cc004f142747f252e2ad8bc8eb94": {
+    "company": "GitLab",
+    "title": "Public Sector Strategic Account Executive - Canada",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8660935002",
+    "location": "Remote, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:49:49.690635"
+  },
+  "ead03733ca8861c404773a7527387f9f": {
+    "company": "GitLab",
+    "title": "Revenue Technology Analyst",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8685082002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:49:49.690682"
+  },
+  "99a0290c0fd551d41b1a96ed07a2b8a7": {
+    "company": "Replit",
+    "title": "Brand Designer",
+    "url": "https://jobs.ashbyhq.com/replit/9398cc6a-8e30-4bfe-a6c3-59e8b384a848",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:49:50.893935"
+  },
+  "21a61770621638ed0e180e08fb418281": {
+    "company": "Replit",
+    "title": "Strategic Finance",
+    "url": "https://jobs.ashbyhq.com/replit/88119b4c-3782-455b-a6fa-b002210c714b",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:49:50.894410"
+  },
+  "51702964f184ac9af8c9854aa2a92d4c": {
+    "company": "Coinbase",
+    "title": "Software Engineer, CDP - Stablecoin",
+    "url": "https://www.coinbase.com/careers/positions/8092485?gh_jid=8092485",
+    "location": "Remote - Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:49:57.261208"
+  },
+  "21055ca9550ccc3068b7fc3e6d3aa0a5": {
+    "company": "Coinbase",
+    "title": "Software Engineer, Data Platform Team",
+    "url": "https://www.coinbase.com/careers/positions/8113286?gh_jid=8113286",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:49:57.261228"
+  },
+  "92bcaea6e42ccbfbfe904430cea47a87": {
+    "company": "EarnIn",
+    "title": "Brand Marketing Intern",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8113206",
+    "location": "Remote, US",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-08-06T23:49:59.160034"
+  },
+  "9bc0b89a01f8b0758f992bcb8fe940dc": {
+    "company": "Affirm",
+    "title": "Machine Learning Engineer II (Underwriting ML)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7822387003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:49:59.941672"
+  },
+  "c51059088f8e42b191cadaf89a6564ec": {
+    "company": "Affirm",
+    "title": "Machine Learning Engineer II (Underwriting ML)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7822389003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:49:59.941694"
+  },
+  "77c4bc461c06feb71eafb307f024fed2": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Platforms, Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8077971",
+    "location": "Chicago, IL",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:50:00.823729"
+  },
+  "5abb92ec83ed3fe7fc40814fefaf1351": {
+    "company": "Stripe",
+    "title": "Account Executive, Strategics ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8110261",
+    "location": "San Francisco, Seattle ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:50:00.824002"
+  },
+  "58f6cc370a526aa9298800b1b9575a5d": {
+    "company": "Stripe",
+    "title": "Brand Producer, Link",
+    "url": "https://stripe.com/jobs/search?gh_jid=7991528",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:50:00.824302"
+  },
+  "5b54a8e7d09324b0ee26fcb512a406ab": {
+    "company": "Stripe",
+    "title": "Data Scientist, Fraud",
+    "url": "https://stripe.com/jobs/search?gh_jid=8113100",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:50:00.824635"
+  },
+  "f882266e49ed6b46a77a123f43ccb5c1": {
+    "company": "Stripe",
+    "title": "Data Scientist, Link",
+    "url": "https://stripe.com/jobs/search?gh_jid=8112966",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:50:00.824652"
+  },
+  "44395026a5a3fcd4b722beda39ab24e5": {
+    "company": "Carta",
+    "title": " Counsel  (Contracts)",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7833368003",
+    "location": "Hamilton Township, NJ; Sandy, UT; Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T23:50:03.079079"
   }
 }
