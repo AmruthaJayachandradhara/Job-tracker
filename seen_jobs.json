@@ -37845,5 +37845,13 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-05T23:49:08.185285"
+  },
+  "83996ff38d3b8aaa5df132b9b625a9fc": {
+    "company": "Northwood Space",
+    "title": "FPGA Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/20798d3e-039d-4255-9b9d-39612c0c597e",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-06T01:29:52.241575"
   }
 }
