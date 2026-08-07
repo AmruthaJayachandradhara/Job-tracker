@@ -38165,5 +38165,29 @@
     "location": "Remote, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-07T19:44:06.226296"
+  },
+  "f916574199b2cbf38a73f155b25376e4": {
+    "company": "Dialpad",
+    "title": "Sales Account Executive, SB",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8445022002",
+    "location": "Pasig City, Metro Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T21:28:32.625790"
+  },
+  "fc51280d01bcafb7dbaf5a9bdc780172": {
+    "company": "Stripe",
+    "title": "IT SOX Controls Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114514",
+    "location": "SEA, SF, NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T21:28:44.407974"
+  },
+  "62af48d8c89b0d529e5b580248dc90b8": {
+    "company": "Gusto",
+    "title": "Sales Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8105993",
+    "location": "Scottsdale, AZ;Denver, CO;San Francisco, CA; New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T21:28:45.111241"
   }
 }
