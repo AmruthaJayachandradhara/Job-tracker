@@ -38101,5 +38101,13 @@
     "location": "Krakow, Poland (Hybrid)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-07T14:05:12.058749"
+  },
+  "953a01d60babf40cd4d6bf1e319b943e": {
+    "company": "Stripe",
+    "title": "Account Executive, Existing Business ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114155",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T16:41:54.604401"
   }
 }
