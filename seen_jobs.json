@@ -38061,5 +38061,13 @@
     "location": "Remote UK",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-07T08:06:44.200462"
+  },
+  "b7e38e76de36ef16c91fa0b25d99c6b0": {
+    "company": "Stripe",
+    "title": " Credit Risk Operations Associate",
+    "url": "https://stripe.com/jobs/search?gh_jid=8104748",
+    "location": "Bangalore ",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-07T09:51:35.417559"
   }
 }
