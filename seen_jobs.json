@@ -38029,5 +38029,29 @@
     "location": "Hamilton Township, NJ; Sandy, UT; Denver, CO",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-06T23:50:03.079079"
+  },
+  "26b5f7e098d9e9798e1e00d34c24ac99": {
+    "company": "Northwood Space",
+    "title": "Command & Telemetry Software Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/2ec65763-31ee-47d5-a14f-e2c2b8802281",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T02:06:43.703606"
+  },
+  "ab7ceae51da5670a4fbfe45371610fef": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive -Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8102346",
+    "location": "Sydney or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T02:07:17.765172"
+  },
+  "c818bcbcc79a8b363ea383d6b236325b": {
+    "company": "Gusto",
+    "title": "Product Designer, Finance",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/6625049",
+    "location": "Denver, CO; San Francisco, CA; New York City, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T02:07:18.463810"
   }
 }
