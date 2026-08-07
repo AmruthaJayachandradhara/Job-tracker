@@ -38141,5 +38141,21 @@
     "location": "Australia, Singapore, Malaysia, Hong Kong, Korea, Japan",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-07T17:40:35.516265"
+  },
+  "915c48fdce993353e13b095bea42445e": {
+    "company": "Stripe",
+    "title": "Commercial Counsel",
+    "url": "https://stripe.com/jobs/search?gh_jid=8053587",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T18:40:03.994941"
+  },
+  "b20d9009c6f82fa28593fc3576623caf": {
+    "company": "Gusto",
+    "title": "Retirement Onboarding Coordinator",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7379039",
+    "location": "Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T18:40:04.674053"
   }
 }
