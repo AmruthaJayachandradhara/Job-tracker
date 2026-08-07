@@ -38085,5 +38085,21 @@
     "location": "Krakow, Poland (Hybrid)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-07T12:39:52.742461"
+  },
+  "891ba7e4e80400640d71579e4f9d65df": {
+    "company": "Fivetran",
+    "title": "Business Development Rep, Commercial",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7812779003",
+    "location": "Sydney, New South Wales, Australia, APAC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T14:05:07.437376"
+  },
+  "f1fe79b75830c8f8c78127aa3e481df3": {
+    "company": "Tanium",
+    "title": "QA & Automation Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/6067532",
+    "location": "Krakow, Poland (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T14:05:12.058749"
   }
 }
