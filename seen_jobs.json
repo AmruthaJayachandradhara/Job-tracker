@@ -38077,5 +38077,13 @@
     "location": "Remote, Germany",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-07T11:37:57.623005"
+  },
+  "9a6edbefdfab93c4075d6438aaaa2c79": {
+    "company": "Tanium",
+    "title": "Software Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8113185",
+    "location": "Krakow, Poland (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T12:39:52.742461"
   }
 }
