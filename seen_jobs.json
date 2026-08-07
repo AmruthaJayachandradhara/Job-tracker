@@ -38109,5 +38109,37 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-07T16:41:54.604401"
+  },
+  "772df94868484894a535de4b5c5ec081": {
+    "company": "Northwood Space",
+    "title": "Integration Technician",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/a364b9df-3280-4d89-91ea-960bc789d73f",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T17:39:58.193089"
+  },
+  "0048717559ae242f93ee43b5ca3d102f": {
+    "company": "GitLab",
+    "title": "Business Development Representative - UKI",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687381002",
+    "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T17:40:23.109942"
+  },
+  "593bcbcf4f6bf87a88ca547a8edb6228": {
+    "company": "Stripe",
+    "title": "Fraud Operations Associate SDC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8063717",
+    "location": "N/A",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-07T17:40:33.488749"
+  },
+  "53f02f6144f595cbcbd7e0dcbc2b88cc": {
+    "company": "Carta",
+    "title": "Consultant, Contracts",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7832101003",
+    "location": "Australia, Singapore, Malaysia, Hong Kong, Korea, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-07T17:40:35.516265"
   }
 }
