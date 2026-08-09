@@ -38229,5 +38229,21 @@
     "location": "Bangalore, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-09T17:21:52.233905"
+  },
+  "3582ace0ce077b63c1dc0cc18e3a2fb9": {
+    "company": "Fivetran",
+    "title": "Software Engineer ",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7778979003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-09T21:21:47.459910"
+  },
+  "4969730d2f100441f1c0db1e3012ca6b": {
+    "company": "Fivetran",
+    "title": "Software Engineer ",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7811889003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-09T21:21:47.459937"
   }
 }
