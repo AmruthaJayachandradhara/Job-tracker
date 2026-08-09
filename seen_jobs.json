@@ -38221,5 +38221,13 @@
     "location": "US Timezones",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-08T06:34:11.445532"
+  },
+  "fce9730c87a9583423c15e6612eb4c01": {
+    "company": "GitLab",
+    "title": "Intermediate Support Engineer",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687026002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-09T17:21:52.233905"
   }
 }
