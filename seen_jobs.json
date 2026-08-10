@@ -38349,5 +38349,13 @@
     "location": "Chicago, US-Remote, Toronto",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-10T15:51:00.618367"
+  },
+  "1878f88b9fb9a0db19b7cb0311e84a46": {
+    "company": "Carta",
+    "title": "Executive Assistant",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7824731003",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T16:43:24.986757"
   }
 }
