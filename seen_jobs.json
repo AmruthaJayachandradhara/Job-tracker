@@ -38245,5 +38245,21 @@
     "location": "Oakland, California, United States, AMER",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-09T21:21:47.459937"
+  },
+  "6f89d1d048c3445c44365f5d8b96fe24": {
+    "company": "Databricks",
+    "title": "SAP Functional SME",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679970002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T03:10:04.821279"
+  },
+  "a9e5f50b9d58be49f975d6135a104ef6": {
+    "company": "Databricks",
+    "title": "Sr SAP Developer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679980002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T03:10:04.823717"
   }
 }
