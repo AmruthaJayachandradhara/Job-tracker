@@ -38293,5 +38293,21 @@
     "location": "Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-10T11:43:42.777957"
+  },
+  "51bbb0775800887e7c2b95b80811cb7a": {
+    "company": "Stripe",
+    "title": "Account Executive, Bridge (Stripe Crypto and Stablecoins)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8023928",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T14:13:30.543554"
+  },
+  "432444e7872325f651c56fb027ad6f15": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise (Grower) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8107136",
+    "location": "US-San Francisco, US-Seattle, US-West Coast (Remote) ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T14:13:30.543637"
   }
 }
