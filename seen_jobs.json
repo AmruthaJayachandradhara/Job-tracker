@@ -38309,5 +38309,45 @@
     "location": "US-San Francisco, US-Seattle, US-West Coast (Remote) ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-10T14:13:30.543637"
+  },
+  "58e19ebfa0faa0709362f28c871b00ad": {
+    "company": "GitLab",
+    "title": "Business Development Representative, German Speaking",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8691636002",
+    "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T15:50:50.889757"
+  },
+  "7eae2d72cf0d01f86f66e62d6923dd4f": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - DACH",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8631153002",
+    "location": "Remote, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T15:50:50.889805"
+  },
+  "f97d49500bdea6c9105d08588d37d150": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB (Benelux)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114157",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T15:51:00.614725"
+  },
+  "b561028a0e39c73e5c033e2efb9d5727": {
+    "company": "Stripe",
+    "title": "Risk Advisory Strategist, Card Network Compliance",
+    "url": "https://stripe.com/jobs/search?gh_jid=7594866",
+    "location": "Chicago, SEA, SF, NYC, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T15:51:00.618266"
+  },
+  "f221509969a177f6a2483a08711a4548": {
+    "company": "Stripe",
+    "title": "Risk Strategist, Onboarding & Compliance",
+    "url": "https://stripe.com/jobs/search?gh_jid=7697973",
+    "location": "Chicago, US-Remote, Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T15:51:00.618367"
   }
 }
