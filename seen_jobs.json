@@ -38381,5 +38381,29 @@
     "location": "Denver, CO;San Francisco, CA;New York, NY;",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-10T17:43:23.960797"
+  },
+  "5cceb66e38bf3522a1e060c6af87e1e1": {
+    "company": "Gusto",
+    "title": "Platform Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8075984",
+    "location": "New York, New York, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T19:47:44.491979"
+  },
+  "7c6ebe368db84226b05d069a62682915": {
+    "company": "Gusto",
+    "title": "Revenue Accountant",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7998368",
+    "location": "Denver, CO, United States; New York, New York, United States; San Francisco, CA, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T19:47:44.492159"
+  },
+  "0ecccfba04be598e49bde6791510ae51": {
+    "company": "Carta",
+    "title": "Counsel",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7849783003",
+    "location": "Seattle, Washington; Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T19:47:45.763894"
   }
 }
