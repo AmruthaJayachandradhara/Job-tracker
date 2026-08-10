@@ -38405,5 +38405,13 @@
     "location": "Seattle, Washington; Denver, CO",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-10T19:47:45.763894"
+  },
+  "196f4953b50a8084d1ca10993d74733e": {
+    "company": "Tanium",
+    "title": "Treasury Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8113448",
+    "location": "Emeryville, CA (Hybrid)",
+    "filter_reason": "description match: 'recent graduate'",
+    "first_seen": "2026-08-10T20:31:26.214862"
   }
 }
