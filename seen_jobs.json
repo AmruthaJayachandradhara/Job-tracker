@@ -38285,5 +38285,13 @@
     "location": "(Bengaluru, India)",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-08-10T10:57:58.954561"
+  },
+  "0ab03bf053cd395751a76d4b9a45b32d": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive, Poland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8675560002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T11:43:42.777957"
   }
 }
