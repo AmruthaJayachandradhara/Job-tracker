@@ -38357,5 +38357,29 @@
     "location": "San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-10T16:43:24.986757"
+  },
+  "5a5729bb9b1336e8b56d487bac45946b": {
+    "company": "Render",
+    "title": "Software Engineer, Expansion (all levels)Remote: United States or Remote: Canada",
+    "url": "https://jobs.ashbyhq.com/render/06377f8a-a255-412a-8032-18ace1d005a5",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T17:42:33.049705"
+  },
+  "62edc2383604a27ab4a446dc3442f091": {
+    "company": "Stripe",
+    "title": "Contracting Operations Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7976710",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T17:43:18.951397"
+  },
+  "8b26952276a70feedd20f4fc5b885d37": {
+    "company": "Gusto",
+    "title": "Software Engineer, ML Platform",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8073232",
+    "location": "Denver, CO;San Francisco, CA;New York, NY;",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T17:43:23.960797"
   }
 }
