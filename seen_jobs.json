@@ -38413,5 +38413,21 @@
     "location": "Emeryville, CA (Hybrid)",
     "filter_reason": "description match: 'recent graduate'",
     "first_seen": "2026-08-10T20:31:26.214862"
+  },
+  "2a562c7cae7125bc8cd149846697d7ac": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Data) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114738",
+    "location": "US-SF-HQ, US-NYC, US-CHI, US-SEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T21:32:31.855681"
+  },
+  "6a25a864b1f1d97ddfb5d984e999ba24": {
+    "company": "Gusto",
+    "title": "Dedicated Service Advisor",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7096996",
+    "location": "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T21:32:32.653817"
   }
 }
