@@ -38261,5 +38261,29 @@
     "location": "Bengaluru, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-10T03:10:04.823717"
+  },
+  "50379072cf0c734bde4fb73867b75552": {
+    "company": "Stripe",
+    "title": "Account Executive, Existing Business (Benelux)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114157",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T10:57:58.951995"
+  },
+  "727cfbddc18be7f2ea0ac6259623983c": {
+    "company": "Stripe",
+    "title": "Account Executive, hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8079514",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-10T10:57:58.952058"
+  },
+  "5215d91143b3dc9c7c265d48fb233e8f": {
+    "company": "Stripe",
+    "title": "Marketing Operations Associate (Automation)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8108391",
+    "location": "(Bengaluru, India)",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-10T10:57:58.954561"
   }
 }
