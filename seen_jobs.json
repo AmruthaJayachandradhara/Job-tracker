@@ -38525,5 +38525,13 @@
     "location": "Krakow, Poland (Hybrid)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-11T14:12:19.530489"
+  },
+  "ae65f8b518d1f79b4eca087ebb68f70c": {
+    "company": "Coinbase",
+    "title": "Counsel - Institutional",
+    "url": "https://www.coinbase.com/careers/positions/7602261?gh_jid=7602261",
+    "location": "Remote - UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T15:50:32.272190"
   }
 }
