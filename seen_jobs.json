@@ -38629,5 +38629,29 @@
     "location": "New York, New York, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-11T20:34:41.094597"
+  },
+  "d57b37f17aec2a2ec0ad4373904f976f": {
+    "company": "Coinbase",
+    "title": "Specialist, CSIRT",
+    "url": "https://www.coinbase.com/careers/positions/8122777?gh_jid=8122777",
+    "location": "Remote - India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T21:35:16.219062"
+  },
+  "c7bca9600760e3040666b72adfd907fb": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8024368",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T21:35:21.218373"
+  },
+  "a9d3f8f61518ad8b3171881df80922c9": {
+    "company": "Gusto",
+    "title": "Financial Services Compliance",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8040735",
+    "location": "Denver, CO, United States; New York, New York, United States; San Francisco, CA, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T21:35:21.890463"
   }
 }
