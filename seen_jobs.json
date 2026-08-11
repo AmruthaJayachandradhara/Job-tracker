@@ -38485,5 +38485,13 @@
     "location": "Mumbai, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-11T05:51:44.216324"
+  },
+  "3bb4fa1922b96fb34711684fdc8a4661": {
+    "company": "Stripe",
+    "title": "Software Engineer, Dev Productivity",
+    "url": "https://stripe.com/jobs/search?gh_jid=8074127",
+    "location": "Taipei,Taiwan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T08:03:30.130486"
   }
 }
