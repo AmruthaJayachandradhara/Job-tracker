@@ -38469,5 +38469,13 @@
     "location": "Auckland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-11T00:57:42.342372"
+  },
+  "06bbe0aa5cd20e4116639a8c422046e1": {
+    "company": "GitLab",
+    "title": "Recruiter, Sales (Contract)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8662116002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T04:58:10.305619"
   }
 }
