@@ -38605,5 +38605,29 @@
     "location": "San Francisco, CA, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-11T18:47:07.907008"
+  },
+  "539e7e858b38a861e1b8a2484b75170c": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569540002",
+    "location": "Remote - United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T20:34:24.604640"
+  },
+  "88b70f7756d84015887a3570f7407283": {
+    "company": "Dialpad",
+    "title": "Collections Analyst ( 6 Month Contract Role ) ",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8653647002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T20:34:29.219279"
+  },
+  "b56febf00b5c95347260e3a3709f80a0": {
+    "company": "Gusto",
+    "title": "Platform Operations Specialist",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8075984",
+    "location": "New York, New York, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T20:34:41.094597"
   }
 }
