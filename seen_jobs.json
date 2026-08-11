@@ -38533,5 +38533,29 @@
     "location": "Remote - UK",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-11T15:50:32.272190"
+  },
+  "661559d7ff820957c585f2a81534fd56": {
+    "company": "Tanium",
+    "title": "RVP, Solution Engineering - Central",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8113497",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T16:47:04.076854"
+  },
+  "f7d69107ae1f24da35e54478983d36d6": {
+    "company": "Stripe",
+    "title": "Deal Strategist (SEA/GCN)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8082905",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T16:47:18.740585"
+  },
+  "333756606e72b9ffde8337e65f196cf8": {
+    "company": "Stripe",
+    "title": "Sales Strategy & Operations Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=8106775",
+    "location": "Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T16:47:18.743389"
   }
 }
