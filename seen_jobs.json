@@ -38501,5 +38501,13 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-11T09:51:16.335224"
+  },
+  "f8b06932782699ca03b8b960f61cc54f": {
+    "company": "Stripe",
+    "title": "People Consultant",
+    "url": "https://stripe.com/jobs/search?gh_jid=8119834",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T10:42:12.718712"
   }
 }
