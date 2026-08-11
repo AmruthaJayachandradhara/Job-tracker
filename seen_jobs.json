@@ -38685,5 +38685,13 @@
     "location": "San Francisco ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-11T22:32:15.300191"
+  },
+  "9e61cbf3b3cef10e67089b45ff5d4215": {
+    "company": "Stripe",
+    "title": "Risk Operations Associate, User Policy Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8115908",
+    "location": "Mexico CIty",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-11T23:34:55.886420"
   }
 }
