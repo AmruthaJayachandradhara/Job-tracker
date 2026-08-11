@@ -38653,5 +38653,37 @@
     "location": "Denver, CO, United States; New York, New York, United States; San Francisco, CA, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-11T21:35:21.890463"
+  },
+  "21db824fa5258e8e4f1b844db5f54d2d": {
+    "company": "Affirm",
+    "title": " Bank Compliance Technology Analyst ",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7837311003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T22:32:14.331814"
+  },
+  "581849efd11b0822fbd65f35deeac680": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8017336",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T22:32:15.299283"
+  },
+  "25e4b64d6df927e3a52eb31769ac429c": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8024368",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T22:32:15.299562"
+  },
+  "9c6937e9dec1ab9b64bead3bbf7ce379": {
+    "company": "Stripe",
+    "title": "Comms, Public Goods",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114272",
+    "location": "San Francisco ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T22:32:15.300191"
   }
 }
