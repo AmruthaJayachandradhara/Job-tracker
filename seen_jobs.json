@@ -38509,5 +38509,21 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-11T10:42:12.718712"
+  },
+  "02c5e356f553b583cf9ae759c5ea14d9": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8686962002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T14:12:18.251751"
+  },
+  "6796355d1d7aa8a37b2b90d0f1f982a7": {
+    "company": "Tanium",
+    "title": "Demo Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8113435",
+    "location": "Krakow, Poland (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T14:12:19.530489"
   }
 }
