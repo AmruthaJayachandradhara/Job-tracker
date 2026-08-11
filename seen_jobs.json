@@ -38477,5 +38477,13 @@
     "location": "Remote, Canada; Remote, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-11T04:58:10.305619"
+  },
+  "96964af66e71b1c90c83caa4c972f836": {
+    "company": "Databricks",
+    "title": "AI Engineer, FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8015848002",
+    "location": "Mumbai, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T05:51:44.216324"
   }
 }
