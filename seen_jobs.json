@@ -38557,5 +38557,29 @@
     "location": "Sydney",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-11T16:47:18.743389"
+  },
+  "8318b4c83b211aece55109126fbb8345": {
+    "company": "Pomelo Care",
+    "title": "RVP, Labor, Trust and Public Sector Partnerships",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5766696004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T17:48:22.382745"
+  },
+  "0a2c77d12d5b018880faf980264926e5": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8648669002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T17:48:42.652424"
+  },
+  "2cb0afb59029e556623ecf9c9ff81f93": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8696599002",
+    "location": "Stockholm, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T17:48:42.652454"
   }
 }
