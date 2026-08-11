@@ -38445,5 +38445,29 @@
     "location": "US-SF-HQ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-10T23:25:51.231336"
+  },
+  "c3981716708c79a80959e477d939dc02": {
+    "company": "Profound",
+    "title": "People Partner, GTM",
+    "url": "https://jobs.ashbyhq.com/profound/f86141ec-6248-4ec9-b29a-181f492c06da",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T00:57:12.548335"
+  },
+  "a1b7e63e2e631f1d74994f97590ee6f3": {
+    "company": "Profound",
+    "title": "Associate People Partner",
+    "url": "https://jobs.ashbyhq.com/profound/19ac0772-a3fe-474d-9755-88e09723772e",
+    "location": "London, England",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-11T00:57:12.548361"
+  },
+  "4f3c0807728138c0e0e2729cd02e0bff": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive - Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8109607",
+    "location": "Auckland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T00:57:42.342372"
   }
 }
