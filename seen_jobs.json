@@ -38581,5 +38581,29 @@
     "location": "Stockholm, Sweden",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-11T17:48:42.652454"
+  },
+  "9983af431f895ace89dc4c2aea52af8f": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Developer & End-user Experience Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+    "location": "SEA, SF",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T18:47:07.204015"
+  },
+  "a521fdad1ffce01d7ac58ed5c43ddda6": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Expansion",
+    "url": "https://stripe.com/jobs/search?gh_jid=6786568",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T18:47:07.205308"
+  },
+  "870a69aa50721c2b110b022604db5266": {
+    "company": "Gusto",
+    "title": "Software Engineer, Database Infrastructure",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7413644",
+    "location": "San Francisco, CA, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-11T18:47:07.907008"
   }
 }
