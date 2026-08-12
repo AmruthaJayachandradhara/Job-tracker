@@ -38693,5 +38693,29 @@
     "location": "Mexico CIty",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-08-11T23:34:55.886420"
+  },
+  "b823703d8004192cc200ed75932bb7f8": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive, Mexico",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8673657002",
+    "location": "Remote, Mexico",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-12T01:03:59.729913"
+  },
+  "8536d3f9dce0041f8e471b95dfaad123": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive, Northern Cone",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8684071002",
+    "location": "Remote, Mexico; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-12T01:03:59.729958"
+  },
+  "b2c1be5d84ac4d39dde6b6ed26e1a3ee": {
+    "company": "Stripe",
+    "title": "Account Executive, Commercial (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8123027",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-12T01:04:10.230222"
   }
 }
