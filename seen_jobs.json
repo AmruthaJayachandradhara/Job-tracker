@@ -38717,5 +38717,13 @@
     "location": "Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-12T01:04:10.230222"
+  },
+  "2f2346762fd4236f0377fb0ca19ae12e": {
+    "company": "GitLab",
+    "title": "Backend Engineer, Geo Team",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8695515002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-12T03:55:23.760932"
   }
 }
