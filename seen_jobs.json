@@ -38741,5 +38741,13 @@
     "location": "London, England, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-12T07:07:55.051620"
+  },
+  "5a8241aa03c87eea6604168ac075b542": {
+    "company": "GitLab",
+    "title": "New Business Account Executive - West",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615797002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-12T12:44:18.078838"
   }
 }
