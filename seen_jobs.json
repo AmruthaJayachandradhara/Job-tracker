@@ -38773,5 +38773,21 @@
     "location": "San Francisco, CA, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-12T17:51:37.972809"
+  },
+  "512245ad1a9068dc0a6f1a4f39e0d178": {
+    "company": "Databricks",
+    "title": "Strategic Hunter Account Executive - CMEG - Ryan Bogden",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8695183002",
+    "location": "Boston, Massachusetts",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-12T21:34:54.804405"
+  },
+  "b4b4924ed8630b7fc00e74dbb5fc2b6d": {
+    "company": "Coinbase",
+    "title": "Specialist, Treasury & Banking Operations",
+    "url": "https://www.coinbase.com/careers/positions/8126403?gh_jid=8126403",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-12T21:35:15.667328"
   }
 }
