@@ -38749,5 +38749,13 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-12T12:44:18.078838"
+  },
+  "66379cbf8c05e2cca347819d33075c3e": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise (Canada) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8119822",
+    "location": "CA-Toronto, CA-Montreal, CA-Vancouver ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-12T15:51:16.717095"
   }
 }
