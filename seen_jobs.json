@@ -38725,5 +38725,21 @@
     "location": "Bangalore, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-12T03:55:23.760932"
+  },
+  "e9f0d4d861e060f9ed17261f71feb173": {
+    "company": "Fivetran",
+    "title": "Business Development Representative - DACH",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7796551003",
+    "location": "Dublin, Dublin, Ireland, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-12T07:07:55.051594"
+  },
+  "502434397ef5a532714545f2868634e4": {
+    "company": "Fivetran",
+    "title": "Business Development Representative - DACH",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7857955003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-12T07:07:55.051620"
   }
 }
