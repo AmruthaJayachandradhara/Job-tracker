@@ -38797,5 +38797,13 @@
     "location": "Remote - USA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-12T22:30:37.529634"
+  },
+  "8f3a85fe5ee3d7c9dc21068f85bac240": {
+    "company": "Tanium",
+    "title": "AI Business Analyst",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8100488",
+    "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-12T23:29:57.239714"
   }
 }
