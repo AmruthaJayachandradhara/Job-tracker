@@ -38757,5 +38757,21 @@
     "location": "CA-Toronto, CA-Montreal, CA-Vancouver ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-12T15:51:16.717095"
+  },
+  "a7ca90f02bddb74631c22c333c367cfc": {
+    "company": "Replit",
+    "title": "Premium Support Engineer (Tokyo)",
+    "url": "https://jobs.ashbyhq.com/replit/bcfd5249-9b34-414f-a6ec-677ae279dffe",
+    "location": "Remote - Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-12T17:51:13.279642"
+  },
+  "98669aecba277bdcc4e82e1eeb5e7cb6": {
+    "company": "Gusto",
+    "title": "Enterprise Application AI Engineer",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7369003",
+    "location": "San Francisco, CA, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-12T17:51:37.972809"
   }
 }
