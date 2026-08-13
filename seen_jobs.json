@@ -38861,5 +38861,13 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-13T10:53:34.378350"
+  },
+  "0de07ace4fae5e949c7f0318ea5d3c08": {
+    "company": "Spade",
+    "title": "Data Scientist (Mid & Sr Levels)",
+    "url": "https://jobs.ashbyhq.com/spade/eeca5a13-7958-46b4-b295-8d48da58cd65",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T11:38:50.981956"
   }
 }
