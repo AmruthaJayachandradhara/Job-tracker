@@ -38981,5 +38981,13 @@
     "location": "Remote - USA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-13T22:30:42.876671"
+  },
+  "b074866a62f797958bd32966cf5cd1c8": {
+    "company": "Coinbase",
+    "title": "Litigation Paralegal",
+    "url": "https://www.coinbase.com/careers/positions/8030591?gh_jid=8030591",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T23:31:26.778519"
   }
 }
