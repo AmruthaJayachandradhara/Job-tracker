@@ -38805,5 +38805,29 @@
     "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-12T23:29:57.239714"
+  },
+  "6ce2a61d2c7f8e5d6884c39faeed9b52": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8068565",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T01:05:39.340155"
+  },
+  "3946c330315b3bef7e0a9769224047e7": {
+    "company": "Carta",
+    "title": "Funds Paralegal",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7805345003",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T01:05:41.263384"
+  },
+  "a68d5a144b656444d28edfaa4f2d2318": {
+    "company": "Carta",
+    "title": "Inbound KYC - Analyst",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7805335003",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T01:05:41.263444"
   }
 }
