@@ -38917,5 +38917,29 @@
     "location": "Southeast - United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-13T17:49:31.483364"
+  },
+  "07b2522c79c1436f0a650a812487dea0": {
+    "company": "Databricks",
+    "title": "Geo Core Account Executive, Central America & Caribbean",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8707779002",
+    "location": "Florida, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T19:51:16.440576"
+  },
+  "5e44d0a4b190fea85a8ecf40eabbb635": {
+    "company": "GitLab",
+    "title": "Backend Engineer, Create: Repository Management (Ruby)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687932002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T19:51:22.463438"
+  },
+  "cc11ecaf7a5b70904a092e00db1ef2a5": {
+    "company": "Tanium",
+    "title": "Business Analyst - Salesforce",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8126765",
+    "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T19:51:23.760249"
   }
 }
