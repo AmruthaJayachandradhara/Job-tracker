@@ -38909,5 +38909,13 @@
     "location": "Mountain View, US",
     "filter_reason": "title match: 'apprentice'",
     "first_seen": "2026-08-13T15:49:54.686063"
+  },
+  "676e5a0eea233e448551b88a54ddcd90": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, State and Local",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604250002",
+    "location": "Southeast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T17:49:31.483364"
   }
 }
