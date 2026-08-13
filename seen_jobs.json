@@ -38885,5 +38885,29 @@
     "location": "Milan",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-13T14:15:53.116113"
+  },
+  "f159ea23d95160d35526bb1e451c7aee": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - CMEG ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8695183002",
+    "location": "Boston, Massachusetts",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T15:49:39.547853"
+  },
+  "74d5ced8e51baf4a877218658bda32ee": {
+    "company": "Coinbase",
+    "title": "Counsel - Financial Services",
+    "url": "https://www.coinbase.com/careers/positions/7602261?gh_jid=7602261",
+    "location": "Remote - UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T15:49:52.854299"
+  },
+  "b94f296e181bf765e3f28f8157817d3e": {
+    "company": "EarnIn",
+    "title": "IT Apprentice",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8125855",
+    "location": "Mountain View, US",
+    "filter_reason": "title match: 'apprentice'",
+    "first_seen": "2026-08-13T15:49:54.686063"
   }
 }
