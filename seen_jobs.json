@@ -38869,5 +38869,21 @@
     "location": "New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-13T11:38:50.981956"
+  },
+  "081835e3c2327a6343c21d360cdbc02e": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Fullstack (International)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7854835003",
+    "location": "Remote UK",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-08-13T14:15:52.083052"
+  },
+  "f1853ad4fc52d1016b97f212e1f4ab22": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups \u2014 Hunter, Italy",
+    "url": "https://stripe.com/jobs/search?gh_jid=8121419",
+    "location": "Milan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T14:15:53.116113"
   }
 }
