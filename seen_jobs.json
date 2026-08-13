@@ -38853,5 +38853,13 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-13T09:02:49.945329"
+  },
+  "65d136b8b5c017f5837620dd93aa62b2": {
+    "company": "Stripe",
+    "title": "Strategy & Transformation Advisor (Growth & Monetization specialization)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8007639",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T10:53:34.378350"
   }
 }
