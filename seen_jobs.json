@@ -38973,5 +38973,13 @@
     "location": "San Francisco, CA, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-13T21:35:08.923332"
+  },
+  "35db25e0fd342028155bdbaffe4baa71": {
+    "company": "Coinbase",
+    "title": "Security Analyst",
+    "url": "https://www.coinbase.com/careers/positions/8122166?gh_jid=8122166",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T22:30:42.876671"
   }
 }
