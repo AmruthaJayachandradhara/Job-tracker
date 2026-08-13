@@ -38949,5 +38949,29 @@
     "location": "Remote, Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-13T20:30:58.756143"
+  },
+  "accf91f5984a5a947720e3a83a7b4b1a": {
+    "company": "Dialpad",
+    "title": "Client Account Executive",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8656115002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T21:34:56.952462"
+  },
+  "2d6e99be658bbf235981b4c790e71991": {
+    "company": "Tanium",
+    "title": "IT Operations Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8128878",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T21:34:59.742052"
+  },
+  "2b38842da6789b91c5449b603958c2b6": {
+    "company": "Gusto",
+    "title": "Legal & Compliance AI Engineer",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8039574",
+    "location": "San Francisco, CA, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T21:35:08.923332"
   }
 }
