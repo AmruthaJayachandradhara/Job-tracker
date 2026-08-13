@@ -38941,5 +38941,13 @@
     "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-13T19:51:23.760249"
+  },
+  "eae02c65ce1c02645b816725fb9e27a8": {
+    "company": "GitLab",
+    "title": "Backend Engineer, Source Code Experience (Ruby)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687926002",
+    "location": "Remote, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-13T20:30:58.756143"
   }
 }
