@@ -38997,5 +38997,13 @@
     "location": "Remote - USA",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-08-14T01:04:58.385268"
+  },
+  "0d680b358aa79107796c2a2adf2324fd": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups (Scaled Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128900",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T03:55:56.536266"
   }
 }
