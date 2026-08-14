@@ -39165,5 +39165,29 @@
     "location": "NYC, Sea, SF, Tor",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-14T21:16:18.858298"
+  },
+  "64055a3fd15eba3d89d6e4ac6a5799fe": {
+    "company": "Northwood Space",
+    "title": "Finance & Business Operations Analyst",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/0a4748c7-79b2-4233-8b62-e716b2bf457e",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T22:12:16.846656"
+  },
+  "1cb03c070317b5c200fa0416f2f937d7": {
+    "company": "Northwood Space",
+    "title": "Finance & Business Operations Associate",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/7ebd9c25-0fe7-49b0-9292-94a9440a7e17",
+    "location": "Torrance, CA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-14T22:12:16.846909"
+  },
+  "10ac96af6864bad1657ccf0ef01006d8": {
+    "company": "Spade",
+    "title": "Backend Engineer (Mid-Level)",
+    "url": "https://jobs.ashbyhq.com/spade/087011f5-17f1-4f27-a352-ac11f6a5ba58",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T22:12:19.891379"
   }
 }
