@@ -39109,5 +39109,29 @@
     "location": "New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-14T17:44:36.698530"
+  },
+  "11956dd6184767e6de9baaa08546b1be": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8693555002",
+    "location": "Calgary, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T19:41:43.154534"
+  },
+  "8234b274e6fc4752822c28ec0808c2d0": {
+    "company": "Gusto",
+    "title": "Customer Support Specialist, Payroll and Taxes",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8100272",
+    "location": "Phoenix, AZ - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T19:41:59.894619"
+  },
+  "896753d3e283d977ce71810ce552ac69": {
+    "company": "Gusto",
+    "title": "Design Systems, Product Designer",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8111984",
+    "location": "Denver, CO, United States; New York, New York, United States; San Francisco, CA, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T19:41:59.894655"
   }
 }
