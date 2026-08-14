@@ -39029,5 +39029,21 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-14T14:09:12.188786"
+  },
+  "f35cd2d500077726c546ce68b05cda7e": {
+    "company": "Stripe",
+    "title": "Account Executive, Existing Business (Central Eastern Europe)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8119697",
+    "location": "Poland - Remote OR Romania - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T15:41:53.501782"
+  },
+  "067841f28eaa582bf3726b548c90a194": {
+    "company": "Stripe",
+    "title": "Account Executive, Hunter (Central Eastern Europe)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130052",
+    "location": "Poland - Remote OR Romania - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T15:41:53.501877"
   }
 }
