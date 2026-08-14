@@ -39133,5 +39133,37 @@
     "location": "Denver, CO, United States; New York, New York, United States; San Francisco, CA, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-14T19:41:59.894655"
+  },
+  "504258f0db9bf4f57cb4f8d3b2ae80b1": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7872209003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T21:16:05.611837"
+  },
+  "30d86ae4d82b7eff4cae59d650117927": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7734857003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T21:16:05.611863"
+  },
+  "9c87d57049fd5b487943952bf3bb0c9e": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7872211003",
+    "location": "USA - Austin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T21:16:05.611876"
+  },
+  "caf91af5a699f390e45a9d58b471d3ff": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Link (US)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8131144",
+    "location": "NYC, Sea, SF, Tor",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T21:16:18.858298"
   }
 }
