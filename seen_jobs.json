@@ -39077,5 +39077,37 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-14T16:40:26.723442"
+  },
+  "83ec7bebd2394d9b691fd862f561cb15": {
+    "company": "Listen Labs",
+    "title": "Account Executive, Strategic Accounts",
+    "url": "https://jobs.ashbyhq.com/listenlabs/93e28bde-2d87-416f-855a-59b4698ee3cc",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T17:44:03.923190"
+  },
+  "38b86cc434bb0c38fc88f2bdeeb625ed": {
+    "company": "Dialpad",
+    "title": "AVP, Agentic Transformation Advisor",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8647151002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T17:44:25.209184"
+  },
+  "cb140cf24ddfbcabff6db693632e182a": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Data)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114153",
+    "location": "London OR Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T17:44:36.694383"
+  },
+  "02d51d1ef5002f7599edd196ea88cc57": {
+    "company": "Stripe",
+    "title": "Software Engineer, Backend Engineer- Credit Coverage",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130578",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T17:44:36.698530"
   }
 }
