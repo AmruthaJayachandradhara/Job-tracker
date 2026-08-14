@@ -39005,5 +39005,21 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-14T03:55:56.536266"
+  },
+  "bb6c2a65424e7827d0cc9a725ff10cc5": {
+    "company": "Fivetran",
+    "title": "Strategic Finance Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7811646003",
+    "location": "Bengaluru, Karnataka, India, APAC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T08:58:04.092465"
+  },
+  "1f92d4c9146edfb7a9709f227375de2c": {
+    "company": "Stripe",
+    "title": "Account Executive, Crypto/Stablecoins ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8041076",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T08:58:17.718776"
   }
 }
