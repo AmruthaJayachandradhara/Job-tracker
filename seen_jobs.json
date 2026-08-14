@@ -39045,5 +39045,37 @@
     "location": "Poland - Remote OR Romania - Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-14T15:41:53.501877"
+  },
+  "3c6fffb844b5f8b3a12977d2b4e09dcd": {
+    "company": "Fivetran",
+    "title": "Compliance, Employment & Litigation Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7870801003",
+    "location": "USA - New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T16:40:21.774874"
+  },
+  "025f4ad8e9bd49fb61eb6fc2df052b0b": {
+    "company": "Fivetran",
+    "title": "Compliance, Employment & Litigation Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7870861003",
+    "location": "USA - Philadelphia (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T16:40:21.774903"
+  },
+  "53f2dc3831f2cf16a2992fed306245c3": {
+    "company": "Fivetran",
+    "title": "Compliance, Employment & Litigation Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7870857003",
+    "location": "USA - Austin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T16:40:21.774915"
+  },
+  "0b732a8e3de7f0960fa6579b8fd25f60": {
+    "company": "Tanium",
+    "title": "Advanced Consulting Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8113423",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-14T16:40:26.723442"
   }
 }
