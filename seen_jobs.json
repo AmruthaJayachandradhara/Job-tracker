@@ -39205,5 +39205,13 @@
     "location": "Remote - USA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-15T00:39:37.434708"
+  },
+  "a05c50d8f9ad813fa70f55659ecf7b23": {
+    "company": "Replit",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+    "location": "Foster City, CA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-08-15T19:14:43.746174"
   }
 }
