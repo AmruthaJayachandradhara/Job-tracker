@@ -39213,5 +39213,13 @@
     "location": "Foster City, CA",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-08-15T19:14:43.746174"
+  },
+  "62808073483fbb66f923cd306e7a71cf": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Japan",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8595154002",
+    "location": "Remote, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T02:13:54.196315"
   }
 }
