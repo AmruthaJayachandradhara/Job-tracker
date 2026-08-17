@@ -39317,5 +39317,29 @@
     "location": "LOCATION",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-17T18:22:53.360386"
+  },
+  "84839227441897a5d81409d690ee3e11": {
+    "company": "Stripe",
+    "title": "People Partner, Technology",
+    "url": "https://stripe.com/jobs/search?gh_jid=7466921",
+    "location": "San Francisco, Chicago, New York City or Seattle",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T19:20:55.334921"
+  },
+  "f28b707955e6aa12a874af4e016b1c58": {
+    "company": "Gusto",
+    "title": "Security Engineer - Cloud and Network Security",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7833228",
+    "location": "San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T19:20:55.998442"
+  },
+  "f2821e17a40a628d036d84f29655c0b4": {
+    "company": "Gusto",
+    "title": "Software Engineer,  AI Developer Tools",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7947684",
+    "location": "San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T19:20:55.998542"
   }
 }
