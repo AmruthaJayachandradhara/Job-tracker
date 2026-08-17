@@ -39229,5 +39229,21 @@
     "location": "Spain",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-17T13:32:23.714013"
+  },
+  "303d7228ff2f3ecec5c059680c4b1644": {
+    "company": "GitLab",
+    "title": "Business Development Representative - Nordics",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687381002",
+    "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T14:18:05.446873"
+  },
+  "6b81246b25d82bb397ec89e4892d5d32": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB (New Business)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7576999",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T14:18:16.188238"
   }
 }
