@@ -39221,5 +39221,13 @@
     "location": "Remote, Japan",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-17T02:13:54.196315"
+  },
+  "064e848218d4af92c660ea0869ad91d1": {
+    "company": "Fivetran",
+    "title": "Enterprise Account Executive ",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7787893003",
+    "location": "Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T13:32:23.714013"
   }
 }
