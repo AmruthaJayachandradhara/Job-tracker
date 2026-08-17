@@ -39253,5 +39253,13 @@
     "location": "Dublin, Dublin, Ireland, EMEA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-17T15:16:13.999530"
+  },
+  "4fcf924d2d2f349572e10631b19d5e2c": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Enterprise & Ecosystem",
+    "url": "https://stripe.com/jobs/search?gh_jid=8118929",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T16:15:58.890898"
   }
 }
