@@ -39277,5 +39277,45 @@
     "location": "Austin, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-17T17:17:22.623999"
+  },
+  "3d7da6a7160ddaf679df4af51f4ee6b1": {
+    "company": "Northwood Space",
+    "title": "Executive Assistant",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/9a61b2d6-446d-4f1f-91f4-e7b91a5fe087",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T18:22:17.422749"
+  },
+  "55302319dcb2c4a9295349ca87aa8d82": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive, AI - San Francisco ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8604630002",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T18:22:43.159899"
+  },
+  "e30a3e855903808700df380ea60c7488": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - Seattle ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8706202002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T18:22:43.159939"
+  },
+  "d590aaedd522cdc8cf459c6948dfba5b": {
+    "company": "Stripe",
+    "title": "Account Executive, Velocity Platforms (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128632",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T18:22:53.359860"
+  },
+  "654550a339e1e71dc5ea82be47b28b3f": {
+    "company": "Stripe",
+    "title": "Commercial Counsel",
+    "url": "https://stripe.com/jobs/search?gh_jid=8112801",
+    "location": "LOCATION",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T18:22:53.360386"
   }
 }
