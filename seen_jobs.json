@@ -39349,5 +39349,13 @@
     "location": "Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-17T20:15:23.423501"
+  },
+  "d57fde7d0404fa10a9de690ecb1a4ac4": {
+    "company": "Fivetran",
+    "title": "Talent Acquisition Partner",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7864669003",
+    "location": "Remote, Massachusetts, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T21:16:45.433483"
   }
 }
