@@ -39381,5 +39381,29 @@
     "location": "Chicago, IL",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-17T22:14:18.810022"
+  },
+  "acb2bb8fab815b13f225c6338e3d2ba2": {
+    "company": "Novig",
+    "title": "Software Engineer",
+    "url": "https://jobs.ashbyhq.com/novig/ff741902-a4e7-4d91-8d1d-e6d7af599043",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T23:13:31.842107"
+  },
+  "d88a6aa2f0888d9dd12c5a3b7ad26da5": {
+    "company": "GitLab",
+    "title": "RPA Engineer, UiPath",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8705011002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T23:13:49.509705"
+  },
+  "0e97dc935b198cb83c8defe3f31d75e0": {
+    "company": "Carta",
+    "title": "Funds Paralegal",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7805341003",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T23:14:01.696821"
   }
 }
