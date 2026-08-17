@@ -39261,5 +39261,21 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-17T16:15:58.890898"
+  },
+  "69313c8c608c39a8220546f8bf50f244": {
+    "company": "Fivetran",
+    "title": "Customer Solutions Engineer II",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7818274003",
+    "location": "Remote, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T17:17:20.737204"
+  },
+  "b415d67c47fe4867a12100b9394b0296": {
+    "company": "Dialpad",
+    "title": "Client Account Executive, T-Mobile",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8651320002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T17:17:22.623999"
   }
 }
