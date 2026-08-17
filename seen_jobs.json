@@ -39341,5 +39341,13 @@
     "location": "San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-17T19:20:55.998542"
+  },
+  "7ea2f20a9f8170f6883f89a7b73b4a7d": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128772",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T20:15:23.423501"
   }
 }
