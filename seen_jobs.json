@@ -39357,5 +39357,29 @@
     "location": "Remote, Massachusetts, United States, AMER",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-17T21:16:45.433483"
+  },
+  "2f239a7f2f711520e9caa4ad732c3517": {
+    "company": "Replit",
+    "title": "Executive Social Media Specialist (Contract)",
+    "url": "https://jobs.ashbyhq.com/replit/1c53645d-ff76-4346-aa07-49c41594c8a3",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T22:14:07.760972"
+  },
+  "dad2c319cc3b337960845f4c5123e6ab": {
+    "company": "Stripe",
+    "title": "Machine Learning Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8137997",
+    "location": "South San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T22:14:18.808211"
+  },
+  "089a2390a01c4117d155af467a06df53": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8137972",
+    "location": "Chicago, IL",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-17T22:14:18.810022"
   }
 }
