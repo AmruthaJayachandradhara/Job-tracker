@@ -39469,5 +39469,37 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-18T11:16:12.325124"
+  },
+  "58cc84e477521563926bb63076e3d19c": {
+    "company": "Affirm",
+    "title": "Security Risk Management Specialist II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7832333003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T12:24:26.175964"
+  },
+  "69f052bb6319e36e799df506a51638fd": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms Hunter (Central Eastern Europe)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8121659",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T12:24:27.182950"
+  },
+  "0d2596ff995ba440e754c52e92a369cf": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms Hunter (German fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8129702",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T12:24:27.182969"
+  },
+  "54ff661b1666ce16598b7e4dc797be9d": {
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+    "location": "Dublin",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-08-18T12:24:27.186440"
   }
 }
