@@ -39429,5 +39429,21 @@
     "location": "Sandy, UT",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-18T02:09:53.224621"
+  },
+  "13d4590bdee4b07939438742e9551a1d": {
+    "company": "GitLab",
+    "title": "Deal Desk Strategist, Philippines",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8648306002",
+    "location": "Remote, India; Remote, Phillipines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T04:25:17.389502"
+  },
+  "91e5759a8c60a95513a8a8fbe6ad8c6e": {
+    "company": "Stripe",
+    "title": "Legal Operations Associate ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8095866",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-18T04:25:27.106697"
   }
 }
