@@ -39509,5 +39509,13 @@
     "location": "Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-18T13:35:31.236875"
+  },
+  "01dc29d713c8aea6a639d1f86e5611cc": {
+    "company": "Databricks",
+    "title": "Named Enterprise Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8536436002",
+    "location": "Stockholm, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T15:21:31.787505"
   }
 }
