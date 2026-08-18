@@ -39557,5 +39557,29 @@
     "location": "Remote Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-18T18:22:43.508496"
+  },
+  "f6c6b35eecb576ab3443b0c2dd731705": {
+    "company": "Dialpad",
+    "title": "Onboarding Specialist II",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8569779002",
+    "location": "Pasig City, Metro Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T19:21:07.964079"
+  },
+  "76357e3894d3ccc6650e6c43b8dad03d": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Payments",
+    "url": "https://stripe.com/jobs/search?gh_jid=6692166",
+    "location": "Toronto, Canada Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T19:21:19.052512"
+  },
+  "2207d0a8cb83c8fbceb45d79ff93548a": {
+    "company": "Stripe",
+    "title": "Product Analytics - Developer Experience, Bridge",
+    "url": "https://stripe.com/jobs/search?gh_jid=8139998",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T19:21:19.055167"
   }
 }
