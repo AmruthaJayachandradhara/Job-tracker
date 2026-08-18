@@ -39501,5 +39501,13 @@
     "location": "Dublin",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-08-18T12:24:27.186440"
+  },
+  "d4975fb95ad18d320a67ad1fe357bc6f": {
+    "company": "Stripe",
+    "title": "Integration Engineer, Metronome",
+    "url": "https://stripe.com/jobs/search?gh_jid=8080454",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T13:35:31.236875"
   }
 }
