@@ -39525,5 +39525,21 @@
     "location": "Germany ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-18T16:19:40.737975"
+  },
+  "26a3df0ca3bd3c84b704a4bc8328e2ba": {
+    "company": "Dialpad",
+    "title": "Customer Support Representative, Tier 1",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8721206002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T17:18:24.725675"
+  },
+  "cb58f0f299d7756350bb7154f59bb024": {
+    "company": "Stripe",
+    "title": "Full Stack Software Engineer, Brazil",
+    "url": "https://stripe.com/jobs/search?gh_jid=7895284",
+    "location": "Sao Paulo",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T17:18:37.303808"
   }
 }
