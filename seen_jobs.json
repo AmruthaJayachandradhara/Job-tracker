@@ -39581,5 +39581,29 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-18T19:21:19.055167"
+  },
+  "76341d7e727212943c5ad3bfc8852e60": {
+    "company": "Pomelo Care",
+    "title": "Doula (Arizona)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6146577004",
+    "location": "Arizona, USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T20:12:06.670427"
+  },
+  "60311c30c14cfc46dd3de98099827637": {
+    "company": "Dialpad",
+    "title": "Forward Deployed Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8727517002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T20:12:32.517327"
+  },
+  "1ad62ded4ef8cd9930e1db2bc5959d61": {
+    "company": "Stripe",
+    "title": "Payments Performance Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7562148",
+    "location": "San Francisco, CA; New York, NY; Chicago, IL; Seattle, WA; Atlanta, GA ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T20:12:44.241358"
   }
 }
