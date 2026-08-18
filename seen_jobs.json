@@ -39405,5 +39405,21 @@
     "location": "Toronto",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-17T23:14:01.696821"
+  },
+  "8cab7b8081995a78eb4910866195beef": {
+    "company": "Fivetran",
+    "title": "Talent Acquisition Coordinator - Contract ",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7887977003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T00:38:54.079538"
+  },
+  "692a6f5c0a6d19bbc9cb01568b64d645": {
+    "company": "Fivetran",
+    "title": "Talent Acquisition Coordinator - Contract ",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7887975003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T00:38:54.079565"
   }
 }
