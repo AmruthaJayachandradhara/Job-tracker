@@ -39541,5 +39541,21 @@
     "location": "Sao Paulo",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-18T17:18:37.303808"
+  },
+  "dbd0dae6d05671de409f7b00be1c54c9": {
+    "company": "Affirm",
+    "title": "Revenue Operations Analyst II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7871460003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T18:22:43.508470"
+  },
+  "ca6a49201969154122c7cc7985afcffb": {
+    "company": "Affirm",
+    "title": "Revenue Operations Analyst II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7871462003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T18:22:43.508496"
   }
 }
