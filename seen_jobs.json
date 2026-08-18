@@ -39453,5 +39453,21 @@
     "location": "Israel ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-18T10:17:58.153281"
+  },
+  "bc91ac8f468d865ba39133059ff51af3": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Grower (Israel)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114458",
+    "location": "Israel ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T11:16:12.319967"
+  },
+  "d8174fa94de25b165b067e97b088158a": {
+    "company": "Stripe",
+    "title": "Strategic Account Executive, Platforms",
+    "url": "https://stripe.com/jobs/search?gh_jid=8129954",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T11:16:12.325124"
   }
 }
