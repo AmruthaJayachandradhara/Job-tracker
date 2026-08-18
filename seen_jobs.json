@@ -39445,5 +39445,13 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-08-18T04:25:27.106697"
+  },
+  "c76a6e4dfaced562d36ea82eba0c731f": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise (Grower, Israel)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114458",
+    "location": "Israel ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-18T10:17:58.153281"
   }
 }
