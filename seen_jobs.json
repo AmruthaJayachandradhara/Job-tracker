@@ -39749,5 +39749,21 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-19T19:18:41.840659"
+  },
+  "9eb949d1f1867a5733e75ee94eeb923a": {
+    "company": "Paraform",
+    "title": "Associate General Counsel",
+    "url": "https://jobs.ashbyhq.com/paraform/ae725b1c-a5b1-4943-bb13-e4b50dc11bae",
+    "location": "San Francisco",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-19T20:15:14.653901"
+  },
+  "f013841fdce79cab6155bef2fb0784f6": {
+    "company": "Coinbase",
+    "title": "Software Engineer, Frontend (Coinbase Advisor - Agentic Trading)",
+    "url": "https://www.coinbase.com/careers/positions/8070574?gh_jid=8070574",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-19T20:15:55.847160"
   }
 }
