@@ -39765,5 +39765,21 @@
     "location": "Remote - USA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-19T20:15:55.847160"
+  },
+  "faa09161b4129ac68b7e9a6d0e9c8c51": {
+    "company": "GitLab",
+    "title": "AI Transformation Owner, Product & Design",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8716179002",
+    "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-19T21:16:33.104890"
+  },
+  "4df538e86b5931ac928d0a49e36027f0": {
+    "company": "Stripe",
+    "title": "Security Incident Response Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8142302",
+    "location": "US Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-19T21:16:43.505779"
   }
 }
