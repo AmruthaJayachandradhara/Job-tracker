@@ -39693,5 +39693,37 @@
     "location": "Mexico City",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-08-19T16:19:45.763500"
+  },
+  "bbf829364cae70ef1079b2b50fd9344d": {
+    "company": "Affirm",
+    "title": "Administrative Assistant IV",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7850544003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-19T17:18:46.198222"
+  },
+  "714b38a395d5900b5980211008563302": {
+    "company": "Stripe",
+    "title": "Account Executive , Grower - Iberia Market ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8138662",
+    "location": "Madrid ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-19T17:18:47.159698"
+  },
+  "1836aa18bbca777351c0331f4b07e68e": {
+    "company": "Gusto",
+    "title": "People Partner - Product and Product Design",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8119974",
+    "location": "San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-19T17:18:47.861507"
+  },
+  "4dede65be4d4347c23d6985eb9716aee": {
+    "company": "Carta",
+    "title": "Junior Inbound Compliance Analyst (KYC)",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7904721003",
+    "location": "Sandy, Utah; Seattle, Washington",
+    "filter_reason": "title match: 'junior'",
+    "first_seen": "2026-08-19T17:18:49.137438"
   }
 }
