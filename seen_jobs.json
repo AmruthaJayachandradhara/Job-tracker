@@ -39741,5 +39741,13 @@
     "location": "San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-19T18:19:12.173208"
+  },
+  "3fbe4e5299a3a29a64cd88fee597c974": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB Hunter (Central Eastern Europe)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8129958",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-19T19:18:41.840659"
   }
 }
