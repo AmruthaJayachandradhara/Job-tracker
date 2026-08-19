@@ -39645,5 +39645,13 @@
     "location": "Seattle,WA; Sandy,UT",
     "filter_reason": "title match: 'junior'",
     "first_seen": "2026-08-19T12:23:52.953322"
+  },
+  "6b2c63d2cec8dc1dee394a8b1556d2ae": {
+    "company": "Stripe",
+    "title": "GTM Recruiter (Fixed Term)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8140603",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-19T13:37:04.050080"
   }
 }
