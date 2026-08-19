@@ -39613,5 +39613,13 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-18T23:13:14.647530"
+  },
+  "89aee75534d0ed29baf6f08a01844959": {
+    "company": "Encord",
+    "title": "Founder's Office",
+    "url": "https://jobs.ashbyhq.com/encord/3bda21f0-70ee-437b-8601-96ebb0dac6f1",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-19T00:38:41.932087"
   }
 }
