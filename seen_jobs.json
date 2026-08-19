@@ -39669,5 +39669,29 @@
     "location": "US Timezones",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-19T14:23:04.289260"
+  },
+  "7ec041a8d816185ac187125055903c79": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Date Pipeline) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8113687",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-19T16:19:45.761131"
+  },
+  "1ab9c7dea88fceb8de1077a7833c39be": {
+    "company": "Stripe",
+    "title": "GTM Recruiter (Fixed Term)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8141450",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-19T16:19:45.763124"
+  },
+  "7df96a02fb99da4878ddf3033b79b6bd": {
+    "company": "Stripe",
+    "title": "KYB/KYC Operations Associate, Bridge (English fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8022463",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-19T16:19:45.763500"
   }
 }
