@@ -39629,5 +39629,13 @@
     "location": "Remote, India; Remote, Phillipines",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-19T06:25:54.105883"
+  },
+  "c920a37d217a05ac1ebcc207e7aa4842": {
+    "company": "Stripe",
+    "title": "University Recruiter (Fixed Term)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128011",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-19T09:23:08.570451"
   }
 }
