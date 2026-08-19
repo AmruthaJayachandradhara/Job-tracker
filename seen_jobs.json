@@ -39653,5 +39653,21 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-19T13:37:04.050080"
+  },
+  "35da6593a339b13851dec49558a67762": {
+    "company": "Databricks",
+    "title": "Emerging Enterprise Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8727545002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-19T14:22:54.284879"
+  },
+  "f20e886df6d31c2e6c70b30edc482be9": {
+    "company": "Hex",
+    "title": "Partner Solutions Engineer",
+    "url": "https://jobs.ashbyhq.com/hex/bc90f3b8-79f6-4e7d-a70d-1f00db80deb5",
+    "location": "US Timezones",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-19T14:23:04.289260"
   }
 }
