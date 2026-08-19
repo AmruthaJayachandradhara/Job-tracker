@@ -39637,5 +39637,13 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-19T09:23:08.570451"
+  },
+  "5bd063237e0e301eaad0546f3d30ca17": {
+    "company": "Carta",
+    "title": " Junior Paralegal, Contracts",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7902413003",
+    "location": "Seattle,WA; Sandy,UT",
+    "filter_reason": "title match: 'junior'",
+    "first_seen": "2026-08-19T12:23:52.953322"
   }
 }
