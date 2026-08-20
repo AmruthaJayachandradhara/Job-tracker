@@ -39853,5 +39853,21 @@
     "location": "New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-20T15:23:46.933886"
+  },
+  "9ba389611916ff6e08a44570c3738330": {
+    "company": "Cape",
+    "title": "Software Engineer, Product Platform",
+    "url": "https://jobs.ashbyhq.com/cape/87e4fac9-9193-40d7-9b28-dbc73e55615c",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-20T17:19:18.804422"
+  },
+  "d3937486cfffc232af28450fbce27126": {
+    "company": "Stripe",
+    "title": "University Recruiter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128011",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-20T17:20:07.914854"
   }
 }
