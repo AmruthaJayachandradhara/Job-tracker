@@ -39893,5 +39893,21 @@
     "location": "Anywhere, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-20T19:23:27.184301"
+  },
+  "731c01f8a500caa6aeb75958580d51ee": {
+    "company": "Affirm",
+    "title": "Security Risk Management Specialist II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7906568003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-20T20:17:38.168628"
+  },
+  "0e394ab9d83a931dd09601522e6b012a": {
+    "company": "Stripe",
+    "title": "GTM Strategy & Operations Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8145119",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-20T20:17:39.218799"
   }
 }
