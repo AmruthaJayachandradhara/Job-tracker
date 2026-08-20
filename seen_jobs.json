@@ -39829,5 +39829,21 @@
     "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-20T10:19:57.044623"
+  },
+  "9b9c91d439bb5ef9b6f3c7c7e1f798ec": {
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack (Revenue Analytics)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7916080003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-20T14:25:57.121774"
+  },
+  "7ffede60cab670ae8ea62864740812f5": {
+    "company": "Stripe",
+    "title": "GTM Recruiter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8141450",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-20T14:25:58.245017"
   }
 }
