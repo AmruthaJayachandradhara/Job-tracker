@@ -39917,5 +39917,13 @@
     "location": "San Francisco",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-08-20T21:17:55.069610"
+  },
+  "6967775848ad5d2fb4712f65ed751724": {
+    "company": "GitLab",
+    "title": "Backend Engineer, AI Engineering: Duo Chat",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8698314002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-20T22:16:29.437212"
   }
 }
