@@ -39909,5 +39909,13 @@
     "location": "New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-20T20:17:39.218799"
+  },
+  "03f66a0c61b4ee6bd28f2d3d299feaa7": {
+    "company": "Paraform",
+    "title": "Associate Corporate Counsel",
+    "url": "https://jobs.ashbyhq.com/paraform/c58358e2-3a8d-4ae5-be9f-e0c89f82f54a",
+    "location": "San Francisco",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-20T21:17:55.069610"
   }
 }
