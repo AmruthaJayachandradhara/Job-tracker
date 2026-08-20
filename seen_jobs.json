@@ -39789,5 +39789,37 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-20T02:11:26.914534"
+  },
+  "f5fc8751f7d73c635d7f5e18473bccb6": {
+    "company": "Gusto",
+    "title": "401(k) Onboarding Advocate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8128426",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-20T06:27:32.566135"
+  },
+  "ba19490aae5fd681ce84eb894dfb1b37": {
+    "company": "Gusto",
+    "title": "Account Coordinator (Retirement Sponsor Support)",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8143038",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-20T06:27:32.566169"
+  },
+  "a941916ff99d2e26f9e7384fd7df998b": {
+    "company": "Gusto",
+    "title": "Conversion Operations Associate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8143042",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-20T06:27:32.566230"
+  },
+  "f7b9c3bf634b3ec6047d7650f950bf59": {
+    "company": "Gusto",
+    "title": "Participant Support Specialist",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8142994",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-20T06:27:32.566496"
   }
 }
