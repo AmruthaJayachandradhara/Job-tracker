@@ -39821,5 +39821,13 @@
     "location": "Denver, CO - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-20T06:27:32.566496"
+  },
+  "d6533f0f85aa832a0f12cb2358febbeb": {
+    "company": "Fivetran",
+    "title": "HR Operations Partner - Fixed Term Contract",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7864290003",
+    "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-20T10:19:57.044623"
   }
 }
