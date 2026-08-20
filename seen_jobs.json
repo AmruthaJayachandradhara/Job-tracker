@@ -39877,5 +39877,21 @@
     "location": "Pasig City, Metro Manila, Philippines",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-20T18:23:37.155752"
+  },
+  "798983baac382c3a4552b30ab45bba88": {
+    "company": "Fivetran",
+    "title": "Business Development Representative ",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7792160003",
+    "location": "USA - Austin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-20T19:23:25.273743"
+  },
+  "d67a17cfd320f1d95da1fde98f4a270c": {
+    "company": "Dialpad",
+    "title": "Forward Deployed Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8734067002",
+    "location": "Anywhere, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-20T19:23:27.184301"
   }
 }
