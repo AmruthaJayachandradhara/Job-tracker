@@ -39781,5 +39781,13 @@
     "location": "US Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-19T21:16:43.505779"
+  },
+  "4bf948bdf3f94a82fcdf6ee3278712c7": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Data Pipeline) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8113687",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-20T02:11:26.914534"
   }
 }
