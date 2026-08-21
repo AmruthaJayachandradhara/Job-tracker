@@ -40029,5 +40029,13 @@
     "location": "Bengaluru, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-21T12:25:45.939479"
+  },
+  "56077ccdd8414dc3b18adaf345d2b0d6": {
+    "company": "Encord",
+    "title": "Product Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/48e61550-e427-4048-a1b1-b1e1b483a6bf",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T16:20:06.943213"
   }
 }
