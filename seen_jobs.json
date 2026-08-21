@@ -40005,5 +40005,13 @@
     "location": "Bengaluru, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-21T03:41:51.053993"
+  },
+  "72bbdb8ccef6c314d4611b9a2fc9ba46": {
+    "company": "Databricks",
+    "title": "Recruiter (Contract)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8729618002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T04:28:43.834513"
   }
 }
