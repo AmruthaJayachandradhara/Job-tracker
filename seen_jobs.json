@@ -40117,5 +40117,13 @@
     "location": "US-SF-HQ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-21T20:14:41.191767"
+  },
+  "2983f97d11dd49be26a6939a677f5275": {
+    "company": "Affirm",
+    "title": "Legal Operations Analyst II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7808202003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T22:13:30.408486"
   }
 }
