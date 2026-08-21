@@ -40077,5 +40077,37 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-21T18:22:22.925602"
+  },
+  "9b98608ce0b9cfc6afe48d8ac5147435": {
+    "company": "Northwood Space",
+    "title": "Electrical Test Engineer ",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/e153b809-8535-4d9d-b48c-c25acdeadae7",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T19:18:41.380017"
+  },
+  "c6721dfbf6a28a6c16ca3fbed223fc24": {
+    "company": "Dialpad",
+    "title": "RVP, Client Sales, MidMarket",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8733354002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T19:19:18.198035"
+  },
+  "2bfb89af8e32bb202277b222ff0974f4": {
+    "company": "Mercury",
+    "title": "Software Engineer - Infrastructure",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6150432004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T19:19:26.544715"
+  },
+  "2943306ff5531384a8a6ab3a633f936f": {
+    "company": "Stripe",
+    "title": "Account Executive - LATAM",
+    "url": "https://stripe.com/jobs/search?gh_jid=8122192",
+    "location": "Mexico City, Mexico",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T19:19:29.605685"
   }
 }
