@@ -40125,5 +40125,13 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-21T22:13:30.408486"
+  },
+  "2c533424c6d51c5db237c13df7188505": {
+    "company": "Stripe",
+    "title": "Fraud Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8112448",
+    "location": "LOCATION",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T23:14:28.907669"
   }
 }
