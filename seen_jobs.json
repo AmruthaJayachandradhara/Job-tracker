@@ -39965,5 +39965,29 @@
     "location": "San Francisco, NYC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-21T00:41:50.789510"
+  },
+  "02a30e9c99892fe4cdc073d9b3c207c0": {
+    "company": "GitLab",
+    "title": "Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8698330002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T02:18:01.369672"
+  },
+  "e6a9c01a97252a9e3c8a1f7b75c62a7c": {
+    "company": "Replit",
+    "title": "Social Media Support Specialist (FC, Weekend Shift, Sunday to Thursday) ",
+    "url": "https://jobs.ashbyhq.com/replit/163e4304-0915-433a-98c7-3f54f53cac59",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T02:18:01.966250"
+  },
+  "cbb1045c369a9cca68962d73233e71e1": {
+    "company": "Replit",
+    "title": "Social Media Support Specialist (NYC, Weekend Shift, Sunday to Thursday) ",
+    "url": "https://jobs.ashbyhq.com/replit/d6a47b4a-7f2a-4205-9146-0376b3280c0e",
+    "location": "NYC (SoHo)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T02:18:01.966270"
   }
 }
