@@ -40037,5 +40037,13 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-21T16:20:06.943213"
+  },
+  "51e9479998d1c36afae74cce1ca9ccd1": {
+    "company": "Stripe",
+    "title": "Corporate Accounting",
+    "url": "https://stripe.com/jobs/search?gh_jid=8144924",
+    "location": "Seattle, San Francisco ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T17:19:49.874032"
   }
 }
