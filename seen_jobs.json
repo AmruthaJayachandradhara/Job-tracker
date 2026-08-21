@@ -40109,5 +40109,13 @@
     "location": "Mexico City, Mexico",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-21T19:19:29.605685"
+  },
+  "3e5fa826f3315474687aed113466c835": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales, Metronome (Hunter) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8029043",
+    "location": "US-SF-HQ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T20:14:41.191767"
   }
 }
