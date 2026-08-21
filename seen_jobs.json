@@ -39989,5 +39989,21 @@
     "location": "NYC (SoHo)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-21T02:18:01.966270"
+  },
+  "4289e0891c4e90c57517be9b10b43931": {
+    "company": "Northwood Space",
+    "title": "People Operations Specialist",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/fdd3d055-bf75-43e4-b2bd-bc2bb8c7bd01",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T03:41:33.645286"
+  },
+  "e701fbeb926c479babba596b44f7bada": {
+    "company": "Databricks",
+    "title": "SAP Functional SME",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-21T03:41:51.053993"
   }
 }
