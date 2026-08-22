@@ -40133,5 +40133,13 @@
     "location": "LOCATION",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-21T23:14:28.907669"
+  },
+  "4ac1699231c402133622bd68c84d4a01": {
+    "company": "Coinbase",
+    "title": "Legal Ops Associate",
+    "url": "https://www.coinbase.com/careers/positions/8129321?gh_jid=8129321",
+    "location": "Remote - USA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-22T02:09:19.621480"
   }
 }
