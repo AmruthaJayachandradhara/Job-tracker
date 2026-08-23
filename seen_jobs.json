@@ -40141,5 +40141,13 @@
     "location": "Remote - USA",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-08-22T02:09:19.621480"
+  },
+  "3ce20dfb3c02158fbe530dcabecfff02": {
+    "company": "Northwood Space",
+    "title": "Network Software Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/f19b12b2-1f52-43a6-8e0e-a866c92c4fc1",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-23T02:18:28.373842"
   }
 }
