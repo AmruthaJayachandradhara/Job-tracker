@@ -40165,5 +40165,13 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-24T02:17:29.981953"
+  },
+  "b104cb9b85bd72b0c78bdc701c6a9e1a": {
+    "company": "Databricks",
+    "title": "Emerging Enterprise Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8736500002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-24T03:44:44.600764"
   }
 }
