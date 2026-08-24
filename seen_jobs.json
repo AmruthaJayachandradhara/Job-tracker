@@ -40237,5 +40237,29 @@
     "location": "Nevada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-24T13:41:56.578439"
+  },
+  "b8b5899f86f45307a796ee31214ec123": {
+    "company": "Dialpad",
+    "title": "Sales Representative II, SB",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8733353002",
+    "location": "Pasig City, Metro Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-24T18:25:01.136574"
+  },
+  "6dfde6fa7a7d162b01c4db8aa2f660c5": {
+    "company": "Affirm",
+    "title": "IT Support Administrator I",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7860010003",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-24T18:25:12.737898"
+  },
+  "b23de80cb3f746403ba2de8bbdb21879": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Link",
+    "url": "https://stripe.com/jobs/search?gh_jid=8131144",
+    "location": "NYC, Sea, SF, Tor",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-24T18:25:13.777702"
   }
 }
