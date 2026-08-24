@@ -40221,5 +40221,13 @@
     "location": "Israel",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-24T09:36:43.587615"
+  },
+  "91d3bf9b3d1395e5f1150620453f7866": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer - Database Change Management",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8722304002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-24T12:26:22.246985"
   }
 }
