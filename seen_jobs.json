@@ -40269,5 +40269,13 @@
     "location": "Pasig City, Metro Manila, Philippines",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-24T19:21:45.768324"
+  },
+  "8e2451f3d319e814d3315757cb28a1ab": {
+    "company": "Stripe",
+    "title": "Product Designer, Link",
+    "url": "https://stripe.com/jobs/search?gh_jid=8155002",
+    "location": "US / Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-24T20:18:44.504038"
   }
 }
