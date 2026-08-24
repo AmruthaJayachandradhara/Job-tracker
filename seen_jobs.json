@@ -40157,5 +40157,13 @@
     "location": "Torrance, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-23T03:41:12.944671"
+  },
+  "56ff0b10afc2af9d54caa1a5f6f026a6": {
+    "company": "Stripe",
+    "title": "Account Executive, Commercial Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8141211",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-24T02:17:29.981953"
   }
 }
