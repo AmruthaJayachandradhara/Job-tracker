@@ -40197,5 +40197,29 @@
     "location": "Tokyo",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-24T05:29:56.846389"
+  },
+  "473aa70873a860c526bc00611b4ad284": {
+    "company": "Databricks",
+    "title": "Executive Assistant II",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8701067002",
+    "location": "Belgrade, Serbia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-24T09:36:27.464690"
+  },
+  "7610789bd467003a35574ab7a582e94e": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8648494002",
+    "location": "Berlin, Germany; Munich, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-24T09:36:27.464844"
+  },
+  "1ebf265a11be5dcaa3f45b649c1fb26e": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Grower, Platforms (Israel)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8129956",
+    "location": "Israel",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-24T09:36:43.587615"
   }
 }
