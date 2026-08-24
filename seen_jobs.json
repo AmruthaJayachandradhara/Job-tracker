@@ -40261,5 +40261,13 @@
     "location": "NYC, Sea, SF, Tor",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-24T18:25:13.777702"
+  },
+  "9055bf1b0475d8703cd2400579f6f84f": {
+    "company": "Dialpad",
+    "title": "Sales Account Executive I, SB",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8614467002",
+    "location": "Pasig City, Metro Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-24T19:21:45.768324"
   }
 }
