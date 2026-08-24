@@ -40229,5 +40229,13 @@
     "location": "Bangalore, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-24T12:26:22.246985"
+  },
+  "78025faf16fae9c46cab8c7f7030af1d": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8588516002",
+    "location": "Nevada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-24T13:41:56.578439"
   }
 }
