@@ -40285,5 +40285,13 @@
     "location": "San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-24T21:20:16.913135"
+  },
+  "3a540d3eb4cc1c683dfcffc04eb0e9b3": {
+    "company": "Stripe",
+    "title": "Technical Recruiter (Fixed Term Contract)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8154525",
+    "location": "SF, SEA, NYC, CHI, ATL",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-24T23:14:21.226600"
   }
 }
