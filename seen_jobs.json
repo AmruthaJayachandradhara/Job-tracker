@@ -40173,5 +40173,13 @@
     "location": "Sydney, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-24T03:44:44.600764"
+  },
+  "9acc96dcae51bd4938cfc8be78b40bb0": {
+    "company": "Stripe",
+    "title": "GTM Recruiter, APAC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8141453",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-24T04:35:29.282476"
   }
 }
