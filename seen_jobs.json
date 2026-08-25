@@ -40357,5 +40357,29 @@
     "location": "United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-25T15:33:00.995816"
+  },
+  "30c4cff37e3dfdb4ecfd6bc6d26d8703": {
+    "company": "Gumloop",
+    "title": "Solutions Engineer (Pre-Sales)",
+    "url": "https://jobs.ashbyhq.com/gumloop/94b10dd5-8498-4339-8b23-01bed81b2fc2",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T17:22:30.118145"
+  },
+  "a4d06ea65dd931fef126effaab1b96ca": {
+    "company": "Cape",
+    "title": "People Operations Associate ",
+    "url": "https://jobs.ashbyhq.com/cape/c8a93382-467f-46c5-9881-9f47ad531ef9",
+    "location": "New York, NY",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-25T17:22:34.434107"
+  },
+  "0bb7ab9c88f353c67b3877b46108d9d1": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8156996",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T17:23:13.237397"
   }
 }
