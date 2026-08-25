@@ -40325,5 +40325,21 @@
     "location": "Denmark",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-25T11:17:37.761377"
+  },
+  "b9b6f6316170bbcc427ae17aa0f89ac3": {
+    "company": "Pomelo Care",
+    "title": "Perinatal Nurse - Daytime (9a-6p EST)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/4904107004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T13:40:04.595754"
+  },
+  "43595605d022366749e9efce9bcea724": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, State and Local",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8631661002",
+    "location": "Maryland; Philadelphia, Pennsylvania",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T13:40:24.956635"
   }
 }
