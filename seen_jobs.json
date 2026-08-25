@@ -40429,5 +40429,45 @@
     "location": "Remote, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-25T19:23:29.239883"
+  },
+  "11ae248954e953d6c2b5848e41d8bc0d": {
+    "company": "Northwood Space",
+    "title": "Controller",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/36dc1ac1-5b60-4487-bf0b-06b039689b93",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T20:17:08.883867"
+  },
+  "9f9ff94d25e751b8880aede49d8980c4": {
+    "company": "Profound",
+    "title": "Value Consultant",
+    "url": "https://jobs.ashbyhq.com/profound/138c27bb-5da1-431f-a6a0-248f4c89e5fb",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T20:17:15.051654"
+  },
+  "d9f36d4220848f458c1f963a6f6aa24b": {
+    "company": "Databricks",
+    "title": "SAP Functional SME",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8688851002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T20:17:26.188830"
+  },
+  "7dd0244b7f3f6514269c369100a91b2d": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8138042",
+    "location": "New York, NY; San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T20:17:43.215679"
+  },
+  "fa16ab6806396cf82c6f66b99f824787": {
+    "company": "Stripe",
+    "title": "Account Executive, Strategic Platform Partnerships",
+    "url": "https://stripe.com/jobs/search?gh_jid=8157577",
+    "location": "San Francisco, CA; New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T20:17:43.216130"
   }
 }
