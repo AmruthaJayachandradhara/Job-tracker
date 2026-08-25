@@ -40341,5 +40341,13 @@
     "location": "Maryland; Philadelphia, Pennsylvania",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-25T13:40:24.956635"
+  },
+  "3816559e0278b52b54d51a26cfdc5a21": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups - Israel",
+    "url": "https://stripe.com/jobs/search?gh_jid=8121421",
+    "location": "Israel",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T14:34:43.604500"
   }
 }
