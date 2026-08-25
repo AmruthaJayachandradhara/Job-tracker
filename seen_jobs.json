@@ -40469,5 +40469,21 @@
     "location": "San Francisco, CA; New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-25T20:17:43.216130"
+  },
+  "775f81ee3bc916fc70e819dfa74c548f": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive, Southern Cone",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8673657002",
+    "location": "Remote, Mexico",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T21:18:07.896516"
+  },
+  "62507fb84e25529f9f3338846839c064": {
+    "company": "Coinbase",
+    "title": "Customer Support Supervisor",
+    "url": "https://www.coinbase.com/careers/positions/8120315?gh_jid=8120315",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T21:18:14.478768"
   }
 }
