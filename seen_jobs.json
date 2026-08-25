@@ -40293,5 +40293,21 @@
     "location": "SF, SEA, NYC, CHI, ATL",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-24T23:14:21.226600"
+  },
+  "e2fb65a7cfbe8c50ac6b59182fe9008e": {
+    "company": "GitLab",
+    "title": "Intermediate Software Engineer",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8721229002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T00:40:11.731600"
+  },
+  "c06105c95b43e74636401a613981c5f9": {
+    "company": "Replit",
+    "title": "Forward Deployed Engineer",
+    "url": "https://jobs.ashbyhq.com/replit/9a56d0ac-db44-4dc1-b960-2364557bf4c8",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T00:40:12.308932"
   }
 }
