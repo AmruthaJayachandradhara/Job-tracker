@@ -40381,5 +40381,45 @@
     "location": "Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-25T17:23:13.237397"
+  },
+  "bcfc58a79da62e880b9d8a11a2037bba": {
+    "company": "Gumloop",
+    "title": "Founding Product Designer",
+    "url": "https://jobs.ashbyhq.com/gumloop/7bd94324-7b7b-4bb8-b4f1-6bc20cfdd900",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T18:23:27.313400"
+  },
+  "8c9142d562ce1eebc6546c345f1f9c31": {
+    "company": "Cape",
+    "title": "HR Operations",
+    "url": "https://jobs.ashbyhq.com/cape/c8a93382-467f-46c5-9881-9f47ad531ef9",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T18:23:31.675307"
+  },
+  "80228e6f0d556e684dda4c8c4176d04c": {
+    "company": "Pomelo Care",
+    "title": "Sourcer (3 Month Term)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5695110004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T18:23:34.935763"
+  },
+  "0ada79a30801e73ebfb8b8f4997a4a7e": {
+    "company": "Northwood Space",
+    "title": "DSP Engineer (Early Career)",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/135405b4-f27a-42ef-8206-89caef240496",
+    "location": "Torrance, CA",
+    "filter_reason": "title match: 'early career'",
+    "first_seen": "2026-08-25T18:23:36.612045"
+  },
+  "9b54e36857652901529a83e490bbed2d": {
+    "company": "Listen Labs",
+    "title": "Recruiting Coordinator",
+    "url": "https://jobs.ashbyhq.com/listenlabs/b9b01279-8110-45c3-8fe0-75b6a550e40a",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T18:23:39.028380"
   }
 }
