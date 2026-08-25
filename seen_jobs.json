@@ -40309,5 +40309,13 @@
     "location": "Foster City, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-25T00:40:12.308932"
+  },
+  "d084fa9fb01e25d1681ca1edc6dbe220": {
+    "company": "Stripe",
+    "title": "Software Quality Assurance Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8153331",
+    "location": "Taipei,Taiwan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T07:36:09.876671"
   }
 }
