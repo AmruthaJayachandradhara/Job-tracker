@@ -40421,5 +40421,13 @@
     "location": "New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-25T18:23:39.028380"
+  },
+  "9233fe23a8d6c4ed381ccf5e5c0f2bc4": {
+    "company": "GitLab",
+    "title": "Forward Deployed Engineer, AI and Agentic SDLC",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8517171002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-25T19:23:29.239883"
   }
 }
