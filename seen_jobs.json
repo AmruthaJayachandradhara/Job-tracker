@@ -40661,5 +40661,69 @@
     "location": "Atlanta, GA; Chicago, IL",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-26T18:49:39.779131"
+  },
+  "c768958720cb0f547ae3bc1e0d05d0e7": {
+    "company": "Paraform",
+    "title": "Founding Technical Recruiter",
+    "url": "https://jobs.ashbyhq.com/paraform/e50af2b8-3ffe-43c9-8eca-dde8a5cc0ad7",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T21:27:36.178945"
+  },
+  "2706ad39cdb15a6a8bbaa2a7b360a2e9": {
+    "company": "Pomelo Care",
+    "title": "Collaborating Physician, Pediatrics (Per Diem)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6164526004",
+    "location": "South Carolina ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T21:27:40.331743"
+  },
+  "e842c01f55c64e4b750177b5a707308a": {
+    "company": "Pomelo Care",
+    "title": "Collaborating Physician, Women's Health (Per Diem)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6164533004",
+    "location": "South Carolina ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T21:27:40.331768"
+  },
+  "b84a10d732c5076a6b83b80303711a72": {
+    "company": "Spade",
+    "title": "Product Performance Analyst",
+    "url": "https://jobs.ashbyhq.com/spade/0e0ae162-6a3a-4b36-a434-74ccceacee49",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T21:27:44.984359"
+  },
+  "c8bc558ef60267ebc1b7bfa606551d22": {
+    "company": "Coinbase",
+    "title": "Analyst II, Treasury Operations",
+    "url": "https://www.coinbase.com/careers/positions/8160489?gh_jid=8160489",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T21:28:13.239382"
+  },
+  "07fd9d70774489eaa782cacd889fe2e8": {
+    "company": "Coinbase",
+    "title": "Compliance, Trade Surveillance Associate",
+    "url": "https://www.coinbase.com/careers/positions/8142975?gh_jid=8142975",
+    "location": "Remote - USA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-26T21:28:13.239465"
+  },
+  "dacc5f9d2e3bc1ee43310243270cc1fb": {
+    "company": "Gusto",
+    "title": "Customer Support Specialist, Health Insurance Benefits",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7983701",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T21:28:17.779467"
+  },
+  "8e6c9cbd77b2fad22cb1f7cf02da11e9": {
+    "company": "Gusto",
+    "title": "GTM AI Agent Builder",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8157333",
+    "location": "Atlanta, GA - Remote; Denver, CO - Hybrid; New York, New York, United States; Phoenix, AZ - Remote; San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T21:28:17.779647"
   }
 }
