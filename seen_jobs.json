@@ -40605,5 +40605,37 @@
     "location": "United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-26T13:44:41.540534"
+  },
+  "2b765af2bfcec686ae93ab0e3d1ac6c2": {
+    "company": "Pomelo Care",
+    "title": "Midlife Registered Dietitian (RD) - Licensed in Indiana",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6163552004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T16:09:28.604218"
+  },
+  "b6bb40a68ec48f09fedb8f3969957edc": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive \u2013 Utilities",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8737171002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T16:09:48.096666"
+  },
+  "db432f26495624a32815dd3e9f068784": {
+    "company": "Coinbase",
+    "title": "Social Support Specialist I",
+    "url": "https://www.coinbase.com/careers/positions/8147657?gh_jid=8147657",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T16:10:15.405971"
+  },
+  "2f77a51a9ef740abbde239bbbea4284f": {
+    "company": "Stripe",
+    "title": "Risk Operations Associate, Partner Risk Operations (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8158090",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-26T16:10:21.289126"
   }
 }
