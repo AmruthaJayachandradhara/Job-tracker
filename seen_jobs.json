@@ -40573,5 +40573,13 @@
     "location": "IN-Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-26T10:24:56.367847"
+  },
+  "fda378a06d313f3f1badc2ac295534b2": {
+    "company": "Stripe",
+    "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8093103",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-26T11:20:32.010581"
   }
 }
