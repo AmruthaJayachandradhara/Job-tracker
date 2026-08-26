@@ -40637,5 +40637,29 @@
     "location": "Mexico City",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-08-26T16:10:21.289126"
+  },
+  "adbe04c04a61af85b19573a43f82b88b": {
+    "company": "Dialpad",
+    "title": "Field & Events Marketing Specialist",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8751847002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T18:49:28.269507"
+  },
+  "decfb466a00b0215236ad9629cc11ae1": {
+    "company": "Mercury",
+    "title": "Customer Support Specialist - Weekend",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6163570004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T18:49:36.740919"
+  },
+  "e1d3cd21b61c6d946d4ff04148f8a7ff": {
+    "company": "Stripe",
+    "title": "Credit Operations Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8157823",
+    "location": "Atlanta, GA; Chicago, IL",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T18:49:39.779131"
   }
 }
