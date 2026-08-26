@@ -40501,5 +40501,13 @@
     "location": "Austin, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-25T23:16:41.066601"
+  },
+  "8cb1db63e28203e621d1eda13d431bf6": {
+    "company": "Pomelo Care",
+    "title": "Recruiter (3 Month Term)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6163315004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T02:18:29.953165"
   }
 }
