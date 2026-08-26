@@ -40541,5 +40541,37 @@
     "location": "Amsterdam, Netherlands",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-26T08:31:06.043733"
+  },
+  "f53cfaccd330d09d7b0da134ffac5003": {
+    "company": "Databricks",
+    "title": "\u30c7\u30ea\u30d0\u30ea\u30fc\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a2\u30fc\u30ad\u30c6\u30af\u30c8",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8578146002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T10:24:39.013256"
+  },
+  "642307c4ed0f972166f8c99506ad32aa": {
+    "company": "Stripe",
+    "title": "Operations Associate, Financial Crimes EDD/PEP",
+    "url": "https://stripe.com/jobs/search?gh_jid=8102597",
+    "location": "Bangalore ",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-26T10:24:56.365714"
+  },
+  "e835f0ce042ddc43234028e7c4641f0c": {
+    "company": "Stripe",
+    "title": "Tech Recruiter - Full Time Contract (FTC)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8142856",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T10:24:56.367813"
+  },
+  "873c3ad2a99e7a4575f06d2504f277b7": {
+    "company": "Stripe",
+    "title": "Treasury Finance \u2013 Business & Data Analytics ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7947074",
+    "location": "IN-Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T10:24:56.367847"
   }
 }
