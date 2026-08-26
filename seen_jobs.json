@@ -40581,5 +40581,21 @@
     "location": "Mexico City",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-08-26T11:20:32.010581"
+  },
+  "a500ff65e82ae514fbc206051f0a05d7": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Public Sector ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8206138002",
+    "location": "Remote - United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T12:29:30.361611"
+  },
+  "b6295d85c0d84f3efdfe9f949a096cc0": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Money Management  APAC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8068746",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-26T12:29:47.622061"
   }
 }
