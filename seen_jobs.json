@@ -40725,5 +40725,37 @@
     "location": "Atlanta, GA - Remote; Denver, CO - Hybrid; New York, New York, United States; Phoenix, AZ - Remote; San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-26T21:28:17.779647"
+  },
+  "0aad9425f5c700426e70063b967fa4e8": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - QSR",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8641388002",
+    "location": "Remote - North Carolina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-27T02:24:39.043808"
+  },
+  "cf7726351a6ac681380b6e678f203fd9": {
+    "company": "Databricks",
+    "title": "Sr Platform Monitoring Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407913002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-27T02:24:39.048192"
+  },
+  "9034cf57e6c1d010a11af911f9c1ebdf": {
+    "company": "Coinbase",
+    "title": "Communications Generalist",
+    "url": "https://www.coinbase.com/careers/positions/8160771?gh_jid=8160771",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-27T02:24:51.245688"
+  },
+  "5828ada0748542f337b8103b173e82c9": {
+    "company": "Stripe",
+    "title": "GTM Business Value Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8097047",
+    "location": "Chicago, New York, San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-27T02:24:54.941159"
   }
 }
