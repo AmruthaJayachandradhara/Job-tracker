@@ -40821,5 +40821,77 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-27T13:21:06.688315"
+  },
+  "0d51b0ab410ed8a5b19f8d9a938caca3": {
+    "company": "Pomelo Care",
+    "title": "Sourcer (3 Month Term)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6163315004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-27T23:21:28.516033"
+  },
+  "596ca0ab80b866d0da1da754a1872023": {
+    "company": "Listen Labs",
+    "title": "Account Executive, Strategic Accounts (EMEA)",
+    "url": "https://jobs.ashbyhq.com/listenlabs/ec625839-0181-4445-b158-5b9e6b7a85e9",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-27T23:21:32.353223"
+  },
+  "a1ea7ced1e51f790f9383f4c835541ed": {
+    "company": "Juicebox",
+    "title": "Product Specialist",
+    "url": "https://jobs.ashbyhq.com/juicebox/43694e73-8f15-4343-8dd4-5b0b2ee0a2ac",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-27T23:21:42.798983"
+  },
+  "733e2401fdf772d43485c0cecf38f8cc": {
+    "company": "Databricks",
+    "title": "Geo Core Account Executive - Digital Natives",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8641168002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-27T23:21:47.048364"
+  },
+  "707afc2487739e5daed4b9b44d2ec03a": {
+    "company": "Mercury",
+    "title": "Account Executive",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6167549004",
+    "location": "New York, NY or San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-27T23:21:59.546763"
+  },
+  "edb4bbeeb1780354217ab2d001ffff2f": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Developer & End-user Experience Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=7557899",
+    "location": "Toronto, NY, SEA, SF",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-27T23:22:02.859356"
+  },
+  "868195f5a02c7a5c6904f1cd03d069c4": {
+    "company": "Stripe",
+    "title": "Strategic Business Performance, Central Strategy & Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8155580",
+    "location": "US-Chicago, US-Remote, US-Seattle, US-San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-27T23:22:02.862796"
+  },
+  "78a89981f60a21a64a7a99b8b07ec58c": {
+    "company": "Stripe",
+    "title": "Support Operations, Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=8162819",
+    "location": "NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-27T23:22:02.862858"
+  },
+  "1d0808bdf38ce2fa8977539e31faf35e": {
+    "company": "Carta",
+    "title": "Contract Solutions Counsel",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7979901003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-27T23:22:04.698720"
   }
 }
