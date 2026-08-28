@@ -40917,5 +40917,85 @@
     "location": "Bengaluru, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-28T07:53:51.069098"
+  },
+  "28ada63c86912ed8d8c982012a228645": {
+    "company": "Encord",
+    "title": "Learning & Development Specialist",
+    "url": "https://jobs.ashbyhq.com/encord/f9cbd066-deba-4ca2-826b-286c2a00bf1e",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-28T19:46:57.621616"
+  },
+  "abfd6641e8ec6c5656324fa248e819d0": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Nordics",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8736885002",
+    "location": "Stockholm, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-28T19:47:08.951192"
+  },
+  "915ef8375cc281e2c6f421395b09a42c": {
+    "company": "Fivetran",
+    "title": "Software Engineer II",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7980027003",
+    "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-28T19:47:23.601988"
+  },
+  "592dd872168ff58e62531ac9fd9926b8": {
+    "company": "Coinbase",
+    "title": "Accountant, Cyprus",
+    "url": "https://www.coinbase.com/careers/positions/8053751?gh_jid=8053751",
+    "location": "Remote - Cyprus",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-28T19:47:33.608975"
+  },
+  "cb4a19737244d8349e4ad35e85177d7c": {
+    "company": "Affirm",
+    "title": "Customer Advocacy Associate II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7907787003",
+    "location": "Remote US",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-28T19:47:36.290507"
+  },
+  "720a037ff0646a4ddcb5d5179ad2b7c5": {
+    "company": "Affirm",
+    "title": "Quantitative Analyst II (Capital Structuring & Analytics)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7815954003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-28T19:47:36.290854"
+  },
+  "4bc3c426af162c5a8c158f8e2b4545c4": {
+    "company": "Affirm",
+    "title": "Quantitative Analyst II (Capital Structuring & Analytics)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7815952003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-28T19:47:36.290864"
+  },
+  "13d7844c24b4d7f15d969d64c0d25f16": {
+    "company": "Stripe",
+    "title": "Capital Markets Investments",
+    "url": "https://stripe.com/jobs/search?gh_jid=8164481",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-28T19:47:37.279527"
+  },
+  "4d5d7ec32f32bccb2a4ba30463facd09": {
+    "company": "Stripe",
+    "title": "Product Designer, Growth",
+    "url": "https://stripe.com/jobs/search?gh_jid=8164479",
+    "location": "New York, NY ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-28T19:47:37.281395"
+  },
+  "053d72cb60c0b6ec178731b696e3a23b": {
+    "company": "Stripe",
+    "title": "Product Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8163532",
+    "location": "NYC, SF, Seattle, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-28T19:47:37.281641"
   }
 }
