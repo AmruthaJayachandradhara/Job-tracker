@@ -40893,5 +40893,29 @@
     "location": "Toronto, Ontario, Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-27T23:22:04.698720"
+  },
+  "6a772817a9c51ade2b7a4adbfbfb4266": {
+    "company": "Juicebox",
+    "title": "GTM Strategy & Operations",
+    "url": "https://jobs.ashbyhq.com/juicebox/9dacd2f8-2a67-419f-88dd-d01dd2e8d1a6",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-28T07:53:46.271736"
+  },
+  "6c3d7e8d8c9940c88c8bfb2b70698713": {
+    "company": "Databricks",
+    "title": "Account Executive, Commercial - Hunter",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8758263002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-28T07:53:51.063200"
+  },
+  "fd6edf243ee826d7db7b52cd5f74be1d": {
+    "company": "Databricks",
+    "title": "Sr Software Engineer - Backend",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7955601002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-28T07:53:51.069098"
   }
 }
