@@ -41133,5 +41133,29 @@
     "location": "Dublin",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-08-29T02:36:47.424457"
+  },
+  "ce909ca221804be7f7a09a6fc4bfdefe": {
+    "company": "Fivetran",
+    "title": "People Business Partner",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7980292003",
+    "location": "Remote, Texas, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-29T09:33:31.259497"
+  },
+  "0b60c26721ed29fe6e4e27793f074262": {
+    "company": "Fivetran",
+    "title": "People Business Partner",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7980300003",
+    "location": "Remote, Pennsylvania, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-29T09:33:31.259525"
+  },
+  "0b5b2653e9d8371f7522805302ea6695": {
+    "company": "Fivetran",
+    "title": "People Business Partner",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7818237003",
+    "location": "Remote, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-29T09:33:31.259539"
   }
 }
