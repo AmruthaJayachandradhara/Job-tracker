@@ -41157,5 +41157,61 @@
     "location": "Remote, Colorado, United States, AMER",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-29T09:33:31.259539"
+  },
+  "8afc8763e40613c6f2cd1615990966de": {
+    "company": "Fivetran",
+    "title": "Business Development Representative (Austin)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7792160003",
+    "location": "USA - Austin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T14:35:37.322327"
+  },
+  "37ddc26a09c2a9549a981b6aab23d3c6": {
+    "company": "Fivetran",
+    "title": "Business Development Representative (Denver)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7981621003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T14:35:37.322390"
+  },
+  "67738c7dbe02be34e655459fcd9109b8": {
+    "company": "Fivetran",
+    "title": "Business Development Representative (Dublin)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7981617003",
+    "location": "Dublin, Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T14:35:37.322403"
+  },
+  "0766e45d179f24ef6398c0a00199a04f": {
+    "company": "Fivetran",
+    "title": "Business Development Representative (London)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7981487003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T14:35:37.322444"
+  },
+  "1143ca77b050f2c92bbde3f22ee223b6": {
+    "company": "Fivetran",
+    "title": "Business Development Representative (Oakland)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7981429003",
+    "location": "Oakland, California, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T14:35:37.322456"
+  },
+  "10c4dc0fdf175bcb80d82d07c95a943b": {
+    "company": "Fivetran",
+    "title": "Business Development Representative (Sydney)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7981431003",
+    "location": "Sydney, New South Wales, Australia, APAC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T14:35:37.322468"
+  },
+  "38f44f011d32787f3cefa39fc0cc8b09": {
+    "company": "Fivetran",
+    "title": "Software Engineer - SaaS Connectors",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7980027003",
+    "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T14:35:37.323836"
   }
 }
