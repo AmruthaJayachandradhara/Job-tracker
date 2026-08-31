@@ -41213,5 +41213,85 @@
     "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-08-31T14:35:37.323836"
+  },
+  "79df8f0a2617a07eb0391347157f4a56": {
+    "company": "Cape",
+    "title": "Account Executive, Navy ",
+    "url": "https://jobs.ashbyhq.com/cape/8b844b20-8345-4291-8bfb-25c7bf34ec62",
+    "location": "Arlington, VA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T20:28:25.877792"
+  },
+  "50ac05984c2ca8ff54b78fac70156b5d": {
+    "company": "Databricks",
+    "title": "App Engineer - GTM Strategy and Operations ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8397501002",
+    "location": "Chicago, Illinois",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T20:28:51.466912"
+  },
+  "4cd5ccb11809583a163844bc9e150543": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Retail ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582321002",
+    "location": "Remote - Texas",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T20:28:51.467884"
+  },
+  "076a9671f18d978c9391e6ff868c9a2d": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8766584002",
+    "location": "San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T20:28:51.474455"
+  },
+  "e33d954beba8376bc90ec29a06d79e06": {
+    "company": "Dialpad",
+    "title": "SEO Specialist: AI Search",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8754688002",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T20:28:57.892903"
+  },
+  "033038d062b6e436f4485caeef0c9719": {
+    "company": "EarnIn",
+    "title": "AI Builder",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8167727",
+    "location": "Mountain View, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T20:29:07.379853"
+  },
+  "79b969218643989ee2247833f497dc7d": {
+    "company": "Stripe",
+    "title": "Designer, Web, Presence & Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130913",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T20:29:09.245645"
+  },
+  "0b72aea5df83e029cbccfa0b19b330ff": {
+    "company": "Stripe",
+    "title": "Implementation Specialist, GTM Accelerate",
+    "url": "https://stripe.com/jobs/search?gh_jid=7393071",
+    "location": "Mexico",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T20:29:09.246630"
+  },
+  "7f9ce784b96db3ba015412511926f1a5": {
+    "company": "Gusto",
+    "title": "Software Engineer, Payments",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8104213",
+    "location": "New York, New York, United States; San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-08-31T20:29:09.943685"
+  },
+  "d967deeb27dbc26e2035d22989190991": {
+    "company": "Carta",
+    "title": "Loan Operations Associate",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7920603003",
+    "location": "New York, NY; Hamilton, NJ",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-08-31T20:29:11.129628"
   }
 }
