@@ -41629,5 +41629,37 @@
     "location": "Boston, Massachusetts; Kentucky; United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-01T21:38:02.669040"
+  },
+  "af5fc1bedc6a7bd56c9f541320b7087c": {
+    "company": "Dialpad",
+    "title": "Talent Acquisition Partner ",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8555250002",
+    "location": "Tempe, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T23:40:42.658410"
+  },
+  "42d0318d6ad446489147e09dbb5cbbf4": {
+    "company": "Dialpad",
+    "title": "Talent Acquisition Partner ",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8771040002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T23:40:42.658435"
+  },
+  "c9d89519d848dd7d2ac17d0916396a96": {
+    "company": "Dialpad",
+    "title": "Talent Acquisition Partner ",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8771044002",
+    "location": "Anywhere, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T23:40:42.658444"
+  },
+  "227d036ebe62dcddb068d45b7c6b8fc5": {
+    "company": "Coinbase",
+    "title": "Software Engineer, Data Layer ",
+    "url": "https://www.coinbase.com/careers/positions/8029037?gh_jid=8029037",
+    "location": "Remote - Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T23:40:50.279890"
   }
 }
