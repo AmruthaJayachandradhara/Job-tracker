@@ -41421,5 +41421,37 @@
     "location": "Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-01T05:52:29.771285"
+  },
+  "0dffde76f083e993dbdaf3637bb74cd2": {
+    "company": "Listen Labs",
+    "title": "Account Executive, Enterprise",
+    "url": "https://jobs.ashbyhq.com/listenlabs/a40a4c56-50be-4cc8-8acf-853adfd64f88",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T10:45:41.906591"
+  },
+  "422bae0f93b5af10dc9dd2c44b5cb6c3": {
+    "company": "Listen Labs",
+    "title": "Account Executive, Strategic Accounts",
+    "url": "https://jobs.ashbyhq.com/listenlabs/ec625839-0181-4445-b158-5b9e6b7a85e9",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T10:45:41.906706"
+  },
+  "fdf9035205f795659ffefa7aa7a9dfde": {
+    "company": "Listen Labs",
+    "title": "GTM Associate",
+    "url": "https://jobs.ashbyhq.com/listenlabs/48b73ce6-e32a-4cec-8e6f-4c5b01563815",
+    "location": "London, UK",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-01T10:45:41.906732"
+  },
+  "72b94c69ffec8539c06ba9870f1ba87b": {
+    "company": "Stripe",
+    "title": "Account Executive, Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=8041076",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T10:46:16.524818"
   }
 }
