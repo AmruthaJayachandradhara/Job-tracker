@@ -41397,5 +41397,29 @@
     "location": "San Francisco, CA, Chicago, IL, New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-01T00:12:20.254884"
+  },
+  "ca13c86384b25d75a0fcc5e971f01df3": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms (Existing Business)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7456957",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T05:52:29.089362"
+  },
+  "a17c7cfc2d7ddd5b024d38ed37ca2009": {
+    "company": "Stripe",
+    "title": "Operations Associate, Apprenticeship",
+    "url": "https://stripe.com/jobs/search?gh_jid=8131339",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-01T05:52:29.091720"
+  },
+  "36db436405f2e1542a93971ff28f4754": {
+    "company": "Gusto",
+    "title": "Brand & Motion Designer",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7728150",
+    "location": "Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T05:52:29.771285"
   }
 }
