@@ -41293,5 +41293,109 @@
     "location": "New York, NY; Hamilton, NJ",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-08-31T20:29:11.129628"
+  },
+  "0f2dfc6bfe270edd655e979e6f02976c": {
+    "company": "Northwood Space",
+    "title": "Capture Strategist",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/89dbc7de-d00c-4ba9-81b6-7a0cf60ede80",
+    "location": "Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T00:11:43.820999"
+  },
+  "4b4447074b64ea7b3ac789db6d134957": {
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+    "location": "London",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-01T00:12:20.254542"
+  },
+  "3f9a32c74be800206b341088ee1edbbf": {
+    "company": "Stripe",
+    "title": "Software Engineer, Intern ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130807",
+    "location": "Bucharest",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-01T00:12:20.254567"
+  },
+  "cb72d0673b75a27350576d64a84cbd4b": {
+    "company": "Stripe",
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+    "location": "Toronto",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-01T00:12:20.254582"
+  },
+  "9a03446fccad4c10221cd7aff12934fe": {
+    "company": "Stripe",
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+    "location": "Dublin",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-01T00:12:20.254591"
+  },
+  "20894afd208cecdbfed738e5c90db33e": {
+    "company": "Stripe",
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+    "location": "San Francisco, Seattle, New York City",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-01T00:12:20.254599"
+  },
+  "a7e150bc37691f4cc6e446cab8f4a965": {
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+    "location": "San Francisco, Seattle, New York",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-09-01T00:12:20.254638"
+  },
+  "ac4d0586beae1aed9892f31523239a46": {
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+    "location": "Dublin",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-09-01T00:12:20.254648"
+  },
+  "5371256c55a8cfbbd71ef13eefb91126": {
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+    "location": "London",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-09-01T00:12:20.254656"
+  },
+  "30d7004106008c9868229a87400702e5": {
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+    "location": "Toronto",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-09-01T00:12:20.254663"
+  },
+  "860c1b3e11ba1c5b768d2770a90aa550": {
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+    "location": "Bucharest",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-09-01T00:12:20.254671"
+  },
+  "f0616d56f8ba9395eef3a9df2067a5dd": {
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad - Frontend",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130927",
+    "location": "Barcelona",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-09-01T00:12:20.254679"
+  },
+  "1f8f70c2e42b79ae8cc28e124bf452bd": {
+    "company": "Stripe",
+    "title": "Solutions Consultant, Enterprise (Presales)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8168151",
+    "location": "San Francisco, CA, Chicago, IL, New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T00:12:20.254884"
   }
 }
