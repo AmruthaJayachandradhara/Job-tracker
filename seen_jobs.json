@@ -41557,5 +41557,53 @@
     "location": "Luxembourg ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-01T15:18:48.041387"
+  },
+  "11e69fc17637bbf92b4382d3326feca8": {
+    "company": "Hex",
+    "title": "Data Person",
+    "url": "https://jobs.ashbyhq.com/hex/50af1fde-125b-4442-b574-86d924f66cc6",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T18:59:55.329432"
+  },
+  "a6fe8d6bd25bb9d811f785281f90228d": {
+    "company": "Coinbase",
+    "title": "Analyst, Privacy",
+    "url": "https://www.coinbase.com/careers/positions/8168175?gh_jid=8168175",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T19:00:12.364950"
+  },
+  "3343056f34b59b88ac28a5d190394416": {
+    "company": "Stripe",
+    "title": "Sales Strategy & Operations Analyst ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8164674",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T19:00:16.709581"
+  },
+  "783cf7fbd00d0a6580d887ce57fe7990": {
+    "company": "Stripe",
+    "title": "Software Engineer, Metronome Infrastructure",
+    "url": "https://stripe.com/jobs/search?gh_jid=7737237",
+    "location": "Toronto, Vancouver, Canada-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T19:00:16.709943"
+  },
+  "086c8b8cab853f075edf59e77bbeb857": {
+    "company": "Stripe",
+    "title": "Software Engineer, Platform Infrastructure",
+    "url": "https://stripe.com/jobs/search?gh_jid=8127182",
+    "location": "San Francisco, New York City, Seattle, Chicago, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T19:00:16.710023"
+  },
+  "cac324653d8ff54505e1f1473ed4d475": {
+    "company": "Gusto",
+    "title": "CX Business Intelligence Analyst",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8119978",
+    "location": "Chicago, IL - Remote; Denver, CO - Hybrid; Las Vegas, NV - Remote; New York, New York, United States; Phoenix, AZ - Remote; San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T19:00:17.423801"
   }
 }
