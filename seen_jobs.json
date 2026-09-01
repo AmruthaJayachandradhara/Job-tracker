@@ -41605,5 +41605,29 @@
     "location": "Chicago, IL - Remote; Denver, CO - Hybrid; Las Vegas, NV - Remote; New York, New York, United States; Phoenix, AZ - Remote; San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-01T19:00:17.423801"
+  },
+  "a19e8c3da14b4ad149c0896194f029fe": {
+    "company": "Gumloop",
+    "title": "Software Engineer - Infrastructure ",
+    "url": "https://jobs.ashbyhq.com/gumloop/35729200-4460-40a6-8972-508bd1d0f6b5",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T21:37:33.045298"
+  },
+  "1d4758a67aee3b812d0a75169e9a7309": {
+    "company": "Pomelo Care",
+    "title": "Sourcer (3 Month Term)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6178571004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T21:37:40.834291"
+  },
+  "fbe3877890f1b32f10ffa570ca63769c": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive-Manufacturing ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8770524002",
+    "location": "Boston, Massachusetts; Kentucky; United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T21:38:02.669040"
   }
 }
