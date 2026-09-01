@@ -41453,5 +41453,109 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-01T10:46:16.524818"
+  },
+  "2d91b92e30794619dbe75293d1339376": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002",
+    "location": "Berkeley, California; Los Angeles, California; Mountain View, California; Sacramento, California; San Diego, California; San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T15:18:29.855716"
+  },
+  "0c3ff1b0b6dbdb05744b5faac748650f": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002",
+    "location": "New York City, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T15:18:29.855739"
+  },
+  "c71798a55e7ffbc340ed51c8e7465303": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002",
+    "location": "Bellevue, Washington; Seattle, Washington",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T15:18:29.855748"
+  },
+  "a713a041db53a08066ee3c2e8c7afca5": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760319002",
+    "location": "Charlotte, North Carolina; Durham, North Carolina; Raleigh, North Carolina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T15:18:29.855773"
+  },
+  "7faecc34816c4dc8c68eb97399b5abcd": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760318002",
+    "location": "McLean, Virginia; Reston, Virginia; Richmond, Virginia; Washington, D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T15:18:29.855789"
+  },
+  "1dc5a5c078f62dd0c001b4c4675bc578": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760299002",
+    "location": "Denver, Colorado",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T15:18:29.855797"
+  },
+  "b7066cb9cf1e738060e9d11422092a0c": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002",
+    "location": "Boston, Massachusetts",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T15:18:29.855804"
+  },
+  "c00e9b3afa5b0059520f1324313b8f8d": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002",
+    "location": "Austin, Texas; Dallas, Texas; Houston, Texas; Plano, Texas",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T15:18:29.855813"
+  },
+  "524f94a2b32e2ba7028a681c58912535": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002",
+    "location": "Chicago, Illinois",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T15:18:29.855821"
+  },
+  "8270c244da4a8de567406df7aaacab1c": {
+    "company": "GitLab",
+    "title": "New Business Account Executive - Netherlands",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8527416002",
+    "location": "Remote, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T15:18:36.158292"
+  },
+  "e8f1eb7e0d3fe23436ac8dd1a7fd2639": {
+    "company": "Stripe",
+    "title": "Technical Support Engineer (EMEA)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7737248",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T15:18:46.117729"
+  },
+  "337624aa99385c01eed3e8a4b9755b32": {
+    "company": "Gusto",
+    "title": " Social Content Strategist",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8094344",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T15:18:46.829890"
+  },
+  "3ef36157deba081b5e7ced892f77eebf": {
+    "company": "Carta",
+    "title": "Registrar & Transfer Agency Officer",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7983004003",
+    "location": "Luxembourg ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-01T15:18:48.041387"
   }
 }
