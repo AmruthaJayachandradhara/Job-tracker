@@ -41685,5 +41685,21 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-09-02T06:47:01.447152"
+  },
+  "236314efe44e3e3893f473345516dfa1": {
+    "company": "Fivetran",
+    "title": "Enterprise Sales Rep",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7897681003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T11:52:15.230683"
+  },
+  "8cb64a64afbfc1ac9d12580b40d6a501": {
+    "company": "Stripe",
+    "title": "[TEMPLATE] Default Template",
+    "url": "https://stripe.com/jobs/search?gh_jid=8168554",
+    "location": "Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T11:52:28.952548"
   }
 }
