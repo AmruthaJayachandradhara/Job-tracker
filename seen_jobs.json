@@ -41757,5 +41757,61 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-02T15:36:50.290548"
+  },
+  "ca295b1f74541d57cb8e5180068bd551": {
+    "company": "Spade",
+    "title": "Executive Assistant",
+    "url": "https://jobs.ashbyhq.com/spade/7a0da017-73d1-44c0-a78f-d074759615ef",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T19:05:11.147911"
+  },
+  "126a1823c9ce6a359f3adf2290d21719": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer, AMER",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8773006002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T19:05:32.079547"
+  },
+  "36484c663c66d2342417b2d9b83d0c63": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer, EMEA",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775415002",
+    "location": "Remote, Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T19:05:32.079577"
+  },
+  "05434aa4fe68ac4402aca94c31aef020": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer, EMEA",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8778279002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T19:05:32.079586"
+  },
+  "d7fc57a2403150bce66726ae5a18b091": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002",
+    "location": "Remote, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T19:05:32.079596"
+  },
+  "a04100a38fde106139e62b7735636ca6": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8174105",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T19:05:41.922602"
+  },
+  "2c789e2987dde7a6ad21b48b4b49301e": {
+    "company": "Stripe",
+    "title": "Strategic Capacity Planning Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8168554",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T19:05:41.923550"
   }
 }
