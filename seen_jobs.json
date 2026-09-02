@@ -41813,5 +41813,29 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-02T19:05:41.923550"
+  },
+  "6849732e8ab861c87bd53949aa4338e2": {
+    "company": "Northwood Space",
+    "title": "Electrical Engineer ",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/af609880-1e6c-4f89-8594-3c593f6eba0f",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T22:08:52.266935"
+  },
+  "95d3ebcc983e81682f408e7e9847dc30": {
+    "company": "Northwood Space",
+    "title": "Site Engineer ",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/baa85b78-5718-4e74-9b21-170776dc4185",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T22:08:52.266972"
+  },
+  "6d1c9061060521f18fc06039ac694f0d": {
+    "company": "Stripe",
+    "title": "Capital Markets, FX Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8171098",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T22:09:29.023642"
   }
 }
