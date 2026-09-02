@@ -41701,5 +41701,61 @@
     "location": "Ireland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-02T11:52:28.952548"
+  },
+  "6874a8c53788f7d7e276a8d12ab2d4ce": {
+    "company": "Spade",
+    "title": "Account Executive - Enterprise",
+    "url": "https://jobs.ashbyhq.com/spade/6297ade8-b25d-4b9f-8c53-6654849f14e8",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T15:36:17.864243"
+  },
+  "8dc273acbb85d2e7ab73c4050700fea6": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
+    "location": "Maryland; Virginia; Washington, D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T15:36:33.946568"
+  },
+  "31529e7b246847915a4a90e43aa71969": {
+    "company": "Dialpad",
+    "title": "Software Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8701282002",
+    "location": "Vancouver, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T15:36:38.613898"
+  },
+  "4545f37004ffbcfad65a3a896ed93da5": {
+    "company": "Mercury",
+    "title": "KYC Investigator - Ongoing Due Diligence",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6178928004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T15:36:47.217522"
+  },
+  "b7ef7b2af74d2ebda90226fb28c6529f": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Recoveries)  ",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7854606003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T15:36:49.234680"
+  },
+  "abeaf6d83ae32d9413dc2642574b140b": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Recoveries)  ",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7854608003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T15:36:49.234702"
+  },
+  "667014e8debd960c8970d3eb68f6c18d": {
+    "company": "Stripe",
+    "title": "Integration Engineer, Metronome ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8171222",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T15:36:50.290548"
   }
 }
