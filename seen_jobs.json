@@ -41661,5 +41661,29 @@
     "location": "Remote - Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-01T23:40:50.279890"
+  },
+  "671210dd0e15d138472a85274138d0d9": {
+    "company": "Dialpad",
+    "title": "Sales Prospecting Coach",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8759449002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T06:46:49.472567"
+  },
+  "1cadced5fa656220105604a0771f6348": {
+    "company": "Replit",
+    "title": "Learning Experiences Creator",
+    "url": "https://jobs.ashbyhq.com/replit/e658545c-ee42-48b5-8f39-c43991b02164",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-02T06:46:51.795195"
+  },
+  "92e8a2eb3270dd105343eaeba9d3318f": {
+    "company": "Stripe",
+    "title": "Verifications Operations Associate",
+    "url": "https://stripe.com/jobs/search?gh_jid=8022703",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-02T06:47:01.447152"
   }
 }
