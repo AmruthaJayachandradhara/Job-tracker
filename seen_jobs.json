@@ -41989,5 +41989,13 @@
     "location": "Dallas, TX",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-03T21:31:10.359764"
+  },
+  "691677d4646d9beea718ee8e5e6254e2": {
+    "company": "Coinbase",
+    "title": "Software Engineer, Blockchain Platform Nodes",
+    "url": "https://www.coinbase.com/careers/positions/8105437?gh_jid=8105437",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T23:41:25.924900"
   }
 }
