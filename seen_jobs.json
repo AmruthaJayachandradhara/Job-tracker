@@ -41853,5 +41853,37 @@
     "location": "Singapore",
     "filter_reason": "title match: 'new grad'",
     "first_seen": "2026-09-03T05:21:01.485604"
+  },
+  "45192e4e22e9d31c9a49fca40a734859": {
+    "company": "Databricks",
+    "title": "Business Development Representative",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8031572002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T10:22:37.011226"
+  },
+  "abaa012e04f54133290cf49111483919": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8736877002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T10:22:43.532596"
+  },
+  "bf50b8defc9e831e5086c03adc732526": {
+    "company": "Stripe",
+    "title": "Account Executive Product - Tax",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175830",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T10:22:54.235476"
+  },
+  "db42d67a2bac387fb18501da6947faca": {
+    "company": "Stripe",
+    "title": "Channel Sales Executive",
+    "url": "https://stripe.com/jobs/search?gh_jid=8165273",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T10:22:54.236060"
   }
 }
