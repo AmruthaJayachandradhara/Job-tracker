@@ -41901,5 +41901,45 @@
     "location": "Nevada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-03T14:48:35.149555"
+  },
+  "671b04ba2138b57cdd5b1f02fa3cb46f": {
+    "company": "Braintrust",
+    "title": "Sales Recruiter",
+    "url": "https://jobs.ashbyhq.com/braintrust/9f2df135-af48-43f7-a5f7-46ca8841f1d9",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T18:13:35.779258"
+  },
+  "5c8ccd9d66d9dba70492a5daa2172295": {
+    "company": "Tanium",
+    "title": "Sales Development Representative",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8148666",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T18:14:09.498396"
+  },
+  "8502121e1d466a6e49902f6c0fd8f3ae": {
+    "company": "Coinbase",
+    "title": "Threat Intelligence Platform Engineer",
+    "url": "https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T18:14:14.290306"
+  },
+  "32d6cd8fd708255bf296b33c2a22082b": {
+    "company": "Gusto",
+    "title": "Sales Implementation Associate ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8175123",
+    "location": "Atlanta, GA - Remote; Denver, CO - Hybrid; Phoenix, AZ - Remote",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-03T18:14:33.215629"
+  },
+  "d554a0f92845fe90c7edf7e3250400da": {
+    "company": "Gusto",
+    "title": "Sales Onboarding Advocate ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8175108",
+    "location": "Atlanta, GA - Remote; Denver, CO - Hybrid; Phoenix, AZ - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T18:14:33.215655"
   }
 }
