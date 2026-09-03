@@ -41941,5 +41941,53 @@
     "location": "Atlanta, GA - Remote; Denver, CO - Hybrid; Phoenix, AZ - Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-03T18:14:33.215655"
+  },
+  "75bf2df9d087eee14febbd760778a2c3": {
+    "company": "Stripe",
+    "title": "Abuse Investigator",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172487",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T21:31:08.443594"
+  },
+  "6191ded94c96a0ea998c9a97d32dbe6d": {
+    "company": "Stripe",
+    "title": "Abuse Investigator",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172508",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T21:31:08.443621"
+  },
+  "ea884f437317f6206f6560b815f0d998": {
+    "company": "Stripe",
+    "title": "Core Business Recruiter (Fixed Term Contract)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8163187",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T21:31:08.444652"
+  },
+  "33fcad69b12e5cddf9aa61e08bb3f6fb": {
+    "company": "Stripe",
+    "title": "Product Strategy & Operations - Global Product",
+    "url": "https://stripe.com/jobs/search?gh_jid=8177640",
+    "location": "US-SF, US-Seattle, US-NYC, US-Atlanta, US-Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T21:31:08.446769"
+  },
+  "2ce59ba6a6907e43d2f0761042685ec5": {
+    "company": "Stripe",
+    "title": "Software Engineer, Online Database Infrastructure",
+    "url": "https://stripe.com/jobs/search?gh_jid=8177930",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T21:31:08.447507"
+  },
+  "2c02d8e82bcf1d000f602b5eac3b8da6": {
+    "company": "Carta",
+    "title": "Counsel ",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7985821003",
+    "location": "Dallas, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T21:31:10.359764"
   }
 }
