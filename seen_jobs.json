@@ -41885,5 +41885,21 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-03T10:22:54.236060"
+  },
+  "152a321dbd18f547c7161e49264c34d2": {
+    "company": "Encord",
+    "title": "Financial Analyst",
+    "url": "https://jobs.ashbyhq.com/encord/60e9fe72-a087-493e-b74a-bf4add586e9a",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T14:48:22.508609"
+  },
+  "8d20350d6b23b80f0140f3c63a476e92": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Gaming ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8588516002",
+    "location": "Nevada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-03T14:48:35.149555"
   }
 }
