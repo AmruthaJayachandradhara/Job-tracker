@@ -41845,5 +41845,13 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-09-03T00:51:48.758366"
+  },
+  "827c03643368ae892c953b8aa0f2458e": {
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8160776",
+    "location": "Singapore",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-09-03T05:21:01.485604"
   }
 }
