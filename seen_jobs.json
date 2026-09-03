@@ -41837,5 +41837,13 @@
     "location": "New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-02T22:09:29.023642"
+  },
+  "1ab69c72d3aee37b11b243467ca8f2bb": {
+    "company": "Stripe",
+    "title": "Voice Support Operations Associate ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8168793",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-03T00:51:48.758366"
   }
 }
