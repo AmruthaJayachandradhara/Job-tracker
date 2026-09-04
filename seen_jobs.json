@@ -42037,5 +42037,13 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-04T06:59:35.938168"
+  },
+  "98c15ea504acf263eae26232a7f989ad": {
+    "company": "Databricks",
+    "title": "Executive Assistant, R&D",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8743120002",
+    "location": "Belgrade, Serbia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T11:59:48.689869"
   }
 }
