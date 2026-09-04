@@ -42077,5 +42077,21 @@
     "location": "Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-04T15:56:04.278460"
+  },
+  "e1809cc6fd1201429b2400740013df4f": {
+    "company": "Render",
+    "title": "Customer EngineerRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/324ad170-5bdd-44c7-becf-9c30a696178e",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T18:41:56.347047"
+  },
+  "2587a1c3aeb0d5a00c01a516f76180b6": {
+    "company": "Databricks",
+    "title": "Recruiter, GTM & Field Engineering",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8771700002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T18:42:24.258922"
   }
 }
