@@ -42093,5 +42093,53 @@
     "location": "London, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-04T18:42:24.258922"
+  },
+  "9c810876bbdb846ddbaf52cff0a6df3c": {
+    "company": "Juicebox",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a",
+    "location": "San Francisco",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-04T21:09:30.173725"
+  },
+  "adbebd407388609665a6a38c60959dc1": {
+    "company": "Mercury",
+    "title": "Customer Support Specialist ",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6163570004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T21:09:47.381377"
+  },
+  "010009c72c711e420ca6d1942bb406c5": {
+    "company": "Affirm",
+    "title": "Software Engineer II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7981805003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T21:09:49.332387"
+  },
+  "f3b41751483f6ceeff4826bbbecad8e2": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Post-Transaction)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7981803003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T21:09:49.332493"
+  },
+  "9893a72a39ed6bce295d80c3be51ffcf": {
+    "company": "Stripe",
+    "title": "Product Support Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8148497",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T21:09:50.357979"
+  },
+  "aa92158d137bca462ac0048d1ebdf274": {
+    "company": "Stripe",
+    "title": "User Escalation Specialist ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8180318",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T21:09:50.360032"
   }
 }
