@@ -42045,5 +42045,37 @@
     "location": "Belgrade, Serbia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-04T11:59:48.689869"
+  },
+  "46c7aa24b1c8a1cc39dd95e54e8c08f6": {
+    "company": "WitnessAI",
+    "title": "Machine Learning Engineer",
+    "url": "https://jobs.ashbyhq.com/witnessai/17fc7435-f9b0-4c70-b582-d8f86d4f4d4c",
+    "location": "Bay Area",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T15:55:17.336675"
+  },
+  "656a56c70e161e05f6c5cbf4f559db9e": {
+    "company": "Databricks",
+    "title": "Executive Assistant",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8701067002",
+    "location": "Belgrade, Serbia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T15:55:44.084209"
+  },
+  "66c203e188963ad77ce9e5238847bbdc": {
+    "company": "Stripe",
+    "title": "Investigator ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172491",
+    "location": "US Remote ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T15:56:04.275619"
+  },
+  "2d003d7d7f8d237bf7e7e5a11176f5fc": {
+    "company": "Stripe",
+    "title": "Strategy and Operations Business Partner, Global Payments Performance",
+    "url": "https://stripe.com/jobs/search?gh_jid=8171928",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T15:56:04.278460"
   }
 }
