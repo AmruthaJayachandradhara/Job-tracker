@@ -41997,5 +41997,45 @@
     "location": "Remote - USA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-03T23:41:25.924900"
+  },
+  "6312cdadb9932584ad860f4193114f08": {
+    "company": "Databricks",
+    "title": "Enterprise Geo Hunter Account Executive - Financial Services",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8770533002",
+    "location": "Northeast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T06:59:20.048485"
+  },
+  "3da060096858e25935696ddd76a2d06c": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive - Financial Services",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8770530002",
+    "location": "New York City, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T06:59:20.055392"
+  },
+  "b8100c06d838951edd9489b293f82d28": {
+    "company": "GitLab",
+    "title": "New Business Account Executive - Netherlands",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8781246002",
+    "location": "Remote, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T06:59:26.243491"
+  },
+  "25ca3c1e5ffe38a14e37ac6a3e05d8be": {
+    "company": "Stripe",
+    "title": "Critical Support Operations Associate, Weekend Coverage",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175816",
+    "location": "N/A",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-04T06:59:35.937579"
+  },
+  "21545ea4e7a87f202a64355322981c70": {
+    "company": "Stripe",
+    "title": "Enterprise Support Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8141829",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T06:59:35.938168"
   }
 }
