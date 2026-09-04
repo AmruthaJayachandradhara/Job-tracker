@@ -42141,5 +42141,21 @@
     "location": "Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-04T21:09:50.360032"
+  },
+  "ce55491d1fbf7d8f42243d7a4488df27": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive, State and Local",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8770526002",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T23:34:08.266375"
+  },
+  "18949ec73ff5eae54d9fb8b9c7856cb8": {
+    "company": "Gusto",
+    "title": "Product Designer, Growth Pricing & Revenue Systems",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8112001",
+    "location": "Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-04T23:34:39.871783"
   }
 }
