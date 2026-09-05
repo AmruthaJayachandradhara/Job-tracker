@@ -42173,5 +42173,13 @@
     "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-05T01:59:40.472565"
+  },
+  "2e1fb1e03f81858678fb0fb9b8b4c616": {
+    "company": "Stripe",
+    "title": "Contracting Operations Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7994945",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-05T11:03:11.287431"
   }
 }
