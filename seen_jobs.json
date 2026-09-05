@@ -42157,5 +42157,21 @@
     "location": "Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-04T23:34:39.871783"
+  },
+  "d99bc1c6141cf87ab6c1529e391a4dcc": {
+    "company": "Replit",
+    "title": "Cohort 0 ",
+    "url": "https://jobs.ashbyhq.com/replit/2c147ccb-2557-40f8-aab9-64422cef220c",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-05T01:59:39.733147"
+  },
+  "7315418e98da8da01ce2862f5f9183c2": {
+    "company": "Tanium",
+    "title": "Corporate AI Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8180082",
+    "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-05T01:59:40.472565"
   }
 }
