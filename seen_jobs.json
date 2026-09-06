@@ -42181,5 +42181,13 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-05T11:03:11.287431"
+  },
+  "06f53e4ecf98d08f3de44026cee37946": {
+    "company": "Stripe",
+    "title": "Forward Deployed Security Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8181003",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-06T17:25:21.563681"
   }
 }
