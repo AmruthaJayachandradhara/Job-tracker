@@ -42189,5 +42189,13 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-06T17:25:21.563681"
+  },
+  "ddb73efe91347b9784ecf7a387e78947": {
+    "company": "Hex",
+    "title": "Recruiting Coordinator",
+    "url": "https://jobs.ashbyhq.com/hex/2ea273bb-148a-4435-8764-31053fa1641e",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-06T23:21:06.216540"
   }
 }
