@@ -42253,5 +42253,29 @@
     "location": "London, Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-07T13:08:43.548279"
+  },
+  "f76fcee033634b1a8c751685d75e4a18": {
+    "company": "Dialpad",
+    "title": "Software Engineer, AI / ML Inference Platform",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8631737002",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-07T18:29:24.888438"
+  },
+  "4719abe612dc1798568571ee2d5df1ba": {
+    "company": "Affirm",
+    "title": "Analyst II, Credit",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7832318003",
+    "location": "Remote UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-07T18:29:35.993458"
+  },
+  "bce7a279195517a75b65913b1ffa7f88": {
+    "company": "Stripe",
+    "title": "Implementation Consultant (SEA/GCN)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175818",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-07T18:29:37.020131"
   }
 }
