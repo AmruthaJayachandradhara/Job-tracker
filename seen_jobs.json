@@ -42213,5 +42213,45 @@
     "location": "Singapore",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-09-07T06:47:48.946975"
+  },
+  "4be514fad0eb0ef97186953db338948c": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive - Retail",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8700402002",
+    "location": "Munich, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-07T13:08:27.824299"
+  },
+  "05b9e54d69912f5a7f01685870c408c9": {
+    "company": "Databricks",
+    "title": "Strategic Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8737167002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-07T13:08:27.830645"
+  },
+  "adfe4c0b992311a09525db3a5fcff2b0": {
+    "company": "Stripe",
+    "title": "Account Executive, Nordics",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114402",
+    "location": "Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-07T13:08:43.542548"
+  },
+  "fd4a10ae2a18865a2650887f5b66107a": {
+    "company": "Stripe",
+    "title": "Processing cost Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8177636",
+    "location": "IN-Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-07T13:08:43.545736"
+  },
+  "7810a40eff6fffd41282a062f1b11cf1": {
+    "company": "Stripe",
+    "title": "Technical Support Engineer (EMEA), Metronome",
+    "url": "https://stripe.com/jobs/search?gh_jid=7737248",
+    "location": "London, Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-07T13:08:43.548279"
   }
 }
