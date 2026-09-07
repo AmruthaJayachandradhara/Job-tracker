@@ -42197,5 +42197,21 @@
     "location": "San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-06T23:21:06.216540"
+  },
+  "73b876de805a70356dd07e439a51c446": {
+    "company": "Stripe",
+    "title": "Product Sales Development Representative (Mandarin-speaking)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8179341",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-07T06:47:48.946031"
+  },
+  "6a1009c1a950529215011cd2995fee4a": {
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+    "location": "Singapore",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-07T06:47:48.946975"
   }
 }
