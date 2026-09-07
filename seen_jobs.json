@@ -42277,5 +42277,13 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-07T18:29:37.020131"
+  },
+  "c703bf023191ce6743600e87c789b363": {
+    "company": "Stripe",
+    "title": "Core Recruiter (Risk, Partnerships, Operations)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8158092",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-07T21:51:10.007948"
   }
 }
