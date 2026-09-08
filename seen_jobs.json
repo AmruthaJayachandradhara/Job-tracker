@@ -42389,5 +42389,29 @@
     "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-08T19:39:59.261898"
+  },
+  "a591c01cd26c184e2ab212a5b6c132cb": {
+    "company": "Pomelo Care",
+    "title": "Menopause Provider (CNM/NP) - TX License",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6121455004",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-08T22:11:38.458679"
+  },
+  "b692d7552161450056c2e5cedf290fd1": {
+    "company": "Dialpad",
+    "title": "Commercial Counsel",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8654462002",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-08T22:12:02.138471"
+  },
+  "f57f47fd5f8ac22856f78310ea725a82": {
+    "company": "Tanium",
+    "title": "Sales Intern \u2013\u00a0Summer 2027",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8181014",
+    "location": "Addison, TX (Hybrid)",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-08T22:12:04.977607"
   }
 }
