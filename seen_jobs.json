@@ -42357,5 +42357,37 @@
     "location": "Mexico CIty",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-09-08T16:55:18.662513"
+  },
+  "219b8b7fce7afa8b8075473d46787b96": {
+    "company": "Pomelo Care",
+    "title": "Bilingual Outbound Sales Specialist",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6185637004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-08T19:39:19.615948"
+  },
+  "cc37a4f4db6da8da54e96b5a29a4a32d": {
+    "company": "Pomelo Care",
+    "title": "Menopause Provider (CN/NP) | MA License",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/5992008004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-08T19:39:19.616197"
+  },
+  "9f09fa0e0c9c73ed627ba1cc18a1a606": {
+    "company": "EarnIn",
+    "title": "Machine Learning Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8168239",
+    "location": "Mountain View, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-08T19:39:57.357388"
+  },
+  "a1386c4438a7341a1cc1ef6510486272": {
+    "company": "Stripe",
+    "title": "PMM, Executive Content & Experiences ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8178459",
+    "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-08T19:39:59.261898"
   }
 }
