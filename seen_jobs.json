@@ -42285,5 +42285,13 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-07T21:51:10.007948"
+  },
+  "f9971b0b28b3a826e6340c103e0687ad": {
+    "company": "Databricks",
+    "title": "Scale Solution Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8779016002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-08T12:23:23.998637"
   }
 }
