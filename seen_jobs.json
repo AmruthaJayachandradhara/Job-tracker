@@ -42293,5 +42293,69 @@
     "location": "Tokyo, Japan",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-08T12:23:23.998637"
+  },
+  "beca9f0daa87bb573b6cf0199da60677": {
+    "company": "Databricks",
+    "title": "Recruiter, GTM Field Engineering",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8771700002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-08T16:55:02.351556"
+  },
+  "7e5f9ab1d837799823994ee5b9a2f8f0": {
+    "company": "Dialpad",
+    "title": "Sales Prospecting Coach",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8768980002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-08T16:55:07.038792"
+  },
+  "7fba08c65f39781a670c5fc7422d8532": {
+    "company": "GitLab",
+    "title": "Business Development Representative, Turkish Speaking   ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8784553002",
+    "location": "Remote Ireland; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-08T16:55:08.667691"
+  },
+  "55a1209235748eb85fdb767e2d97f30f": {
+    "company": "GitLab",
+    "title": "Candidate Experience Specialist, Contractor ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8782471002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-08T16:55:08.667715"
+  },
+  "5ec14a862aa8ec22e7d98254f3d56fe0": {
+    "company": "Stripe",
+    "title": "Account Executive - Enterprise, Growth",
+    "url": "https://stripe.com/jobs/search?gh_jid=8178881",
+    "location": "Chicago, IL ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-08T16:55:18.658319"
+  },
+  "3dc3b8acf204e871cb9453823e8476ff": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms Grower (French fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8177634",
+    "location": "Paris",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-08T16:55:18.658572"
+  },
+  "0aa166eb72841865257b5b801cca36db": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Terminal) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7389692",
+    "location": "Dublin or London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-08T16:55:18.658772"
+  },
+  "fae5104d13c7832ccc73ed3bf2b75336": {
+    "company": "Stripe",
+    "title": "Risk Operations Associate",
+    "url": "https://stripe.com/jobs/search?gh_jid=8115908",
+    "location": "Mexico CIty",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-08T16:55:18.662513"
   }
 }
