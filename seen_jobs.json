@@ -42629,5 +42629,21 @@
     "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-09T00:52:11.885691"
+  },
+  "206b6a132e3deba3734f0dee000e1e64": {
+    "company": "Coinbase",
+    "title": "Sales Intern",
+    "url": "https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T05:33:21.491566"
+  },
+  "b61d6d7b0e5c17c58c789929416cfa35": {
+    "company": "Gusto",
+    "title": "UX Researcher, Quantitative",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8168907",
+    "location": "Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T05:33:26.016086"
   }
 }
