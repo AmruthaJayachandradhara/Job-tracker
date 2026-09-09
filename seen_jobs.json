@@ -42749,5 +42749,85 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-09T14:55:02.712163"
+  },
+  "9f6835a714f091402f67f1014eeac0d7": {
+    "company": "Braintrust",
+    "title": "Platform Support Engineer",
+    "url": "https://jobs.ashbyhq.com/braintrust/15f6868c-4172-4568-b39f-d9047c092ca8",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T18:09:28.129163"
+  },
+  "f52e34c4bc07c9c49698d58935b89e73": {
+    "company": "Braintrust",
+    "title": "Platform Support Engineer (Singapore)",
+    "url": "https://jobs.ashbyhq.com/braintrust/5430b8aa-f294-47fa-a79a-c9ce24b4a221",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T18:09:28.129193"
+  },
+  "81dfd94532721b4d76a7f18329dac5a8": {
+    "company": "Braintrust",
+    "title": "Developer Support Engineer (London)",
+    "url": "https://jobs.ashbyhq.com/braintrust/8eab6b79-6c58-4a17-b93e-4b9fc5cbfbb5",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T18:09:28.129204"
+  },
+  "fae578ce545802603e74fd05cda5ad20": {
+    "company": "Spade",
+    "title": "Account Executive - Mid-Market",
+    "url": "https://jobs.ashbyhq.com/spade/dc8faaa1-6434-4947-b49f-aadddf8305bd",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T18:09:39.290766"
+  },
+  "6c8b4d16a9c6d379631150c1506b4ea8": {
+    "company": "Replit",
+    "title": "Premium Support Engineer (Foster City, Weekend Shift)",
+    "url": "https://jobs.ashbyhq.com/replit/a45ca7ba-21f9-464d-8c00-eb5361b3c9f4",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T18:10:05.048651"
+  },
+  "600d3f8b6c6a57e48cc66ea9edef94ad": {
+    "company": "Replit",
+    "title": "Premium Support Engineer (NYC, Weekend Shift)",
+    "url": "https://jobs.ashbyhq.com/replit/0a94327b-52c0-41d1-931f-b2aca5e90c1f",
+    "location": "NYC (SoHo)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T18:10:05.048678"
+  },
+  "305b7d381286a1d92dc8c0ef63bcc821": {
+    "company": "Stripe",
+    "title": "Account Executive Product - Radar",
+    "url": "https://stripe.com/jobs/search?gh_jid=8181024",
+    "location": "Chicago, Seattle, NYC, San Francisco, Remote ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T18:10:14.322362"
+  },
+  "c86cc31b293ebed97110738de02a73e5": {
+    "company": "Stripe",
+    "title": "Financial Data Analyst ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8185294",
+    "location": "LOCATION",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T18:10:14.323985"
+  },
+  "36df3b62400cbab28edfdbc262e20924": {
+    "company": "Gusto",
+    "title": "Tax Operations Advocate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8167482",
+    "location": "Denver, CO - Hybrid; Las Vegas, NV - Remote; Los Angeles, CA - Remote; Phoenix, AZ - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T18:10:15.033877"
+  },
+  "223a7ca5d1d4eda98b52af6ceb31cc88": {
+    "company": "Gusto",
+    "title": "Tax Operations Advocate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8172660",
+    "location": "Denver, CO - Hybrid; Las Vegas, NV - Remote; Los Angeles, CA - Remote; Phoenix, AZ - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T18:10:15.033901"
   }
 }
