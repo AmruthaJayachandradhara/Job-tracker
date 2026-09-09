@@ -42413,5 +42413,221 @@
     "location": "Addison, TX (Hybrid)",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-09-08T22:12:04.977607"
+  },
+  "6c7c6a41c84d43734a2d24a75c6c3b5e": {
+    "company": "Juicebox",
+    "title": "Growth Associate",
+    "url": "https://jobs.ashbyhq.com/juicebox/967aa5e5-ac73-4aaa-9f6e-938ea5cbb75b",
+    "location": "London, UK",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-09T00:51:53.446453"
+  },
+  "3c759d9296ca0a8c9f91a3302f4deacf": {
+    "company": "Replit",
+    "title": "Premium Support Engineer (London, Weekend)",
+    "url": "https://jobs.ashbyhq.com/replit/df65b94a-2273-4e65-aead-fac409839e30",
+    "location": "London Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T00:52:05.378006"
+  },
+  "defb7520e9c4c7621382e64c662dc73a": {
+    "company": "Replit",
+    "title": "Premium Support Engineer (Singapore, Weekend)",
+    "url": "https://jobs.ashbyhq.com/replit/bda076c2-3eea-4c67-b288-7c7e2a23db4c",
+    "location": "Remote - Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T00:52:05.378031"
+  },
+  "bf38aed2ddb1fd36ff89dd06cba8b904": {
+    "company": "Coinbase",
+    "title": "Accelerations Programs Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.225354"
+  },
+  "d2af1e01493c8dda510fb88dbfd4cf31": {
+    "company": "Coinbase",
+    "title": "Accounting Intern",
+    "url": "https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.225408"
+  },
+  "49b5e1b35d9f5a2f921602c1e4ab7a1f": {
+    "company": "Coinbase",
+    "title": "Analytics Engineer Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+    "location": "Hybrid - San Francisco, CA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.225489"
+  },
+  "6219566423cc4da3a89955cf78048a01": {
+    "company": "Coinbase",
+    "title": "Business Controller Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175366?gh_jid=8175366",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.225512"
+  },
+  "b76c5d9e9c61b14efff9b0bc5cf03de1": {
+    "company": "Coinbase",
+    "title": "Credit Risk Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.225648"
+  },
+  "02189969b583e0be44bea4b5a4f61359": {
+    "company": "Coinbase",
+    "title": "Data Engineer Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+    "location": "Hybrid - San Francisco, CA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.225678"
+  },
+  "7543f3460ccfba3fb547939e3fbfdbb7": {
+    "company": "Coinbase",
+    "title": "Data Science Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
+    "location": "Hybrid - San Francisco, CA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.225687"
+  },
+  "b553f4db1828cd7fdb11e30b74112cff": {
+    "company": "Coinbase",
+    "title": "Employee and Workplace Experience Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175429?gh_jid=8175429",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.225714"
+  },
+  "4cf9c2133cf8df15234cb0b332eac598": {
+    "company": "Coinbase",
+    "title": "Finance Operations Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.225766"
+  },
+  "1fc390ddfeb4eaf3dedfe8983789fb81": {
+    "company": "Coinbase",
+    "title": "FP&A Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.225808"
+  },
+  "fb3883dfbf3ebd432bfa1f776f16d84f": {
+    "company": "Coinbase",
+    "title": "Internal Audit Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175432?gh_jid=8175432",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.225912"
+  },
+  "6c01757702b1d8818a973ce80d0e05ca": {
+    "company": "Coinbase",
+    "title": "Learning & Development Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175514?gh_jid=8175514",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.225942"
+  },
+  "e6a66df0bf13dc1da84ecb3ab82bed6f": {
+    "company": "Coinbase",
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+    "location": "Hybrid - San Francisco, CA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.225997"
+  },
+  "6ba7e086246edb8f1aa8b749296a279c": {
+    "company": "Coinbase",
+    "title": "Payment Risk Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175447?gh_jid=8175447",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.226072"
+  },
+  "b44e07f258aa63cf44a85b5e99f45540": {
+    "company": "Coinbase",
+    "title": "People Analytics Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.226099"
+  },
+  "4c1d6a188fe17ba60a4a5bec70d1347d": {
+    "company": "Coinbase",
+    "title": "Policy Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.226116"
+  },
+  "c882ef43e12c25faf02c35a2a006b3b4": {
+    "company": "Coinbase",
+    "title": "Product Design Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339",
+    "location": "Hybrid - San Francisco, CA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.226160"
+  },
+  "f5227dc25f70601e7e859de1ae3e1080": {
+    "company": "Coinbase",
+    "title": "Real Estate & Builds Intern (EWX)",
+    "url": "https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.226210"
+  },
+  "57144f9b49d54809a90959a0cae69d54": {
+    "company": "Coinbase",
+    "title": "Software Engineer Intern",
+    "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+    "location": "Hybrid - San Francisco, CA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.226852"
+  },
+  "dc6aaab634992a72151c35421bbc6f0a": {
+    "company": "Coinbase",
+    "title": "Software Engineer- Money Movement ",
+    "url": "https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946",
+    "location": "Remote - Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T00:52:11.226865"
+  },
+  "699847286c8cff7d09ed90809288851d": {
+    "company": "Coinbase",
+    "title": "Tax Operations Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.227154"
+  },
+  "8683ed1eb1d40bad60bf14a1a03dffd5": {
+    "company": "Coinbase",
+    "title": "Treasury Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.227200"
+  },
+  "14c449b93a253edbfa3c7a2237a272fe": {
+    "company": "Coinbase",
+    "title": "User Research Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360",
+    "location": "Hybrid - San Francisco, CA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T00:52:11.227208"
+  },
+  "b59c2a3756a30b2087790dba53391ad1": {
+    "company": "Mercury",
+    "title": "Sales Development Representative",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6167220004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T00:52:11.885691"
   }
 }
