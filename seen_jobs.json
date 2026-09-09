@@ -42645,5 +42645,29 @@
     "location": "Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-09T05:33:26.016086"
+  },
+  "c4402bfc286c9b8c2630c9141a0705f0": {
+    "company": "Databricks",
+    "title": "Digital Natives Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8737153002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T10:23:01.530573"
+  },
+  "9a9d3403743b300177bdafb94341240e": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive, Poland",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8789017002",
+    "location": "Remote, Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T10:23:07.720895"
+  },
+  "912294fdc7c9ca19161093d8b9a2a3bf": {
+    "company": "Hex",
+    "title": "Product Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/hex/45022740-b0ca-4a54-a98b-b90f9b4a9a30",
+    "location": "San Francisco",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T10:23:11.948146"
   }
 }
