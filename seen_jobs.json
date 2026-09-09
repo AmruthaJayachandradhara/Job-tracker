@@ -42829,5 +42829,69 @@
     "location": "Denver, CO - Hybrid; Las Vegas, NV - Remote; Los Angeles, CA - Remote; Phoenix, AZ - Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-09T18:10:15.033901"
+  },
+  "8a711ee7e70b7d4c4cf77c9d91376ab5": {
+    "company": "GitLab",
+    "title": "Migration Engineer - GitLab Dedicated",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8710061002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T21:22:36.229113"
+  },
+  "c4251f08f543442d92a885cc23b77734": {
+    "company": "Replit",
+    "title": "Software Engineer - New Grad (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+    "location": "Foster City, CA",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-09-09T21:22:36.828686"
+  },
+  "3a29e1c6fe4a45fab598b5cfdced6e72": {
+    "company": "Tanium",
+    "title": "Customer Success Intern",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8176331",
+    "location": "Addison, TX (Hybrid)",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T21:22:37.539625"
+  },
+  "b86dd9f10cc9406fb200be4b1df50313": {
+    "company": "Tanium",
+    "title": "Technical Support Engineer (TSE) Intern",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8189328",
+    "location": "Bellevue, WA (Hybrid); Emeryville, CA (Hybrid)",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T21:22:37.540022"
+  },
+  "3c100f2b7b3b0275e83dcbcce836bfe8": {
+    "company": "Tanium",
+    "title": "Technical Support Engineer (TSE) Intern",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8176322",
+    "location": "Addison, TX (Hybrid)",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T21:22:37.540030"
+  },
+  "c35d7621457802f4f5dde46e08083dfe": {
+    "company": "EarnIn",
+    "title": "AI Operations Specialist",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8186599",
+    "location": "Mountain View, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T21:22:44.435570"
+  },
+  "b12b168ba836d995a5627bf4013781b9": {
+    "company": "Stripe",
+    "title": "Vice Chair Office, Strategy & Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8168552",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T21:22:46.655849"
+  },
+  "b46af32c67d1a9c4fb8ee0823daff0e9": {
+    "company": "Gusto",
+    "title": "GTM Insights & Operations",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8167933",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T21:22:47.373967"
   }
 }
