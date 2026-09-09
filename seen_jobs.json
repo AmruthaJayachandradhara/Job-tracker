@@ -42669,5 +42669,85 @@
     "location": "San Francisco",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-09-09T10:23:11.948146"
+  },
+  "d6ea5310e81a8b6301c8585368b85a0c": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - UK Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8700398002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T14:54:42.506647"
+  },
+  "46297e2fadc34b969cfa79a578df0012": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer, Pipeline Authoring",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8773028002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T14:54:50.092231"
+  },
+  "34de33b2e01eb463733fc58878d53d3f": {
+    "company": "GitLab",
+    "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8782306002",
+    "location": "Remote, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T14:54:50.092257"
+  },
+  "8eb43bae2fdd919cb05b254497f4d214": {
+    "company": "Tanium",
+    "title": "Sales Intern \u2013\u00a0Summer 2027",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8180996",
+    "location": "Addison, TX (Hybrid)",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T14:54:51.432169"
+  },
+  "3deb1d2f231e4840a6d7d673281e5df8": {
+    "company": "Coinbase",
+    "title": "Crypto Inventory Operations Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-09T14:54:56.761485"
+  },
+  "2edbd11559a478bbea85c1bad6da1679": {
+    "company": "Coinbase",
+    "title": "Payments Risk Analyst I",
+    "url": "https://www.coinbase.com/careers/positions/8147660?gh_jid=8147660",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T14:54:56.761824"
+  },
+  "ec60c7b1be45a8367bd475d6e1fda42a": {
+    "company": "Coinbase",
+    "title": "Payments Risk Analyst I",
+    "url": "https://www.coinbase.com/careers/positions/8147663?gh_jid=8147663",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T14:54:56.761834"
+  },
+  "4b2b9060051218ce58b4bfc940b5b94d": {
+    "company": "Stripe",
+    "title": "Abuse Investigator",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172510",
+    "location": "Seattle, San Francisco, New York City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T14:55:02.711516"
+  },
+  "ba796a5abfd893b9ea7ec3cf49332c23": {
+    "company": "Stripe",
+    "title": "Abuse Research Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172503",
+    "location": "Remote from the US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T14:55:02.711553"
+  },
+  "e7c058ad5c62e577723982caa0ee33d6": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups SaaS Platforms Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8119498",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T14:55:02.712163"
   }
 }
