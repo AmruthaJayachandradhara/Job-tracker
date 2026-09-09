@@ -42893,5 +42893,29 @@
     "location": "Denver, CO - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-09T21:22:47.373967"
+  },
+  "4ed94b4122d8016a04c97cddadb0ef43": {
+    "company": "Replit",
+    "title": "Software Engineer - New Grad (2027)",
+    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+    "location": "Foster City, CA",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-09-09T23:40:26.092847"
+  },
+  "d7cbe05c0096cc6c63338a6fef476c16": {
+    "company": "Coinbase",
+    "title": "Software Engineer, Developer Infrastructure",
+    "url": "https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T23:40:31.878690"
+  },
+  "5f5a4a7228f00db442979914bc28d981": {
+    "company": "Carta",
+    "title": "Solutions Engineer",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7989778003",
+    "location": "London, England",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-09T23:40:37.497081"
   }
 }
