@@ -43037,5 +43037,45 @@
     "location": "London, England",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-10T16:45:38.007336"
+  },
+  "7662af7bd98552f405c80b17d4b0fc66": {
+    "company": "Pomelo Care",
+    "title": "Sales Development Representative",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6188398004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T19:20:41.785901"
+  },
+  "53cf6ee5f163ac4af60f777adaf00d3b": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Mid-Market, East",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8790102002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T19:21:07.006302"
+  },
+  "16af4e9394e75ed60415ac9882032f79": {
+    "company": "Tanium",
+    "title": "Software Engineering Intern \u2013\u00a0Summer 2027",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8181017",
+    "location": "Durham, NC (Hybrid); Emeryville, CA (Hybrid)",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-10T19:21:08.326471"
+  },
+  "e5a1ee1c12e3f4b2012366130bc7832f": {
+    "company": "Coinbase",
+    "title": "Real Estate & Builds Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-10T19:21:13.315607"
+  },
+  "92f26dfa97fe674b9a7e9ef4232ca7ee": {
+    "company": "Stripe",
+    "title": "Channel Sales Executive, SaaS Platforms",
+    "url": "https://stripe.com/jobs/search?gh_jid=8126984",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T19:21:16.944960"
   }
 }
