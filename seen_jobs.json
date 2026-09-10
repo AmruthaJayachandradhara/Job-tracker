@@ -43077,5 +43077,45 @@
     "location": "Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-10T19:21:16.944960"
+  },
+  "fd68ffde833aa4ed77556e1a123233da": {
+    "company": "GitLab",
+    "title": "Public Sector Strategic Account Executive, Federal Civilian",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8737852002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T22:04:48.315351"
+  },
+  "5f883b1d8050287bd905dc8b2974403b": {
+    "company": "Tanium",
+    "title": "Enterprise Services Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8131344",
+    "location": "Virginia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T22:04:49.691664"
+  },
+  "4730d958a3d4e5888bedd365e6a489be": {
+    "company": "Affirm",
+    "title": "Counsel II, Capital Markets",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7963753003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T22:04:58.985986"
+  },
+  "e8048e72870302ced47dbc8c0ff667a6": {
+    "company": "Stripe",
+    "title": "Data Analyst, NYC ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8189909",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T22:05:00.264023"
+  },
+  "03a077406aa75d284e7052c5a2d5a75a": {
+    "company": "Stripe",
+    "title": "Recruiting Coordinator (Fixed-Term)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8180390",
+    "location": "Seattle, Washington",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T22:05:00.266689"
   }
 }
