@@ -42957,5 +42957,85 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-10T12:29:34.684977"
+  },
+  "0a7608a0b01250016ba021e01bdf4903": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive, Life Sciences",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8790046002",
+    "location": "Philadelphia, Pennsylvania; Remote - North Carolina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T16:45:17.825179"
+  },
+  "8977357f24a48f8ed2f34959951c0f99": {
+    "company": "Dialpad",
+    "title": "Technical Support Engineer, Platinum",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8779047002",
+    "location": "Kitchener, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T16:45:22.836837"
+  },
+  "f105d3fc18c78445ba5048cc24851432": {
+    "company": "GitLab",
+    "title": "Public Sector Strategic Account Executive, DoW",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8737840002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T16:45:24.500925"
+  },
+  "f649b2271dcc85dd045dbb7eba32915c": {
+    "company": "Coinbase",
+    "title": "Complaints Analyst II",
+    "url": "https://www.coinbase.com/careers/positions/6873377?gh_jid=6873377",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T16:45:31.315038"
+  },
+  "b95b1a361ae397244ec5cbf237287902": {
+    "company": "Coinbase",
+    "title": "Complaints Analyst II",
+    "url": "https://www.coinbase.com/careers/positions/7151562?gh_jid=7151562",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T16:45:31.315077"
+  },
+  "e30099e99b6edaa71247db4f899634da": {
+    "company": "Coinbase",
+    "title": "Complaints Analyst II",
+    "url": "https://www.coinbase.com/careers/positions/7724777?gh_jid=7724777",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T16:45:31.315091"
+  },
+  "3d21fb642deb4bd9e656f7a040bfcab2": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist II",
+    "url": "https://www.coinbase.com/careers/positions/8160097?gh_jid=8160097",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T16:45:31.315195"
+  },
+  "841bced6d0ab09240104850579c5490b": {
+    "company": "Coinbase",
+    "title": "Strategic Finance Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-10T16:45:31.316493"
+  },
+  "6dcc8d63de8b4d2e1c869ec9b055b24c": {
+    "company": "Stripe",
+    "title": "University Recruiter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8159355",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T16:45:35.867700"
+  },
+  "5a7062015ab57e4230e32075ab8b0a6c": {
+    "company": "Carta",
+    "title": "Strategic Account Executive - Private Markets, Europe",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7989780003",
+    "location": "London, England",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T16:45:38.007336"
   }
 }
