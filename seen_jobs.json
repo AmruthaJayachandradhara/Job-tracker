@@ -42917,5 +42917,21 @@
     "location": "London, England",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-09T23:40:37.497081"
+  },
+  "d496877e93e13ce682e6dd5a7d8de822": {
+    "company": "Pomelo Care",
+    "title": "Recruiter (Temp)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6187826004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T02:04:56.117977"
+  },
+  "8b6e48980a1959cbde8bba26d0ecf8a6": {
+    "company": "Stripe",
+    "title": "Security Engineer ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8174965",
+    "location": "US Remote ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T02:05:46.932711"
   }
 }
