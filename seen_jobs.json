@@ -42933,5 +42933,29 @@
     "location": "US Remote ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-10T02:05:46.932711"
+  },
+  "6131fbdbdd9acf5f8ddd43c3fba01861": {
+    "company": "Fivetran",
+    "title": "Commercial Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7988905003",
+    "location": "Remote, Ireland, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T12:29:20.722596"
+  },
+  "b1e636297ace88cef5346309d7324e38": {
+    "company": "Fivetran",
+    "title": "Commercial Counsel",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7991034003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T12:29:20.722623"
+  },
+  "f9d3690674772d60ac8fe0c701ba74a5": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise (Hunter) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8165275",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-10T12:29:34.684977"
   }
 }
