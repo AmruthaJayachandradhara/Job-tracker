@@ -43189,5 +43189,37 @@
     "location": "CDMX",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-11T18:00:42.013979"
+  },
+  "e13a58ccef366775c0df4bb446112ccf": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive, Northeast",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8786425002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T20:38:38.972184"
+  },
+  "9fbc8bed24c3e247cc301372aff6c3c0": {
+    "company": "Mercury",
+    "title": "AML Investigator III",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6190457004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T20:38:45.967697"
+  },
+  "2c79fbd3c1dc4946b6f36e0bb0254bd2": {
+    "company": "Affirm",
+    "title": "Workplace Specialist II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7982371003",
+    "location": "San Francisco, California, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T20:38:47.943419"
+  },
+  "3c18948e9b0ea00f276e44d67b0cb34b": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Billing (Velocity)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7958961",
+    "location": "New York, San Francisco, Seattle, Atlanta, Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T20:38:48.955132"
   }
 }
