@@ -43141,5 +43141,53 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-11T14:42:06.484076"
+  },
+  "24c26225c5b19e37998f1c51d6c0bb11": {
+    "company": "Spade",
+    "title": "FullStack Engineer (Mid-level)",
+    "url": "https://jobs.ashbyhq.com/spade/d514b2a0-523e-48ac-ba3d-d756f38fb717",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T17:59:43.335844"
+  },
+  "c1a5d71b461478d3d04991b3d5e3ad48": {
+    "company": "Encord",
+    "title": "Operations Associate",
+    "url": "https://jobs.ashbyhq.com/encord/bc4e3eee-bfd7-48bd-9de3-ecce699e4fc8",
+    "location": "London",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-11T17:59:47.742940"
+  },
+  "070e25f555fb1715af49d7cf12470a36": {
+    "company": "Dialpad",
+    "title": "Corporate Counsel, Product & Privacy",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8790125002",
+    "location": "Bay Area, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T18:00:13.585606"
+  },
+  "95d2701476fb784d770167419d33568c": {
+    "company": "GitLab",
+    "title": "Candidate Experience Specialist, Contractor ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8801523002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T18:00:15.061018"
+  },
+  "165142a6ea17ac85e3785348de38477c": {
+    "company": "Tanium",
+    "title": "Revenue Operations Intern",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8176481",
+    "location": "Emeryville, CA (Hybrid)",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-11T18:00:16.442070"
+  },
+  "d6c617e81753c37421ac44e080feb640": {
+    "company": "Stripe",
+    "title": "Operations Recruiter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8162189",
+    "location": "CDMX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T18:00:42.013979"
   }
 }
