@@ -43221,5 +43221,53 @@
     "location": "New York, San Francisco, Seattle, Atlanta, Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-11T20:38:48.955132"
+  },
+  "20e9deadae22ef46c2aa7dd289ad1781": {
+    "company": "Render",
+    "title": "Forward Deployed EngineerSF or Remote (US/Canada)",
+    "url": "https://jobs.ashbyhq.com/render/b29de212-fcca-4b5d-8640-a165b23d5d6c",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T22:53:07.185959"
+  },
+  "abe3c4ff0a52c25089761e62ee0ea99a": {
+    "company": "Northwood Space",
+    "title": "Cost Accountant",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/4ad7f472-77db-4b98-879c-5badebf5a56a",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T22:53:15.395782"
+  },
+  "5ff7d4b8bd6eebd4711792c2800dcf98": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Frontend (Upfunnel)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T22:53:55.009540"
+  },
+  "483bf29dd28deceef21a2235d2371dc4": {
+    "company": "Stripe",
+    "title": "Account Executive, Product - Managed Payments",
+    "url": "https://stripe.com/jobs/search?gh_jid=8078082",
+    "location": "Seattle, SF, NYC, Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T22:53:55.991313"
+  },
+  "18dadb2dd22dd85e9005403d7ece1325": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales, Tax",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190048",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T22:53:55.991431"
+  },
+  "cea901f1642cc02daabb7e1382960454": {
+    "company": "Stripe",
+    "title": "Software Engineer, Online Database Infrastructure",
+    "url": "https://stripe.com/jobs/search?gh_jid=8197891",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T22:53:55.995010"
   }
 }
