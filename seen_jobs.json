@@ -43117,5 +43117,13 @@
     "location": "Seattle, Washington",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-10T22:05:00.266689"
+  },
+  "eea4d8b8a0834682bcd456c76ffd3f7f": {
+    "company": "Stripe",
+    "title": "Payments Performance Strategist, LATAM",
+    "url": "https://stripe.com/jobs/search?gh_jid=8155386",
+    "location": "CDMX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T05:25:35.052403"
   }
 }
