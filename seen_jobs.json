@@ -43133,5 +43133,13 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-11T10:13:11.297320"
+  },
+  "97702e4e48182a8fc696e4fc4ca3ac1f": {
+    "company": "Stripe",
+    "title": "Channel Sales Executive",
+    "url": "https://stripe.com/jobs/search?gh_jid=8195584",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-11T14:42:06.484076"
   }
 }
