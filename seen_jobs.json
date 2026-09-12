@@ -43309,5 +43309,21 @@
     "location": "LOCATION",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-12T00:48:11.624845"
+  },
+  "928fd0946c88421613521506073b7a97": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (AI)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194397",
+    "location": "LOCATION",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-12T05:16:03.476489"
+  },
+  "ff4e07b12839fa735380bfe0128e6b38": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Tax",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190048",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-12T05:16:03.476621"
   }
 }
