@@ -43269,5 +43269,45 @@
     "location": "Seattle, WA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-11T22:53:55.995010"
+  },
+  "5c718e0562fc1a3d5e57fe090e2ce504": {
+    "company": "Braintrust",
+    "title": "Founding Data Engineer",
+    "url": "https://jobs.ashbyhq.com/braintrust/d1756ad8-be7c-4acd-961e-7e81e4f69024",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-12T00:47:25.635065"
+  },
+  "efc20cd72dca23c1e79507ba8cb89e7f": {
+    "company": "Databricks",
+    "title": "Scale Solution Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8779023002",
+    "location": "Heredia, Costa Rica",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-12T00:47:54.298581"
+  },
+  "642f3283a586a2e7d8b5b4f171cb7213": {
+    "company": "Coinbase",
+    "title": "Derivative Sales Analyst",
+    "url": "https://www.coinbase.com/careers/positions/8097444?gh_jid=8097444",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-12T00:48:07.693792"
+  },
+  "bf2d746ad9d98fe20e896165c6112a9b": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Tax)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190048",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-12T00:48:11.619146"
+  },
+  "1c324b51a41cbeae84f9627ccec1e88e": {
+    "company": "Stripe",
+    "title": "[TEMPLATE S1] Account Executive Product - AI",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194397",
+    "location": "LOCATION",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-12T00:48:11.624845"
   }
 }
