@@ -43325,5 +43325,13 @@
     "location": "US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-12T05:16:03.476621"
+  },
+  "6c93cb29ac4b466c286a63df8ca9d717": {
+    "company": "Databricks",
+    "title": "Sr Full Stack Developer (AI Agents)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-13T07:46:01.737878"
   }
 }
