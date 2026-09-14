@@ -43349,5 +43349,13 @@
     "location": "Melbourne, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-14T02:21:35.638220"
+  },
+  "d962e4ba69ae34ddc90f72fbd6306604": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive, Revenue Suite (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8029128",
+    "location": "Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T08:17:29.871108"
   }
 }
