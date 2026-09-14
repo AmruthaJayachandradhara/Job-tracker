@@ -43381,5 +43381,133 @@
     "location": "Dublin ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-14T15:25:59.877203"
+  },
+  "3d7b7664c408c85b55648cd1b31fae20": {
+    "company": "Encord",
+    "title": "Forward Deployed Software Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/2eedc8eb-00c2-4cbe-862e-5e22960f0dbf",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:25.768855"
+  },
+  "9ae5c35626b0703577208bd89b1af0b4": {
+    "company": "Databricks",
+    "title": "(GCR) Emerging Enterprise Startup Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438918002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:36.812866"
+  },
+  "a90ce96919b4a86c927cc90a1c7cff12": {
+    "company": "Databricks",
+    "title": "Startup Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438936002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:36.819829"
+  },
+  "015040c3d910fe87a1b412232b77f9f7": {
+    "company": "Fivetran",
+    "title": "Business Development Representative \u2013 Arabic Speaking",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7994716003",
+    "location": "Dublin, Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:40.352894"
+  },
+  "0b0f31ff4fb21b3541b17e4e57e220eb": {
+    "company": "Fivetran",
+    "title": "Business Development Representative - French Speaking",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7994707003",
+    "location": "Dublin, Dublin, Ireland, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:40.352967"
+  },
+  "0d187b6fd80fb7b980dd43bb464fe7db": {
+    "company": "Fivetran",
+    "title": "Business Development Representative - German Speaking",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7994703003",
+    "location": "Dublin, Dublin, Ireland, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:40.352981"
+  },
+  "5f3ab436af537f94c108b247f5288bf7": {
+    "company": "Fivetran",
+    "title": "Software Engineer II",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7818394003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:40.354215"
+  },
+  "64587eaddd387982ac27b768d98c33ab": {
+    "company": "Tanium",
+    "title": "Product Counsel",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8201704",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:45.168177"
+  },
+  "7d21c6834032d5ff1f5e8fca198dcade": {
+    "company": "Stripe",
+    "title": "Account Executive, DACH, Commercial (Existing Business)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8201690",
+    "location": "Dublin or Berlin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:53.790818"
+  },
+  "edb3f08d3b65650a780bf1091a39edeb": {
+    "company": "Stripe",
+    "title": "Account Executive Product - Fraud & Risk ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8181024",
+    "location": "Chicago, Seattle, NYC, San Francisco, Remote ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:53.791189"
+  },
+  "774a613735ac8a43151fb35a46c3abe6": {
+    "company": "Stripe",
+    "title": " Account Executive, Product Sales - Billing",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190050",
+    "location": "New York, San Francisco, Seattle, Atlanta, Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:53.791252"
+  },
+  "daa480bd3b79940f56eaaa3a8bc534d8": {
+    "company": "Stripe",
+    "title": "GTM Strategy & Operations Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8201680",
+    "location": "NYC, SF, Seattle, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:53.793328"
+  },
+  "807e1ffa6005d17fd4b03fe4883e37b7": {
+    "company": "Stripe",
+    "title": "Strategy & Operations, Infrastructure",
+    "url": "https://stripe.com/jobs/search?gh_jid=8171095",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:53.796736"
+  },
+  "b7d10d2d0d49ad079f65fe68363be461": {
+    "company": "Stripe",
+    "title": "Strategy & Operations, Risk",
+    "url": "https://stripe.com/jobs/search?gh_jid=8199596",
+    "location": "US-SF, US-SEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:53.796755"
+  },
+  "e6be21cd66252c1e33964ea7fb90bdb3": {
+    "company": "Stripe",
+    "title": "Third Party Risk Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8189018",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:53.797030"
+  },
+  "ec8e821ce86ca8638228048a4a9be4e4": {
+    "company": "Gusto",
+    "title": "Business Insurance Account Executive",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8132532",
+    "location": "Atlanta, GA - Remote; Denver, CO - Hybrid; Phoenix, AZ - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T20:02:54.717646"
   }
 }
