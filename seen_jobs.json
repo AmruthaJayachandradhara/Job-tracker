@@ -43357,5 +43357,29 @@
     "location": "Sydney",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-14T08:17:29.871108"
+  },
+  "af0e343d65cd4830fb550fc497ab414d": {
+    "company": "Spade",
+    "title": "FullStack Engineer (Mid-Level)",
+    "url": "https://jobs.ashbyhq.com/spade/d514b2a0-523e-48ac-ba3d-d756f38fb717",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T15:25:25.406428"
+  },
+  "f546015ee03ea91d60bd841075af8307": {
+    "company": "Fivetran",
+    "title": "Systems Engineer III",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7818378003",
+    "location": "Novi Sad, South Ba\u010dka, Serbia, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T15:25:44.605467"
+  },
+  "ff20f10d67ec61efa98b81be66c5baa0": {
+    "company": "Stripe",
+    "title": "GTM Strategy & Operations Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8195483",
+    "location": "Dublin ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T15:25:59.877203"
   }
 }
