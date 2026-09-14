@@ -43509,5 +43509,61 @@
     "location": "Atlanta, GA - Remote; Denver, CO - Hybrid; Phoenix, AZ - Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-14T20:02:54.717646"
+  },
+  "851895d79d032960ae657a31f9bf6056": {
+    "company": "Pomelo Care",
+    "title": "Midlife Registered Dietitian (RD) - Licensed in New York State",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6192093004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T23:34:57.212722"
+  },
+  "32ddf56b678a6b3b49efa2cd58f3f7eb": {
+    "company": "Pomelo Care",
+    "title": "Midlife Registered Dietitian (RD) - Licensed in Tennessee",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6192095004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T23:34:57.212746"
+  },
+  "5afac7103d0eaf20a09f97ddd657d2d1": {
+    "company": "GitLab",
+    "title": "Field CTO, Public Sector",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8792585002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T23:35:22.626979"
+  },
+  "a2546271dbb6fd3227d92d42515b358f": {
+    "company": "Stripe",
+    "title": "Enterprise Support Specialist ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8191248",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T23:35:34.628562"
+  },
+  "23d94fc1dbd2f1d405e013935e34afbe": {
+    "company": "Stripe",
+    "title": "Software Engineer, Backend",
+    "url": "https://stripe.com/jobs/search?gh_jid=8198280",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T23:35:34.631506"
+  },
+  "6dda5fb63415ecda1799f782c1aa97b2": {
+    "company": "Stripe",
+    "title": "Software Engineer, High Availability and Disaster Recovery",
+    "url": "https://stripe.com/jobs/search?gh_jid=8197135",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T23:35:34.631566"
+  },
+  "cd8391f25061a5d8f1a51f06865d19bc": {
+    "company": "Stripe",
+    "title": "Software Engineer, Payins Card Networks",
+    "url": "https://stripe.com/jobs/search?gh_jid=8198207",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-14T23:35:34.631698"
   }
 }
