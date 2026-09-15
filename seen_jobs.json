@@ -43909,5 +43909,53 @@
     "location": "Denver, CO - Hybrid; Los Angeles, CA - Remote; Scottsdale, Arizona, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-15T20:44:23.429919"
+  },
+  "d076dbf66b53e4c29569550f035a43e2": {
+    "company": "Cape",
+    "title": "Social Media Associate",
+    "url": "https://jobs.ashbyhq.com/cape/07eb4f8a-ce3f-4aab-ba28-4729a23f4060",
+    "location": "Arlington, VA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-15T23:18:29.084994"
+  },
+  "0c1209fedaf7288be6afd208fe17fad1": {
+    "company": "Pomelo Care",
+    "title": "Doula (Nevada)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6193660004",
+    "location": "Nevada, USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T23:18:32.278316"
+  },
+  "c3b4604aa9945653cff4e65f78debef5": {
+    "company": "GitLab",
+    "title": "Contract Talent Acquisition Sourcer, Sales (AMER)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8797735002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T23:18:59.255349"
+  },
+  "b3f866599741a55e72581cbb923a4165": {
+    "company": "Stripe",
+    "title": "Finance & Strategy Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=8180843",
+    "location": "San Francisco, Seattle, New York City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T23:19:09.731800"
+  },
+  "241a80e12a2e4d3e9e93b5082e7f1d0b": {
+    "company": "Stripe",
+    "title": "Startup Partnerships - Y Combinator ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8181026",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T23:19:09.735117"
+  },
+  "d64f088f94caa89ea519c697a7a005ee": {
+    "company": "Gusto",
+    "title": "WFM Resource Management & Analytics",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8104224",
+    "location": "Denver, CO - Hybrid; Scottsdale, Arizona, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T23:19:10.695886"
   }
 }
