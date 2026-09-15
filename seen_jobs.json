@@ -43621,5 +43621,69 @@
     "location": "United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-15T13:59:17.999394"
+  },
+  "db9fbf7ddc1ea2eb4bc8c019d18ea68e": {
+    "company": "Databricks",
+    "title": "AI Forward Deployed Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T17:56:53.389239"
+  },
+  "84e4f16a641bbb9e6b05f46aa44789e2": {
+    "company": "Dialpad",
+    "title": "Client Account Executive, Commercial",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8714469002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T17:56:58.042577"
+  },
+  "171d4effb9d4433bda91daed39a153e2": {
+    "company": "Dialpad",
+    "title": "Software Engineer",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8766148002",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T17:56:58.042743"
+  },
+  "918dae1d61a771e9d27d28dde2e2fe63": {
+    "company": "Tanium",
+    "title": "IT Infrastructure Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8103965",
+    "location": "Addison, TX; Bellevue, WA; Durham, NC; Emeryville, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T17:57:01.002562"
+  },
+  "0d8bb677c4d5f49a453205b8aa6a6f26": {
+    "company": "Stripe",
+    "title": " Account Executive, Product Sales ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203214",
+    "location": "New York, San Francisco, Seattle, Atlanta, Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T17:57:09.589276"
+  },
+  "60f358da2812571fcd20181bcfd5d0b0": {
+    "company": "Stripe",
+    "title": "Designer, Web Presence & Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130913",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T17:57:09.590264"
+  },
+  "a2b71e501196e9dcf124fcb469ffab11": {
+    "company": "Stripe",
+    "title": "Integration Engineer, Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8075577",
+    "location": "United States or Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T17:57:09.591187"
+  },
+  "86a69c63d7852487e12b2dc0bd3b9f71": {
+    "company": "Stripe",
+    "title": "Integration Engineer, Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8075570",
+    "location": "Seattle, San Francisco, or New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T17:57:09.591198"
   }
 }
