@@ -43565,5 +43565,21 @@
     "location": "Seattle, WA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-14T23:35:34.631698"
+  },
+  "bb8238464237de939aca242bf24f6652": {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
+    "location": "Remote - India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T08:09:38.792829"
+  },
+  "60059751ad4ea1948236c8edfbc8fa6f": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales, Metronome (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7984339",
+    "location": "US-NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T08:09:54.722246"
   }
 }
