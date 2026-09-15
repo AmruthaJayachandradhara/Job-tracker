@@ -43581,5 +43581,45 @@
     "location": "US-NYC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-15T08:09:54.722246"
+  },
+  "74531aa2bebbd4deb197e3a0f2ed050d": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8741922002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T13:59:01.384151"
+  },
+  "d3a9b0db12c8395035b960b80449ae9c": {
+    "company": "Fivetran",
+    "title": "Accounts Payable Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7978687003",
+    "location": "Bengaluru, Karnataka, India, APAC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T13:59:04.424730"
+  },
+  "5937a01ad2523d937d82b76dcaa61bf6": {
+    "company": "Fivetran",
+    "title": "Business Development Representative II, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7990897003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T13:59:04.424858"
+  },
+  "9c7866b8ac2bae3023d7419985654b70": {
+    "company": "Stripe",
+    "title": "Account Executive, Product (Payouts) - Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196259",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T13:59:17.998918"
+  },
+  "06335655ac25c4bf5e1cc3e536257f37": {
+    "company": "Stripe",
+    "title": "Backend/API Engineer, Money as a Service (Product) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7369543",
+    "location": "United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-15T13:59:17.999394"
   }
 }
