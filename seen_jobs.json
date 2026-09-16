@@ -44269,5 +44269,37 @@
     "location": "Scottsdale, Arizona, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-16T20:38:28.181929"
+  },
+  "1869f495ce3d990d5a56397ef864e7b1": {
+    "company": "GitLab",
+    "title": "Associate Revenue Operations Analyst, Policy & Rules of Engagement",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8808115002",
+    "location": "Remote, United States",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-16T23:24:14.279133"
+  },
+  "d564d3aa207a517c6c4413027231f0f7": {
+    "company": "Hex",
+    "title": "[TEST] Account Executive",
+    "url": "https://jobs.ashbyhq.com/hex/f14fbf26-2a9c-48aa-8ef2-f8ce0a580cec",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T23:24:18.741090"
+  },
+  "c2de57a8b1384c11e51316f4f1dfa8a9": {
+    "company": "Stripe",
+    "title": "Finance and Strategy Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7473983",
+    "location": "San Francisco, New York City, Chicago, Seattle",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T23:24:24.512465"
+  },
+  "803378e8ef015a16cedd0b260b3029a1": {
+    "company": "Carta",
+    "title": "Account Executive, Growth, Upmarket",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7997789003",
+    "location": "San Francisco, CA, New York City, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T23:24:26.492023"
   }
 }
