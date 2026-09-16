@@ -44133,5 +44133,85 @@
     "location": "London or Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-16T13:52:36.224013"
+  },
+  "8b0aa8674563946c54cebb9df997f930": {
+    "company": "Spade",
+    "title": "Fullstack Engineer (Mid-Level)",
+    "url": "https://jobs.ashbyhq.com/spade/d514b2a0-523e-48ac-ba3d-d756f38fb717",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T17:50:48.920007"
+  },
+  "22e3e2471e0c44f98e817e3d9326ec79": {
+    "company": "Databricks",
+    "title": "DNB Geo Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8644183002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T17:51:05.102479"
+  },
+  "6706dff3a82efce41bd446cb25a74e89": {
+    "company": "Hex",
+    "title": "Founding Expansion Account Executive (Commercial)",
+    "url": "https://jobs.ashbyhq.com/hex/fc3a7d7f-e038-4be3-aa0a-38c34f81847d",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T17:51:15.533287"
+  },
+  "d13858f51dcfc5febd7af6abde4f6353": {
+    "company": "EarnIn",
+    "title": "Analytics Engineering Contractor",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8204737",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T17:51:26.346304"
+  },
+  "c7b1ef2487029deee809254f0aa3ce7e": {
+    "company": "EarnIn",
+    "title": "Gen AI Contractor",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8204764",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T17:51:26.346336"
+  },
+  "74cb8ccae7b4024ef40d247076dafb43": {
+    "company": "Affirm",
+    "title": "Executive Assistant III",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7995763003",
+    "location": "Remote UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T17:51:27.110952"
+  },
+  "64bac4f26f3f3b92f3a0310ee620e1fa": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise (Grower) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7993151",
+    "location": "US-Remote-CA, US-San Francisco, US-Seattle",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T17:51:28.017497"
+  },
+  "2d3a448d353e5c8e9916d309941a50c5": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Billing) - Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196257",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T17:51:28.017730"
+  },
+  "1b1374900f0a55f4a30efb65e203e4d8": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Billing) - Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196254",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T17:51:28.017738"
+  },
+  "e74b65bbda21ec986d1f0297059818df": {
+    "company": "Carta",
+    "title": "Junior Paralegal, Contracts",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7997383003",
+    "location": "Seattle,WA; Sandy,UT; Dallas,TX",
+    "filter_reason": "title match: 'junior'",
+    "first_seen": "2026-09-16T17:51:29.980217"
   }
 }
