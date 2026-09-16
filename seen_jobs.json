@@ -44213,5 +44213,61 @@
     "location": "Seattle,WA; Sandy,UT; Dallas,TX",
     "filter_reason": "title match: 'junior'",
     "first_seen": "2026-09-16T17:51:29.980217"
+  },
+  "54d21a8bdcd46eab9e468926fb9894d8": {
+    "company": "Northwood Space",
+    "title": "Hardware Development Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/5d5833d9-6d3e-4e49-8264-f0322b66f684",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T20:37:51.434202"
+  },
+  "07339ffc7cedb450d41c36969d75a811": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8815165002",
+    "location": "San Francisco, California; United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T20:38:10.431884"
+  },
+  "6331ee5125411a9791cf6c238592dfce": {
+    "company": "Tanium",
+    "title": "Field Technologist, Strategic Partnerships",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8209202",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T20:38:18.267616"
+  },
+  "4e5a3d9b245f6311137e7e946714be6e": {
+    "company": "Mercury",
+    "title": "Learning & Development Specialist - Fraud / Disputes",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6193873004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T20:38:24.368598"
+  },
+  "2778c9c894fdf661c50c08ce2a761834": {
+    "company": "Stripe",
+    "title": "Capital Markets, FX Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8206733",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T20:38:27.467111"
+  },
+  "a72717cb882e297a85dea5fc0a8a5853": {
+    "company": "Stripe",
+    "title": "Data Scientist, Experimental Projects",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209337",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T20:38:27.467563"
+  },
+  "03ec22d7bbcbfbc0b4723cdafad79168": {
+    "company": "Gusto",
+    "title": "Executive Operations Partner",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8205628",
+    "location": "Scottsdale, Arizona, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T20:38:28.181929"
   }
 }
