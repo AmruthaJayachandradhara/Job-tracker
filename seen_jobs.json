@@ -43957,5 +43957,37 @@
     "location": "Denver, CO - Hybrid; Scottsdale, Arizona, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-15T23:19:10.695886"
+  },
+  "f7f48a713055d9a95d751817ff4e9737": {
+    "company": "Stripe",
+    "title": "Account Executive, AI Startups - Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8204645",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T02:21:10.499585"
+  },
+  "dce0239eaa4be49e6596f516cc560e2c": {
+    "company": "Stripe",
+    "title": "Account Executive, Currency Management",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175828",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T02:21:10.499668"
+  },
+  "d1fca94575ef48d9ce251d7c36c6eb4c": {
+    "company": "Stripe",
+    "title": "Account Executive, Product - Terminal",
+    "url": "https://stripe.com/jobs/search?gh_jid=8144513",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T02:21:10.500142"
+  },
+  "284d5d7a1a7e616ef34e425cbe687756": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Intelligent Commerce",
+    "url": "https://stripe.com/jobs/search?gh_jid=7988264",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T02:21:10.500403"
   }
 }
