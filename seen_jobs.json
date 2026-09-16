@@ -43989,5 +43989,45 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-16T02:21:10.500403"
+  },
+  "0f7b2357439a0fa1409c2b820fc91b02": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Telecommunications",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8808527002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T08:03:31.651906"
+  },
+  "f9781534c2292a60691c9868d8b30ba3": {
+    "company": "Coinbase",
+    "title": "Risk & Monitoring Analyst III",
+    "url": "https://www.coinbase.com/careers/positions/8147696?gh_jid=8147696",
+    "location": "Remote - UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T08:03:43.780752"
+  },
+  "f8c13e1c2f1e664e184bb32779fc47bd": {
+    "company": "Coinbase",
+    "title": "SAM Analyst III",
+    "url": "https://www.coinbase.com/careers/positions/8147700?gh_jid=8147700",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T08:03:43.780803"
+  },
+  "7340327d59b92a0c07ab8aaced01b32e": {
+    "company": "EarnIn",
+    "title": "Analytics Engineering Contractor",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8204745",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T08:03:45.565578"
+  },
+  "cb2f5811caa2c21f33dbb718164d0aa2": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Currency Management",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175828",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-16T08:03:47.648783"
   }
 }
