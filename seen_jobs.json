@@ -44413,5 +44413,45 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-17T17:53:10.020365"
+  },
+  "0c585b7b483a8ec3463bd4228e2858d6": {
+    "company": "Profound",
+    "title": "Support Engineer",
+    "url": "https://jobs.ashbyhq.com/profound/66ff240e-3133-4020-9b2e-ece06a3a94b1",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T20:44:49.960151"
+  },
+  "a4124e3795dbb514aa91c4865f03b57b": {
+    "company": "Encord",
+    "title": "Forward Deployed Software Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/9f97576a-5381-4839-a7cf-ebfa82089a63",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T20:44:50.576898"
+  },
+  "5cd1068a68c47330192fc77d22d873ec": {
+    "company": "Encord",
+    "title": "Forward Deployed Software Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/2b1c10d4-cde7-422b-9f52-2739865d95cb",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T20:44:50.576919"
+  },
+  "cd522855cb080f120ce532de3a74ef24": {
+    "company": "Replit",
+    "title": "Commercial Counsel ",
+    "url": "https://jobs.ashbyhq.com/replit/d02e678d-866b-4349-acb8-6a41e1703f81",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T20:45:10.261338"
+  },
+  "872b942543a26db9a3692d61de00d398": {
+    "company": "Stripe",
+    "title": "Security Engineer - Proactive Threat",
+    "url": "https://stripe.com/jobs/search?gh_jid=7820898",
+    "location": "Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T20:45:20.805695"
   }
 }
