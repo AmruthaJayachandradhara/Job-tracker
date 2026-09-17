@@ -44301,5 +44301,69 @@
     "location": "San Francisco, CA, New York City, New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-16T23:24:26.492023"
+  },
+  "b3a48b96c87667daa60184defb1b4851": {
+    "company": "Pomelo Care",
+    "title": "Recruiter (Full-time, Contract)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6197629004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T13:55:59.917452"
+  },
+  "11dc66f622536079c0f97c4df8b8a2e8": {
+    "company": "Affirm",
+    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7916080003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T13:56:35.307640"
+  },
+  "6f7f5913ef3699cc48e1a7007331a7f0": {
+    "company": "Affirm",
+    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7813362003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T13:56:35.307665"
+  },
+  "89c3fbde57f007e69d97cf9340fcd694": {
+    "company": "Stripe",
+    "title": "Account Executive, Product (Payouts) - Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196269",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T13:56:36.420443"
+  },
+  "03617962e289bef7adb96a2e42487e9e": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Currency Management",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190416",
+    "location": "New York ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T13:56:36.420538"
+  },
+  "3c181b3249a44391da6d3f7862938b8d": {
+    "company": "Stripe",
+    "title": "Account Executive, Retail (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8207708",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T13:56:36.420693"
+  },
+  "a4a01b352cf81bf1f8cec5a240de1dbb": {
+    "company": "Stripe",
+    "title": "Implementation Consultant (AUNZ)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8179347",
+    "location": "Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T13:56:36.422789"
+  },
+  "495a3067bf7cf9758d7ab74555a54c66": {
+    "company": "Carta",
+    "title": "Post-Close Associate",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7997771003",
+    "location": "Singapore",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-17T13:56:38.436292"
   }
 }
