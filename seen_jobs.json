@@ -44365,5 +44365,53 @@
     "location": "Singapore",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-09-17T13:56:38.436292"
+  },
+  "33ca379d6f4e8a25b957474165d168e6": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Dept. of Transportation ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8816440002",
+    "location": "Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T17:52:43.177705"
+  },
+  "2671e2e709ea6c9d5c978f83f17409aa": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Hunter (French-speaking)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8202836",
+    "location": "Paris",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T17:53:10.015467"
+  },
+  "0ba522745a5a83a9e74d921ececa13f6": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Currency Management",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196275",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T17:53:10.015760"
+  },
+  "138db6ccb94e4d49f25048f09afc389e": {
+    "company": "Stripe",
+    "title": "Administrative Business Partner, Office of the President",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209639",
+    "location": "NYC, SF",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T17:53:10.016018"
+  },
+  "5d6a2a22dadd3062f036382ce2870aa5": {
+    "company": "Stripe",
+    "title": "EMEA Demand Generation, Platforms ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209626",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T17:53:10.016773"
+  },
+  "c649691fd43810938df3319392e09e0f": {
+    "company": "Stripe",
+    "title": "Technical Support Engineer, Metronome",
+    "url": "https://stripe.com/jobs/search?gh_jid=8171220",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-17T17:53:10.020365"
   }
 }
