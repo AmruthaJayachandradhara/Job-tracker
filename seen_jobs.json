@@ -44637,5 +44637,29 @@
     "location": "Dublin, Ireland",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-18T16:48:55.098797"
+  },
+  "c08dd1fd853cca4f1b2e6083b84593a5": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - RCT ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8814526002",
+    "location": "Remote - Texas",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T19:18:53.004623"
+  },
+  "2caa3133a31e9cfa0052afae649806de": {
+    "company": "Stripe",
+    "title": "Account Executive, AI Sales",
+    "url": "https://stripe.com/jobs/search?gh_jid=8138044",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T19:19:24.124746"
+  },
+  "c04e0123f0372ee832a6a56e3d535a12": {
+    "company": "Gusto",
+    "title": "Payment Operations Analyst ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8180461",
+    "location": "New York, NY - Hybrid; San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T19:19:24.833520"
   }
 }
