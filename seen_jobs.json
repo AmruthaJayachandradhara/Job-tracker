@@ -44525,5 +44525,117 @@
     "location": "Maryland; Virginia; Washington, D.C.",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-18T12:29:10.735549"
+  },
+  "1e0cf83976af5736954596fba4029ae7": {
+    "company": "Paraform",
+    "title": "Account Executive",
+    "url": "https://jobs.ashbyhq.com/paraform/98c734e4-e7d1-43ca-846c-262f785511e0",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T16:48:10.948407"
+  },
+  "97e0dd4a09778d8af981a028a499213c": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7983186003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T16:48:40.655806"
+  },
+  "79242dcbd59bdefe454604250e0200b2": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7990897003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T16:48:40.655830"
+  },
+  "c7ba273263d2004b4347abc38b493f67": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7983184003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T16:48:40.655840"
+  },
+  "cca319807fa6e4285a62a1443f10f1ba": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7983187003",
+    "location": "USA - Austin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T16:48:40.655850"
+  },
+  "9a1224500b9f6c427dbb4d4c78e5a5f5": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise - Dutch Speaking",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7999373003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T16:48:40.655863"
+  },
+  "018e90885143dbcb1049fdd4d334a12d": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise - French Speaking",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7999375003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T16:48:40.655875"
+  },
+  "0aa2ec485d98ba4129946b2f4965064c": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Enterprise - German Speaking",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7999371003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T16:48:40.655886"
+  },
+  "1e4d3adc541990ff9c5d1df467cf6f75": {
+    "company": "Mercury",
+    "title": "Account Executive - Technology",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6199479004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T16:48:51.835528"
+  },
+  "37f4c1486956da98c36dd0898344a6d5": {
+    "company": "Stripe",
+    "title": "Account Executive, Product (Capital) - Hunter ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190054",
+    "location": "Chicago, New York ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T16:48:55.094163"
+  },
+  "49fe6063a268eefeee6dc8b51d713189": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Billing) - Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8211151",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T16:48:55.094268"
+  },
+  "31157d5dee7c97fe2cdb225b087de4e3": {
+    "company": "Stripe",
+    "title": "Account Executive, Velocity Platforms - Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212321",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T16:48:55.094589"
+  },
+  "a3608a54af41c5d971c85a6529878b45": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive, Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196273",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T16:48:55.095864"
+  },
+  "fdabbc693a8ba504de9afe701b263a40": {
+    "company": "Stripe",
+    "title": "Security Engineer, ACE",
+    "url": "https://stripe.com/jobs/search?gh_jid=8174984",
+    "location": "Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T16:48:55.098797"
   }
 }
