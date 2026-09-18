@@ -44661,5 +44661,21 @@
     "location": "New York, NY - Hybrid; San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-18T19:19:24.833520"
+  },
+  "12f35ae0a177352b69b0029a8f7a4ff2": {
+    "company": "Fivetran",
+    "title": "Analyst, GTM Analytics",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7994731003",
+    "location": "CRI - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T22:03:51.875834"
+  },
+  "b8eaf3fc2363c5a1c7889c5f42375e53": {
+    "company": "Stripe",
+    "title": "Crypto Controls and Compliance Advisor ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8188326",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T22:04:13.951360"
   }
 }
