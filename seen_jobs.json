@@ -44461,5 +44461,37 @@
     "location": "Sao Paulo, Brazil",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-17T23:15:56.659644"
+  },
+  "fe1d56654aa87c86e729554981155d04": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Federal",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8819012002",
+    "location": "Australian Capital Territory, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T02:10:19.693189"
+  },
+  "34f47c5c25386177c69fc4a6fd05566e": {
+    "company": "Stripe",
+    "title": "Financial Crimes Analyst, Crypto Investigations",
+    "url": "https://stripe.com/jobs/search?gh_jid=7974209",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T02:10:51.692916"
+  },
+  "564b63d2af9a5b39dd662233d86b39b4": {
+    "company": "Stripe",
+    "title": "Software Engineer, Early Career \u2014 Immediate Start",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+    "location": "San Francisco, Seattle, New York",
+    "filter_reason": "title match: 'early career'",
+    "first_seen": "2026-09-18T02:10:51.695942"
+  },
+  "63bde7a57e03845dc72adab799ac6252": {
+    "company": "Stripe",
+    "title": "Software Engineer, Early Career \u2014 Immediate Start",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+    "location": "Toronto",
+    "filter_reason": "title match: 'early career'",
+    "first_seen": "2026-09-18T02:10:51.695956"
   }
 }
