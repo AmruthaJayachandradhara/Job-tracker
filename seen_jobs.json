@@ -44493,5 +44493,29 @@
     "location": "Toronto",
     "filter_reason": "title match: 'early career'",
     "first_seen": "2026-09-18T02:10:51.695956"
+  },
+  "d893f41cdba7b821ac8079902db248c4": {
+    "company": "Tanium",
+    "title": "Sales Development Representative",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8203526",
+    "location": "Tokyo, Japan (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T07:44:44.429906"
+  },
+  "eb7e2dfe565312d39d8add2b8f6bbebb": {
+    "company": "Stripe",
+    "title": "Pricing Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8187578",
+    "location": "South San Francisco, New York City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T07:44:53.095505"
+  },
+  "2e62d6357eeef9a7570e0270377ac29d": {
+    "company": "Stripe",
+    "title": "Software Engineer, Billing Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=8127182",
+    "location": "San Francisco, New York City, Seattle, Chicago, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T07:44:53.096840"
   }
 }
