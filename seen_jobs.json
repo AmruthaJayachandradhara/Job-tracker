@@ -44517,5 +44517,13 @@
     "location": "San Francisco, New York City, Seattle, Chicago, US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-18T07:44:53.096840"
+  },
+  "aca439e86ff8686fc5c0bbf7cec2cdd2": {
+    "company": "Databricks",
+    "title": "AI Engineer \u2013 Forward Deployed Engineering, U.S. Public Sector (Federal Focus)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
+    "location": "Maryland; Virginia; Washington, D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-18T12:29:10.735549"
   }
 }
