@@ -44677,5 +44677,45 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-18T22:04:13.951360"
+  },
+  "fc6244cccc0e604c2aaf8b96800e2132": {
+    "company": "Pomelo Care",
+    "title": "Obstetric Behavioral Health Nurse - Night Shift (12a-9a ET, Tue-Fri)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6201968004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T00:38:55.663447"
+  },
+  "ab621fbc694af401a1fb4190bad3eba9": {
+    "company": "Pomelo Care",
+    "title": "Obstetric Behavioral Health Nurse - Night Shift (5p-1a ET, M-Th)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6201966004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T00:38:55.663469"
+  },
+  "3ad341f6bfc5081324d31cee04149d8e": {
+    "company": "Pomelo Care",
+    "title": "Obstetric Behavioral Health Nurse - Weekend Evening Shift (Fri-Sun, 5p-1a ET)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6201974004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T00:38:55.663481"
+  },
+  "3d23250b905136882e7c2ddbc94354f0": {
+    "company": "Pomelo Care",
+    "title": "Obstetric Behavioral Health Nurse - Weekend Nights (Fri-Sun, 9pm-9am ET)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6201970004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T00:38:55.663491"
+  },
+  "126463cf2278248be2ccacbd31104bb7": {
+    "company": "Pomelo Care",
+    "title": "Obstetric Behavioral Health Nurse - Weekends (Sat/Sun, 9am - 9pm ET)",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6201972004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T00:38:55.663500"
   }
 }
