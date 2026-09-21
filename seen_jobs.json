@@ -44781,5 +44781,37 @@
     "location": "Bangalore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-21T11:26:34.934461"
+  },
+  "b6d47f83b52a0feb05b57755d16e6138": {
+    "company": "Paraform",
+    "title": "GTM Associate",
+    "url": "https://jobs.ashbyhq.com/paraform/0900e03f-78ce-4ac5-8337-717cca955d62",
+    "location": "San Francisco",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-21T17:24:47.916831"
+  },
+  "afe103a88f749aa2c70cb49af302de1a": {
+    "company": "Fivetran",
+    "title": "Software Development Engineer in Test II",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7798462003",
+    "location": "Bengaluru, Karnataka, India, APAC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T17:25:16.318260"
+  },
+  "0bd8a2ad9e1484f63cf28622e6471167": {
+    "company": "Stripe",
+    "title": "Account Executive Product - Issuing & Treasury ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203649",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T17:25:29.466914"
+  },
+  "8663586bc019c20b6e1cf7a8af93f68e": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB Hunter (DACH)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8213057",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T17:25:29.467130"
   }
 }
