@@ -44717,5 +44717,69 @@
     "location": "United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-21T00:38:55.663500"
+  },
+  "869f4542737efba51d171109a6fc7602": {
+    "company": "Encord",
+    "title": "Workplace Operations Associate",
+    "url": "https://jobs.ashbyhq.com/encord/bc4e3eee-bfd7-48bd-9de3-ecce699e4fc8",
+    "location": "London",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-21T11:25:46.634002"
+  },
+  "1575ff22ea801beeb5b916d55a418f86": {
+    "company": "Mercury",
+    "title": "Software Engineering Intern - Spring 2027",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-21T11:26:31.270409"
+  },
+  "f841f2d3140b51fdd3bb87f3ef36fb20": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Fullstack ( Post-Purchase International)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+    "location": "Remote Spain",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-21T11:26:33.712228"
+  },
+  "fabc27d9771c6536d50acf0c93ac575d": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Fullstack (Post-Purchase International)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7809761003",
+    "location": "Remote Poland",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-21T11:26:33.712246"
+  },
+  "c20773059cfc876e29ec964661367059": {
+    "company": "Stripe",
+    "title": "Account Executive Product - Billing (Japanese Fluency) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8188088",
+    "location": "Japan, Tokyo",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T11:26:34.930331"
+  },
+  "52db72aff9fb2a736e6021db3b45c835": {
+    "company": "Stripe",
+    "title": "Account Executive Product - Issuing",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203649",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T11:26:34.930373"
+  },
+  "cb9066c044a71a99c2a5124b33f46ab2": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive, Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196271",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T11:26:34.931657"
+  },
+  "2eccf0301e5461f671ccb4f91f9d3590": {
+    "company": "Stripe",
+    "title": "Software Engineer, Stripe Data Pipeline",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209970",
+    "location": "Bangalore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T11:26:34.934461"
   }
 }
