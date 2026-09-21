@@ -44813,5 +44813,45 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-21T17:25:29.467130"
+  },
+  "d479eb259b6e73463a7c2bb74b9e4448": {
+    "company": "Profound",
+    "title": "Enterprise Account Executive ",
+    "url": "https://jobs.ashbyhq.com/profound/9e241b8d-3f96-42ef-b24c-21157f4bf28a",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T21:23:52.211949"
+  },
+  "ca4f210b0d94381a16234afa5b890bfa": {
+    "company": "Profound",
+    "title": "Agency Account Executive ",
+    "url": "https://jobs.ashbyhq.com/profound/0cdce451-6430-429f-8745-7450a045fab5",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T21:23:52.212062"
+  },
+  "1b286aa8c3e865e2aa494b4d5e877659": {
+    "company": "Profound",
+    "title": "Mid-Market Account Executive",
+    "url": "https://jobs.ashbyhq.com/profound/d9b85406-5cad-4df2-9347-2b971e474137",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T21:23:52.212136"
+  },
+  "a206b50ca6d1df3d4e8a83f2e661aac3": {
+    "company": "Databricks",
+    "title": "AI Engineer \u2013 Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
+    "location": "Maryland; Virginia; Washington, D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T21:24:03.995609"
+  },
+  "ffe838351431e6788f7bcf00ad3203b0": {
+    "company": "Stripe",
+    "title": "Workday Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8220938",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-21T21:24:35.469868"
   }
 }
