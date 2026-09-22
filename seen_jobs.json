@@ -44941,5 +44941,53 @@
     "location": "Seattle, WA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-22T05:36:59.560121"
+  },
+  "93b50cabbd6f89e13e6ca2417fecbb21": {
+    "company": "Cape",
+    "title": "Content and Social Media Associate",
+    "url": "https://jobs.ashbyhq.com/cape/07eb4f8a-ce3f-4aab-ba28-4729a23f4060",
+    "location": "New York, NY",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-22T15:14:59.037816"
+  },
+  "e895b54c82aa0c6539e8fd0e3292cee9": {
+    "company": "Tanium",
+    "title": "Cloud Security Intern",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8176398",
+    "location": "Durham, NC (Hybrid)",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-22T15:15:59.584099"
+  },
+  "c806c582494fcec9279c6c71ce644328": {
+    "company": "Stripe",
+    "title": "Account Executive - Global Adaptive Pricing",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196264",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T15:16:08.154666"
+  },
+  "e5924f7c5b8d4110976a13f2e3d842c9": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms - Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8222009",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T15:16:08.154754"
+  },
+  "77f17c5d5ad4207be4a8e97e49a07084": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive, Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=8220653",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T15:16:08.156514"
+  },
+  "cf757125968d411024cd1e55ef936229": {
+    "company": "Stripe",
+    "title": "Implementation Consultant (AMER)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203977",
+    "location": "Chicago, Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T15:16:08.157293"
   }
 }
