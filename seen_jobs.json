@@ -44853,5 +44853,45 @@
     "location": "US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-21T21:24:35.469868"
+  },
+  "f4f83663863763ee9057a90819cdf787": {
+    "company": "Databricks",
+    "title": "AI Engineer \u2013 Forward Deployed Engineering (AI FDE)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T00:23:30.237306"
+  },
+  "8146dbc52965c8285d7a79a62f6cfa43": {
+    "company": "Fivetran",
+    "title": "Pricing & Order Operations Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
+    "location": "Remote, Georgia, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T00:23:33.069857"
+  },
+  "ef9d4943343cdf259e87f2b37d20aa5e": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=7576999",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T00:23:47.991008"
+  },
+  "d9f91fc0b88f6685615552d89075a049": {
+    "company": "Stripe",
+    "title": "AI Solutions Developer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8221776",
+    "location": "SEA. SF, NYC, CHI",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T00:23:47.991202"
+  },
+  "e4e3d1896d6e325868fa2b49f2e1d05b": {
+    "company": "Stripe",
+    "title": "Machine Learning Engineer, Link",
+    "url": "https://stripe.com/jobs/search?gh_jid=8197886",
+    "location": "New York City ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T00:23:47.993355"
   }
 }
