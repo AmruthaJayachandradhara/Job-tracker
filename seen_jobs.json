@@ -44893,5 +44893,53 @@
     "location": "New York City ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-22T00:23:47.993355"
+  },
+  "0e5dffc9a4d4856db7bb1e9c1f4c535e": {
+    "company": "Coinbase",
+    "title": "Internal Audit Analytics Intern",
+    "url": "https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-22T05:36:55.774044"
+  },
+  "e2f63f615cc7c0182bb788fc8e29d31b": {
+    "company": "Coinbase",
+    "title": "Specialist, Market Operations",
+    "url": "https://www.coinbase.com/careers/positions/8222264?gh_jid=8222264",
+    "location": "Remote - Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T05:36:55.775071"
+  },
+  "1f375b72f5df02a51959ff0c28433bdb": {
+    "company": "Coinbase",
+    "title": "Specialist, Market Operations",
+    "url": "https://www.coinbase.com/careers/positions/8222267?gh_jid=8222267",
+    "location": "Remote - UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T05:36:55.775085"
+  },
+  "d2308bb2dafdf47cd5fdecd0ca79208e": {
+    "company": "Coinbase",
+    "title": "Specialist, Market Operations",
+    "url": "https://www.coinbase.com/careers/positions/8222259?gh_jid=8222259",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T05:36:55.775096"
+  },
+  "dc2f5ff7708adf72739348a8abed40c5": {
+    "company": "Coinbase",
+    "title": "Tax Information Reporting Intern",
+    "url": "https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-22T05:36:55.775327"
+  },
+  "eec9bbc4f6ff393f0f528e9e7e61537d": {
+    "company": "Stripe",
+    "title": "Data Scientist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8222149",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T05:36:59.560121"
   }
 }
