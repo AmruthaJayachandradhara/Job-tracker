@@ -45061,5 +45061,77 @@
     "location": "Mexico City",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-09-22T19:23:25.978623"
+  },
+  "8f4de78601cb5b0a48e8bd004b35dc29": {
+    "company": "Northwood Space",
+    "title": "PCB Designer ",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/512ff1fb-1ada-47c7-8839-7d8f68ee409c",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T22:31:16.026733"
+  },
+  "377a7624f0483639d29d7a76b428bf3a": {
+    "company": "Novig",
+    "title": "IT Specialist",
+    "url": "https://jobs.ashbyhq.com/novig/0644d8e3-7d35-486f-8666-a2988ddad3c4",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T22:31:24.231981"
+  },
+  "e52632ca1c23ff7b4960a89c6739ea8c": {
+    "company": "Juicebox",
+    "title": "Executive Assistant, CEO",
+    "url": "https://jobs.ashbyhq.com/juicebox/c06adae1-54ca-46c6-876c-9b98f873f5e6",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T22:31:30.653371"
+  },
+  "1b04128c15b6599062acd3d4e0dc5240": {
+    "company": "Coinbase",
+    "title": "Associate General Counsel, Privacy",
+    "url": "https://www.coinbase.com/careers/positions/8212923?gh_jid=8212923",
+    "location": "Remote - UK",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-22T22:31:48.461684"
+  },
+  "e1e6ba862c4ff54e8bcf04f8c53d3b5f": {
+    "company": "Stripe",
+    "title": "Frontend Engineer, Data Product Experiences",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194606",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T22:31:52.102898"
+  },
+  "79bd566adb642258d7d615a1574a8d23": {
+    "company": "Stripe",
+    "title": "Frontend Engineer, Data Product Experiences",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194604",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T22:31:52.102914"
+  },
+  "45d398707d7d734b7fa697f1ea594244": {
+    "company": "Stripe",
+    "title": "Integration Reliability Engineer Intern, Technical Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8186367",
+    "location": "Singapore",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-22T22:31:52.103262"
+  },
+  "074f414375b91386b1bf0953ee2e82c3": {
+    "company": "Stripe",
+    "title": "Risk Operations Analyst - SSO ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175824",
+    "location": "Remote ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T22:31:52.104114"
+  },
+  "a5860aeeabff62ab241f1008f5de047f": {
+    "company": "Stripe",
+    "title": "[TEMPLATE] Integration Engineer (Metronome) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175647",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T22:31:52.105209"
   }
 }
