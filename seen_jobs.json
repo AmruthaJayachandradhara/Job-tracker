@@ -44989,5 +44989,77 @@
     "location": "Chicago, Toronto",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-22T15:16:08.157293"
+  },
+  "f0b96a5d4379bf634c0efa7689820e1f": {
+    "company": "Northwood Space",
+    "title": "Hardware Development Engineer (DSP)",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/5d5833d9-6d3e-4e49-8264-f0322b66f684",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T19:22:45.437843"
+  },
+  "dbcf7a6c2ca70f95da7b6486911696be": {
+    "company": "Northwood Space",
+    "title": "Hardware Development Engineer (RF Systems)",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/cc20d57d-ade6-4c27-9ba2-31954234d245",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T19:22:45.437939"
+  },
+  "ff7c238f96c93e6e72b39f697a59e025": {
+    "company": "Databricks",
+    "title": "Sr Video Producer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8816442002",
+    "location": "Mountain View, California; United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T19:23:05.180900"
+  },
+  "335da08e74199a66eefbbfa5fea9efa8": {
+    "company": "Coinbase",
+    "title": "Associate General Counsel, Privacy EMEA",
+    "url": "https://www.coinbase.com/careers/positions/8212923?gh_jid=8212923",
+    "location": "Remote - UK",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-22T19:23:17.934198"
+  },
+  "cb75527ed590ba5795d984e8895d80cb": {
+    "company": "Coinbase",
+    "title": "Institutional Operations Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-22T19:23:17.934622"
+  },
+  "bc7120a83f81b38b0312910b2ad4257b": {
+    "company": "Stripe",
+    "title": "Administrative Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209652",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T19:23:25.975691"
+  },
+  "e2d82eb85a081b2404c00ad2ad14a025": {
+    "company": "Stripe",
+    "title": "Administrative Coordinator",
+    "url": "https://stripe.com/jobs/search?gh_jid=8223719",
+    "location": "Mexico City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T19:23:25.975727"
+  },
+  "ebaf488ffceaf27fb1f9e4ddc8d17c67": {
+    "company": "Stripe",
+    "title": "Design Engineer, Expansion",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212314",
+    "location": "US, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-22T19:23:25.976630"
+  },
+  "9ab5f32bca53ed2ddce886a70efd772f": {
+    "company": "Stripe",
+    "title": "People Operations Associate (Centralized Operations)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8049722",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-22T19:23:25.978623"
   }
 }
