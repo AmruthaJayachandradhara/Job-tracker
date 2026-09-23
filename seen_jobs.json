@@ -45357,5 +45357,21 @@
     "location": "San Francisco, New York, Seattle, US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-23T20:51:32.145770"
+  },
+  "b569ba2bd6ace580a7f4d13d62eb3982": {
+    "company": "Coinbase",
+    "title": "Associate General Counsel, Privacy",
+    "url": "https://www.coinbase.com/careers/positions/8227393?gh_jid=8227393",
+    "location": "Remote - Ireland",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-23T23:20:12.792329"
+  },
+  "7edbb6c3d27d7065b6db255d10b18c7e": {
+    "company": "Gusto",
+    "title": "Future Opportunities: Sales Onboarding Advocate",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8227773",
+    "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T23:20:21.353192"
   }
 }
