@@ -45213,5 +45213,101 @@
     "location": "Spain",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-23T12:32:53.459770"
+  },
+  "831ce1ddaa039fc8caec7ed7a08a7341": {
+    "company": "Cape",
+    "title": "Administrative Assistant",
+    "url": "https://jobs.ashbyhq.com/cape/2ace5fb3-de15-4904-9bc9-85bb20fe9fb3",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T17:34:17.858259"
+  },
+  "90ffd86cf28e70306d8722e74a39e3cf": {
+    "company": "Pomelo Care",
+    "title": "Obstetrics Care Provider (CNM or NP) - Evening Schedule ",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6206482004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T17:34:21.120400"
+  },
+  "489ee237918fb23b562081855b3a6a98": {
+    "company": "Northwood Space",
+    "title": "SMT Production Supervisor",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/10029527-8a51-44f7-990f-0123fbd4868c",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T17:34:23.013954"
+  },
+  "7773883758b70a6f434b6481cc1c1656": {
+    "company": "Encord",
+    "title": "DevOps Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/1fcf1e4b-ec1b-4a65-ba68-8512bd144d2c",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T17:34:30.790955"
+  },
+  "bac0e84fd7c9d56a9ae9bdf7d1e238a3": {
+    "company": "Replit",
+    "title": "Support Engineer I (FC, Weekend Shift)",
+    "url": "https://jobs.ashbyhq.com/replit/951e0ebb-a957-45fa-8763-d56ba46750b4",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T17:34:48.827257"
+  },
+  "362c2ee90578ea977394f54fe7a65e49": {
+    "company": "Replit",
+    "title": "Support Engineer I (NYC, Weekend Shift)",
+    "url": "https://jobs.ashbyhq.com/replit/4e64e46f-f69d-4454-89b6-bd27302a464d",
+    "location": "NYC (SoHo)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T17:34:48.827595"
+  },
+  "66d78f154f6311e89b3b41751155f46f": {
+    "company": "Coinbase",
+    "title": "Concierge Specialist III",
+    "url": "https://www.coinbase.com/careers/positions/8223328?gh_jid=8223328",
+    "location": "Remote - Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T17:34:54.439190"
+  },
+  "31227b304c5339f9555b464e88003346": {
+    "company": "Stripe",
+    "title": "Account Executive - Velocity SMB Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8195480",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T17:34:57.911075"
+  },
+  "1ee0f24f693963e4b3efb925423997bb": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Money Movement",
+    "url": "https://stripe.com/jobs/search?gh_jid=8226261",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T17:34:57.912126"
+  },
+  "9837c1d6ec80ed16c18dd35d7ad22751": {
+    "company": "Stripe",
+    "title": "Implementation Consultant, Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203977",
+    "location": "Chicago, Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T17:34:57.912323"
+  },
+  "f2b42c7bec41b5a41a73c9e43d0f12f5": {
+    "company": "Stripe",
+    "title": "Integration Engineer, Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203973",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T17:34:57.912403"
+  },
+  "a2083d4d550fdb352d79dd0ddd34f61a": {
+    "company": "Stripe",
+    "title": "People Operations Specialist, HR Compliance",
+    "url": "https://stripe.com/jobs/search?gh_jid=8189015",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T17:34:57.912910"
   }
 }
