@@ -45189,5 +45189,29 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-23T06:58:38.951438"
+  },
+  "0f61662891a56e66e9330b7bac596cd5": {
+    "company": "Encord",
+    "title": "Machine Learning Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/e60834b1-ded8-4aa3-9ab7-bfa79faec78a",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T12:32:26.356326"
+  },
+  "8d4233b50d08639df19e9461f070c59e": {
+    "company": "Fivetran",
+    "title": "Compensation & Analytics Partner",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7992087003",
+    "location": "CRI - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T12:32:40.212525"
+  },
+  "bd57faa4190488d1cccea1f7cf288874": {
+    "company": "Stripe",
+    "title": "Product Designer, Design Systems",
+    "url": "https://stripe.com/jobs/search?gh_jid=7983076",
+    "location": "Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T12:32:53.459770"
   }
 }
