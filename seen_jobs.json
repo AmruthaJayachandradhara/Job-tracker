@@ -45165,5 +45165,29 @@
     "location": "Toronto, Ontario, Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-23T01:03:47.651471"
+  },
+  "cf6259fd77232ec24c8b627062ff324a": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - Conglomerates",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8826668002",
+    "location": "Bengaluru, India; Mumbai, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T06:58:22.989202"
+  },
+  "57be1e2ee93da223cad1ee6ebfa31c2e": {
+    "company": "Stripe",
+    "title": "Account Executive Product - Link",
+    "url": "https://stripe.com/jobs/search?gh_jid=8189798",
+    "location": "SF, NYC, CHI, SEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T06:58:38.949074"
+  },
+  "9ce94d9b5b0e81bafae5d8fa81a26028": {
+    "company": "Stripe",
+    "title": "Integration Reliability Engineer, Technical Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8186445",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T06:58:38.951438"
   }
 }
