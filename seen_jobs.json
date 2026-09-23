@@ -45309,5 +45309,53 @@
     "location": "US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-23T17:34:57.912910"
+  },
+  "7ed638e42e047a382d9eec9f7f430ddd": {
+    "company": "Cape",
+    "title": "Account Executive, Marine Corps",
+    "url": "https://jobs.ashbyhq.com/cape/503d6f5a-93cb-4405-987b-1ca3d4b94dfd",
+    "location": "Arlington, VA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T20:50:34.766281"
+  },
+  "73182e37c90351b78cf3f91185662f47": {
+    "company": "Dialpad",
+    "title": "Sales Account Executive II, SB",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8784623002",
+    "location": "Pasig City, Metro Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T20:51:04.606739"
+  },
+  "428c473eac6626d31d3ad513cb961894": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - San Francisco",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8691382002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T20:51:06.010304"
+  },
+  "21678138186bacc8c4e8737b4f1e10bc": {
+    "company": "Stripe",
+    "title": "Offensive Security Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8172503",
+    "location": "Remote from the US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T20:51:32.143701"
+  },
+  "293dd4222b6a940089f37d6cc053a1a2": {
+    "company": "Stripe",
+    "title": "Product Counsel - RevSuite/Startups",
+    "url": "https://stripe.com/jobs/search?gh_jid=8089069",
+    "location": "US remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T20:51:32.144083"
+  },
+  "5e84b403bef4ff101c1d23ca1c9cdf49": {
+    "company": "Stripe",
+    "title": "University Recruiter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8226211",
+    "location": "San Francisco, New York, Seattle, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T20:51:32.145770"
   }
 }
