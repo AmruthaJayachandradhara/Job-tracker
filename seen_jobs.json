@@ -45133,5 +45133,37 @@
     "location": "Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-22T22:31:52.105209"
+  },
+  "e249db76ceecff99b4a4b7174221ec17": {
+    "company": "Tanium",
+    "title": "Recruiter - APJ",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8223739",
+    "location": "Tokyo, Japan (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T01:03:32.723110"
+  },
+  "4843fc0168334809c9d91579f676d74d": {
+    "company": "Hex",
+    "title": "Legal Ops",
+    "url": "https://jobs.ashbyhq.com/hex/214de87d-cc9b-406a-8a39-0ff441959c1d",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T01:03:35.785798"
+  },
+  "9c3d16bb975a4b7fec6ca95c604da011": {
+    "company": "Stripe",
+    "title": "Sales Strategy and Operations, M&A",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212667",
+    "location": "South San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T01:03:45.618612"
+  },
+  "71950903e41fa0b0aa5f6bcdf8f81245": {
+    "company": "Carta",
+    "title": "Contract Solutions Counsel",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8003015003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-23T01:03:47.651471"
   }
 }
