@@ -45405,5 +45405,53 @@
     "location": "Chicago, Atlanta, US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-24T07:57:34.548634"
+  },
+  "27aeb1a95fe03474ded7059e8c34f30a": {
+    "company": "Encord",
+    "title": "DevOps Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/1845476b-63ac-414d-9eac-74b353cfdd36",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T13:05:56.381747"
+  },
+  "a9baa35ccdda4dff7e40bc39c092d73a": {
+    "company": "Databricks",
+    "title": "Applied AI Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002",
+    "location": "Belgrade, Serbia",
+    "filter_reason": "description match: '0 year'",
+    "first_seen": "2026-09-24T13:06:07.658827"
+  },
+  "3e245058d0310340ded23caf1a00f25d": {
+    "company": "Databricks",
+    "title": "Named Hunter Enterprise Account Executive, Healthcare",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829296002",
+    "location": "Northeast - United States; Southeast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T13:06:07.660510"
+  },
+  "f7f9c3270d9955de42dff2b4eb6f9ba9": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive, Healthcare",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829996002",
+    "location": "Remote - California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T13:06:07.665348"
+  },
+  "7995b3f38de1cfcb9bb46bba6deb00ac": {
+    "company": "Stripe",
+    "title": "Deal Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8224612",
+    "location": "London, Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T13:06:24.153460"
+  },
+  "405d87ecd1c5c4438b5bf82665885312": {
+    "company": "Stripe",
+    "title": "Integration Engineer (Metronome) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175647",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T13:06:24.154558"
   }
 }
