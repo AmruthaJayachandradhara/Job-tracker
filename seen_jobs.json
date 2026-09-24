@@ -45453,5 +45453,77 @@
     "location": "Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-24T13:06:24.154558"
+  },
+  "527fe0e876c56b36e2e9f51fe12d5abc": {
+    "company": "Pomelo Care",
+    "title": "Clinical Recruiting Associate",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6207510004",
+    "location": "United States",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-24T18:03:12.979887"
+  },
+  "14ae34ca958cf98c205ee790710c1f6f": {
+    "company": "GitLab",
+    "title": "Intermediate Security Analyst, Vulnerability Operations  (North America)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8821526002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T18:03:57.547668"
+  },
+  "8def4edd0e4e59433b950be5f411fee0": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Identity Decisioning)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7985860003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T18:04:07.294465"
+  },
+  "db0fef4ac6cc19f8cf00d145f2ef0af7": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Identity Decisioning)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7985862003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T18:04:07.294492"
+  },
+  "19c247235451a7a25984cad53b2a645a": {
+    "company": "Stripe",
+    "title": "Account Executive, Product - Tax",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196288",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T18:04:08.564801"
+  },
+  "cb52f4f84d84b0e52a8affd7c5936b8d": {
+    "company": "Stripe",
+    "title": "Deal Pricing Strategist, APAC",
+    "url": "https://stripe.com/jobs/search?gh_jid=7960875",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T18:04:08.565953"
+  },
+  "66bb5b5f7870110c2817b36b787279c7": {
+    "company": "Stripe",
+    "title": "Product Recruiter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8163193",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T18:04:08.568602"
+  },
+  "41bad0c34e89f81626022995743c0bb5": {
+    "company": "Stripe",
+    "title": "User Risk Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230758",
+    "location": "New York, NY ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T18:04:08.570905"
+  },
+  "f11fc48d8628bee8fc14d42418977158": {
+    "company": "Gusto",
+    "title": "Customer Experience Specialist, Health Insurance Benefits",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7983701",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T18:04:09.380728"
   }
 }
