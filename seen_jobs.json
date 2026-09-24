@@ -45525,5 +45525,29 @@
     "location": "Denver, CO - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-24T18:04:09.380728"
+  },
+  "bfbb4891582c55f5346635b474e1bb46": {
+    "company": "Coinbase",
+    "title": "Compliance, International Investigations Associate",
+    "url": "https://www.coinbase.com/careers/positions/8224726?gh_jid=8224726",
+    "location": "Remote - UK",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-24T21:54:22.162556"
+  },
+  "2abcc1ef1cd9e466aebe19deebcbdb75": {
+    "company": "Stripe",
+    "title": "Financial Data Analyst Intern, Technical Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8186442",
+    "location": "Singapore",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-24T21:54:29.057038"
+  },
+  "0efcf779ff22b754fb6641653fb2f45e": {
+    "company": "Stripe",
+    "title": "People Operations Systems Administrator",
+    "url": "https://stripe.com/jobs/search?gh_jid=8227572",
+    "location": "Mexico City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T21:54:29.058691"
   }
 }
