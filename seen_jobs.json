@@ -45373,5 +45373,21 @@
     "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-23T23:20:21.353192"
+  },
+  "8d490dc3ae02640f0d3749918ba2cccd": {
+    "company": "Carta",
+    "title": "Legal Counsel (Private Markets)",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8004066003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T02:13:15.339214"
+  },
+  "55834910937ca26ea29bc25b707014e9": {
+    "company": "Carta",
+    "title": "Treasury Associate",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8004092003",
+    "location": "San Francisco, CA; New York, NY; Sandy, UT",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-24T02:13:15.339599"
   }
 }
