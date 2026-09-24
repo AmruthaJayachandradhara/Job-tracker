@@ -45389,5 +45389,21 @@
     "location": "San Francisco, CA; New York, NY; Sandy, UT",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-09-24T02:13:15.339599"
+  },
+  "1ffc47504988f2c54e4dee26c3d4dccc": {
+    "company": "Coinbase",
+    "title": "Risk & Monitoring Analyst III",
+    "url": "https://www.coinbase.com/careers/positions/8147699?gh_jid=8147699",
+    "location": "Remote - UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T07:57:30.889481"
+  },
+  "446a109e6341da31345036e372f50714": {
+    "company": "Stripe",
+    "title": "Sourcer, GTM ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8016504",
+    "location": "Chicago, Atlanta, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-24T07:57:34.548634"
   }
 }
