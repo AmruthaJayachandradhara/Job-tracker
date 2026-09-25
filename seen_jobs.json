@@ -45653,5 +45653,61 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-25T10:49:11.333017"
+  },
+  "68108338e1838484f275559f0801cf2b": {
+    "company": "Tanium",
+    "title": "Content Developer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8213843",
+    "location": "Krakow, Poland (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T15:40:14.827533"
+  },
+  "8d4ed292a9b25cb7e1be449aadd77107": {
+    "company": "Stripe",
+    "title": "Account Executive, Product (Payouts) - Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8213481",
+    "location": "London, Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T15:40:24.791398"
+  },
+  "5b21ee157fcd536f2eccc9e01b08301b": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive, Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=8232743",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T15:40:24.792405"
+  },
+  "4261775158956afc7e63b84826a82ae4": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive, Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=8232741",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T15:40:24.792413"
+  },
+  "e288b6992516d88c3bb6e3f6ff16daa1": {
+    "company": "Stripe",
+    "title": "Partner Solutions Engineer, Ecosystem",
+    "url": "https://stripe.com/jobs/search?gh_jid=8227563",
+    "location": "US-NYC; US-SF; US-Chicago; US-Atlanta; US-Seattle; US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T15:40:24.793425"
+  },
+  "86839e12cc4ebcc2d608e4ac70b9e82d": {
+    "company": "Stripe",
+    "title": "Recruiting Coordinator (Fixed-Term Contract)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8231145",
+    "location": "SF",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T15:40:24.793917"
+  },
+  "8b753e0507bf7deae13d2b230c651352": {
+    "company": "Stripe",
+    "title": "Strategy & Operations Business Partner, Global Payments Performance",
+    "url": "https://stripe.com/jobs/search?gh_jid=8171928",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T15:40:24.794938"
   }
 }
