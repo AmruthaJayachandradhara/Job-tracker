@@ -45709,5 +45709,77 @@
     "location": "Chicago",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-25T15:40:24.794938"
+  },
+  "30361290cc9b8a4d407dd2eb17b57970": {
+    "company": "Gumloop",
+    "title": "Forward Deployed Agentic Engineer",
+    "url": "https://jobs.ashbyhq.com/gumloop/f5b326dc-99b0-4a4f-bad4-b3ba54b32d2e",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T19:41:30.813551"
+  },
+  "66dce1645267f1e716316b7bc2766364": {
+    "company": "Northwood Space",
+    "title": "RF & Antenna Systems Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/11992bc2-5ec9-4143-9b64-e70be5b13726",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T19:41:53.128058"
+  },
+  "a418d73750b1d2b8c8ba85f1fa2cd7db": {
+    "company": "Databricks",
+    "title": "Executive Assistant",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8842226002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T19:42:12.788594"
+  },
+  "ba32cd620ca103e48deebf78659d52eb": {
+    "company": "Fivetran",
+    "title": "Pricing & Order Operations Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+    "location": "USA - Austin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T19:42:15.660443"
+  },
+  "79e2ca7ce81008e7d5b72a2516147240": {
+    "company": "Coinbase",
+    "title": "Trade Surveillance Associate",
+    "url": "https://www.coinbase.com/careers/positions/8232346?gh_jid=8232346",
+    "location": "London, UK",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-25T19:42:43.265510"
+  },
+  "feba80d96384d5f9c450def577ee236e": {
+    "company": "Stripe",
+    "title": "Account Executive, Velocity SMB Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8195478",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T19:43:02.262043"
+  },
+  "8d44595e5534c8f3e626b998b9590cb5": {
+    "company": "Stripe",
+    "title": "Finance & Strategy Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8231575",
+    "location": "SF, SEA, CHI, NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T19:43:02.263470"
+  },
+  "b759f0713207033f45f7c7d4ce66f731": {
+    "company": "Stripe",
+    "title": "Offensive Security Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8233889",
+    "location": "US - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T19:43:02.264721"
+  },
+  "b5df5d643028bd5b672964f219c28186": {
+    "company": "Stripe",
+    "title": "Strategy & Operations Business Partner, Customer Success",
+    "url": "https://stripe.com/jobs/search?gh_jid=8224620",
+    "location": "Chicago, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T19:43:02.267583"
   }
 }
