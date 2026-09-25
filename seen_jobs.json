@@ -45781,5 +45781,53 @@
     "location": "Chicago, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-25T19:43:02.267583"
+  },
+  "2e2bcc624ab37c06cbc842a00e93f1fe": {
+    "company": "Fivetran",
+    "title": "Data Analytics & BI",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8005007003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T22:57:16.474885"
+  },
+  "e8e0b7d0d031a81b6820ae0fda0c288a": {
+    "company": "Fivetran",
+    "title": "Pricing & Order Operations Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
+    "location": "USA - New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T22:57:16.475145"
+  },
+  "9c096d78b2deb24675ea5a60485f2018": {
+    "company": "Fivetran",
+    "title": "Pricing & Order Operations Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T22:57:16.475178"
+  },
+  "5307445023d61c12248f3b64f74266ea": {
+    "company": "Coinbase",
+    "title": "Complaints Analyst III",
+    "url": "https://www.coinbase.com/careers/positions/7182060?gh_jid=7182060",
+    "location": "Remote - Luxembourg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T22:57:25.994933"
+  },
+  "14d610efb896882b8e48faadfa39d1b4": {
+    "company": "Coinbase",
+    "title": "IT Support Engineer",
+    "url": "https://www.coinbase.com/careers/positions/8234137?gh_jid=8234137",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T22:57:25.995291"
+  },
+  "845934d390a9db7bddd88a916769070e": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales, Metronome",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190042",
+    "location": "US-NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T22:57:31.156520"
   }
 }
