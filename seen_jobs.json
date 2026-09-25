@@ -45613,5 +45613,45 @@
     "location": "San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-25T05:36:15.031451"
+  },
+  "06bb04c70eb7837b9546dc7c3f4ef269": {
+    "company": "Databricks",
+    "title": "Digital Native Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8644183002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T10:48:55.051925"
+  },
+  "a9bc638da018d51b2c6bd1b3e58b5488": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - China",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8844022002",
+    "location": "Remote - China",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T10:48:55.052484"
+  },
+  "fd0e0712fb13888e9222031e16ac7a4a": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - China",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813191002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T10:48:55.052494"
+  },
+  "6f1f69815191438baac3313cc2363893": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive - Thailand",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8783602002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T10:48:55.053763"
+  },
+  "378f46829426e48e84a3c6a28e8fdf9d": {
+    "company": "Stripe",
+    "title": "Data Analyst, Global Growth",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230296",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T10:49:11.333017"
   }
 }
