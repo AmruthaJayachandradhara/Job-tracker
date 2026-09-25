@@ -45549,5 +45549,37 @@
     "location": "Mexico City",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-24T21:54:29.058691"
+  },
+  "d8d0a657077c7eb8abbb4b4efab8aac6": {
+    "company": "Juicebox",
+    "title": "Product Specialist",
+    "url": "https://jobs.ashbyhq.com/juicebox/177bdc34-4dad-4e1d-beb9-369f3659b7d0",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T00:08:55.406737"
+  },
+  "5d7dea7e5a068eab5da934ab91523a7c": {
+    "company": "GitLab",
+    "title": "Backend Engineer, Create: Repository Management",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8843512002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T00:09:06.228549"
+  },
+  "2ca09412d9430beb0c6f1f2b2c00ad52": {
+    "company": "GitLab",
+    "title": "Backend Engineer, Create: Source Code Experience (Ruby)   ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687926002",
+    "location": "Remote, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T00:09:06.228570"
+  },
+  "afc102404de68d3a82830726bc4136f3": {
+    "company": "Stripe",
+    "title": "Account Executive, Bridge ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8178461",
+    "location": "LOCATION",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T00:09:23.128460"
   }
 }
