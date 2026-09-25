@@ -45581,5 +45581,37 @@
     "location": "LOCATION",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-25T00:09:23.128460"
+  },
+  "3e825b7b841ad1fa9c382d65e321f2ce": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8842408002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T05:35:57.322249"
+  },
+  "3d55d3e58a31ce456ca3931dd8cd7825": {
+    "company": "Stripe",
+    "title": "GTM Recruiter (Fixed Term)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8016504",
+    "location": "Chicago, Atlanta, US-Remote, Toro",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T05:36:14.283122"
+  },
+  "e8c14a6984bae3f58d54687f507e2881": {
+    "company": "Stripe",
+    "title": "GTM Sourcer (Fixed Term Contract)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230564",
+    "location": "Chicago, Atlanta, US-Remote, Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T05:36:14.283148"
+  },
+  "a53e69745fe19af8e115cc815d6ca827": {
+    "company": "Gusto",
+    "title": "R&D Insights and Operations - Growth",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8205633",
+    "location": "San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-25T05:36:15.031451"
   }
 }
