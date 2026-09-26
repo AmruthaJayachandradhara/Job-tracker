@@ -45837,5 +45837,21 @@
     "location": "US-CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-26T01:07:56.440237"
+  },
+  "7fc237d4483f7c5497b1016fa75711e5": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Crypto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190046",
+    "location": "SF, NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-26T06:51:19.577058"
+  },
+  "09d3beed514fc1a64cddff2973481509": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Stablecoin Issuing",
+    "url": "https://stripe.com/jobs/search?gh_jid=7456716",
+    "location": "SF, NYC, remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-26T06:51:19.577168"
   }
 }
