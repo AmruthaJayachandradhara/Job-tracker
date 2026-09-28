@@ -45877,5 +45877,53 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-28T07:57:34.782781"
+  },
+  "744bc4d989475afa7d1032bb2cb768e7": {
+    "company": "Pomelo Care",
+    "title": "Performance Creative Strategist, New Ventures",
+    "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6209692004",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T16:22:14.038388"
+  },
+  "d9aca271e8feb82038c92acfa405d4c6": {
+    "company": "Tanium",
+    "title": "Commercial Account Executive",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8233837",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T16:22:43.045196"
+  },
+  "7a3013c0ee436232f2e390a8f816e743": {
+    "company": "Stripe",
+    "title": "Account Executive, Product - Buy Now Pay Later (AUNZ)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8174148",
+    "location": "Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T16:22:52.028543"
+  },
+  "7064b426d1c8416aa2dc7ba980029310": {
+    "company": "Stripe",
+    "title": "Account Executive, Product - Local Payment Methods",
+    "url": "https://stripe.com/jobs/search?gh_jid=8174160",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T16:22:52.028633"
+  },
+  "e1da432beee9c78eed3d07d1d5a6a28d": {
+    "company": "Stripe",
+    "title": "Machine Learning Engineer, Growth Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=8224915",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T16:22:52.031416"
+  },
+  "aeaf6f2b08846a702dddbf44ee93f294": {
+    "company": "Stripe",
+    "title": "Product Support Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8236757",
+    "location": "New York, San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T16:22:52.032755"
   }
 }
