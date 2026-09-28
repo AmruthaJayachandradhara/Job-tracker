@@ -45925,5 +45925,85 @@
     "location": "New York, San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-28T16:22:52.032755"
+  },
+  "cde528300c3bbd8a8bb2ac4face78b6e": {
+    "company": "Cape",
+    "title": "Controller",
+    "url": "https://jobs.ashbyhq.com/cape/f946d305-9e2d-40de-8f70-637258c5e33d",
+    "location": "Arlington, VA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T22:20:36.195323"
+  },
+  "5f9af148c338dbb08adc3a0b29731d3c": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive - Retail Vertical ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7698278002",
+    "location": "Remote - California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T22:21:28.479192"
+  },
+  "92310e7f1b951869202d78b0fa652efb": {
+    "company": "Tanium",
+    "title": "RVP, Solution Engineering - Mid-Market/Commercial ",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8221629",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T22:21:51.428409"
+  },
+  "67f51141d8347d8fb31844c85864cffe": {
+    "company": "Tanium",
+    "title": "Sales Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8232167",
+    "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T22:21:51.428471"
+  },
+  "17f0bfc3d7b78148dd2d2e6a6373c2d4": {
+    "company": "Mercury",
+    "title": "Customer Support Specialist - Risk",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6200670004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T22:21:57.478631"
+  },
+  "460308744f94bddc1d88d977963592f8": {
+    "company": "Mercury",
+    "title": "Payroll Operations Specialist",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6199653004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T22:21:57.478798"
+  },
+  "828e81ddc1c60c2d79c8ee4431c8bf1b": {
+    "company": "Stripe",
+    "title": "Account Executive, Product - Issuing & Treasury (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190044",
+    "location": "US-San Francisco, US- New York, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T22:22:00.726670"
+  },
+  "ffbe77dcf1059b9ca9ddc42a421c9090": {
+    "company": "Stripe",
+    "title": "Account Executive, Product - Issuing & Treasury (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8238098",
+    "location": "US-San Francisco, US-New York, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T22:22:00.726696"
+  },
+  "b19510e6c29105cce651267075290ef5": {
+    "company": "Stripe",
+    "title": "Account Executive, Product - Local Payment Methods",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196267",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T22:22:00.726752"
+  },
+  "6a38b2b997fe190910f5e88a47038796": {
+    "company": "Stripe",
+    "title": "Sales Strategy and Operations, Mergers and Acquisitions",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212667",
+    "location": "South San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T22:22:00.730903"
   }
 }
