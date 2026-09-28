@@ -45861,5 +45861,21 @@
     "location": "New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-26T21:43:02.485324"
+  },
+  "89a911ae669929ccd3d94a255280cd54": {
+    "company": "Databricks",
+    "title": "Scale Solution Engineer (Japanese-speaking; English required)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8779016002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T07:57:17.252175"
+  },
+  "12600acc7905a2a87d687787ad308d19": {
+    "company": "Stripe",
+    "title": "Fraud Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8195058",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-28T07:57:34.782781"
   }
 }
