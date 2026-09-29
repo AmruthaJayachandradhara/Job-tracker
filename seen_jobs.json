@@ -46101,5 +46101,45 @@
     "location": "Sydney Or Melbourne",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-29T16:14:52.445025"
+  },
+  "6e24555ebc0aefdaf009d9998df963a4": {
+    "company": "Stripe",
+    "title": "Finance and Strategy Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=7473983",
+    "location": "San Francisco, New York City, Chicago, Seattle",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T21:10:26.881962"
+  },
+  "25e266f58ac46a64f269020e02a7a416": {
+    "company": "Stripe",
+    "title": "[TEMPLATE] Default Template",
+    "url": "https://stripe.com/jobs/search?gh_jid=8237540",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T21:10:26.886603"
+  },
+  "64498c23ca4f65a003af19172f47ae30": {
+    "company": "Stripe",
+    "title": "University Recruiter (Fixed Term)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8226211",
+    "location": "San Francisco, New York, Seattle, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T21:10:26.886679"
+  },
+  "0d95c0b4dfe6ced840d3d90b7ee0300d": {
+    "company": "Stripe",
+    "title": "User Escalation Specialist ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8239871",
+    "location": "Chicago, Seattle",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T21:10:26.886706"
+  },
+  "82152d44720bf5caeadb3e1ffc351e0c": {
+    "company": "Gusto",
+    "title": "Retirement Offboarding Specialist ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8040766",
+    "location": "Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T21:10:28.515468"
   }
 }
