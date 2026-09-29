@@ -46029,5 +46029,45 @@
     "location": "San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-29T02:24:38.957872"
+  },
+  "ec780b6ba852c75372805526831007aa": {
+    "company": "Stripe",
+    "title": "Android BSP Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8239006",
+    "location": "Taipei, Taiwan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T09:16:33.302184"
+  },
+  "7e31a8d183ff80e7f0ca40afdce509a6": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Enterprise Engineering",
+    "url": "https://stripe.com/jobs/search?gh_jid=8214618",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T09:16:33.303769"
+  },
+  "6845a2b6e13b74dff0eb1ee17c85d373": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Enterprise Engineering",
+    "url": "https://stripe.com/jobs/search?gh_jid=8214616",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T09:16:33.303785"
+  },
+  "9298d0084f845bb741b0c2967b836d28": {
+    "company": "Stripe",
+    "title": "Global People Operations - Systems Administrator",
+    "url": "https://stripe.com/jobs/search?gh_jid=8227570",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T09:16:33.303898"
+  },
+  "4c6630bfc62a8179de62b46f442730c5": {
+    "company": "Gusto",
+    "title": "APEX Risk Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8224747",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T09:16:34.010820"
   }
 }
