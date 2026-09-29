@@ -46005,5 +46005,29 @@
     "location": "South San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-28T22:22:00.730903"
+  },
+  "5c9d6130c29279fd46e74926d0e92603": {
+    "company": "Databricks",
+    "title": "Candidate Experience Admin (6-month contract) ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8854350002",
+    "location": "Mountain View, California; San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T02:24:21.266110"
+  },
+  "54ecedbec89548267b631ceb4e4365a3": {
+    "company": "Stripe",
+    "title": "Americas Field Marketing, AI",
+    "url": "https://stripe.com/jobs/search?gh_jid=8222219",
+    "location": "South San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T02:24:38.199078"
+  },
+  "f3323955ffd8291298165683de79c1d5": {
+    "company": "Gusto",
+    "title": "Technical Recruiter",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8212338",
+    "location": "San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T02:24:38.957872"
   }
 }
