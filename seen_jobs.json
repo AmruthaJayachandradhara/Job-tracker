@@ -46069,5 +46069,37 @@
     "location": "Denver, CO - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-29T09:16:34.010820"
+  },
+  "ca01b508a0a27cfea0dec5d3a180405b": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive - Retail vertical ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8855804002",
+    "location": "Remote - California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T16:14:28.320337"
+  },
+  "56505d387c2f112891dcb8dbb858a394": {
+    "company": "Fivetran",
+    "title": "Software Engineer II",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8000545003",
+    "location": "Bengaluru, Karnataka, India, APAC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T16:14:31.031855"
+  },
+  "8a0ea75cd6321d016365e367618d5da3": {
+    "company": "Stripe",
+    "title": "Account Executive, Product (Global Payouts - Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8213481",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T16:14:52.445003"
+  },
+  "2ac0ca66ca0a32e3c95cc418a6f6b097": {
+    "company": "Stripe",
+    "title": "Account Executive Product - Global Selling",
+    "url": "https://stripe.com/jobs/search?gh_jid=8174141",
+    "location": "Sydney Or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-29T16:14:52.445025"
   }
 }
