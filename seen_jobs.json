@@ -46197,5 +46197,109 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-30T13:10:52.672716"
+  },
+  "860dc859817ee5439e3fda96a0525856": {
+    "company": "Northwood Space",
+    "title": "Workplace Operations Associate",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/dd50ecd9-d251-4124-92ed-bd2a4641eaff",
+    "location": "Torrance, CA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-30T18:42:16.025950"
+  },
+  "7c321cf9248159ab3f9d43540ffeb8a8": {
+    "company": "Profound",
+    "title": "Enterprise Account Executive",
+    "url": "https://jobs.ashbyhq.com/profound/4c70f7cb-1a77-4f8f-b59c-afe19cc58ff5",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T18:42:23.098369"
+  },
+  "9931f591fb024b7fb44e34d377e9602b": {
+    "company": "Encord",
+    "title": "GTM Recruiter",
+    "url": "https://jobs.ashbyhq.com/encord/1080c689-4b98-46ad-93b8-123bdf493ee4",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T18:42:23.728077"
+  },
+  "e85787e79cca46e3eed3a6d2f06f01c2": {
+    "company": "Encord",
+    "title": "GTM Recruiter Associate",
+    "url": "https://jobs.ashbyhq.com/encord/22e918dd-5bb5-4675-b89f-3ed964fa5784",
+    "location": "San Francisco",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-30T18:42:23.728637"
+  },
+  "e7ee3dc2502b6c884e652e01cf462750": {
+    "company": "Encord",
+    "title": "Recruiting Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/7ddfa82f-a08d-4900-86ff-03f3dfe3200d",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T18:42:23.728652"
+  },
+  "8a5f09ff6ff80fcf88e07701331681cb": {
+    "company": "Databricks",
+    "title": "Startup Hunter Account Executive, France",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8845183002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T18:42:35.975436"
+  },
+  "06eeab11714dbf58dca854cbccff4378": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive - Banking",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8845180002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T18:42:35.975471"
+  },
+  "2b7260fd39dc538abfda0e3a1ce4cad4": {
+    "company": "GitLab",
+    "title": "Professional Services Engineer - West ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8857335002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T18:42:43.277917"
+  },
+  "56797e79149b8288f00a67aa2f626624": {
+    "company": "Tanium",
+    "title": "Commercial Account Executive",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8233833",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T18:42:44.786285"
+  },
+  "d6b055aff148c2d7860bb05acca40d9e": {
+    "company": "Stripe",
+    "title": "Abuse Research Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8240322",
+    "location": "US - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T18:42:55.404706"
+  },
+  "18d4371ddfe76a28d2f2ff69be9cc893": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8238741",
+    "location": "Toronto, Canada ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T18:42:55.405879"
+  },
+  "f6f668488e67fb2d898487ccc74aebd8": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8238743",
+    "location": "Toronto, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T18:42:55.405897"
+  },
+  "6ba4ee18141367885420ebba557fe2b6": {
+    "company": "Stripe",
+    "title": "Software Engineer, Security Business Enablement",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175656",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T18:42:55.412877"
   }
 }
