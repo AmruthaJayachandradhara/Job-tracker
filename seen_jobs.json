@@ -46165,5 +46165,37 @@
     "location": "Bengaluru, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-30T06:09:18.528353"
+  },
+  "fb8e12431cbfaf046ec1758e05b43acc": {
+    "company": "Fivetran",
+    "title": "Sales Development Representative",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8005072003",
+    "location": "IRL - Dublin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T13:10:38.899902"
+  },
+  "5cceea601d9144c90ba992cbde2b75e8": {
+    "company": "Coinbase",
+    "title": "Money Laundering Reporting Officer, ADGM",
+    "url": "https://www.coinbase.com/careers/positions/8207236?gh_jid=8207236",
+    "location": "Remote - UAE",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T13:10:48.815332"
+  },
+  "a9967e97cf8800ad5935a2614d33e5b2": {
+    "company": "Stripe",
+    "title": "Legal/ Corporate Compliance Operations Associate",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230274",
+    "location": "N/A",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-30T13:10:52.669282"
+  },
+  "b37fd947c7972152848892585e09fd56": {
+    "company": "Stripe",
+    "title": "Strategy and Operations Analyst, Customer Success",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230276",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T13:10:52.672716"
   }
 }
