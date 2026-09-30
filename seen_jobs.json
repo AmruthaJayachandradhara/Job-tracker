@@ -46301,5 +46301,93 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-30T18:42:55.412877"
+  },
+  "73e01d8d157193b3634be7ec8f2361fe": {
+    "company": "Gumloop",
+    "title": "Video Content Producer",
+    "url": "https://jobs.ashbyhq.com/gumloop/f9723d22-f1b9-4155-90f6-d06daf61a60c",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T22:43:20.062502"
+  },
+  "e1b0af6ef42c5d71affa057c487020f2": {
+    "company": "Northwood Space",
+    "title": "RF & Antenna Systems Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/5ec24b1c-54db-4a28-b47d-3af484a16bfd",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T22:43:28.858275"
+  },
+  "44dd3529b748188860ec18d8b918a483": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, Commercial",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8007390003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T22:43:48.241543"
+  },
+  "bbb2dcaaffc5de23c0d4f19b93a8e7f6": {
+    "company": "Coinbase",
+    "title": "Experiential Marketing Associate",
+    "url": "https://www.coinbase.com/careers/positions/8238576?gh_jid=8238576",
+    "location": "Remote - USA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-09-30T22:43:57.240606"
+  },
+  "8c0189c5bbb74c6e3faa1e478d87299e": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Streaming)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003022003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T22:43:59.682702"
+  },
+  "e2cb0304f765840d7703b97e390a0610": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Streaming)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003020003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T22:43:59.682723"
+  },
+  "fb778a6dbc3c9f717b68fd5aa58ee1b7": {
+    "company": "Affirm",
+    "title": "Visual Designer II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7966043003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T22:43:59.683066"
+  },
+  "648a0925e68a8144cec1eb28411dbd78": {
+    "company": "Stripe",
+    "title": "Equity and Reporting Accountant",
+    "url": "https://stripe.com/jobs/search?gh_jid=8240148",
+    "location": "San Francisco, Seattle ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T22:44:00.770389"
+  },
+  "459792ca09ba9f85d17c0cd59a101458": {
+    "company": "Stripe",
+    "title": "High School Internship, Software Engineering (Summer 2027)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241260",
+    "location": "Seattle, San Francisco",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-09-30T22:44:00.770997"
+  },
+  "f9c25f72b10fc575722961defa98331b": {
+    "company": "Stripe",
+    "title": "Software Engineer, Metronome Infrastructure",
+    "url": "https://stripe.com/jobs/search?gh_jid=8231439",
+    "location": "Toronto, Vancouver, Canada-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T22:44:00.773162"
+  },
+  "c9ec8a9cba167bbaee9318eed9c83b9e": {
+    "company": "Gusto",
+    "title": "Compensation Partner",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8241804",
+    "location": "San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T22:44:01.426646"
   }
 }
