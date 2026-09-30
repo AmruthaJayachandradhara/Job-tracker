@@ -46157,5 +46157,13 @@
     "location": "New York, Seattle, San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-30T00:53:28.154110"
+  },
+  "e29dcbe6166f1fa3b08714e711f441d8": {
+    "company": "Databricks",
+    "title": "IT Software Engineer, Infrastructure",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T06:09:18.528353"
   }
 }
