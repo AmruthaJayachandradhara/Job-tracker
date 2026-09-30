@@ -46141,5 +46141,21 @@
     "location": "Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-29T21:10:28.515468"
+  },
+  "1444f7a56886607dc6ad2c0f3d183944": {
+    "company": "Coinbase",
+    "title": "Software Engineer, CDP - Foundations ",
+    "url": "https://www.coinbase.com/careers/positions/8241522?gh_jid=8241522",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T00:53:24.395560"
+  },
+  "5090abe6cc65f9b3b5b62b0f2732baa4": {
+    "company": "Stripe",
+    "title": "Product Support Specialist - Bridge ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241342",
+    "location": "New York, Seattle, San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-09-30T00:53:28.154110"
   }
 }
