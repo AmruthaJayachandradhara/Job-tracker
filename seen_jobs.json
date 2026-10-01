@@ -46397,5 +46397,109 @@
     "location": "Scottsdale, AZ - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-01T08:02:35.683618"
+  },
+  "8ea7bf783d37202a9f7d7c6423c9e970": {
+    "company": "Encord",
+    "title": "Quant Developer in AI ",
+    "url": "https://jobs.ashbyhq.com/encord/39a4dc33-d4a9-4191-9daa-7712e1fb9bc4",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-01T15:14:40.628810"
+  },
+  "3b416b532f2fb4583740ebc96180dbef": {
+    "company": "Databricks",
+    "title": "Business Development Representative (French-speaking)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8816435002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-01T15:14:52.511887"
+  },
+  "def1be9be4ce11f39d8cb23518dd6269": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - CMEG Vertical ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8780748002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-01T15:14:52.513229"
+  },
+  "1c69ee5204db560f449abbe50b5f0ebe": {
+    "company": "GitLab",
+    "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002",
+    "location": "Remote, Canada; Remote, Poland; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-01T15:14:59.391786"
+  },
+  "919668feca2127a628c6740ec316b8d1": {
+    "company": "GitLab",
+    "title": "Backend Engineer (Ruby), AI Engineering: Agent Foundations",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8620720002",
+    "location": "Remote, Canada; Remote, Poland; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-01T15:14:59.391808"
+  },
+  "df1fe0fc032cc36d6cb6b784b520bcb3": {
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010489003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-01T15:15:09.597239"
+  },
+  "5c8287263d0e7f3124dd38615bcb6ef3": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms (Nordic Region)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241304",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-01T15:15:10.749989"
+  },
+  "dabc8eddb1aa5e688c6dd323855dc934": {
+    "company": "Stripe",
+    "title": "Data Analyst, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+    "location": "Toronto",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-01T15:15:10.751386"
+  },
+  "dcddc18ec4ff68b43f6e746d3d7b8ec2": {
+    "company": "Stripe",
+    "title": "Data Analyst, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+    "location": "New York, Seattle, South San Francisco HQ",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-01T15:15:10.751396"
+  },
+  "e4256647ae3b0ac429b7304e301913ca": {
+    "company": "Stripe",
+    "title": "PhD Data Scientist, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+    "location": "New York, Seattle, South San Francisco HQ",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-01T15:15:10.753866"
+  },
+  "f55f4785e8c87822e72997d06799415a": {
+    "company": "Stripe",
+    "title": "PhD Data Scientist, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194285",
+    "location": "Toronto",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-01T15:15:10.753876"
+  },
+  "cdcc1f8b531e058d67e078461137dd67": {
+    "company": "Stripe",
+    "title": "Product Support - Bridge",
+    "url": "https://stripe.com/jobs/search?gh_jid=8245584",
+    "location": "New York, Seattle, San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-01T15:15:10.754466"
+  },
+  "788d96155e7cc6e25a3398a1079c73b4": {
+    "company": "Stripe",
+    "title": " Software Engineer, Stripe Tax",
+    "url": "https://stripe.com/jobs/search?gh_jid=8232358",
+    "location": "Barcelona",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-01T15:15:10.755732"
   }
 }
