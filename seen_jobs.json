@@ -46389,5 +46389,13 @@
     "location": "San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-09-30T22:44:01.426646"
+  },
+  "db724dd349de75b36ed3c12767da8463": {
+    "company": "Gusto",
+    "title": "Premier Account Partner",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8203030",
+    "location": "Scottsdale, AZ - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-01T08:02:35.683618"
   }
 }
