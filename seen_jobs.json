@@ -46773,5 +46773,69 @@
     "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-02T18:48:53.027574"
+  },
+  "bd44795b9e0f43ea9459c4dd1edece71": {
+    "company": "Databricks",
+    "title": "Associate I, Business Operations",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8821953002",
+    "location": "USCA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-02T22:41:26.737178"
+  },
+  "0bf796ab49fb5dbab71632e05d4ad691": {
+    "company": "Coinbase",
+    "title": "Broker Dealer Operations, Associate",
+    "url": "https://www.coinbase.com/careers/positions/8248775?gh_jid=8248775",
+    "location": "Remote - USA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-02T22:41:39.094990"
+  },
+  "3f802282ac50979fd6976918351a8e13": {
+    "company": "Coinbase",
+    "title": "Finance & Strategy Analyst",
+    "url": "https://www.coinbase.com/careers/positions/8250032?gh_jid=8250032",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T22:41:39.095276"
+  },
+  "7716aee0c634efe37e02d095b8fa86b9": {
+    "company": "Affirm",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+    "location": "San Francisco, California, United States",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-02T22:41:41.717122"
+  },
+  "a96ad939c99eac953c6382f98d20872f": {
+    "company": "Affirm",
+    "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+    "location": "San Francisco, California, United States",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-02T22:41:41.717142"
+  },
+  "7e8767ea1fa5ee43f2a22635cd44ce34": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Revenue",
+    "url": "https://stripe.com/jobs/search?gh_jid=8234357",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T22:41:42.869160"
+  },
+  "2808096bdb9925642bfc207346aaaeeb": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8249901",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T22:41:42.871921"
+  },
+  "f293a7ac3d61834ca9ff0dd0c62ba73e": {
+    "company": "Stripe",
+    "title": "Software Engineer, Revenue and Financial Automation",
+    "url": "https://stripe.com/jobs/search?gh_jid=8076616",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T22:41:42.872185"
   }
 }
