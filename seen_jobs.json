@@ -46605,5 +46605,173 @@
     "location": "London, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-02T13:21:10.781901"
+  },
+  "97c2045b343c21720bf13ef795a6c2df": {
+    "company": "Databricks",
+    "title": "Product Management Intern (2026) - Amsterdam",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-02T18:48:35.801180"
+  },
+  "903470c3cc2daa755677947e070f589a": {
+    "company": "Databricks",
+    "title": "Product Management Intern (2026) - Belgrade",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002",
+    "location": "Belgrade, Serbia",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-02T18:48:35.801205"
+  },
+  "ac4ff9b50e71980deab6c6a1bf4a6c98": {
+    "company": "Databricks",
+    "title": "Product Management Intern (2026) - Berlin",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002",
+    "location": "Berlin, Germany",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-02T18:48:35.801215"
+  },
+  "5d7649f7ec37d557ea6e113bd7f2cc2a": {
+    "company": "Databricks",
+    "title": "Software Engineering Intern (2027 Start) - Aarhus",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002",
+    "location": "Aarhus, Denmark",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-02T18:48:35.802632"
+  },
+  "76a0be1b9a9c4513765d2592ac1a8df7": {
+    "company": "Databricks",
+    "title": "Software Engineering Intern (2027 Start) - Amsterdam",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-02T18:48:35.802642"
+  },
+  "5cf5dfd913ade27ed5bcb576c9f8dedb": {
+    "company": "Databricks",
+    "title": "Software Engineering Intern (2027 Start) - Belgrade",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002",
+    "location": "Belgrade, Serbia",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-02T18:48:35.802652"
+  },
+  "15ac6327e118ed406775df59754ccbea": {
+    "company": "Databricks",
+    "title": "Software Engineering Intern (2027 Start) - Berlin",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002",
+    "location": "Berlin, Germany",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-02T18:48:35.802660"
+  },
+  "ae00726f68d164c45a7e4aaa00548aac": {
+    "company": "Databricks",
+    "title": "Software Engineering Intern (2027 Start) - London",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002",
+    "location": "London, United Kingdom",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-02T18:48:35.802669"
+  },
+  "323c286e70c397bd56f53a4f52cdddec": {
+    "company": "GitLab",
+    "title": "Account Executive - France",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860302002",
+    "location": "Remote, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T18:48:41.969800"
+  },
+  "8ed48a3e0103ed9d24a8b4068c20b47f": {
+    "company": "GitLab",
+    "title": "Major Account Executive ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860093002",
+    "location": "Remote, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T18:48:41.970270"
+  },
+  "d3042678d265850fac3e9951f9e2a38b": {
+    "company": "GitLab",
+    "title": "Major Account Executive, France",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860287002",
+    "location": "Remote, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T18:48:41.970288"
+  },
+  "4078f4077425363dad721fe2db37b2ac": {
+    "company": "GitLab",
+    "title": "Major Account Executive Netherlands",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860275002",
+    "location": "Remote, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T18:48:41.970300"
+  },
+  "dca9e2cbfe0493203db26bb530310b8d": {
+    "company": "GitLab",
+    "title": "Major Account Executive, UK Public Sector",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860271002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T18:48:41.970309"
+  },
+  "d63821963413e1ea08460c2ac1eaaeda": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860106002",
+    "location": "Remote, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T18:48:41.970942"
+  },
+  "4c309c6cb0583abd60271037e336906f": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860127002",
+    "location": "Remote, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T18:48:41.970951"
+  },
+  "82aae832f61ac83f71cfc82fe9da44d2": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - Public Sector",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860142002",
+    "location": "Remote, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T18:48:41.970992"
+  },
+  "63a869add5593697b681b0362e0fc035": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - Public Sector ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860134002",
+    "location": "Remote, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T18:48:41.971001"
+  },
+  "99fa7a7af2ae3c9c5241decd7fa7ac18": {
+    "company": "Stripe",
+    "title": "Account Executive, AI Startups - Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8238731",
+    "location": "San Francisco ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T18:48:52.299082"
+  },
+  "8204382bdb748bad82d17886397d88fa": {
+    "company": "Stripe",
+    "title": "Comms Strategy & Operations Associate",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241857",
+    "location": "NYC, SF",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-02T18:48:52.300529"
+  },
+  "f41419db4551fb58196f43a8692bfa36": {
+    "company": "Stripe",
+    "title": "Finance & Strategy, Corporate Finance Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8249865",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T18:48:52.301503"
+  },
+  "269ebdeeec4ca2f4f1b8d36192202a92": {
+    "company": "Gusto",
+    "title": "AI/IT Controls Engineer, Enterprise Applications",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7905578",
+    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T18:48:53.027574"
   }
 }
