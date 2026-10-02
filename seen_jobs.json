@@ -46597,5 +46597,13 @@
     "location": "SEA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-02T06:27:06.313797"
+  },
+  "27ae020856d2f46153f8e8e80b9e6f6a": {
+    "company": "Databricks",
+    "title": "Startup Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8855874002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-02T13:21:10.781901"
   }
 }
