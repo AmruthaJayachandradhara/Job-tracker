@@ -46925,5 +46925,101 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-05T16:36:39.726130"
+  },
+  "f1bf4f343dd9eb2ebc63639cc5f00084": {
+    "company": "Cape",
+    "title": "Operations Analyst, Federal",
+    "url": "https://jobs.ashbyhq.com/cape/ee8d11cd-da7c-4ec7-b88b-66eead1b2126",
+    "location": "Arlington, VA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T22:59:44.639913"
+  },
+  "dfc014f2f3f081d29e98e48d806c3f9c": {
+    "company": "Cape",
+    "title": "Operations Analyst, Consumer",
+    "url": "https://jobs.ashbyhq.com/cape/ba0cdd14-ad58-4b90-b036-d6d4d77f125e",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T22:59:44.640031"
+  },
+  "70eebac74d359431a2f7b2029f00ef5f": {
+    "company": "Encord",
+    "title": "Product Engineer, DaaS",
+    "url": "https://jobs.ashbyhq.com/encord/eb543661-f25f-42c7-a196-1d5489123ea6",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T22:59:57.083664"
+  },
+  "933c5e917a4764cc0f58dc20b14e6592": {
+    "company": "Databricks",
+    "title": "Deputy Facility Security Officer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811713002",
+    "location": "Washington, D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T23:00:08.705323"
+  },
+  "d0dfd1b64837f58b9497623c3acfbe3a": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8868531002",
+    "location": "West Coast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T23:00:08.712927"
+  },
+  "eb12e701f21badc9af8a8e49d55f52ef": {
+    "company": "GitLab",
+    "title": "Support Engineer, U.S. Government Support ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8859063002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T23:00:15.065432"
+  },
+  "93085574a0f047f4f5feadc171518707": {
+    "company": "Replit",
+    "title": "Security Engineer - Incident Response",
+    "url": "https://jobs.ashbyhq.com/replit/de941de4-b0f2-4de8-a018-af667c67f33e",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T23:00:15.709970"
+  },
+  "2bd5e6e7e9c72c3ed1ce5b2063d44a47": {
+    "company": "Coinbase",
+    "title": "Finance & Strategy Analyst, Product",
+    "url": "https://www.coinbase.com/careers/positions/8250032?gh_jid=8250032",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T23:00:21.615648"
+  },
+  "a2019c63422fbdd725ec9a979fb83646": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups \u2014 Hunter, (Italian Speaker)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8121419",
+    "location": "Milan OR Madrid ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T23:00:25.521484"
+  },
+  "6f7d7f85e655b800a414c743d9a2cf95": {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Builder Experience",
+    "url": "https://stripe.com/jobs/search?gh_jid=8206731",
+    "location": "US remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T23:00:25.523867"
+  },
+  "f20dee306545b438499aabce2371518b": {
+    "company": "Stripe",
+    "title": "Product Designer, Connect Risk",
+    "url": "https://stripe.com/jobs/search?gh_jid=7663023",
+    "location": "Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T23:00:25.525485"
+  },
+  "54e382815c7dad4fd6fd5a0a9cdccd6c": {
+    "company": "Gusto",
+    "title": "Retirement Onboarding Specialist (New Plans) ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8248245",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T23:00:26.256418"
   }
 }
