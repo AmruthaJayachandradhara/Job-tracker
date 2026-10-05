@@ -46869,5 +46869,61 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-05T07:55:34.228701"
+  },
+  "e19a423d145e7ee643826aad46229e31": {
+    "company": "Databricks",
+    "title": "Business Development Representative (Arabic-speaking)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863020002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T16:36:21.177222"
+  },
+  "4d461423319f055febb5adda5be9cb4f": {
+    "company": "Databricks",
+    "title": "Recruiter, Field Engineering & FDE",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8771700002",
+    "location": "Belgrade, Serbia; London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T16:36:21.179605"
+  },
+  "1c778c0d56622e2b0d652959fdf73994": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Data)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190059",
+    "location": "US-SF-HQ, US-NYC, US-CHI, US-SEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T16:36:37.820245"
+  },
+  "b614870c64833a1409b6d1f68620a3e7": {
+    "company": "Stripe",
+    "title": "Commercial Operations Associate",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175653",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-05T16:36:37.821014"
+  },
+  "d9bbf198f6986bb66aa9a4bb3e49f6fa": {
+    "company": "Stripe",
+    "title": "Junior Commercial Associate \u2014 Works in Progress",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241571",
+    "location": "London",
+    "filter_reason": "title match: 'junior'",
+    "first_seen": "2026-10-05T16:36:37.822932"
+  },
+  "e5e0236b2865380bf81949c2e6505531": {
+    "company": "Stripe",
+    "title": "Sales Development Representative ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8048266",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T16:36:37.824528"
+  },
+  "87ac8e2e2412c26bd39082c3e09fd681": {
+    "company": "Carta",
+    "title": "Inbound KYC - Analyst",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8002105003",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T16:36:39.726130"
   }
 }
