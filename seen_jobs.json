@@ -46861,5 +46861,13 @@
     "location": "San Francisco, New York City, Seattle, Chicago, US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-03T01:34:00.173165"
+  },
+  "9b14a9f110c7041d3d61433e905d4aca": {
+    "company": "Stripe",
+    "title": "SDC Recruiter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8237526",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-05T07:55:34.228701"
   }
 }
