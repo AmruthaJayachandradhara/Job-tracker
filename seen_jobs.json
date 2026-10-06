@@ -47037,5 +47037,69 @@
     "location": "Sydney",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-06T09:36:42.940466"
+  },
+  "acfa4e62992157740fd7e44a28e6ea87": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive, France",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8868220002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-06T16:23:54.266749"
+  },
+  "8c5ec968cdd8476928f361cae950fdcf": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Decisions Orchestration)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003018003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-06T16:24:03.017376"
+  },
+  "98bdf1f6a544802dbd99b13e565e175f": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Decisions Orchestration)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003016003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-06T16:24:03.017397"
+  },
+  "cb940f1a5792a9abbaebeb53bfa69bc9": {
+    "company": "Stripe",
+    "title": " Account Executive, Platforms (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8249652",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-06T16:24:04.166645"
+  },
+  "98e7d3153951cd0daca9c9bca7556903": {
+    "company": "Stripe",
+    "title": "Account Executive - Platforms Hunter (French Fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241292",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-06T16:24:04.166692"
+  },
+  "164c552763c9c8beed2b0ea3bee47963": {
+    "company": "Stripe",
+    "title": "Community Operations Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8257185",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-06T16:24:04.167765"
+  },
+  "d19236ebf7e956d95a31e6afde554de7": {
+    "company": "Stripe",
+    "title": "Design Recruiter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8163193",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-06T16:24:04.168267"
+  },
+  "f46631501ce3e36562298f9675b65ba5": {
+    "company": "Stripe",
+    "title": "Security Analyst ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8142302",
+    "location": "US Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-06T16:24:04.171558"
   }
 }
