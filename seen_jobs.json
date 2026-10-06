@@ -47101,5 +47101,69 @@
     "location": "US Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-06T16:24:04.171558"
+  },
+  "659c9256bbb98e943900c73393021a78": {
+    "company": "Profound",
+    "title": "GTM Operations Business Partner",
+    "url": "https://jobs.ashbyhq.com/profound/467e6bb9-7343-47ec-8cd7-b43137e6541b",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-06T21:23:10.383628"
+  },
+  "43322aefb878d68eaedb80bd48322f42": {
+    "company": "Encord",
+    "title": "Forward Deployed Software Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/d906c495-4746-426e-878f-2707bf06acc4",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-06T21:23:10.944896"
+  },
+  "ff423922eab621ea479dd51d5eadd483": {
+    "company": "Fivetran",
+    "title": "Executive Business Partner",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8005005003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-06T21:23:24.662633"
+  },
+  "de6c8e6f050021f8a058ccddf0a08e15": {
+    "company": "Hex",
+    "title": "Brand Designer",
+    "url": "https://jobs.ashbyhq.com/hex/50ca3b21-52f0-44bd-88b8-a285a45e38ed",
+    "location": "Remote - US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-06T21:23:32.321227"
+  },
+  "dcf6890eeabe38a0c26c256307a4a888": {
+    "company": "Affirm",
+    "title": "Software Engineer I (New Grad 2027) (NYC)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+    "location": "New York, New York, United States",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-10-06T21:23:37.017962"
+  },
+  "ddc4c9d4f614d7e3677a0015fe6990c2": {
+    "company": "Affirm",
+    "title": "Software Engineer I (New Grad 2027) (SF)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+    "location": "San Francisco, California, United States",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-10-06T21:23:37.017977"
+  },
+  "cf627300aa468e6844ce21635f0db7e5": {
+    "company": "Stripe",
+    "title": "Account Executive, Existing Business, Iberia ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241322",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-06T21:23:38.180954"
+  },
+  "e32cde38f701b9e7b2d70fde9d10234b": {
+    "company": "Stripe",
+    "title": "Product Tax Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8248088",
+    "location": "San Francisco, Seattle, New York City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-06T21:23:38.185394"
   }
 }
