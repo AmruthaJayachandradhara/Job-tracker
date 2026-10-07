@@ -47277,5 +47277,109 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-07T14:54:49.018714"
+  },
+  "15c21aca30a614675f9373cb9c7bc1a4": {
+    "company": "Profound",
+    "title": "Event Marketer",
+    "url": "https://jobs.ashbyhq.com/profound/ddf43e3a-48c9-4eb5-abfa-834730b498c7",
+    "location": "London, England",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T20:19:08.538153"
+  },
+  "63c1650b458526478103b3e2f37efa59": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - CPG ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870938002",
+    "location": "Northeast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T20:19:20.614409"
+  },
+  "9be9de24e65a6929a738b55d8406eb83": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Federal Civilian",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8816440002",
+    "location": "Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T20:19:20.614445"
+  },
+  "d5ad195f75818f1a88782ce0e2eddeca": {
+    "company": "Databricks",
+    "title": "Software Engineer, Infrastructure",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T20:19:20.616703"
+  },
+  "58aa0798e2cc5753162183c1a13be94a": {
+    "company": "Databricks",
+    "title": "Sr Software Engineer - Agentic Applications (Full Stack)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T20:19:20.618320"
+  },
+  "b873848ff3475247e866957e6f24e480": {
+    "company": "GitLab",
+    "title": "Business Development Representative",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872457002",
+    "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T20:19:26.690371"
+  },
+  "77007e020c9eb5d681db36b04ad66778": {
+    "company": "GitLab",
+    "title": "Business Development Representative - West",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872433002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T20:19:26.690397"
+  },
+  "d34610d62b86e2ea987f73a8248e27a7": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB Hunter (Central Eastern Europe)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8258364",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T20:19:36.634764"
+  },
+  "1ac127da045d925b7720d30e99f58443": {
+    "company": "Stripe",
+    "title": "AI Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8144196",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T20:19:36.634905"
+  },
+  "2db82c1df57e2df8f48aa763b87ecf69": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Developer & End-user Experience Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+    "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T20:19:36.634980"
+  },
+  "a3cbd2f5fcc7e4a84c7266b39da1955a": {
+    "company": "Stripe",
+    "title": "Integration Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203975",
+    "location": "Toronto, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T20:19:36.636262"
+  },
+  "f9337b02e2f872c51386a066e9d2a8f7": {
+    "company": "Stripe",
+    "title": "Paralegal Litigation",
+    "url": "https://stripe.com/jobs/search?gh_jid=8243619",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T20:19:36.636687"
+  },
+  "df488715ce5cb6434b3543383c7bf02e": {
+    "company": "Stripe",
+    "title": "Social & Content Marketing, Stripe Crypto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8246785",
+    "location": "NYC-Privy",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T20:19:36.637805"
   }
 }
