@@ -47221,5 +47221,61 @@
     "location": "New York, New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-07T07:54:51.779116"
+  },
+  "5961dc8bcb2ba39bf010c3709ef37339": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive, Space Force",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8871482002",
+    "location": "Remote - California; Remote - Colorado",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T14:54:32.536780"
+  },
+  "0a55e26b041ce5acca07b6d98f6ebdca": {
+    "company": "Tanium",
+    "title": "Sales Development Representative with Italian",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8233824",
+    "location": "Paris, France (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T14:54:40.468383"
+  },
+  "8a3e687556e2b589136c6136215deb98": {
+    "company": "Stripe",
+    "title": "Account Executive, Velocity Scaled Grower (Italian or Spanish fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241345",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T14:54:49.012729"
+  },
+  "98860488581be0c67f08d476a90ec14d": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Payments & Risk",
+    "url": "https://stripe.com/jobs/search?gh_jid=8260985",
+    "location": "Toronto, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T14:54:49.012967"
+  },
+  "bf44f86f95ad1586fe9747759ef3862d": {
+    "company": "Stripe",
+    "title": "Payments Fraud Investigator",
+    "url": "https://stripe.com/jobs/search?gh_jid=8261213",
+    "location": "Remote - US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T14:54:49.015815"
+  },
+  "0ac1545768c321b8201b00a9f82d8190": {
+    "company": "Stripe",
+    "title": "Security Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8257892",
+    "location": "Dublin",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-10-07T14:54:49.017119"
+  },
+  "258244d954b78c63ed8ec8bc6514122f": {
+    "company": "Stripe",
+    "title": "Technical Solutions Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8039948",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T14:54:49.018714"
   }
 }
