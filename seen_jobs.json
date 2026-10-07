@@ -47165,5 +47165,53 @@
     "location": "San Francisco, Seattle, New York City",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-06T21:23:38.185394"
+  },
+  "688d90c736f38a14ced7237fcda9b2e2": {
+    "company": "Encord",
+    "title": "Forward Deployed Software Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/3217ff0b-692c-434d-937c-d3ea22642952",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T01:07:40.622796"
+  },
+  "d5f7f284cee61da05d020ffa4cddc0b1": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Hunter (New Logo)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8440940002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T01:07:52.493682"
+  },
+  "5a85e9d6d4aab93fa4e5318757c6b4dc": {
+    "company": "Affirm",
+    "title": "Software Engineer, Early Career (NYC)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+    "location": "New York, New York, United States",
+    "filter_reason": "title match: 'early career'",
+    "first_seen": "2026-10-07T01:08:07.940890"
+  },
+  "0d321e7e51b1c8312f62e6d3f6aae09e": {
+    "company": "Affirm",
+    "title": "Software Engineer, Early Career (SF)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+    "location": "San Francisco, California, United States",
+    "filter_reason": "title match: 'early career'",
+    "first_seen": "2026-10-07T01:08:07.940911"
+  },
+  "38c1a759fecca20a2e0dde4fab04f0c9": {
+    "company": "Stripe",
+    "title": "Credit Risk Operations Analyst (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7456167",
+    "location": "Mexico City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T01:08:09.122385"
+  },
+  "8a395b9dcee1a4062663b34ae05b7beb": {
+    "company": "Stripe",
+    "title": "Monetization and Contract Success (MACS) Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8244505",
+    "location": "SEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-07T01:08:09.124539"
   }
 }
