@@ -47525,5 +47525,101 @@
     "location": "San Francisco, CA; New York City, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-08T14:12:37.576964"
+  },
+  "2887e947ee5c37e80cc8bb2c2fd2575b": {
+    "company": "Braintrust",
+    "title": "Software Engineer, SDK",
+    "url": "https://jobs.ashbyhq.com/braintrust/2a6c4ee9-063f-45d4-83ba-faf64b1f1a60",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T20:20:53.791958"
+  },
+  "7bde6f026412b0da911befbb10cba4ac": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569594002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T20:21:21.108903"
+  },
+  "9075a77726a9a179f6b8f732f539617e": {
+    "company": "Databricks",
+    "title": "Named Hunter Account Executive - Digital Natives",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8871486002",
+    "location": "Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Denver, Colorado; Los Angeles, California; New York City, New York; San Francisco, California; Seattle, Washington",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T20:21:21.109522"
+  },
+  "d04e9bf908e8c7813fd8234a51ccf855": {
+    "company": "GitLab",
+    "title": "Recruiter,  GTM",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8869149002",
+    "location": "Remote Ireland; Remote, Australia; Remote, Canada; Remote, India; Remote, Mexico; Remote, Poland; Remote, United Kingdom; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T20:21:27.229896"
+  },
+  "e8caffa1be3ba48cd7176fc6cef4affc": {
+    "company": "GitLab",
+    "title": "Recruiter, R&D",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002",
+    "location": "Remote Ireland; Remote, Australia; Remote, Canada; Remote, India; Remote, Mexico; Remote, Poland; Remote, United Kingdom; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T20:21:27.229916"
+  },
+  "e4a01c6edee42e3dfccb21ef4adb01bc": {
+    "company": "Replit",
+    "title": "Software Engineering Intern \u2013 Winter 2027 (U.S. Based)",
+    "url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea",
+    "location": "Foster City, CA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-08T20:21:27.812622"
+  },
+  "4d48305b662c6aeae1472fa1ce5d36df": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Online Storage)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8012043003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T20:21:36.250551"
+  },
+  "4b409c4c7edb931595bd985a45cc60e7": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Frontend (Marketing and Privacy)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010608003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T20:21:36.250637"
+  },
+  "355436b5a4c884990a12ebf3730dd2cb": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Frontend (Marketing and Privacy)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010610003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T20:21:36.250651"
+  },
+  "d0bcbfea53469a0e9a696f28643bd261": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Open Issuance ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8190057",
+    "location": "sf, nyc",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T20:21:37.459708"
+  },
+  "9b7a47c5f3869800cd32048dd87db156": {
+    "company": "Stripe",
+    "title": "Implementation Consultant",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203969",
+    "location": "Mexico City, MX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T20:21:37.462032"
+  },
+  "b06f1023c1cc7e836f60e8f7be1e35b8": {
+    "company": "Stripe",
+    "title": "Integration Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203966",
+    "location": "Mexico City, MX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T20:21:37.462183"
   }
 }
