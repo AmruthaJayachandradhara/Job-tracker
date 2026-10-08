@@ -47445,5 +47445,85 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-08T06:49:44.920810"
+  },
+  "f3017c54286f7bb4ff15fdf7843d32d6": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8860431002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T14:12:06.759758"
+  },
+  "54a8ff6be7f12113802eae8e8b2b3551": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8878720002",
+    "location": "Madrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T14:12:06.760371"
+  },
+  "4aea24005bc6fd729fade1933ed7f1c6": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8878722002",
+    "location": "Herzliya, Israel",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T14:12:06.764605"
+  },
+  "806d07c4f34d44e54cb0ac3626c923ff": {
+    "company": "GitLab",
+    "title": "SMB Account Executive (Growth)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8874151002",
+    "location": "Remote, France; Remote, Germany; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T14:12:22.281464"
+  },
+  "d6286dea9afb8e4ea890f447808fe43b": {
+    "company": "GitLab",
+    "title": "SMB Account Executive (New Business)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8874166002",
+    "location": "Remote, France; Remote, Germany; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T14:12:22.281478"
+  },
+  "0a5a49e880413847aed7006efbdfc8af": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB Grower (French speaking)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8250479",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T14:12:35.581408"
+  },
+  "ef54aac3721454628b721e972f7f2090": {
+    "company": "Stripe",
+    "title": "Sales Development Representative, Thailand",
+    "url": "https://stripe.com/jobs/search?gh_jid=8259153",
+    "location": "Bangkok, Thailand",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T14:12:35.583943"
+  },
+  "a78e7badb876703871efa95e619245c0": {
+    "company": "Stripe",
+    "title": "Software Engineer, Payments and Risk",
+    "url": "https://stripe.com/jobs/search?gh_jid=8261012",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T14:12:35.584574"
+  },
+  "f4681b97ecef1a8775003124817d3397": {
+    "company": "Carta",
+    "title": "Legal Product Builder",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8016744003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T14:12:37.576951"
+  },
+  "f4a23091799416d1bd6ba2748a908730": {
+    "company": "Carta",
+    "title": "Legal Product Builder",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7994034003",
+    "location": "San Francisco, CA; New York City, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T14:12:37.576964"
   }
 }
