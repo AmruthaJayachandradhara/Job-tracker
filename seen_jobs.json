@@ -47381,5 +47381,61 @@
     "location": "NYC-Privy",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-07T20:19:36.637805"
+  },
+  "df3af96d4eb1288815ce56e2d9625dfb": {
+    "company": "Gumloop",
+    "title": "Founding Product Marketer",
+    "url": "https://jobs.ashbyhq.com/gumloop/832a42ee-6898-49f6-84a3-e5df3820c7b5",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T00:33:55.040958"
+  },
+  "46593e9daee02d8902eca789eb116b0f": {
+    "company": "Profound",
+    "title": "Forward Deployed Marketer",
+    "url": "https://jobs.ashbyhq.com/profound/0621c0d3-d4b2-41dd-8eaa-eeb5197d7ec8",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T00:34:11.663893"
+  },
+  "540a9608ee266e8331472eebab00906a": {
+    "company": "Tanium",
+    "title": "Employment Counsel",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8263194",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T00:34:40.599270"
+  },
+  "d3e3cf3535549246f32b928f0b403ddf": {
+    "company": "Coinbase",
+    "title": "Prime Operations Assistant",
+    "url": "https://www.coinbase.com/careers/positions/8250934?gh_jid=8250934",
+    "location": "Remote - Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T00:34:49.752383"
+  },
+  "c51f281a3bbcb9f7a79c93491286f22f": {
+    "company": "Stripe",
+    "title": "Machine Learning Engineer, Radar",
+    "url": "https://stripe.com/jobs/search?gh_jid=8243617",
+    "location": "Seattle",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T00:34:53.772044"
+  },
+  "adf55215e7c77fcffb65921c03878885": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (Spanish fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8248086",
+    "location": "Chicago, IL",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T00:34:53.773692"
+  },
+  "61f662ee7acd0febb5c7702f1b9fe2b8": {
+    "company": "Stripe",
+    "title": "Software Engineer, Internal Identity",
+    "url": "https://stripe.com/jobs/search?gh_jid=8263356",
+    "location": "na",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-08T00:34:53.774470"
   }
 }
