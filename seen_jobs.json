@@ -47437,5 +47437,13 @@
     "location": "na",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-10-08T00:34:53.774470"
+  },
+  "3e67338f80a26882b000836beed0beb9": {
+    "company": "Stripe",
+    "title": "Software Engineer, Money as a Service",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209644",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-08T06:49:44.920810"
   }
 }
