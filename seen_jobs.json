@@ -47709,5 +47709,157 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-09T14:06:29.706759"
+  },
+  "6021c3e60df36870d7c76c51a551f3f6": {
+    "company": "Databricks",
+    "title": "Product Management Intern (2027) - Amsterdam",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-09T19:54:17.936232"
+  },
+  "0610f15e482d18350b452b097c182d59": {
+    "company": "Databricks",
+    "title": "Product Management Intern (2027) - Belgrade",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002",
+    "location": "Belgrade, Serbia",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-09T19:54:17.936256"
+  },
+  "cd6f95e88628f9c9b98ca4bcc956b62a": {
+    "company": "Databricks",
+    "title": "Product Management Intern (2027) - Berlin",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002",
+    "location": "Berlin, Germany",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-09T19:54:17.936264"
+  },
+  "5fe2c2ddfed5f5166e9255ca39d1dcb4": {
+    "company": "GitLab",
+    "title": "Benefits Analyst",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8864819002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T19:54:23.904254"
+  },
+  "8aaa85344d7f734ed65687d9e475d29e": {
+    "company": "GitLab",
+    "title": "Business Development Representative ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872433002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T19:54:23.904274"
+  },
+  "148b22b3e156f355904bc2d0493627e6": {
+    "company": "GitLab",
+    "title": "SMB Account Executive, Growth",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871878002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T19:54:23.905025"
+  },
+  "c502cf6219e4fef4165266b7985f0e9a": {
+    "company": "GitLab",
+    "title": "SMB New Business Account Executive   ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871274002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T19:54:23.905042"
+  },
+  "ca75687e442e6d65434237c5d7614b7f": {
+    "company": "Coinbase",
+    "title": "Forward Deployed Engineer Intern (HR Technology)",
+    "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-09T19:54:30.309226"
+  },
+  "67aae7b5b955bedb0a13507706d965c7": {
+    "company": "Affirm",
+    "title": "Content Designer II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008481003",
+    "location": "Remote UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T19:54:32.907610"
+  },
+  "edd50b0b4530e6ba2d08876b735e185e": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Batch Developer Experience)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003030003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T19:54:32.908595"
+  },
+  "0b3bcd52e32f90801dc0db0a783f266a": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Partner Merchant Interface)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7590373003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T19:54:32.908693"
+  },
+  "773520c5ee49d51b9d16b3a9a6534aa0": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Fullstack (Ads Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8016866003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T19:54:32.908776"
+  },
+  "ad73dc7daa968745cd37ec869e64414b": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Fullstack (Ads Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8016868003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T19:54:32.908787"
+  },
+  "0477bb75932511b3783de2cf73c58677": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Open Issuance",
+    "url": "https://stripe.com/jobs/search?gh_jid=8191708",
+    "location": "CHI, SF,NYC, SEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T19:54:33.943447"
+  },
+  "bcb535c79d9743e3f0152727fd3e88da": {
+    "company": "Stripe",
+    "title": "Credit Risk, Fraud Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8267684",
+    "location": "South San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T19:54:33.944175"
+  },
+  "d4eb5d19957841c204f555d972d2a6ac": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8267736",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T19:54:33.947485"
+  },
+  "45c604026aa842227d62064e679e38d6": {
+    "company": "Stripe",
+    "title": "Software Engineer, Internal Identity",
+    "url": "https://stripe.com/jobs/search?gh_jid=8265763",
+    "location": "na",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-09T19:54:33.947578"
+  },
+  "0cec272a39c59cfad273dbfdbb8669fb": {
+    "company": "Stripe",
+    "title": "Software Engineer, Operator Tooling",
+    "url": "https://stripe.com/jobs/search?gh_jid=8178879",
+    "location": "Bucharest",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T19:54:33.947674"
+  },
+  "138d80579902646c545236b4b8753e10": {
+    "company": "Gusto",
+    "title": "Retirement Sponsor Support Specialist",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8143038",
+    "location": "Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T19:54:34.662506"
   }
 }
