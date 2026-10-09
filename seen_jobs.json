@@ -47653,5 +47653,21 @@
     "location": "Foster City, CA",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-10-09T00:49:38.326853"
+  },
+  "9f9e7e3a9986f0ca20df0679060ef4a4": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8771566002",
+    "location": "Remote - India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T06:57:59.609994"
+  },
+  "00d7c6ce469ba60804b26f796aa58b00": {
+    "company": "Stripe",
+    "title": "Bridge Product Accountant",
+    "url": "https://stripe.com/jobs/search?gh_jid=8262032",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T06:58:16.274471"
   }
 }
