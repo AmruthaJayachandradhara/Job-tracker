@@ -47621,5 +47621,37 @@
     "location": "Mexico City, MX",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-08T20:21:37.462183"
+  },
+  "73dfeaf62fdee619bd9a766a9d49d857": {
+    "company": "Braintrust",
+    "title": "Sales Development Representative",
+    "url": "https://jobs.ashbyhq.com/braintrust/d9a6212f-ccbf-4a25-8512-9d61be5c4ff8",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T00:49:03.133249"
+  },
+  "f88dc27c98bbd057bfb12e2fa57c1b94": {
+    "company": "Encord",
+    "title": "Special Forces",
+    "url": "https://jobs.ashbyhq.com/encord/3bda21f0-70ee-437b-8601-96ebb0dac6f1",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T00:49:19.321574"
+  },
+  "2a84d1504a21cad8749f00b3dd8ad0f0": {
+    "company": "Fivetran",
+    "title": "Talent Acquisition Coordinator - Contract ",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8015169003",
+    "location": "Dublin, Dublin, Ireland, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T00:49:34.171651"
+  },
+  "87a0d1ae59db2cf06dfe9170e501758e": {
+    "company": "Replit",
+    "title": "Software Engineering Intern \u2013 Winter 2027 ",
+    "url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea",
+    "location": "Foster City, CA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-09T00:49:38.326853"
   }
 }
