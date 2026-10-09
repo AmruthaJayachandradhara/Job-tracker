@@ -47861,5 +47861,85 @@
     "location": "Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-09T19:54:34.662506"
+  },
+  "d54a58f02ae95447f304f87bd0ccc52c": {
+    "company": "Cape",
+    "title": "GRC Engineer",
+    "url": "https://jobs.ashbyhq.com/cape/f52e2052-3e6d-4af8-901a-b8d0069d31af",
+    "location": "Hybrid, DC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T23:41:44.506355"
+  },
+  "dab98b9775203afba53670d00dcc8cb4": {
+    "company": "Databricks",
+    "title": "Evergreen  - Product Design Intern (2027 Start)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002",
+    "location": "San Francisco, California; Seattle, Washington",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-09T23:42:06.217069"
+  },
+  "c142cbd931d02f0eb70a79639ab80c68": {
+    "company": "Databricks",
+    "title": "Evergreen - Product Design New Grad (2027 Start)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002",
+    "location": "San Francisco, California; Seattle, Washington",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-10-09T23:42:06.217088"
+  },
+  "42e067e519fd3e0974efc5d4f04f4d84": {
+    "company": "GitLab",
+    "title": "People Systems Engineer",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8861748002",
+    "location": "Bangalore, India; Remote, Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T23:42:12.087527"
+  },
+  "a03d29bf7999c385092150d38fea5919": {
+    "company": "GitLab",
+    "title": "People Technology Analyst - Workday",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8861782002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T23:42:12.087547"
+  },
+  "124e5cf699eb2f28aef55bd0d4e8025f": {
+    "company": "Coinbase",
+    "title": "Enterprise Engineer",
+    "url": "https://www.coinbase.com/careers/positions/8265721?gh_jid=8265721",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T23:42:18.128283"
+  },
+  "6d28c3498fc14c547ff55e36e3b8ebf0": {
+    "company": "Mercury",
+    "title": "Treasury Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6221673004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T23:42:18.752732"
+  },
+  "642e857854b91633b965700174268bb0": {
+    "company": "Affirm",
+    "title": "IT Engineer Intern (Early Careers Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
+    "location": "San Francisco, California, United States",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-09T23:42:20.664075"
+  },
+  "1a7d8025bd2e6d8b943c904cbf7e88ac": {
+    "company": "Affirm",
+    "title": "Small Business Account Executive II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8005402003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T23:42:20.665061"
+  },
+  "031b9071d205862c731be93e5e951353": {
+    "company": "Stripe",
+    "title": "Account Executive, Commercial (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7277406",
+    "location": "Chicago ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T23:42:21.805049"
   }
 }
