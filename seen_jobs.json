@@ -47669,5 +47669,45 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-09T06:58:16.274471"
+  },
+  "c0d80c07491428f4e0ab0e65b2e85bb1": {
+    "company": "Dialpad",
+    "title": "Account Executive, Commercial",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8880621002",
+    "location": "Tempe, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T14:06:18.312891"
+  },
+  "30289280cf81523abf2d534a91ee212d": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Batch Developer Experience)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003026003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T14:06:28.591147"
+  },
+  "2495bd898337e53c0aab50d471d3bc93": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Batch Developer Experience)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003028003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T14:06:28.591169"
+  },
+  "56672f649c6e838497a318440e9d1855": {
+    "company": "Stripe",
+    "title": "AR Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8247127",
+    "location": "Bangalore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T14:06:29.702913"
+  },
+  "13ab6e38fdc9f40ce7fb320dd54f7162": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (Polish Fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8265128",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-09T14:06:29.706759"
   }
 }
