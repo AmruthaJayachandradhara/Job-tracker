@@ -47941,5 +47941,29 @@
     "location": "Chicago ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-09T23:42:21.805049"
+  },
+  "49af3fd5d2b6821427f8f93839b5b1e8": {
+    "company": "Databricks",
+    "title": "Product Design Intern (2027 Start)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002",
+    "location": "San Francisco, California; Seattle, Washington",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-10T03:20:30.200316"
+  },
+  "bf753c1af25b1849759f15f100bd0a3c": {
+    "company": "Databricks",
+    "title": "Product Design New Grad (2027 Start)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002",
+    "location": "San Francisco, California; Seattle, Washington",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-10-10T03:20:30.200344"
+  },
+  "446392acebcea5c4eb3afedeb0445cbd": {
+    "company": "Stripe",
+    "title": "Fraud Operations Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7651078",
+    "location": "Mexico City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-10T03:20:47.576665"
   }
 }
