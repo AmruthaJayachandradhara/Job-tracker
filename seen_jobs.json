@@ -47965,5 +47965,21 @@
     "location": "Mexico City",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-10T03:20:47.576665"
+  },
+  "0a5ab059d58226d2e577a17f4fc7d523": {
+    "company": "Databricks",
+    "title": "Digital Native Account Executive, Thailand",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8878095002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-11T02:53:41.864576"
+  },
+  "b05cbe8c976b71191910550d1caeaf2c": {
+    "company": "Stripe",
+    "title": "Writer, Content Marketing",
+    "url": "https://stripe.com/jobs/search?gh_jid=8265686",
+    "location": "US Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-11T02:53:58.021353"
   }
 }
