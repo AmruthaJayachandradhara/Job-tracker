@@ -47981,5 +47981,13 @@
     "location": "US Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-11T02:53:58.021353"
+  },
+  "51b4ca49a1037758183d34fbf4e726a2": {
+    "company": "Databricks",
+    "title": "Strategic Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880400002",
+    "location": "Australian Capital Territory, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T06:46:01.871345"
   }
 }
