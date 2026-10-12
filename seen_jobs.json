@@ -47989,5 +47989,37 @@
     "location": "Australian Capital Territory, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-12T06:46:01.871345"
+  },
+  "0a6bf81623cc525cd8591429e4403aef": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive, Healthcare",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870716002",
+    "location": "Remote - Colorado; Southeast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T16:18:35.171250"
+  },
+  "bb6a7c9802692c368741340e5726c3e5": {
+    "company": "Coinbase",
+    "title": "Associate General Counsel, EU Legal",
+    "url": "https://www.coinbase.com/careers/positions/8265422?gh_jid=8265422",
+    "location": "Hybrid - Luxembourg",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-12T16:18:47.435497"
+  },
+  "70905bbb6bac69d01d777a61c568b4a7": {
+    "company": "Stripe",
+    "title": "Credit Risk Analyst Commercial Underwriter",
+    "url": "https://stripe.com/jobs/search?gh_jid=7540441",
+    "location": "Chicago, US-Remote, Canada-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T16:18:51.223706"
+  },
+  "50adb55a1ac5fbbfe8e2cbbb4b875e29": {
+    "company": "Gusto",
+    "title": "Retirement Implementation Specialist",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8083986",
+    "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T16:18:51.933500"
   }
 }
