@@ -48021,5 +48021,125 @@
     "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-12T16:18:51.933500"
+  },
+  "16ad8bdc3f0ce0cd47a7b19b3ecfa5db": {
+    "company": "Spade",
+    "title": "Account Executive - Enterprise Banks",
+    "url": "https://jobs.ashbyhq.com/spade/6297ade8-b25d-4b9f-8c53-6654849f14e8",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T23:21:27.864412"
+  },
+  "2d718805786717fe1e4ffc05543a14b5": {
+    "company": "Spade",
+    "title": "Account Executive - Fintech",
+    "url": "https://jobs.ashbyhq.com/spade/dd8dac4f-c69a-49cd-b0ca-950d67a96295",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T23:21:27.864528"
+  },
+  "f3b0759796575acb6057e97f46aede74": {
+    "company": "Encord",
+    "title": "Research Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/19de3b55-70ac-4960-afaf-f488d46acaef",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T23:21:31.859480"
+  },
+  "03d274abb710b07fca5926e9b2b5499e": {
+    "company": "Databricks",
+    "title": "AI Automation Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829033002",
+    "location": "Costa Rica",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T23:21:42.666610"
+  },
+  "6df4424c5a7ee1edf9fa70b2e9525dae": {
+    "company": "Databricks",
+    "title": "Digital Natives Hunter Account Executive, Nordics",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863018002",
+    "location": "Stockholm, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T23:21:42.667154"
+  },
+  "8bd2c27a2ffe835b5f4a05c680ac3e3a": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Healthcare",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8871484002",
+    "location": "Remote - Missouri; Remote - New York; Remote - Ohio; Remote - Pennsylvania",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T23:21:42.667781"
+  },
+  "211008ac0fd171a8d0116742d4d2ca9d": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Manufacturing ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8879335002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T23:21:42.667809"
+  },
+  "689c23c354805ef815c4438c452dc85b": {
+    "company": "Databricks",
+    "title": "Software Engineering Intern (2027)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-12T23:21:42.670630"
+  },
+  "0d5327c4252e6219a8fd9ced720d9ed2": {
+    "company": "Hex",
+    "title": "AI Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6",
+    "location": "San Francisco",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-12T23:21:52.781446"
+  },
+  "8c099118ea4e77bcb47d0098dc5dd5c4": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8274920",
+    "location": "US-SF, US-NY, US-Remote, Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T23:21:58.670102"
+  },
+  "7d3df79f2dbbf6a120aa1243f7f351b9": {
+    "company": "Stripe",
+    "title": "Account Executive, UK Commercial Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130729",
+    "location": "London or Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T23:21:58.670835"
+  },
+  "a0b7eabc245d1ef61a167c5a99b6a054": {
+    "company": "Stripe",
+    "title": "Android Engineer, Terminal - CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8274893",
+    "location": "Toronto, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T23:21:58.670983"
+  },
+  "63297d9a09f744f38d2d4c3a87f475b9": {
+    "company": "Stripe",
+    "title": "Financial Crimes Investigator, Luxembourg",
+    "url": "https://stripe.com/jobs/search?gh_jid=8220932",
+    "location": "Luxembourg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T23:21:58.672233"
+  },
+  "04d7fa9d66ad5bcd351037ca24e881da": {
+    "company": "Stripe",
+    "title": "SOX Business Controls Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8274580",
+    "location": "SEA, SF",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T23:21:58.676048"
+  },
+  "c0c58e53b803740a1c2c02c31b8bf975": {
+    "company": "Stripe",
+    "title": "Technical Solutions Consultant, Crypto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8275366",
+    "location": "New York, San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-12T23:21:58.676941"
   }
 }
