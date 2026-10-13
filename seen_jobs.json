@@ -48181,5 +48181,93 @@
     "location": "Bangalore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-13T12:19:59.060387"
+  },
+  "14180d881a5f3b06e4708c7fc90ab7c5": {
+    "company": "Braintrust",
+    "title": "Software Engineer, Billing",
+    "url": "https://jobs.ashbyhq.com/braintrust/525eda64-5ca0-46c5-bac2-ef8056d3f10c",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T19:38:26.454329"
+  },
+  "39f9e051430cd649a6ea50dc6a26f3a7": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - CPG",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8871488002",
+    "location": "Remote - Georgia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T19:38:55.328041"
+  },
+  "4eaafabd32e0aa61cd3daee5e5821731": {
+    "company": "Dialpad",
+    "title": "Account Executive, Commercial",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8880622002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T19:39:00.231713"
+  },
+  "03d39ff9bf7d951adae36213471ef256": {
+    "company": "Coinbase",
+    "title": "Counsel, Employment",
+    "url": "https://www.coinbase.com/careers/positions/8275465?gh_jid=8275465",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T19:39:08.681340"
+  },
+  "f4153972d9c8a8dd9bdb0d9f7130cc22": {
+    "company": "Affirm",
+    "title": "Analytics Engineer II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010489003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T19:39:11.566139"
+  },
+  "de52b7f50d0d7666aa0cf767a6cb14f4": {
+    "company": "Affirm",
+    "title": "Product Support Specialist I (Merchant Care)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8013700003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T19:39:11.566830"
+  },
+  "33ec6b7d608b14717b7cfcd3f5365076": {
+    "company": "Affirm",
+    "title": "Recruiting Coordination Specialist I",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8017063003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T19:39:11.566891"
+  },
+  "097fe6880fd819fa3852254e2adcd906": {
+    "company": "Stripe",
+    "title": "Immigration Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8244515",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T19:39:12.772577"
+  },
+  "a4e22f7a27d6c455632d7becd37aa83e": {
+    "company": "Stripe",
+    "title": "People Consultant",
+    "url": "https://stripe.com/jobs/search?gh_jid=8262027",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T19:39:12.773680"
+  },
+  "eb271978bb83b6e1705f0b6c652ad549": {
+    "company": "Stripe",
+    "title": "Pricing Activation Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241855",
+    "location": "SEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T19:39:12.773783"
+  },
+  "07c4f1a1c9206bf394a5634cd90842b7": {
+    "company": "Gusto",
+    "title": "Finance Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8257115",
+    "location": "New York, NY - Hybrid",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-13T19:39:13.672181"
   }
 }
