@@ -48165,5 +48165,21 @@
     "location": "Chicago, IL",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-13T04:32:25.462832"
+  },
+  "a7ef3017a866cc4514fd1c76eb680889": {
+    "company": "Fivetran",
+    "title": "Global Payroll Analyst",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7818366003",
+    "location": "Bengaluru, Karnataka, India, APAC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T12:19:45.896913"
+  },
+  "e2e0cea78b7517438ce306a8119ba862": {
+    "company": "Stripe",
+    "title": "Strategy and Analytics Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=8245230",
+    "location": "Bangalore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T12:19:59.060387"
   }
 }
