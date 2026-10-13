@@ -48269,5 +48269,61 @@
     "location": "New York, NY - Hybrid",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-10-13T19:39:13.672181"
+  },
+  "73004c77333eb6b64ab6c5e3d1565c0b": {
+    "company": "Replit",
+    "title": "Data Scientist, Enterprise",
+    "url": "https://jobs.ashbyhq.com/replit/c05749db-f413-4091-a95c-c8e0aa1b5630",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T23:31:08.794506"
+  },
+  "8674efd2a7926a6986fe4cfa2f72fa53": {
+    "company": "Replit",
+    "title": "Support Specialist",
+    "url": "https://jobs.ashbyhq.com/replit/bd72bebd-0bcb-4050-abdd-1f978f507109",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T23:31:08.795083"
+  },
+  "1c855ef21e343d4ed7db721115604430": {
+    "company": "Replit",
+    "title": "Data Scientist, Growth",
+    "url": "https://jobs.ashbyhq.com/replit/1066b974-3cd8-42cf-a11c-a4217c06f70f",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T23:31:08.795098"
+  },
+  "91c41745227f8ae3ea8590e7ddff05ee": {
+    "company": "Coinbase",
+    "title": "Software Engineer, Enterprise Apps ",
+    "url": "https://www.coinbase.com/careers/positions/8279479?gh_jid=8279479",
+    "location": "Remote - Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T23:31:14.377925"
+  },
+  "b44a37016322b3a607614589da37916d": {
+    "company": "Stripe",
+    "title": "Account Executive, Scaled Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=7576999",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T23:31:18.128422"
+  },
+  "2889441f8abe9f75e6e719ed7e5e09d4": {
+    "company": "Gusto",
+    "title": "Enhanced Due Diligence Investigations",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8275011",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T23:31:18.829285"
+  },
+  "4aba0bf70460b7baaed9a4d3e4367f04": {
+    "company": "Gusto",
+    "title": "Fraud Investigations Analyst",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8275021",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T23:31:18.829356"
   }
 }
