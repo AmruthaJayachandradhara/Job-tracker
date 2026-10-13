@@ -48141,5 +48141,29 @@
     "location": "New York, San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-12T23:21:58.676941"
+  },
+  "3dd5049111b9b8a9aec924084c76db43": {
+    "company": "Databricks",
+    "title": "Core Account Executive - Vietnam",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438948002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T04:32:09.178813"
+  },
+  "f4cb2908ca0e3d225512775af48ffaf8": {
+    "company": "Coinbase",
+    "title": "Employment, Counsel",
+    "url": "https://www.coinbase.com/careers/positions/8275465?gh_jid=8275465",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T04:32:21.913882"
+  },
+  "5104b842309105b9744459ae272db08d": {
+    "company": "Stripe",
+    "title": "Renewals Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230306",
+    "location": "Chicago, IL",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-13T04:32:25.462832"
   }
 }
