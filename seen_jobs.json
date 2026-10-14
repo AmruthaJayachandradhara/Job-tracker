@@ -48325,5 +48325,29 @@
     "location": "Denver, CO - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-13T23:31:18.829356"
+  },
+  "61289ed53f7cb530922962846e0e17a6": {
+    "company": "Coinbase",
+    "title": "Analyst, Privacy (Incident Management)",
+    "url": "https://www.coinbase.com/careers/positions/8168175?gh_jid=8168175",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T02:41:45.170129"
+  },
+  "e2fe66a9d5f98da0c7530c71e0c0a8e3": {
+    "company": "Coinbase",
+    "title": "Analyst, Privacy (Privacy Assessments)",
+    "url": "https://www.coinbase.com/careers/positions/8280209?gh_jid=8280209",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T02:41:45.170157"
+  },
+  "d79d8e5e7c505692e6eac17b3a1641be": {
+    "company": "Gusto",
+    "title": "Enhanced Due Diligence Investigations Analyst",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8275011",
+    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T02:41:49.692243"
   }
 }
