@@ -48389,5 +48389,93 @@
     "location": "Bucharest",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-14T14:11:22.784192"
+  },
+  "30e7ee2a982d0de1febb0b8e96399a45": {
+    "company": "Profound",
+    "title": "G&A Recruiter",
+    "url": "https://jobs.ashbyhq.com/profound/47aff786-3738-4705-8c3f-96009bf86e5e",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T19:03:06.474328"
+  },
+  "c66e329bf924eab3a09ab4d8d7bb0f8f": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Federal Health",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870724002",
+    "location": "Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T19:03:18.392503"
+  },
+  "8ad94ddc647b82acb1621bacfc103dce": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Sports (CMEG Vertical)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8780748002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T19:03:18.392662"
+  },
+  "37a71e176d7ebf3bc9036af0c60678e6": {
+    "company": "Databricks",
+    "title": "Solutions Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
+    "location": "New York City, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T19:03:18.396431"
+  },
+  "47dd92043057c2ddf073f66563c78013": {
+    "company": "Tanium",
+    "title": "Commercial Account Executive",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8280246",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T19:03:26.040759"
+  },
+  "ae2641875241c3b669f1637ccc9ec549": {
+    "company": "Tanium",
+    "title": "Commercial Account Executive",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8280249",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T19:03:26.040780"
+  },
+  "cdce88d752fde6c44cf9758adfe0aa4b": {
+    "company": "EarnIn",
+    "title": "M&A Analyst",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8243783",
+    "location": "Mountain View, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T19:03:32.858435"
+  },
+  "87ba312fde547e2cc166937a547774e0": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales, Billing (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8215758",
+    "location": "US-SF-HQ, US-SEA, US-CHI, US-NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T19:03:34.752647"
+  },
+  "6bf550f3bbba7ca625212f3fa1bfe1ba": {
+    "company": "Stripe",
+    "title": "Employment Counsel, EMEA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8273855",
+    "location": "Dublin, London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T19:03:34.754050"
+  },
+  "7cc8f717d2b3da19e6e57d28bf1b6c57": {
+    "company": "Stripe",
+    "title": " IT Support Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8265151",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T19:03:34.755420"
+  },
+  "991328cae0b6dcd8371990eaf86a8f06": {
+    "company": "Stripe",
+    "title": "Strategy & Analytics Business Partner Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8079783",
+    "location": "US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T19:03:34.758974"
   }
 }
