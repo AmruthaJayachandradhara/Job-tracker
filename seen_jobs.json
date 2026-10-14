@@ -48349,5 +48349,45 @@
     "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-14T02:41:49.692243"
+  },
+  "171f1f78143fe92344e09d70fc9b1795": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive, FSI",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8883827002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T14:11:06.112785"
+  },
+  "d1e0203f5f48b20b901dafc397d4a508": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241333",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T14:11:22.777575"
+  },
+  "f6f9dbcbd17efed61cfa5d990ca8c9b3": {
+    "company": "Stripe",
+    "title": "Account Executive Product - Fraud & Risk ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8271657",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T14:11:22.777801"
+  },
+  "5f17673720d8dcabbce83738c693aa67": {
+    "company": "Stripe",
+    "title": "Account Executive, Professional Services Sales",
+    "url": "https://stripe.com/jobs/search?gh_jid=8265139",
+    "location": "Madrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T14:11:22.778226"
+  },
+  "628e07c75460ee8004f958a2ffeb98ce": {
+    "company": "Stripe",
+    "title": "Software Engineer, Storage Integrations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8231178",
+    "location": "Bucharest",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T14:11:22.784192"
   }
 }
