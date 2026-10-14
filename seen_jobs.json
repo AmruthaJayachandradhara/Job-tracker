@@ -48477,5 +48477,21 @@
     "location": "US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-14T19:03:34.758974"
+  },
+  "63089c78e126dd36eb2f58ee7d0e7d25": {
+    "company": "Paraform",
+    "title": "Product Engineer",
+    "url": "https://jobs.ashbyhq.com/paraform/9ee0235c-c5cd-4bac-920d-2847a70ea7d4",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T22:49:57.011140"
+  },
+  "109da476c97b7e09823190e27b486833": {
+    "company": "Stripe",
+    "title": "Product Designer, Terminal",
+    "url": "https://stripe.com/jobs/search?gh_jid=8282390",
+    "location": "US Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-14T22:50:41.838599"
   }
 }
