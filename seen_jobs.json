@@ -48493,5 +48493,13 @@
     "location": "US Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-14T22:50:41.838599"
+  },
+  "02a238f90874e560b128c94f809b4096": {
+    "company": "GitLab",
+    "title": "Cloud Platform Engineer",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T01:05:47.925184"
   }
 }
