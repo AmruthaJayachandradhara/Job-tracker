@@ -48597,5 +48597,29 @@
     "location": "SF, NYC, CHI, ATL, SEA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-15T17:29:30.016094"
+  },
+  "c94a5a2a5856db06d8292318758d67b8": {
+    "company": "Juicebox",
+    "title": "Enterprise Account Executive",
+    "url": "https://jobs.ashbyhq.com/juicebox/5301a799-59ce-48c6-975f-1c3888d98ebe",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T20:42:07.170827"
+  },
+  "890301f081b2cbb1813a1eaa4d4434c0": {
+    "company": "Stripe",
+    "title": "Workplace Design Coordinator",
+    "url": "https://stripe.com/jobs/search?gh_jid=8275261",
+    "location": "San Francisco ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T20:42:33.057549"
+  },
+  "298a6bca7450e8967f1ff61cc4e8c335": {
+    "company": "Gusto",
+    "title": "IT Internal Controls",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7905578",
+    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-15T20:42:33.801641"
   }
 }
