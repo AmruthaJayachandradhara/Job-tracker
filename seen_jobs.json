@@ -48501,5 +48501,21 @@
     "location": "Remote, Canada; Remote, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-15T01:05:47.925184"
+  },
+  "476605318b4b36b613d0c506f3e774c3": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer, Cells Infrastructure",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8881474002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T06:42:59.569297"
+  },
+  "b60b182e6583a07e1ef5a7d1946be53d": {
+    "company": "GitLab",
+    "title": "Site Reliability Engineer, Cells Infrastructure",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T06:42:59.569795"
   }
 }
