@@ -48541,5 +48541,61 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-15T12:17:26.632625"
+  },
+  "0542d862d79e94cd345e0270de726604": {
+    "company": "Novig",
+    "title": "Product Data Analyst",
+    "url": "https://jobs.ashbyhq.com/novig/d10f128c-c0c9-4597-9cd2-a3386e8d2a99",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T17:29:02.124649"
+  },
+  "707cd7d807dab0033f0f2f3c74e4dc50": {
+    "company": "Databricks",
+    "title": "Solutions Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
+    "location": "Chicago, Illinois",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T17:29:13.456577"
+  },
+  "6b828380952dc324ec174fe40f5681b6": {
+    "company": "Databricks",
+    "title": "Sr Designated Support Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002",
+    "location": "San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T17:29:13.456827"
+  },
+  "1d8a0d76808aa31b1ab8443d0c5668d3": {
+    "company": "Dialpad",
+    "title": "Account Executive, Mid-Market",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8853262002",
+    "location": "Austin, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T17:29:18.193925"
+  },
+  "6156394bf667cb7e7ac13622285a1a6d": {
+    "company": "GitLab",
+    "title": "Business Development Representative, Italian Speaking",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8882365002",
+    "location": "Remote Ireland; Remote, France; Remote, Netherlands; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T17:29:19.719902"
+  },
+  "4aa945b538f57fef30ed9aa03b7709d2": {
+    "company": "GitLab",
+    "title": "Threat Research Engineer",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867649002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T17:29:19.720655"
+  },
+  "0e1d9a263049988417de193025443ec9": {
+    "company": "Stripe",
+    "title": "Account Executive - Bridge",
+    "url": "https://stripe.com/jobs/search?gh_jid=8215824",
+    "location": "SF, NYC, CHI, ATL, SEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T17:29:30.016094"
   }
 }
