@@ -48517,5 +48517,29 @@
     "location": "Bangalore, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-15T06:42:59.569795"
+  },
+  "f88a1b134743c1f77cbaa717a7db2f88": {
+    "company": "Databricks",
+    "title": "Emerging Enterprise Core Account Executive, DACH",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8883715002",
+    "location": "Munich, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T12:17:10.385521"
+  },
+  "9a6992fcd55529c5e85be8700e7b9f8f": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Payouts",
+    "url": "https://stripe.com/jobs/search?gh_jid=8273743",
+    "location": "Singapore, Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T12:17:26.631860"
+  },
+  "e5aa1bdd5da0133563d38457ac1fd283": {
+    "company": "Stripe",
+    "title": "Corporate Accounting Analyst (Bangalore)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8273713",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T12:17:26.632625"
   }
 }
