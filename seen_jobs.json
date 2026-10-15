@@ -48621,5 +48621,29 @@
     "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-10-15T20:42:33.801641"
+  },
+  "56b9ea52752745eef2f002c7ac311a6e": {
+    "company": "Juicebox",
+    "title": "Founding EMEA Sales Development Representative ",
+    "url": "https://jobs.ashbyhq.com/juicebox/9d7111d6-a010-424e-b5b6-c4bf154576d9",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T23:25:40.379811"
+  },
+  "35e4d193e0decc270b30cb68e5e7e77b": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Fullstack (Search)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T23:26:00.672869"
+  },
+  "0a268d9f232a4d321982cb6eecd64208": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Fullstack (Search)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-15T23:26:00.672892"
   }
 }
