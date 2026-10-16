@@ -48813,5 +48813,53 @@
     "location": "London, England, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-16T17:04:44.226104"
+  },
+  "87a90e131bcbd56fdb3aba6ae41d640a": {
+    "company": "Braintrust",
+    "title": "Enterprise Account Executive (Central Region)",
+    "url": "https://jobs.ashbyhq.com/braintrust/7061d8aa-9a3b-41f3-9e9f-fc25364473d9",
+    "location": "Denver",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T20:14:21.956290"
+  },
+  "62839e2c016093251cfd8863fa67fc42": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive, Finland",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8536434002",
+    "location": "Finland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T20:14:49.941541"
+  },
+  "ea5f40060d02ced38699ad37493af66f": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive, Health Insurance",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8883465002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T20:14:49.941563"
+  },
+  "a95db10a9c306a607a0d413d0fb31273": {
+    "company": "Stripe",
+    "title": "Account Executive, Product - Link: Bank Payments & Open Banking",
+    "url": "https://stripe.com/jobs/search?gh_jid=8289847",
+    "location": "SF, SEA, CHI, NYC, remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T20:15:06.430100"
+  },
+  "dddbc092e144345128d35ce22a9e626f": {
+    "company": "Stripe",
+    "title": "Indirect Tax Advisory Consultant",
+    "url": "https://stripe.com/jobs/search?gh_jid=8282721",
+    "location": "SEA, SF, NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T20:15:06.432664"
+  },
+  "b44dc6e0cf5f110f6d98c66248002dd3": {
+    "company": "Stripe",
+    "title": "Solutions Engineer, AI Build Team ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8198323",
+    "location": "US-SF, US-NYC, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T20:15:06.435764"
   }
 }
