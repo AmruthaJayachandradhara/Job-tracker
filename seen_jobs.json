@@ -48861,5 +48861,21 @@
     "location": "US-SF, US-NYC, US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-16T20:15:06.435764"
+  },
+  "c22a1e573f4178e640c530bbd2dcd7b6": {
+    "company": "Northwood Space",
+    "title": "Tax Accountant",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/c2554fe4-76c4-4498-98a3-100633290402",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T23:07:27.290856"
+  },
+  "fc643840fbf007897f68cbdc1946b4f3": {
+    "company": "Databricks",
+    "title": "Candidate Experience Admin (6-month contract) ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8895982002",
+    "location": "Bellevue, Washington; Seattle, Washington",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T23:07:46.026301"
   }
 }
