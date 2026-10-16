@@ -48661,5 +48661,21 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-16T02:14:11.257492"
+  },
+  "622ec738b077ccb29462ccd1a4893c64": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Australia ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8887265002",
+    "location": "Remote, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T07:40:19.835432"
+  },
+  "baa5c6508a401c06374d6d4430a9f1f2": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - South Korea",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8887241002",
+    "location": "Remote, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T07:40:19.835466"
   }
 }
