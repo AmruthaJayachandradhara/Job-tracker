@@ -48709,5 +48709,109 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-16T12:51:01.956849"
+  },
+  "31d5ec76e40071bc22e18f2cabbe58de": {
+    "company": "Juicebox",
+    "title": "Growth - UK",
+    "url": "https://jobs.ashbyhq.com/juicebox/967aa5e5-ac73-4aaa-9f6e-938ea5cbb75b",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T17:04:20.216459"
+  },
+  "d2f6ec6cc1872641515a0a1bd8778e52": {
+    "company": "GitLab",
+    "title": "Business Development Representative, Spanish Speaking",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8882367002",
+    "location": "Remote, Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T17:04:31.814866"
+  },
+  "98408a9a853ffe835a4cdd063cd9a999": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer - Code Security",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8894531002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T17:04:31.815073"
+  },
+  "530c5b8f030975fe4cf8cc7a01985718": {
+    "company": "Mercury",
+    "title": "Customer Support Specialist",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6226462004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T17:04:39.002474"
+  },
+  "fe04a8d4e493f7530b7d8773cfb4c409": {
+    "company": "Affirm",
+    "title": "Machine Learning Engineer II (ROA + LTV ML)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8033261003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T17:04:41.202639"
+  },
+  "b57ed00dbd02639d3a65cd8bf4c53f90": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Card)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8006331003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T17:04:41.203567"
+  },
+  "7ac081b436e60df28e3e79685a2cf4ee": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Card) ",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T17:04:41.203580"
+  },
+  "54d9b9e2986bb7b651e9d11c2060dd47": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Full Stack (Card Acquisition)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8032175003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T17:04:41.203783"
+  },
+  "5724d4194f188eaf3cda263b13bef0d5": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Full Stack (Card Acquisition)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8032173003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T17:04:41.203793"
+  },
+  "90b1d240449e33da8aa6adf2246447e3": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Grower (Benelux)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8267851",
+    "location": "Amsterdam",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T17:04:42.245153"
+  },
+  "56b7af7e95bbf9acb1698d776a2755f1": {
+    "company": "Stripe",
+    "title": "Account Executive - Startup SaaS Platforms, Scaled UK Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8288876",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T17:04:42.245867"
+  },
+  "4de79576b85c0e40e0c0f453c45fe148": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups DACH",
+    "url": "https://stripe.com/jobs/search?gh_jid=8271659",
+    "location": "Berlin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T17:04:42.245879"
+  },
+  "d50bd8abcafa9ae5ad85bd688f6030b7": {
+    "company": "Carta",
+    "title": "Engagement Letter Lawyer",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8035094003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T17:04:44.226104"
   }
 }
