@@ -48677,5 +48677,37 @@
     "location": "Remote, South Korea",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-16T07:40:19.835466"
+  },
+  "aa42b33ec9d4686e6d3a9207b42087de": {
+    "company": "Stripe",
+    "title": "Account Executive - Enterprise Grower (DACH Market) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8288561",
+    "location": "Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T12:51:01.953196"
+  },
+  "4c2e9ea15cfe6ee1ce0480e64598c17d": {
+    "company": "Stripe",
+    "title": "Account Executive, Existing Business, French",
+    "url": "https://stripe.com/jobs/search?gh_jid=8286680",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T12:51:01.953358"
+  },
+  "17afe14f72467f7d2b661e746dce2218": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB Commercial, Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8286655",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T12:51:01.953949"
+  },
+  "0bd5220073352087e2f914d78c0f011b": {
+    "company": "Stripe",
+    "title": "Monetization Operations Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8247120",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-16T12:51:01.956849"
   }
 }
