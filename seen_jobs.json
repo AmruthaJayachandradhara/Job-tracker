@@ -48901,5 +48901,21 @@
     "location": "Remote, Brazil",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-17T02:07:19.508788"
+  },
+  "300fe7a102db1108d9c61e2335365e82": {
+    "company": "EarnIn",
+    "title": "Office & People Specialist",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8280614",
+    "location": "Bangkok, Thailand",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-17T14:39:07.564640"
+  },
+  "b994dbf7d813fd464d440ee0231a0760": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups DACH",
+    "url": "https://stripe.com/jobs/search?gh_jid=8271659",
+    "location": "Berlin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-17T14:39:09.603117"
   }
 }
