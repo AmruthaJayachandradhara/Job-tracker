@@ -48965,5 +48965,61 @@
     "location": "Remote, Poland; Remote, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-19T11:33:27.344367"
+  },
+  "4837ce87cd97b83e3c0fa26a447aaae7": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Federal Financials",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870724002",
+    "location": "Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T17:57:17.693840"
+  },
+  "b8351246a00fc2bc5a6b1d25df93c5cf": {
+    "company": "Databricks",
+    "title": "Geo Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893596002",
+    "location": "Remote - Illinois; Remote - New York; Remote - Texas",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T17:57:17.694318"
+  },
+  "1401c52a216600fad2f969f4be88fc60": {
+    "company": "Databricks",
+    "title": "Startup Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899929002",
+    "location": "Stockholm, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T17:57:17.700688"
+  },
+  "e3319e72864493aebc0e6b6d5320834c": {
+    "company": "Databricks",
+    "title": "Startup Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899923002",
+    "location": "Stockholm, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T17:57:17.700713"
+  },
+  "0562c470b82dbaa2062e85d63d5d7ade": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive, Life Sciences",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892943002",
+    "location": "Remote - Illinois",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T17:57:17.700987"
+  },
+  "7803280f56fa99b63bb74bfc2b347764": {
+    "company": "Stripe",
+    "title": "Security Engineer, Bridge",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209307",
+    "location": "Luxembourg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T17:57:33.740518"
+  },
+  "84060282c99ee845c2612807d460bc07": {
+    "company": "Gusto",
+    "title": "Software Engineer,  Financial Data & Payments",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8104213",
+    "location": "New York, NY - Hybrid; San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T17:57:34.489540"
   }
 }
