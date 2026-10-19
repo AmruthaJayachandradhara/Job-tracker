@@ -48933,5 +48933,21 @@
     "location": "Denver, CO - Hybrid; Los Angeles, CA - Remote; Scottsdale, AZ - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-19T00:36:43.515698"
+  },
+  "b678f6e2b90d17b13ad86ac587b5ae79": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer, FDE (L4)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876613002",
+    "location": "Remote - India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T05:28:47.500508"
+  },
+  "3f8fca4a80eb90ab12ebf4bfa5ac2a96": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive, Northeast",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8858197002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T05:28:53.476249"
   }
 }
