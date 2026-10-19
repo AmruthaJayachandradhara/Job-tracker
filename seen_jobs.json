@@ -49021,5 +49021,53 @@
     "location": "New York, NY - Hybrid; San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-19T17:57:34.489540"
+  },
+  "4061acdf16894b5426355be34ea663f1": {
+    "company": "Databricks",
+    "title": "Technical Enablement Specialist  - Field Engineering Onboarding",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8824168002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T21:56:07.342252"
+  },
+  "ed4520893d0f397b8b2d0642977703b4": {
+    "company": "GitLab",
+    "title": "Field CTO ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8884627002",
+    "location": "Remote, Australia; Remote, Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T21:56:13.464603"
+  },
+  "a187023a7db534ad0c2f2abe6368846b": {
+    "company": "Stripe",
+    "title": "Account Executive, Velocity Platforms (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8267839",
+    "location": "Chicago, IL; New York, NY; San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T21:56:23.887933"
+  },
+  "375da7579611d4cab5334cf2348520a6": {
+    "company": "Stripe",
+    "title": "Account Executive, Velocity Platforms (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8267841",
+    "location": "Chicago, IL; New York, NY; San Franciso, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T21:56:23.887948"
+  },
+  "a98a890a5116d566e61055152d9ce24b": {
+    "company": "Stripe",
+    "title": "Backend / API Engineer, Radar",
+    "url": "https://stripe.com/jobs/search?gh_jid=8301253",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T21:56:23.888068"
+  },
+  "fcae3b649770b795d500644e208d55bd": {
+    "company": "Stripe",
+    "title": "Commercial Counsel, Sales",
+    "url": "https://stripe.com/jobs/search?gh_jid=8286649",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T21:56:23.888213"
   }
 }
