@@ -48949,5 +48949,21 @@
     "location": "Remote, United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-19T05:28:53.476249"
+  },
+  "22d5ac534ace05b1badcf6d73d4e2f91": {
+    "company": "Databricks",
+    "title": "Enterprise Hunter Account Executive, Benelux ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899659002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T11:33:21.319751"
+  },
+  "9ab3d114a588693a944cb0791f6d8ed1": {
+    "company": "GitLab",
+    "title": "Backend Engineer (Ruby), Create: Change Record",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891301002",
+    "location": "Remote, Poland; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-19T11:33:27.344367"
   }
 }
