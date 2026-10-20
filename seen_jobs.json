@@ -49077,5 +49077,29 @@
     "location": "Sao Paulo, Brazil",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-20T05:32:32.856937"
+  },
+  "13c6b8f23e26c21571a1ab3c9ed30ef2": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive -  Consumer and Distribution ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899915002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T10:38:27.139856"
+  },
+  "3f92ce6cb67fddd34e35c38773162a07": {
+    "company": "Stripe",
+    "title": "Enterprise Services Sales Executive - Professional Services ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8098866",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T10:38:42.471939"
+  },
+  "236561fbfb5d33390e2bc7237d463ffd": {
+    "company": "Stripe",
+    "title": "Software Engineer, Payin",
+    "url": "https://stripe.com/jobs/search?gh_jid=8185012",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T10:38:42.474815"
   }
 }
