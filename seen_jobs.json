@@ -49069,5 +49069,13 @@
     "location": "Remote, US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-19T21:56:23.888213"
+  },
+  "8f7cc3ec775008b114e2555a09de3fbd": {
+    "company": "Databricks",
+    "title": "Solutions Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8882485002",
+    "location": "Sao Paulo, Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T05:32:32.856937"
   }
 }
