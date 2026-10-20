@@ -49229,5 +49229,53 @@
     "location": "London, England",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-20T19:44:52.153321"
+  },
+  "fbbba8ca5d7c4e49d7ab95ac40e6e683": {
+    "company": "Northwood Space",
+    "title": "Production Supervisor",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/96021373-7dbb-4b40-ac74-61760926fe56",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T22:48:56.490037"
+  },
+  "ae358337d8cf1f9e40de4bba5bf092d1": {
+    "company": "Northwood Space",
+    "title": "Build and Release Engineer (DevOps)",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/b342a75c-21a4-4e8c-962c-056031fb77e3",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T22:48:56.490089"
+  },
+  "4c14b67d4e7ca31f755c6dd1159586b9": {
+    "company": "Coinbase",
+    "title": "Complaints Analyst III",
+    "url": "https://www.coinbase.com/careers/positions/8289787?gh_jid=8289787",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T22:49:28.604468"
+  },
+  "4abd9b6dc4f31c880228f74e4c24f40b": {
+    "company": "Coinbase",
+    "title": "Complaints Analyst III",
+    "url": "https://www.coinbase.com/careers/positions/7254275?gh_jid=7254275",
+    "location": "Remote - Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T22:49:28.604552"
+  },
+  "8706cb4ed66919ce19a30adcdceeb947": {
+    "company": "Stripe",
+    "title": "\tBackend / API Engineer, Radar",
+    "url": "https://stripe.com/jobs/search?gh_jid=8301379",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T22:49:32.469878"
+  },
+  "6ab0137885634d30103f7058c2577dac": {
+    "company": "Stripe",
+    "title": "People Partner, Finance",
+    "url": "https://stripe.com/jobs/search?gh_jid=8301260",
+    "location": "San Francisco, Seattle or NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T22:49:32.472813"
   }
 }
