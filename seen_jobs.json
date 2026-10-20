@@ -49101,5 +49101,61 @@
     "location": "Bengaluru",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-20T10:38:42.474815"
+  },
+  "7e679fe0eb637ccffe2e26b300d92db4": {
+    "company": "GitLab",
+    "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T15:28:23.717453"
+  },
+  "ec9d5eda979a6f7f42a574e1cb1a7258": {
+    "company": "GitLab",
+    "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8749950002",
+    "location": "Remote, Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T15:28:23.717475"
+  },
+  "88970b424bfa0272da1ece8d312b0030": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8831322002",
+    "location": "Remote, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T15:28:23.717545"
+  },
+  "30701cc56083c597c57d5346da2354e7": {
+    "company": "Tanium",
+    "title": "Enterprise Services Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8301342",
+    "location": "Osaka, Japan ; Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T15:28:25.151478"
+  },
+  "e07801bc14270efd0bed1f4bbd6888b0": {
+    "company": "Tanium",
+    "title": "Technical Support Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8301337",
+    "location": "Krakow, Poland (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T15:28:25.151934"
+  },
+  "a8312ecc3e33067328c2796fed2e240a": {
+    "company": "Stripe",
+    "title": "Account Executive, Bridge - Hunter ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8299647",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T15:28:34.013460"
+  },
+  "eb0712e56f54d1ffed4009ee593ad072": {
+    "company": "Stripe",
+    "title": "Integration Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8267102",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T15:28:34.016622"
   }
 }
