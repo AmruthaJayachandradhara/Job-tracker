@@ -49157,5 +49157,77 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-20T15:28:34.016622"
+  },
+  "4f5e5138d4e37b7f4270934d5a91e4bc": {
+    "company": "Northwood Space",
+    "title": "Full Stack Developer - Internal Tooling",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/09fb47fc-39e0-4fca-9bff-5d19d43f5a44",
+    "location": "Torrance, CA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-20T19:44:03.698949"
+  },
+  "d73d7b62b004d091f44c4be97375cc57": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8902939002",
+    "location": "Remote - Virginia; Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T19:44:24.326976"
+  },
+  "6eeb33b0bede52bfbc53f6f339e76318": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - Chicago    ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8895511002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T19:44:30.534135"
+  },
+  "e90991766e6fb2803692ee0ae20e83c8": {
+    "company": "Hex",
+    "title": "Software Engineer, Infrastructure",
+    "url": "https://jobs.ashbyhq.com/hex/b3921203-d928-40ac-9675-a58a9cdbaafa",
+    "location": "Remote - US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T19:44:34.939323"
+  },
+  "e3b0b2ce1485eb8638cae8961d77518d": {
+    "company": "Coinbase",
+    "title": "Software Engineer - Crypto Data Foundations",
+    "url": "https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T19:44:37.127992"
+  },
+  "6bd931579d525b0cecc5badb4b5dc620": {
+    "company": "Mercury",
+    "title": "Risk UX Specialist",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6230088004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T19:44:37.814383"
+  },
+  "b0d2717075beaa111e9c06e3b90cabaa": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Purchasing Power - Core)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8017509003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T19:44:39.899817"
+  },
+  "ccc20d21b7149f6f2ad426df18298aa3": {
+    "company": "Stripe",
+    "title": "Product Counsel, Data Products",
+    "url": "https://stripe.com/jobs/search?gh_jid=8238100",
+    "location": "US remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T19:44:50.012951"
+  },
+  "3340dffe2678946904bde39ee7b2c2e4": {
+    "company": "Carta",
+    "title": "Support Analyst II",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8039149003",
+    "location": "London, England",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-20T19:44:52.153321"
   }
 }
