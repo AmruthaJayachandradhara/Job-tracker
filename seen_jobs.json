@@ -49389,5 +49389,37 @@
     "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-21T17:46:53.907870"
+  },
+  "f9b6271e65ca06e9663430f291ba292a": {
+    "company": "Fivetran",
+    "title": "Strategic Account Executive, Enterprise",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8039971003",
+    "location": "Remote, Texas, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-21T21:01:33.014504"
+  },
+  "419ddeac98d6493a2bd9d6e710168a6e": {
+    "company": "Stripe",
+    "title": "Indirect Tax (VAT/GST) Advisory Consultant",
+    "url": "https://stripe.com/jobs/search?gh_jid=8282721",
+    "location": "SEA, SF, NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-21T21:01:46.509948"
+  },
+  "5f973c11670e37f5c707c42215728240": {
+    "company": "Stripe",
+    "title": "Product Designer, Risk",
+    "url": "https://stripe.com/jobs/search?gh_jid=8304725",
+    "location": "US / Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-21T21:01:46.511146"
+  },
+  "e709a3813df9a3693a4412e9c875aff4": {
+    "company": "Carta",
+    "title": "Fund Controller - SBIC",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8039091003",
+    "location": "Hamilton, NJ; Sandy, Utah; Seattle, Washington",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-21T21:01:48.528435"
   }
 }
