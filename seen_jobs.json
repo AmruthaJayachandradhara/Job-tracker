@@ -49349,5 +49349,45 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-21T12:34:43.141501"
+  },
+  "ae082f6f1837077e923665b4dad8fda4": {
+    "company": "GitLab",
+    "title": "Business Development Representative, German Speaking - UK/I   ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872457002",
+    "location": "Remote Ireland; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-21T17:46:42.934111"
+  },
+  "245c9fb17568d71bedaf3e274324ccf3": {
+    "company": "Tanium",
+    "title": "AI Research Scientist",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8232146",
+    "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-21T17:46:44.307526"
+  },
+  "32910ababe291f61ac9af0159a25c898": {
+    "company": "Coinbase",
+    "title": "Data Scientist",
+    "url": "https://www.coinbase.com/careers/positions/8304046?gh_jid=8304046",
+    "location": "Remote - Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-21T17:46:49.360956"
+  },
+  "0587550c339385ce6752352830cbf9e3": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Payouts",
+    "url": "https://stripe.com/jobs/search?gh_jid=8258697",
+    "location": "New York or San Francisco ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-21T17:46:53.190051"
+  },
+  "fec9167373e13ab1425dbfedab0b1077": {
+    "company": "Gusto",
+    "title": "Workday System Developer",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8257486",
+    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-21T17:46:53.907870"
   }
 }
