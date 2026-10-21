@@ -49301,5 +49301,21 @@
     "location": "San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-21T01:08:08.959620"
+  },
+  "e5cf692570dc90e365b04b28523770fb": {
+    "company": "Databricks",
+    "title": "R&D Compensation Business Partner",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8384388002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-21T06:46:53.384849"
+  },
+  "8583b76b35533d90d82b6b4c2cd0f780": {
+    "company": "Stripe",
+    "title": "Recruiting Coordinator (Fixed Term Contract)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8301264",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-21T06:47:09.528418"
   }
 }
