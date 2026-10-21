@@ -49277,5 +49277,29 @@
     "location": "San Francisco, Seattle or NYC",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-20T22:49:32.472813"
+  },
+  "06ea760337840bee09eb6379725cc83d": {
+    "company": "Hex",
+    "title": "Revenue Systems",
+    "url": "https://jobs.ashbyhq.com/hex/c93230cb-de86-4346-b170-dd78520604a6",
+    "location": "Remote - US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-21T01:08:02.443633"
+  },
+  "06cf2916cce41c63ddeffef12c9d96b7": {
+    "company": "Stripe",
+    "title": "Account Executive, Velocity Platforms (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8304836",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-21T01:08:08.959594"
+  },
+  "eb8e220f2e6b6593fee817f7a4e026d7": {
+    "company": "Stripe",
+    "title": "Account Executive, Velocity Platforms (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8304841",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-21T01:08:08.959620"
   }
 }
