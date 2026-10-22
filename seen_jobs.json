@@ -49541,5 +49541,77 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-22T15:44:24.091785"
+  },
+  "5c760a9cf18d074f134d992fb89d7d5f": {
+    "company": "Databricks",
+    "title": "Scale Solution Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8779031002",
+    "location": "Heredia, Costa Rica",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T19:37:43.568159"
+  },
+  "c2e9507adcfe30d78fe92b597a2715ef": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - Insurance",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8903095002",
+    "location": "Z\u00fcrich, Switzerland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T19:37:43.573653"
+  },
+  "7c84f9f4c3fb179064ed6b9bc2cea8e7": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - Life Sciences",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8888920002",
+    "location": "Z\u00fcrich, Switzerland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T19:37:43.573683"
+  },
+  "317718e16e65360abaea88d0ae085424": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive, Media",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8905733002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T19:37:43.573801"
+  },
+  "7a42059b71f02c9b5f78f7c69b65740c": {
+    "company": "Fivetran",
+    "title": "Enterprise Account Executive",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8039971003",
+    "location": "Remote, Texas, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T19:37:46.489584"
+  },
+  "b20e95d3b564971d4cdb0011af15dea1": {
+    "company": "Stripe",
+    "title": "Account Executive, Bridge - Hunter (Stripe Crypto and Stablecoins)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8299647",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T19:38:00.035440"
+  },
+  "93830fa88e617b1292e1597a31ea81d7": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms (Grower) - German Speaking",
+    "url": "https://stripe.com/jobs/search?gh_jid=8284968",
+    "location": "Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T19:38:00.035833"
+  },
+  "52a5b60a9b219fabdb76b0c121e059b4": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8314283",
+    "location": "South San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T19:38:00.041179"
+  },
+  "1ce36af3f2f46e5da65ce34ad4719fd6": {
+    "company": "Stripe",
+    "title": "Software Engineer, Resource Automation",
+    "url": "https://stripe.com/jobs/search?gh_jid=8314235",
+    "location": "South San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T19:38:00.041443"
   }
 }
