@@ -49493,5 +49493,53 @@
     "location": "Sydney",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-22T10:50:48.466609"
+  },
+  "6f0f6bb82e259fed38426c7e7a9d56fd": {
+    "company": "Juicebox",
+    "title": "GTM Recruiter",
+    "url": "https://jobs.ashbyhq.com/juicebox/7674583d-e1f5-4cff-a393-1f5c4fd83bef",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T15:44:03.288990"
+  },
+  "f1bf193a7ca95d005d8fe81260fec2e5": {
+    "company": "Databricks",
+    "title": "Associate Forward Deployed Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
+    "location": "New York City, New York",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-22T15:44:08.031954"
+  },
+  "2dceebe592d2c577d6ab7312ab37b40d": {
+    "company": "Databricks",
+    "title": "New Business Enterprise Account Executive (Public Sector)\u00a0",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899931002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T15:44:08.034227"
+  },
+  "3a03459fac3f3d6e22ff0c0147755a51": {
+    "company": "GitLab",
+    "title": "Contract Talent Acquisition Sourcer, Sales (APJ)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8904961002",
+    "location": "Remote, Australia; Remote, Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T15:44:13.993118"
+  },
+  "1ce26a3b85df2a64591eae20768d9d79": {
+    "company": "Stripe",
+    "title": "Account Executive - Enterprise (Hunter) - Belgium",
+    "url": "https://stripe.com/jobs/search?gh_jid=8284970",
+    "location": "Belgium",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T15:44:24.091282"
+  },
+  "cfea4af3b7a6ad67a1734ebebfb846b9": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Link",
+    "url": "https://stripe.com/jobs/search?gh_jid=8040940",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T15:44:24.091785"
   }
 }
