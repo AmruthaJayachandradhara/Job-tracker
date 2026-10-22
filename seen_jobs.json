@@ -49613,5 +49613,29 @@
     "location": "South San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-22T19:38:00.041443"
+  },
+  "af2ec32e1865e8bf1e88757f922674b8": {
+    "company": "Databricks",
+    "title": "Data Science Intern (2027 Start)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
+    "location": "Mountain View, California; San Francisco, California",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-22T22:51:52.319809"
+  },
+  "986c199ea74664d2300ee7672b69bb98": {
+    "company": "Coinbase",
+    "title": "Embedded Engineer, Compliance [Office of the CTO]",
+    "url": "https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T22:52:04.281326"
+  },
+  "443cd7aadc8a7345d7742dc9a018291a": {
+    "company": "Affirm",
+    "title": "Counsel II, Vendor",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8038196003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T22:52:07.069145"
   }
 }
