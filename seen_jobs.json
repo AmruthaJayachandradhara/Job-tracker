@@ -49453,5 +49453,45 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-22T05:36:21.336700"
+  },
+  "5d5e7d11e56d7063876990b1efaba8f6": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - Automotive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8903089002",
+    "location": "Baden-W\u00fcrttemberg, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T10:50:32.229719"
+  },
+  "7770f7addf3facb08ac709c0e6b2b75e": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - Retail",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8903091002",
+    "location": "North Rhine-Westphalia, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T10:50:32.229802"
+  },
+  "997d3929fa02f6bc3789d77047589efe": {
+    "company": "Fivetran",
+    "title": "Sales Development Representative - Italian and Spanish Speaker",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8040028003",
+    "location": "IRL - Dublin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T10:50:35.036152"
+  },
+  "2beec8951dc2c86cc7ba9a3a64a46f39": {
+    "company": "GitLab",
+    "title": "Enterprise Account Executive - South Korea",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8887322002",
+    "location": "Remote, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T10:50:38.330061"
+  },
+  "75071a270fa1e70441bccaf745beaa93": {
+    "company": "Stripe",
+    "title": "Product Sales Development Representative, AUNZ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8179349",
+    "location": "Sydney",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T10:50:48.466609"
   }
 }
