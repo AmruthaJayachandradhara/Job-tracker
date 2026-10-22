@@ -49421,5 +49421,21 @@
     "location": "Hamilton, NJ; Sandy, Utah; Seattle, Washington",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-21T21:01:48.528435"
+  },
+  "f6cd58fce17fd4349ec4b0527d0957ab": {
+    "company": "Affirm",
+    "title": "Analyst, Early Career (Full Stack)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
+    "location": "New York, New York, United States; San Francisco, California, United States",
+    "filter_reason": "title match: 'early career'",
+    "first_seen": "2026-10-22T00:19:15.275023"
+  },
+  "ab903537ebfe968f40cdb6471c92d400": {
+    "company": "Affirm",
+    "title": "Contract Management Specialist II",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8037635003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-22T00:19:15.275301"
   }
 }
