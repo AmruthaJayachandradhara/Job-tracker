@@ -49653,5 +49653,21 @@
     "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-23T01:06:00.676027"
+  },
+  "f3649a45f296d249ec950b115ab780c0": {
+    "company": "Stripe",
+    "title": "Sales Development Representative, India",
+    "url": "https://stripe.com/jobs/search?gh_jid=8303082",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T06:44:07.095910"
+  },
+  "e29e7b239d605898c8d82d2611590f14": {
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8202299",
+    "location": "Taiwan",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-10-23T06:44:07.096422"
   }
 }
