@@ -49677,5 +49677,125 @@
     "location": "Bengaluru, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-23T12:17:01.228893"
+  },
+  "bf42034035532c51ecb180189b6b0b95": {
+    "company": "Databricks",
+    "title": "Associate Forward Deployed Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
+    "location": "Mountain View, California",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-23T17:36:01.822091"
+  },
+  "41d11ef13b7bcb12230862d7d150f664": {
+    "company": "Fivetran",
+    "title": "Account Executive, Commercial (Austin)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7796447003",
+    "location": "USA - Austin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T17:36:04.555480"
+  },
+  "0b2616d0121b748cff81cade1fc9a258": {
+    "company": "Fivetran",
+    "title": "Enterprise Account Executive",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7818401003",
+    "location": "Remote,  Minnesota, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T17:36:04.555730"
+  },
+  "2abb748165385a88bdd2c02eb46406f9": {
+    "company": "GitLab",
+    "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891836002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T17:36:07.872991"
+  },
+  "8d4212ea05cb914ca69792db862b74ce": {
+    "company": "GitLab",
+    "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8911684002",
+    "location": "Remote, Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T17:36:07.873022"
+  },
+  "114ec93f9418dffe1098fbef7470098c": {
+    "company": "GitLab",
+    "title": "Major Account Executive, Financial Services - US East ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8897527002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T17:36:07.873117"
+  },
+  "2c92e1c538b732a1e1f0d51e2f8a3335": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - AI, San Francisco   ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8895523002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T17:36:07.873938"
+  },
+  "efd292649d497c6cca2e34ec488f8ce0": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive, Financial Services - US East ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8897529002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T17:36:07.873970"
+  },
+  "c9dedb3a17f04279b6c78f2beaeeaeac": {
+    "company": "Coinbase",
+    "title": "Offensive Security Engineer, AI ",
+    "url": "https://www.coinbase.com/careers/positions/8318599?gh_jid=8318599",
+    "location": "Remote - Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T17:36:14.009926"
+  },
+  "ce480a80414bc62dc2b20796de92daf6": {
+    "company": "Mercury",
+    "title": "Software Engineer - Mercury Command",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6233238004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "description match: '0 year'",
+    "first_seen": "2026-10-23T17:36:14.661056"
+  },
+  "5cae2600f29ce1c79524efc7c0cae4b5": {
+    "company": "Mercury",
+    "title": "Workplace Experience Specialist - NYC",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6232781004",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T17:36:14.661196"
+  },
+  "5c2677ce993b8fef748e2c8c0a9d80d2": {
+    "company": "Stripe",
+    "title": "Account Executive - Enterprise (Grower) - French Speaking ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8284962",
+    "location": "Paris",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T17:36:17.916479"
+  },
+  "f450034320af312bde516c3a411962c1": {
+    "company": "Stripe",
+    "title": "Account Executive, SaaS Platforms Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241294",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T17:36:17.917261"
+  },
+  "9820aae89f283050612a37363bd70738": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB - Existing Business ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8286655",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T17:36:17.917288"
+  },
+  "cb9208f55b03bd3bce4c5a5cc874377f": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups Platforms Scaled Grower (French fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8119498",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T17:36:17.917412"
   }
 }
