@@ -49845,5 +49845,29 @@
     "location": "Madrid, Barcelona",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-23T20:48:08.853499"
+  },
+  "b1bc2a4e23cdd918ca0a676b5104c934": {
+    "company": "GitLab",
+    "title": "Backend Engineer, Knowledge Graph (Rust)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T23:40:09.111361"
+  },
+  "eda2250993833a0b5785ec7b2347fc3a": {
+    "company": "GitLab",
+    "title": "Ecosystem Operations Specialist",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907694002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T23:40:09.111626"
+  },
+  "47b6c2321dde6574f5d38bb9168ecae7": {
+    "company": "Mercury",
+    "title": "Frontend Engineer - Design Systems",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6233910004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T23:40:16.234981"
   }
 }
