@@ -49637,5 +49637,21 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-22T22:52:07.069145"
+  },
+  "590aff804553aba56566fb8c86aa6747": {
+    "company": "Coinbase",
+    "title": "Analyst, Privacy (Privacy Assessments)",
+    "url": "https://www.coinbase.com/careers/positions/8281622?gh_jid=8281622",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T01:05:59.968263"
+  },
+  "19f1d17af72757a5f151d033a76459ab": {
+    "company": "Mercury",
+    "title": "Sales Recruiter",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6233009004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T01:06:00.676027"
   }
 }
