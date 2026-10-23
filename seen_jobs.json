@@ -49797,5 +49797,53 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-23T17:36:17.917412"
+  },
+  "8d128ba21d9f2062b424f5789b14a0c0": {
+    "company": "Fivetran",
+    "title": "Software Engineer I",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8028409003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T20:47:54.980104"
+  },
+  "93fec0534a19fb9569e06d476a60f496": {
+    "company": "Hex",
+    "title": "Software Engineer, Developer Velocity",
+    "url": "https://jobs.ashbyhq.com/hex/3477e108-195c-414a-a16b-23a6356d1b09",
+    "location": "Remote - US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T20:48:02.918405"
+  },
+  "6a08ede94ea17fb437905738c0682be1": {
+    "company": "Mercury",
+    "title": "Recruiter - Sales",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6233009004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T20:48:05.723164"
+  },
+  "966160cf4982ef5cc1efa68be224d082": {
+    "company": "Mercury",
+    "title": "Recruiter - Technical",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6233585004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T20:48:05.723190"
+  },
+  "1e4a4d1c4e854e1b1813f7d9e9bc2b95": {
+    "company": "Affirm",
+    "title": "Software Engineer I (New Grad 2027) - Instruments team",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011718003",
+    "location": "Remote UK",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-10-23T20:48:07.810992"
+  },
+  "8d4e863622973b72cd9670807e410963": {
+    "company": "Stripe",
+    "title": "Account Executive - Platforms (LFC) - Spanish Speaking ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8284965",
+    "location": "Madrid, Barcelona",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T20:48:08.853499"
   }
 }
