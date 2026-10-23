@@ -49669,5 +49669,13 @@
     "location": "Taiwan",
     "filter_reason": "title match: 'new grad'",
     "first_seen": "2026-10-23T06:44:07.096422"
+  },
+  "4e0206c150e27e030d2cb1bbc7b3adb8": {
+    "company": "Stripe",
+    "title": "Software Engineer, Financial Business Insights",
+    "url": "https://stripe.com/jobs/search?gh_jid=7543868",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-23T12:17:01.228893"
   }
 }
