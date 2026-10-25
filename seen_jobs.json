@@ -49869,5 +49869,13 @@
     "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-23T23:40:16.234981"
+  },
+  "754881abc1729af045eac81d55a044c0": {
+    "company": "Braintrust",
+    "title": "Detection and Response Engineer",
+    "url": "https://jobs.ashbyhq.com/braintrust/e32cd249-c23d-4064-8f06-949f91a73a98",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-25T00:40:40.588055"
   }
 }
