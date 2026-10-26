@@ -49981,5 +49981,37 @@
     "location": "San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-26T17:54:15.289603"
+  },
+  "3f0b448de817595fde02bc3931db811b": {
+    "company": "Databricks",
+    "title": "CustomerLake Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8882986002",
+    "location": "San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-26T22:05:10.677939"
+  },
+  "0541d29ac7ae019d8f7b1366859fa4c3": {
+    "company": "Coinbase",
+    "title": "Security Engineer, Corporate Security",
+    "url": "https://www.coinbase.com/careers/positions/8319444?gh_jid=8319444",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-26T22:05:23.326877"
+  },
+  "181be0f607fc1c5b4e8b1b2d32210214": {
+    "company": "Stripe",
+    "title": "Android Engineer, Identity Product",
+    "url": "https://stripe.com/jobs/search?gh_jid=8311069",
+    "location": "San Francisco, CA; Seattle, WA; New York City, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-26T22:05:27.126845"
+  },
+  "621c4c69b1fa70312e7693dcd758c8c7": {
+    "company": "Stripe",
+    "title": "iOS Engineer, Identity Product",
+    "url": "https://stripe.com/jobs/search?gh_jid=8311082",
+    "location": "San Francisco, CA; Seattle, WA; New York City, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-26T22:05:27.128977"
   }
 }
