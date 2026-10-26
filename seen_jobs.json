@@ -49901,5 +49901,21 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-26T00:52:24.986056"
+  },
+  "328bf0430dfc2ac763bb8ac004eb3c59": {
+    "company": "Databricks",
+    "title": "Recruiter (Contract)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8771702002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-26T05:35:29.361412"
+  },
+  "bddb71c1e809443abc7181017cc0873f": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8318509",
+    "location": "Taiwan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-26T05:35:46.561460"
   }
 }
