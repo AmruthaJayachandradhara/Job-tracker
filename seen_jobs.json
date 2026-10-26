@@ -49925,5 +49925,61 @@
     "location": "Paris, France",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-26T11:51:52.879953"
+  },
+  "2936593a842095c9ce257c759e1aaa4b": {
+    "company": "Databricks",
+    "title": "Industry Executive- Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438263002",
+    "location": "Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-26T17:53:58.177248"
+  },
+  "4987cc501a8a1244785d1ab0fc57f2f9": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive - Travel, Transport and Logistics ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8879338002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-26T17:53:58.183403"
+  },
+  "18ce67ee47d087240c3273967ca79cfc": {
+    "company": "EarnIn",
+    "title": "Assistant Treasurer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8316061",
+    "location": "Mountain View, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-26T17:54:12.703937"
+  },
+  "5fcd2ed0aaf04c2bccd6cc93d71db557": {
+    "company": "Affirm",
+    "title": "Implementation Specialist I",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040794003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-26T17:54:13.495480"
+  },
+  "d9a3b83cd036d5d10a3381afc8f942fd": {
+    "company": "Affirm",
+    "title": "Software Engineer I (New Grad 2027) ",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011718003",
+    "location": "London",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-10-26T17:54:13.496912"
+  },
+  "ae10b612b3db9b376c3a4ae0b6b4caa0": {
+    "company": "Stripe",
+    "title": "Processing Cost Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8324207",
+    "location": "IN-Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-26T17:54:14.581351"
+  },
+  "c9a20e72a6db0c04436ba2d0ee45ff93": {
+    "company": "Gusto",
+    "title": "Product Counsel, Payroll and Fintech",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8304582",
+    "location": "San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-26T17:54:15.289603"
   }
 }
