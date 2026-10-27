@@ -50061,5 +50061,85 @@
     "location": "New York, New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-27T07:01:28.911008"
+  },
+  "a675d3d8e7dbded7db1aa5c451c857bd": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8805589002",
+    "location": "Remote - Denmark",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T13:45:13.373484"
+  },
+  "1480970441669416447bfafe7eec27fc": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880406002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T13:45:13.379334"
+  },
+  "bb27088f3cdac74fc7ef00325f335e3a": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive, Life Sciences",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870720002",
+    "location": "Northeast - United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T13:45:13.379574"
+  },
+  "8cc85c16ac2c978187edd3e96f135cd7": {
+    "company": "Affirm",
+    "title": "Product Security Engineer II - CIAM",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040751003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T13:45:29.519614"
+  },
+  "d092dc90f23c4d7806777255ec7cd99d": {
+    "company": "Affirm",
+    "title": "Product Security Engineer II - CIAM",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040753003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T13:45:29.519638"
+  },
+  "387248a3a12678d79f6cd6023152b2a2": {
+    "company": "Affirm",
+    "title": "Software Engineer, Early Career (London)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011718003",
+    "location": "London",
+    "filter_reason": "title match: 'early career'",
+    "first_seen": "2026-10-27T13:45:29.520613"
+  },
+  "77566685e0a29c7109258ebec237d902": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Fullstack (Repayment UX)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040392003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T13:45:29.520990"
+  },
+  "004702e83ef274cc5a359e57e96b788b": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Fullstack (Repayment UX)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T13:45:29.521002"
+  },
+  "56257849a536bcff0615058de775f9c0": {
+    "company": "Stripe",
+    "title": "Backend Engineer, UI Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212319",
+    "location": "Barcelona, Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T13:45:30.809383"
+  },
+  "380213bc1a312320fca518aa563bcdcc": {
+    "company": "Stripe",
+    "title": "Frontend Engineer, UI Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=8226890",
+    "location": "Barcelona",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T13:45:30.810682"
   }
 }
