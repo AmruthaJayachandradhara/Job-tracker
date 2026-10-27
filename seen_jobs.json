@@ -50237,5 +50237,69 @@
     "location": "US, Canada, Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-27T19:04:41.400246"
+  },
+  "d5cdd4e4a3ba936ca1c99eede92509fb": {
+    "company": "Databricks",
+    "title": "Software Engineer - New Grad (2027 Start)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-10-27T23:20:37.760716"
+  },
+  "ca64871207f92312af241a2f1b50709f": {
+    "company": "Databricks",
+    "title": "Software Engineer - New Grad, Distributed Data Systems (2027 Start)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002",
+    "location": "Bellevue, Washington; Mountain View, California",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-10-27T23:20:37.760731"
+  },
+  "af317f64d99e6b77c2b09de00d034e91": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive, Petrobras (Rio de Janeiro)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8906872002",
+    "location": "Brazil",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T23:20:37.763739"
+  },
+  "e861ddbc52845685e40d0ca6f125993e": {
+    "company": "GitLab",
+    "title": "Recruiter,  Sales (AMER)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8869149002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T23:20:43.608354"
+  },
+  "a390fc57ee5d39965645a8eb96c93b5b": {
+    "company": "Stripe",
+    "title": "Managing Editor, Stripe Press",
+    "url": "https://stripe.com/jobs/search?gh_jid=8287486",
+    "location": "NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T23:20:53.629312"
+  },
+  "a80f1772906f03f502e451bad244d01f": {
+    "company": "Stripe",
+    "title": "Risk Operations Analyst - RBO ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175824",
+    "location": "Remote ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T23:20:53.630064"
+  },
+  "6ddd87118ba3ed72b7f74d30268c9c4f": {
+    "company": "Stripe",
+    "title": "Risk Operations Associate, UPO",
+    "url": "https://stripe.com/jobs/search?gh_jid=8115908",
+    "location": "Mexico CIty",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-27T23:20:53.630070"
+  },
+  "688162a3746e750c4b819ff733020006": {
+    "company": "Stripe",
+    "title": "Risk Operations Associate, UPO",
+    "url": "https://stripe.com/jobs/search?gh_jid=8315962",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-27T23:20:53.630075"
   }
 }
