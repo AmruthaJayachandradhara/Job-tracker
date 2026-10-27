@@ -50141,5 +50141,101 @@
     "location": "Barcelona",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-27T13:45:30.810682"
+  },
+  "b253845a818010ffbeb622a7f9193047": {
+    "company": "Render",
+    "title": "Software Engineer, Agent Access & GovernanceRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/8815f772-6895-4383-a9e5-6c7bdc2bf141",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T19:03:56.472963"
+  },
+  "145c689a2b51d2f389941d8a256600b4": {
+    "company": "Novig",
+    "title": "Design Engineer",
+    "url": "https://jobs.ashbyhq.com/novig/3a2caee1-c915-4093-83ee-ee70f9b3e939",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T19:04:13.185231"
+  },
+  "04c4979607b22fc8b75f85955c2af9e8": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive, Energy",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8905729002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T19:04:24.463030"
+  },
+  "24ad54718d63dba0d577ce86445cffa2": {
+    "company": "Fivetran",
+    "title": "Talent Acquisition Partner",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8046025003",
+    "location": "Remote, North Carolina, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T19:04:27.159247"
+  },
+  "e20d575cccaffc0e7b35486f10d500c4": {
+    "company": "Coinbase",
+    "title": "Acceleration Programs Intern",
+    "url": "https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-10-27T19:04:37.656367"
+  },
+  "b151a31d98bf252c1d2bdb7b3cb1fb23": {
+    "company": "Affirm",
+    "title": "Product Security Engineer II - IAM",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8016932003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T19:04:40.350022"
+  },
+  "34a6fd85831a1058e6493b5c6a8cb75a": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Card Integrations and Payments Experience)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8006331003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T19:04:40.350929"
+  },
+  "007c8cab9669c5b7be71a591fb0c662a": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Card Integrations and Payments Experience) ",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T19:04:40.350944"
+  },
+  "0ebc5383ec4b41ed8dbd399e6695056e": {
+    "company": "Affirm",
+    "title": "Software Engineer II - CIAM",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040753003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T19:04:40.351075"
+  },
+  "1b556c336c2d4421ea2695a6042f6ed0": {
+    "company": "Affirm",
+    "title": "Software Engineer II - CIAM",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040751003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T19:04:40.351086"
+  },
+  "bc3c175686987f479fdeb438a298ed8a": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms Hunter (Spanish fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8319459",
+    "location": "Madrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T19:04:41.398988"
+  },
+  "04c22015479005f448b034dd23b10b20": {
+    "company": "Stripe",
+    "title": "Design Engineer, Brand Studio",
+    "url": "https://stripe.com/jobs/search?gh_jid=8283782",
+    "location": "US, Canada, Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T19:04:41.400246"
   }
 }
