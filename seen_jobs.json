@@ -50013,5 +50013,45 @@
     "location": "San Francisco, CA; Seattle, WA; New York City, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-26T22:05:27.128977"
+  },
+  "4d3dd9a9936c4d1235d0786bc85aa33c": {
+    "company": "Paraform",
+    "title": "Recruiter",
+    "url": "https://jobs.ashbyhq.com/paraform/491337d0-2f4f-4e0c-b1e5-515fde742795",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T01:42:38.188524"
+  },
+  "58fb9ec1167d0bc25c3838d95db7e827": {
+    "company": "Databricks",
+    "title": "GTM Compensation Business Partner",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8627549002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T01:43:01.464749"
+  },
+  "9b79d3fe123ad20fc415bc496d4aafdd": {
+    "company": "Stripe",
+    "title": "Android Engineer, Identity ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8311069",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T01:43:17.704240"
+  },
+  "139ddf0fbb43cfad38a382ccf9cec866": {
+    "company": "Stripe",
+    "title": "iOS Engineer, Identity",
+    "url": "https://stripe.com/jobs/search?gh_jid=8311082",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T01:43:17.706351"
+  },
+  "be2df9480de4949c0ee17e8565516a33": {
+    "company": "Stripe",
+    "title": "Technical Operations Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8325807",
+    "location": "South San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-27T01:43:17.709852"
   }
 }
