@@ -50309,5 +50309,45 @@
     "location": "Mexico City",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-28T03:01:52.340439"
+  },
+  "88c9da2576c844f8f384af8923dacfd9": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910840002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T10:08:41.764243"
+  },
+  "82a9fa54a586c9e4c245962dd6797e56": {
+    "company": "GitLab",
+    "title": "Software Engineer, Delivery : Release",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8916232002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T10:08:47.933726"
+  },
+  "753d7ce10c60b92620fa4edb48ac33af": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive - India ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8887401002",
+    "location": "Remote, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T10:08:47.933967"
+  },
+  "d6cf9639c31308fc3955fab64d085ddf": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8280266",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T10:08:58.118674"
+  },
+  "388055653367cb4891d5d57d8618364f": {
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130876",
+    "location": "Bangalore",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-10-28T10:08:58.123619"
   }
 }
