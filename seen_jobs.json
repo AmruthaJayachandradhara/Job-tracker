@@ -50301,5 +50301,13 @@
     "location": "Mexico City",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-10-27T23:20:53.630075"
+  },
+  "f19410ff83566a56cb101ac4ca883f87": {
+    "company": "Stripe",
+    "title": "Fraud Operations Analyst (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8168550",
+    "location": "Mexico City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T03:01:52.340439"
   }
 }
