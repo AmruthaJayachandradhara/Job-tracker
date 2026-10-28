@@ -50437,5 +50437,69 @@
     "location": "Dublin",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-10-28T16:53:20.013903"
+  },
+  "0719d5a7c2fc2f61451e5e8b73ea7fc5": {
+    "company": "Databricks",
+    "title": "Emerging Enterprise Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8906591002",
+    "location": "Calgary, Canada; Montr\u00e9al, Canada; Toronto, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T21:25:44.835818"
+  },
+  "200a748f6cb00332ddfd1795ec09f22a": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893599002",
+    "location": "Remote - Massachusetts; Remote - New York; Remote - Virginia; Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T21:25:44.837006"
+  },
+  "dec9cf6ab3216751b9643d9613152826": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8920452002",
+    "location": "Remote - New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T21:25:44.837017"
+  },
+  "4eb03168d0e48f0f56762a49514fff0c": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8906055002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T21:25:44.837025"
+  },
+  "98df0782496c4c9cf8881731ee6adeb9": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive (Retail)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8895631002",
+    "location": "Toronto, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T21:25:44.841329"
+  },
+  "efe4cd1ed99fae13f7121214827a2fe1": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive (Telco)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8912711002",
+    "location": "Toronto, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T21:25:44.841342"
+  },
+  "983c7090c909df7832c0e029eb581c09": {
+    "company": "Coinbase",
+    "title": "Compliance Associate",
+    "url": "https://www.coinbase.com/careers/positions/8329350?gh_jid=8329350",
+    "location": "Remote - USA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-28T21:25:57.436976"
+  },
+  "c53baa0b06b75116e3ceb7c3e46ed2b7": {
+    "company": "Stripe",
+    "title": "Technical Solutions Consultant, Crypto",
+    "url": "https://stripe.com/jobs/search?gh_jid=8329116",
+    "location": "New York, San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T21:26:01.272533"
   }
 }
