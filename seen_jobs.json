@@ -50349,5 +50349,93 @@
     "location": "Bangalore",
     "filter_reason": "title match: 'new grad'",
     "first_seen": "2026-10-28T10:08:58.123619"
+  },
+  "999bdbbdd1c32be15c4c4d8b7401cc86": {
+    "company": "Paraform",
+    "title": "Technical Talent Partner",
+    "url": "https://jobs.ashbyhq.com/paraform/491337d0-2f4f-4e0c-b1e5-515fde742795",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T16:52:39.640581"
+  },
+  "cf2a56212691418ab07a9710d2f0a44c": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8921476002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T16:53:03.351843"
+  },
+  "ae58b7c87fab463dcb34b3e9f99daa4c": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist, Nordics",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569526002",
+    "location": "Remote - Denmark",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T16:53:03.352203"
+  },
+  "29822e3b6c6ff7d1ff0cd662affb86fb": {
+    "company": "Databricks",
+    "title": "Named Account Executive, Health Insurance",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8883465002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T16:53:03.352754"
+  },
+  "076a716ebc508e5993ff47cfb09675c5": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive, Medtech",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8905737002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T16:53:03.358463"
+  },
+  "fb65bc352b5c010c39b0246247cbc1c1": {
+    "company": "GitLab",
+    "title": "Backend Engineer, Knowledge Graph",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T16:53:09.257267"
+  },
+  "c334c0f0e95b6d80c7ed0a5d7a05ac8a": {
+    "company": "Mercury",
+    "title": "Account Executive",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6235209004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T16:53:16.107809"
+  },
+  "d6ca5e80ff0fcfc9e1cfc4904e33a0e4": {
+    "company": "Stripe",
+    "title": "Account Executive - Travel, Ticketing & Hospitality (Hunter) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8284978",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T16:53:20.009866"
+  },
+  "e290ad3f310227249d2962a5873d84bf": {
+    "company": "Stripe",
+    "title": "Customer Support Specialist, Clerky",
+    "url": "https://stripe.com/jobs/search?gh_jid=8275558",
+    "location": "Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T16:53:20.010695"
+  },
+  "0bd94744543df5cc979c1555493aaea0": {
+    "company": "Stripe",
+    "title": "Marketing Strategy & Operations Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=8329719",
+    "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-28T16:53:20.012648"
+  },
+  "e7e142aeb5cfce4a742b6bf63b577c94": {
+    "company": "Stripe",
+    "title": "Sales Development Associate  ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8048266",
+    "location": "Dublin",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-28T16:53:20.013903"
   }
 }
