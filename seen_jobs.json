@@ -50501,5 +50501,93 @@
     "location": "New York, San Francisco",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-28T21:26:01.272533"
+  },
+  "7eb1732d22890fa0f08b692f1874e734": {
+    "company": "Databricks",
+    "title": "Account Executive - Singapore",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8874579002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T01:23:51.796646"
+  },
+  "701e36d8aaa3ee4efab54d45f69d339f": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569574002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T01:23:51.798466"
+  },
+  "90f6cbfe69b90535e082ea70a2b337d5": {
+    "company": "Databricks",
+    "title": "Software Engineer, Infrastructure",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829039002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T01:23:51.800872"
+  },
+  "fdfe538fe2521a1db24c46266d65bbc2": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales, Metronome",
+    "url": "https://stripe.com/jobs/search?gh_jid=8154295",
+    "location": "US-NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T01:24:10.014446"
+  },
+  "6949c0d31f20ae07e68ab795849b3b6e": {
+    "company": "Stripe",
+    "title": "Customer Success Enablement Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=8293770",
+    "location": "San Francisco; Seattle; Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T01:24:10.015463"
+  },
+  "169420156e9220896d84a3abff0499d1": {
+    "company": "Stripe",
+    "title": "Finance & Strategy Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8287914",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T01:24:10.016280"
+  },
+  "e2773030e25a52e05627c59ca91ba88e": {
+    "company": "Stripe",
+    "title": "Junior Commercial Associate, Works in Progress",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241571",
+    "location": "London",
+    "filter_reason": "title match: 'junior'",
+    "first_seen": "2026-10-29T01:24:10.017274"
+  },
+  "cdce3ff7ee75603274ce1cf0f3e848ca": {
+    "company": "Stripe",
+    "title": "Software Engineer, Fraud System Interventions",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332718",
+    "location": "South San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T01:24:10.019575"
+  },
+  "6d48433b3d8bbf4b486a0f4b094ada51": {
+    "company": "Stripe",
+    "title": "Software Engineer - Full stack",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332676",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T01:24:10.019590"
+  },
+  "8d3ba65e64e8df8e2e0a28f307769cac": {
+    "company": "Stripe",
+    "title": "Technical Curriculum Developer, Technical Enablement",
+    "url": "https://stripe.com/jobs/search?gh_jid=8164666",
+    "location": "San Francisco; Seattle; Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T01:24:10.020769"
+  },
+  "116fa45d4f08882691b58db8190c91e8": {
+    "company": "Carta",
+    "title": "Growth Account Executive, VC Investors",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8053942003",
+    "location": "San Francisco, CA; New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T01:24:11.927792"
   }
 }
