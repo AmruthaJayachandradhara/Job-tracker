@@ -50597,5 +50597,37 @@
     "location": "Sydney or Melbourne",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-29T07:48:08.939979"
+  },
+  "5e8308b8816f2305efe4510a2bac3f02": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist II",
+    "url": "https://www.coinbase.com/careers/positions/8333273?gh_jid=8333273",
+    "location": "Hyderabad, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T14:46:26.805020"
+  },
+  "68640801c74134330dfad9267ce68e12": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Early Career (London)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011718003",
+    "location": "London",
+    "filter_reason": "title match: 'early career'",
+    "first_seen": "2026-10-29T14:46:29.484975"
+  },
+  "b02364a46d958105a7cf38e350658a7e": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB, Velocity Hunter, Spanish speaking",
+    "url": "https://stripe.com/jobs/search?gh_jid=8318707",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T14:46:30.612700"
+  },
+  "75dad90e585c74afb83fd805fefb180b": {
+    "company": "Stripe",
+    "title": "Strategic Account Executive, Existing Business (Central Eastern Europe)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332821",
+    "location": "Poland OR Romania",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T14:46:30.618507"
   }
 }
