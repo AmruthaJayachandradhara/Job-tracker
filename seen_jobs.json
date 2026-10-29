@@ -50941,5 +50941,77 @@
     "location": "Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-29T19:57:24.119313"
+  },
+  "03ff864c8e1ab39d1784d2abd144bb5e": {
+    "company": "Northwood Space",
+    "title": "Software Engineer, Platform (Early Career)",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6",
+    "location": "Torrance, CA",
+    "filter_reason": "title match: 'early career'",
+    "first_seen": "2026-10-29T23:45:17.524875"
+  },
+  "d77a58ce01bc87af2805ae20a46643df": {
+    "company": "Northwood Space",
+    "title": "Development Test Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/3b2dcb2a-c1f8-4f96-8877-a7a36d9f24f4",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T23:45:17.524914"
+  },
+  "fef1033d970187a0c47abde8288650bc": {
+    "company": "Profound",
+    "title": "Strategic Partnerships Associate",
+    "url": "https://jobs.ashbyhq.com/profound/fe66d0f7-9bc5-4d90-8b60-e3310f69ccbe",
+    "location": "New York, New York",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-29T23:45:24.448697"
+  },
+  "6a4ceae92051eec072f5d36ae3c804c9": {
+    "company": "Encord",
+    "title": "Commercial Associate",
+    "url": "https://jobs.ashbyhq.com/encord/fa922dac-6219-4379-be99-29c8ea59b813",
+    "location": "London",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-29T23:45:25.053002"
+  },
+  "2eefffe08aad5affcf520c9c41347bc5": {
+    "company": "Encord",
+    "title": "Account Executive, Data as a Service",
+    "url": "https://jobs.ashbyhq.com/encord/8a88f55e-ae21-4a3f-b2ba-a72fa196007a",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T23:45:25.053096"
+  },
+  "9040df509b9c10ac9dd15e98e8087971": {
+    "company": "Stripe",
+    "title": "Account Executive - Commercial Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8330791",
+    "location": "Sydney or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T23:45:55.295391"
+  },
+  "b08609b19d22ac244cb164c8ee34ddca": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Terminal)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8316059",
+    "location": "US-SF, US-NY, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T23:45:55.296242"
+  },
+  "7344ef32c190e499f57c1120c0688e33": {
+    "company": "Stripe",
+    "title": "Account Executive - SMB (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8330813",
+    "location": "Sydney Or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T23:45:55.296300"
+  },
+  "0bbeb5c9dd1ac8928845447178a03295": {
+    "company": "Stripe",
+    "title": "Software Engineer, Payments",
+    "url": "https://stripe.com/jobs/search?gh_jid=8260982",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-29T23:45:55.301403"
   }
 }
