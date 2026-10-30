@@ -51013,5 +51013,29 @@
     "location": "N/A",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-29T23:45:55.301403"
+  },
+  "ea2a8c3eb04a4b1faca3bb37d2edaa12": {
+    "company": "Stripe",
+    "title": "Commercial Account Executive - Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8330791",
+    "location": "Sydney or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T03:31:19.324472"
+  },
+  "6ff1ef25530fd4792957cd5ec5e369f4": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive,  Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8330801",
+    "location": "Sydney Or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T03:31:19.325296"
+  },
+  "6dbadd78c861b26268d00d9485076a8e": {
+    "company": "Stripe",
+    "title": "Risk Operations Associate, Bridge UPO",
+    "url": "https://stripe.com/jobs/search?gh_jid=8315962",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-30T03:31:19.328029"
   }
 }
