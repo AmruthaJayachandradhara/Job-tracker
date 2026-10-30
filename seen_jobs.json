@@ -51317,5 +51317,109 @@
     "location": "US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-30T16:52:34.358572"
+  },
+  "52add30f6f0b4610ae14f61342f8e810": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist, Benelux",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569528002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T21:14:41.853206"
+  },
+  "d9f66f0aa1efff6d3eb8811d18524089": {
+    "company": "Fivetran",
+    "title": "IT Operations Analyst II",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8007247003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T21:14:44.340951"
+  },
+  "1b6527b9e250ba59bfe8207695da69c4": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Mid-Market, Canada",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891673002",
+    "location": "Remote, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T21:14:47.443844"
+  },
+  "84b742516f0a4f308f008e5629db004c": {
+    "company": "GitLab",
+    "title": "Data Scientist, Enterprise Analytics",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922013002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T21:14:47.443909"
+  },
+  "7b08406ec2ba525d2afa4b22d18d7cc1": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll",
+    "url": "https://www.coinbase.com/careers/positions/8337782?gh_jid=8337782",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T21:14:53.397796"
+  },
+  "549b09cfb6211a57e3e027897d5b3ad5": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll",
+    "url": "https://www.coinbase.com/careers/positions/8337144?gh_jid=8337144",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T21:14:53.397864"
+  },
+  "414ad4dd029c0a2d8ea4e7d33bf08586": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll",
+    "url": "https://www.coinbase.com/careers/positions/8337203?gh_jid=8337203",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T21:14:53.397874"
+  },
+  "815855f65cec2cf24a19226e4f4d05e4": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll",
+    "url": "https://www.coinbase.com/careers/positions/8337209?gh_jid=8337209",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T21:14:53.397883"
+  },
+  "d3db77b62105cd68a9d76d75c16836ad": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll",
+    "url": "https://www.coinbase.com/careers/positions/8337206?gh_jid=8337206",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T21:14:53.397894"
+  },
+  "0b4d293580f1361121b711e6bb195bf9": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Full Stack (Card Pre-Swipe Experience)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8042399003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T21:14:56.104537"
+  },
+  "68db1b1e3a95c58ae334b2a17293407e": {
+    "company": "Stripe",
+    "title": "Administrative Business Partner, Coverage",
+    "url": "https://stripe.com/jobs/search?gh_jid=8328118",
+    "location": "Remote - US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T21:14:57.149756"
+  },
+  "3ed01dfc005133f66bc690919b1d89f5": {
+    "company": "Stripe",
+    "title": "Commercial Counsel, Bridge",
+    "url": "https://stripe.com/jobs/search?gh_jid=8335758",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T21:14:57.150105"
+  },
+  "c0c753e8d67eb63323b346c28e1f53f1": {
+    "company": "Stripe",
+    "title": "Software Engineer, Secure Devices",
+    "url": "https://stripe.com/jobs/search?gh_jid=7982720",
+    "location": "New York, New York ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T21:14:57.153902"
   }
 }
