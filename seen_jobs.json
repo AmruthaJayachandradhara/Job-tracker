@@ -51037,5 +51037,69 @@
     "location": "Mexico City",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-10-30T03:31:19.328029"
+  },
+  "f5cd753d9af5e9d9764405c41528c138": {
+    "company": "Databricks",
+    "title": "Business Development Representative (German-speaking, DACH)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8924302002",
+    "location": "Munich, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T10:34:09.907625"
+  },
+  "3eac27fa2303933d11af186e85ee43df": {
+    "company": "Databricks",
+    "title": "Business Development Representative (UKI)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8917482002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T10:34:09.907665"
+  },
+  "3ee1d99598c1a05d3a80897012f9951f": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist (Greater China Region)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569578002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T10:34:09.909254"
+  },
+  "20efb15490f46a93e2fed75211488752": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist (Greater China Region)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8924844002",
+    "location": "China",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T10:34:09.909265"
+  },
+  "0d4c337321c44c88890ed607f0a9fcdf": {
+    "company": "Affirm",
+    "title": "Customer Operations Associate I",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040790003",
+    "location": "Remote US",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-10-30T10:34:25.150729"
+  },
+  "d11240eab721c4d6c103023f604db9dd": {
+    "company": "Stripe",
+    "title": "Account Executive Platforms, Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8330815",
+    "location": "Sydney Or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T10:34:26.297160"
+  },
+  "a9c9b0a316dec698b2e976108d57bd70": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive - Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8336023",
+    "location": "Sydney Or Melbourne",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T10:34:26.299147"
+  },
+  "b8d751d4cee7fac815bc0f361453f557": {
+    "company": "Stripe",
+    "title": "Motion Designer, Stripe Identity",
+    "url": "https://stripe.com/jobs/search?gh_jid=8265389",
+    "location": "Barcelona",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-30T10:34:26.300712"
   }
 }
