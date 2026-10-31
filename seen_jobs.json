@@ -51421,5 +51421,13 @@
     "location": "New York, New York ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-30T21:14:57.153902"
+  },
+  "8031a3a890cba5b800cc26baa7add5ec": {
+    "company": "Hex",
+    "title": "Recruiting Coordinator ",
+    "url": "https://jobs.ashbyhq.com/hex/fb179b38-92c6-4e40-b345-382c1c19b5a4",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-31T01:14:23.277474"
   }
 }
