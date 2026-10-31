@@ -51429,5 +51429,13 @@
     "location": "New York",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-31T01:14:23.277474"
+  },
+  "0dae0dd62978577557bf0d77343bc089": {
+    "company": "Coinbase",
+    "title": "Clearing Risk Analyst",
+    "url": "https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-31T07:44:16.354332"
   }
 }
