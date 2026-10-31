@@ -51437,5 +51437,37 @@
     "location": "Remote - USA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-31T07:44:16.354332"
+  },
+  "cc03a5799c9686ec243a33470e14feb3": {
+    "company": "Coinbase",
+    "title": "Customer Success Team Agent II",
+    "url": "https://www.coinbase.com/careers/positions/8334761?gh_jid=8334761",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-31T18:55:17.515779"
+  },
+  "3cb4172d2dbe21a66cb7958a872f1805": {
+    "company": "Coinbase",
+    "title": "Customer Success Team Agent II",
+    "url": "https://www.coinbase.com/careers/positions/8334752?gh_jid=8334752",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-31T18:55:17.515806"
+  },
+  "e36be344a5071bae4924ea4b6859b8b2": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist II",
+    "url": "https://www.coinbase.com/careers/positions/8334767?gh_jid=8334767",
+    "location": "Hyderabad, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-31T18:55:17.515832"
+  },
+  "f380d4cee01d7b1c8f2b68b6d2cedfc0": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist II",
+    "url": "https://www.coinbase.com/careers/positions/8334764?gh_jid=8334764",
+    "location": "Hyderabad, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-10-31T18:55:17.515850"
   }
 }
