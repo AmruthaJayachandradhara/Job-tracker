@@ -51501,5 +51501,29 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-01T08:23:58.829537"
+  },
+  "2eedb34e59921a425fa08dd20dbc832d": {
+    "company": "Databricks",
+    "title": "Account Executive - Digital Native",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880398002",
+    "location": "Seoul, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-01T15:35:14.501525"
+  },
+  "92421f43d011c4fe0ed5cbd9ad9eff14": {
+    "company": "Databricks",
+    "title": "Account Executive - Strategic Core ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880402002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-01T15:35:14.501566"
+  },
+  "9acc71a856494402c6ac3ea1d9f718a9": {
+    "company": "Stripe",
+    "title": "Deal Strategist, APAC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8336062",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-01T15:35:30.626558"
   }
 }
