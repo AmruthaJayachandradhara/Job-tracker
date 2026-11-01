@@ -51469,5 +51469,37 @@
     "location": "Hyderabad, India",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-10-31T18:55:17.515850"
+  },
+  "d30ea297b7973a08c9599362f858a9eb": {
+    "company": "Databricks",
+    "title": "Named Hunter Account Executive - Singapore",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8916466002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-01T08:23:58.823626"
+  },
+  "6f82fc8fb3f84626b5bcc3217af3ea57": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - FSI ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910854002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-01T08:23:58.829416"
+  },
+  "0d5b4468886f62fdf85ec3e21fb65a4e": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910842002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-01T08:23:58.829485"
+  },
+  "d995d8b6b15f0ab05c3ca886604bb447": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - Vietnam (Singapore Based)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880406002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-01T08:23:58.829537"
   }
 }
