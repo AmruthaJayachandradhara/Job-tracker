@@ -51669,5 +51669,245 @@
     "location": "Singapore",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-11-02T11:50:03.216831"
+  },
+  "85b59c632b4385adf61b0eecde3e38f4": {
+    "company": "Northwood Space",
+    "title": "Software Engineer, Prism",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/b3d9670c-54a1-4342-a13c-56eace26de83",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:27.169360"
+  },
+  "84d16baaa0daacf7a0f67285f7b4b88a": {
+    "company": "Juicebox",
+    "title": "Product Operations",
+    "url": "https://jobs.ashbyhq.com/juicebox/3768f2bb-d808-4980-8528-e72fade11e5d",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:41.639885"
+  },
+  "405deb79501c36094d61b380dc57d781": {
+    "company": "Isembard",
+    "title": "General Application (Germany)",
+    "url": "https://jobs.ashbyhq.com/isembard/f2c1e8fe-4fd8-42c9-9eae-65336fc0c98b",
+    "location": "Hamburg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:43.490204"
+  },
+  "4c9e83bc8f442dd377e0b9fe3bb2bd7b": {
+    "company": "Isembard",
+    "title": "General Application (France)",
+    "url": "https://jobs.ashbyhq.com/isembard/4c376647-b4e7-46bf-8754-5774ec7716f9",
+    "location": "Wissous",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:43.490221"
+  },
+  "d4ce4179269d9777225157c908a11876": {
+    "company": "Isembard",
+    "title": "Op\u00e9rateur CNC / Programmeur FAO - Usine de Paris ",
+    "url": "https://jobs.ashbyhq.com/isembard/1bfed645-22d2-4d7b-9e99-d97f14f0d441",
+    "location": "Wissous",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:43.490243"
+  },
+  "565ff46bac2aca6e7711d54ff07c590f": {
+    "company": "Isembard",
+    "title": "Programmeur MMT / Controleur Qualit\u00e9 - Usine de Wissous",
+    "url": "https://jobs.ashbyhq.com/isembard/711810d5-75cf-48a5-9943-cc90306ec1ce",
+    "location": "Wissous",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:43.490262"
+  },
+  "e3c961d32cffdd871f359f8a7eaaa7b4": {
+    "company": "Databricks",
+    "title": "Designated Support Engineer - Spark",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8661520002",
+    "location": "Seoul, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:46.622551"
+  },
+  "aace5bf8a734fc25d6c2aac466f1477e": {
+    "company": "Databricks",
+    "title": "Designated Support Engineer - Spark",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907735002",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:46.622570"
+  },
+  "92ed00fb586cdf3db3f3020ad1834134": {
+    "company": "Databricks",
+    "title": "Emerging Enterprise & Digital Native Account Executive, Iberia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899917002",
+    "location": "Madrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:46.622929"
+  },
+  "897a4103bd4f3e33f859dff0eacabc56": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Healthcare",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8925467002",
+    "location": "Remote - New York; Remote - North Carolina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:46.623192"
+  },
+  "f968216df3e049cc55fa3cbc280a3500": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Healthcare",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8925472002",
+    "location": "Remote - California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:46.623204"
+  },
+  "429bf0d3abe883e51c316f59057e2997": {
+    "company": "Databricks",
+    "title": "Software Engineer - New Grad (2027 Start) - Aarhus",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133691002",
+    "location": "Aarhus, Denmark",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-11-02T21:03:46.626071"
+  },
+  "bb631fc67b41039e7a102dbcd3669535": {
+    "company": "Databricks",
+    "title": "Software Engineer - New Grad (2027 Start) - Amsterdam",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866549002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-11-02T21:03:46.626082"
+  },
+  "f56e418d21c2db4f35ddd6a5780844e7": {
+    "company": "Databricks",
+    "title": "Software Engineer - New Grad (2027 Start) - Belgrade",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640776002",
+    "location": "Belgrade, Serbia",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-11-02T21:03:46.626090"
+  },
+  "bb544d23bd7eed46d6fc753f7079ad95": {
+    "company": "Databricks",
+    "title": "Software Engineer - New Grad (2027 Start) - Berlin",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6886281002",
+    "location": "Berlin, Germany",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-11-02T21:03:46.626099"
+  },
+  "e2ae8e5e7644b607944b530d2ca0d822": {
+    "company": "Databricks",
+    "title": "Software Engineer - New Grad (2027 Start) - London",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847747002",
+    "location": "London, United Kingdom",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-11-02T21:03:46.626106"
+  },
+  "1ea91216c92e91faffb1d9a95a9d0a1d": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8895633002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:46.630194"
+  },
+  "4fdb0ba2cb1c218b515b64d17a96131c": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll",
+    "url": "https://www.coinbase.com/careers/positions/8346073?gh_jid=8346073",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:59.620879"
+  },
+  "ddcde6defdca861516ce50d1f9157837": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll",
+    "url": "https://www.coinbase.com/careers/positions/8346070?gh_jid=8346070",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:59.620902"
+  },
+  "1298113872b9e20874326adea38a79dc": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll",
+    "url": "https://www.coinbase.com/careers/positions/8346064?gh_jid=8346064",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:59.620914"
+  },
+  "8472cc407807d964dc091764609e38bd": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll",
+    "url": "https://www.coinbase.com/careers/positions/8334387?gh_jid=8334387",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:03:59.620925"
+  },
+  "c224827479bb2b38c32b6db4574fcd9a": {
+    "company": "EarnIn",
+    "title": "Platform Engineer",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8346674",
+    "location": "Mexico City, Mexico",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:04:01.701398"
+  },
+  "60844aed7a5420fa22a2a2a4f6859631": {
+    "company": "Stripe",
+    "title": "Account Executive, Benelux",
+    "url": "https://stripe.com/jobs/search?gh_jid=8322584",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:04:03.821169"
+  },
+  "1b2c39407a6d34e1aa85e0a7c78bad34": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8287920",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:04:03.822251"
+  },
+  "b4f877dedde78801daccc78632158fd9": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups - Grower (Italian Fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8319823",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:04:03.822268"
+  },
+  "804dcf82927314266880fc7abf16388e": {
+    "company": "Stripe",
+    "title": "Americas Field Marketing, Financial Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332880",
+    "location": "US Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:04:03.822461"
+  },
+  "f2011e5abff86a44e146368aa15d557d": {
+    "company": "Stripe",
+    "title": "Americas Field Marketing, Velocity",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332884",
+    "location": "US Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:04:03.822474"
+  },
+  "bf20ecb884cc4139ea24d87192a8be19": {
+    "company": "Stripe",
+    "title": "Data Scientist, FX Quantitative Research",
+    "url": "https://stripe.com/jobs/search?gh_jid=8346778",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:04:03.823204"
+  },
+  "76051b3286064daadbe3eb8cd8d5828f": {
+    "company": "Stripe",
+    "title": "Data Scientist, FX Quantitative Research",
+    "url": "https://stripe.com/jobs/search?gh_jid=8346831",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:04:03.823218"
+  },
+  "2386cffdc432e2e5d981598b371a89fb": {
+    "company": "Stripe",
+    "title": "Japan Account Executive, Platforms - Hunter ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8324997",
+    "location": "Tokyo",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-02T21:04:03.824751"
   }
 }
