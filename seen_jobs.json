@@ -52029,5 +52029,93 @@
     "location": "Luxembourg",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-03T11:28:41.345674"
+  },
+  "41e15232555086f99a49ca88287becfb": {
+    "company": "Northwood Space",
+    "title": "Electrical Engineer (Portal) ",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/af609880-1e6c-4f89-8594-3c593f6eba0f",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T18:48:19.932439"
+  },
+  "b413b09123f7697f13ae2c0753a7f204": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive, Middle-East and Africa",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8452487002",
+    "location": "United Arab Emirates",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T18:48:39.447853"
+  },
+  "9475a38990cf8f0f10ee86984c7935bf": {
+    "company": "Fivetran",
+    "title": "Junior Deal Desk Analyst, EMEA",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8158666003",
+    "location": "Dublin, Dublin, Ireland, EMEA",
+    "filter_reason": "title match: 'junior'",
+    "first_seen": "2026-11-03T18:48:42.219390"
+  },
+  "23a6e20d986fed44e64b029147a9568c": {
+    "company": "GitLab",
+    "title": "Intermediate Fullstack Engineer, Subscription Lifecycle ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922249002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T18:48:45.711439"
+  },
+  "2304cbc7e2be2299d708d1fbfc137fb3": {
+    "company": "Coinbase",
+    "title": "IT Support Engineer",
+    "url": "https://www.coinbase.com/careers/positions/8350017?gh_jid=8350017",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T18:48:52.161558"
+  },
+  "162e6488cad73e09730e872ad0be00aa": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Fullstack (Capital Orchestration)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7749755003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T18:48:54.970028"
+  },
+  "59dfb91a5edf2c261d474a26c701a33c": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Fullstack (Capital Orchestration)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7749753003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T18:48:54.970053"
+  },
+  "0f90c8b6bacf74f79c5abe01da09e5b8": {
+    "company": "Stripe",
+    "title": "Full-Stack Software Engineer, Communication Tools",
+    "url": "https://stripe.com/jobs/search?gh_jid=8315954",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T18:48:56.148202"
+  },
+  "24633aa18573ecdb960e8f628c43e8f2": {
+    "company": "Stripe",
+    "title": "IT Support Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8328323",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T18:48:56.148742"
+  },
+  "0fcf2f7d402b0b45b47d2428cdc8a96b": {
+    "company": "Stripe",
+    "title": "Recruiting Scheduler",
+    "url": "https://stripe.com/jobs/search?gh_jid=8337362",
+    "location": "New York, Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T18:48:56.150308"
+  },
+  "fb51896530bd81c8714dde46a6e29ad5": {
+    "company": "Stripe",
+    "title": "Recruiting Scheduler (Fixed-Term Contract)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8231145",
+    "location": "SF",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T18:48:56.150323"
   }
 }
