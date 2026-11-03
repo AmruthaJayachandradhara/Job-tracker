@@ -52117,5 +52117,125 @@
     "location": "SF",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-03T18:48:56.150323"
+  },
+  "401cfb8cac323082f8225b13f6d220af": {
+    "company": "Northwood Space",
+    "title": "Electrical Engineer (Prism)",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/ca559bda-f67e-4bbd-a9d8-4737b5fe02e0",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T23:46:52.948623"
+  },
+  "d84cb723613c57747ae178774ff1e94b": {
+    "company": "Northwood Space",
+    "title": "Incoming Quality Technician",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/2cbf1669-c498-42ef-9cbd-b9372782ea0a",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T23:46:52.948671"
+  },
+  "c13062f707604cee37022aa365b07b77": {
+    "company": "Northwood Space",
+    "title": "Regulatory Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/1c4be193-44f0-41aa-aa5e-111a471d79f0",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T23:46:52.948682"
+  },
+  "83aeb941a00ef74e7bf169e1b8a85804": {
+    "company": "Northwood Space",
+    "title": "Executive Assistant",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/27ce80a7-68a5-403a-a5d6-e6958cb4a6b5",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T23:46:52.948692"
+  },
+  "0b1923c19b2bca7cf7b8d1953635fce4": {
+    "company": "Northwood Space",
+    "title": "Development Test Engineer (Prism) ",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/4864affe-1c64-45c6-97cc-4e576d986025",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T23:46:52.948701"
+  },
+  "8515e03ca4b7b4e46b448b7793e86493": {
+    "company": "Fivetran",
+    "title": "Solutions Engineer, Commercial (Austin)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7792166003",
+    "location": "USA - Austin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T23:47:14.888603"
+  },
+  "396bd0522ce196fa9f9eceb7ad1dd0cb": {
+    "company": "GitLab",
+    "title": "Recruiter, GTM (EMEA)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8912969002",
+    "location": "Remote, Netherlands; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T23:47:18.335380"
+  },
+  "aa6af409dc8cee02574d3dc14d8687a9": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll",
+    "url": "https://www.coinbase.com/careers/positions/8350362?gh_jid=8350362",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T23:47:24.753384"
+  },
+  "a52e468da6dd27e6f83df75001b6345e": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms Mid Market (Hunter), Japan",
+    "url": "https://stripe.com/jobs/search?gh_jid=8326105",
+    "location": "Tokyo",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T23:47:29.021996"
+  },
+  "5d9076e3f6f527a1b9e2199247fc3c25": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB Grower (CEE)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8322582",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T23:47:29.022493"
+  },
+  "19336b6721cd6055bb31d88978ab9d2e": {
+    "company": "Stripe",
+    "title": "Fraud Operations Analyst, Bridge (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8168550",
+    "location": "Mexico City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T23:47:29.024515"
+  },
+  "ca39e41524e457407a1be2c4dc05e12a": {
+    "company": "Stripe",
+    "title": "Frontend Engineer, Design Systems",
+    "url": "https://stripe.com/jobs/search?gh_jid=8301936",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T23:47:29.024616"
+  },
+  "d1798f693446f520125db05050127aa8": {
+    "company": "Stripe",
+    "title": "Renewals Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8210218",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T23:47:29.027289"
+  },
+  "871fff99a5b8f9c7cea6b9622768b2ee": {
+    "company": "Stripe",
+    "title": "Renewals Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8315966",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T23:47:29.027306"
+  },
+  "4504ebbd0e9c33eded32b10b0ce8dec6": {
+    "company": "Stripe",
+    "title": "Sr Customer Support Associate - Product Support Operations (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7981587",
+    "location": "MX- Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-03T23:47:29.028863"
   }
 }
