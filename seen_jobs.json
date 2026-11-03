@@ -51997,5 +51997,37 @@
     "location": "Mexico City, Mexico",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-03T03:10:02.207986"
+  },
+  "968b45c78b4cf936726065e49146f623": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8883463002",
+    "location": "Madrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T11:28:23.024846"
+  },
+  "211b47f4637d9b79fbeee99629e26cce": {
+    "company": "Fivetran",
+    "title": "Sales Development Representative, German Speaking",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8174542003",
+    "location": "IRL - Dublin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T11:28:25.777619"
+  },
+  "5dd451f2e3ad609f5dddb964232c75cd": {
+    "company": "GitLab",
+    "title": "Intermediate Backend Engineer, Authorization",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8905402002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T11:28:29.149914"
+  },
+  "9e51f39167b4bb47e808d7ae05f25c33": {
+    "company": "Carta",
+    "title": "Fund Compliance Officer & Responsable du Contr\u00f4le ",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8173116003",
+    "location": "Luxembourg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-03T11:28:41.345674"
   }
 }
