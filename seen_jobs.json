@@ -52237,5 +52237,61 @@
     "location": "MX- Mexico City",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-11-03T23:47:29.028863"
+  },
+  "eebfcd97c8d5227ec93dbc4c014c7387": {
+    "company": "Render",
+    "title": "Cloud - Bare Metal Infrastructure EngineerRemote: United States or San Francisco HQ or SF or Remote ",
+    "url": "https://jobs.ashbyhq.com/render/a22230e6-803d-4e2e-82f8-ff5f500cdc3d",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T03:54:15.873961"
+  },
+  "06d13550c9c1282d25fe71866abf2373": {
+    "company": "Northwood Space",
+    "title": "SMT Technician",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/0fd8099c-020d-409b-88ef-15e56924487d",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T03:54:24.035921"
+  },
+  "07ae64b10ae1005f172dc0a053af8018": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8929492002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T03:54:43.220745"
+  },
+  "0851380e1592b579770642eaa8fee76b": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist II-3",
+    "url": "https://www.coinbase.com/careers/positions/8083906?gh_jid=8083906",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T03:54:55.673605"
+  },
+  "f00d0f19afd6fa881d04d0dc5f648852": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll",
+    "url": "https://www.coinbase.com/careers/positions/8350367?gh_jid=8350367",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T03:54:55.673627"
+  },
+  "2651e6aeb7d3c1fb34769d877b724965": {
+    "company": "Coinbase",
+    "title": "Social Support Specialist I",
+    "url": "https://www.coinbase.com/careers/positions/8335621?gh_jid=8335621",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T03:54:55.674443"
+  },
+  "768f64a876c19154a1e3901dd484480e": {
+    "company": "Coinbase",
+    "title": "Social Support Specialist I",
+    "url": "https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T03:54:55.674449"
   }
 }
