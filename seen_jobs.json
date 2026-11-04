@@ -52293,5 +52293,117 @@
     "location": "Remote - USA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-04T03:54:55.674449"
+  },
+  "0d8514daf6fcbcf8a045e507852effda": {
+    "company": "Databricks",
+    "title": "Forward Deployed Strategist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922945002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T11:45:00.464045"
+  },
+  "9328163d5cc18857b93d20d760d9b315": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll",
+    "url": "https://www.coinbase.com/careers/positions/8350374?gh_jid=8350374",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T11:45:14.576817"
+  },
+  "b9a80ff5ba25f1c491fb28c7d4342b0a": {
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll",
+    "url": "https://www.coinbase.com/careers/positions/8350371?gh_jid=8350371",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T11:45:14.576840"
+  },
+  "5bbedc7972dcd85a515c4e0924c8f3df": {
+    "company": "Coinbase",
+    "title": "Payments Risk Specialist I",
+    "url": "https://www.coinbase.com/careers/positions/8337149?gh_jid=8337149",
+    "location": "Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T11:45:14.577503"
+  },
+  "dc10148de2eb49450ce7bffb3d7f881a": {
+    "company": "Stripe",
+    "title": "Account Executive Enterprise (Korean-speaking, Singapore based)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8348835",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T11:45:18.873138"
+  },
+  "23bd5953bf53856fa8d0100681f3d8f5": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise (Southeast Asia)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8348731",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T11:45:18.873198"
+  },
+  "b56d73329cc35aa4e58a480c30514ba3": {
+    "company": "Stripe",
+    "title": "Account Executive, Large Users Platforms (China Cross Border)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8349777",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T11:45:18.873299"
+  },
+  "80d00d62763a3e34df84f4fc92aadf30": {
+    "company": "Stripe",
+    "title": "Account Executive - Startups & AI  (Korean Speaking, Singapore based)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8349481",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T11:45:18.873967"
+  },
+  "331fa5aa8e28199d2a90ec9993bb2b5b": {
+    "company": "Stripe",
+    "title": "Account Executive - Startups & AI, New Zealand",
+    "url": "https://stripe.com/jobs/search?gh_jid=8349479",
+    "location": "New Zealand",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T11:45:18.873980"
+  },
+  "f526d9e7a0a0d8c8b26d17d36db120fe": {
+    "company": "Stripe",
+    "title": "Account Executive - Startups (Grower), Australia",
+    "url": "https://stripe.com/jobs/search?gh_jid=8351500",
+    "location": "Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T11:45:18.874039"
+  },
+  "8aecf01c62796377a659e80a6d64f6bd": {
+    "company": "Stripe",
+    "title": "Account Executive - Startups, Southeast Asia",
+    "url": "https://stripe.com/jobs/search?gh_jid=8349475",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T11:45:18.874092"
+  },
+  "f2eb4ec6eabda1c47a3b542d4625b8a6": {
+    "company": "Stripe",
+    "title": "Motion Designer 3D, Stripe Identity",
+    "url": "https://stripe.com/jobs/search?gh_jid=8265389",
+    "location": "Barcelona",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T11:45:18.877038"
+  },
+  "99585a4fab1b93318d50f9cd6f06219f": {
+    "company": "Stripe",
+    "title": "Software Engineer, Privy",
+    "url": "https://stripe.com/jobs/search?gh_jid=7235875",
+    "location": "NYC-Privy",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T11:45:18.879314"
+  },
+  "af2b8839bf67b1b21e40434ce5d84b6f": {
+    "company": "Carta",
+    "title": "Contract Solutions Counsel (Private Markets)",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8004066003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-04T11:45:21.067538"
   }
 }
