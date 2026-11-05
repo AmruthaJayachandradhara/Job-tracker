@@ -52725,5 +52725,85 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-11-05T07:33:00.311279"
+  },
+  "f5c1e4f1f0ce4ca2fd0ab10d0344e675": {
+    "company": "Isembard",
+    "title": "CNC Machinist (m/w/d)",
+    "url": "https://jobs.ashbyhq.com/isembard/cc39e0f4-0156-4198-a8c6-ce465d0baffc",
+    "location": "Hamburg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-05T15:55:36.563240"
+  },
+  "a7478862d80f728b50b57d1d45555672": {
+    "company": "Isembard",
+    "title": "Supply Chain Analyst (m/w/d)",
+    "url": "https://jobs.ashbyhq.com/isembard/b0f6f8c3-731f-4263-ad44-13b77f2b7e3a",
+    "location": "Hamburg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-05T15:55:36.563267"
+  },
+  "1e5e4185fa22f449b640c80635589d43": {
+    "company": "Isembard",
+    "title": "Manufacturing Engineer (m/w/d)",
+    "url": "https://jobs.ashbyhq.com/isembard/1e537c4e-ae56-43d7-bedd-70ce8f87582a",
+    "location": "Hamburg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-05T15:55:36.563278"
+  },
+  "a7ee4f7bc52627ded7498af4aaf0da73": {
+    "company": "Isembard",
+    "title": "CAM Engineer (m/w/d)",
+    "url": "https://jobs.ashbyhq.com/isembard/bc26e0fa-e7fd-4f10-ba15-fd1c929f9ee0",
+    "location": "Hamburg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-05T15:55:36.563286"
+  },
+  "8d0d328d70f1147319f89ba214a9a2c3": {
+    "company": "Isembard",
+    "title": "CNC-Zerspanungsmechaniker (m/w/d)",
+    "url": "https://jobs.ashbyhq.com/isembard/b9c96c63-2bfc-42bd-a78f-d187705a9455",
+    "location": "Hamburg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-05T15:55:36.563309"
+  },
+  "8fdfb64aff85174b07f28635c7fdbf04": {
+    "company": "Isembard",
+    "title": "Supply Chain Analyst (m/w/d)",
+    "url": "https://jobs.ashbyhq.com/isembard/b3e1cfca-ec26-4f6c-a154-718b1da9a166",
+    "location": "Hamburg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-05T15:55:36.563326"
+  },
+  "a5ee90576d75af07fb397d2639167a1e": {
+    "company": "Isembard",
+    "title": "Fertigungsingenieur (m/w/d)",
+    "url": "https://jobs.ashbyhq.com/isembard/815e5fe6-e48a-48fe-829f-6a40a8772a87",
+    "location": "Hamburg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-05T15:55:36.563337"
+  },
+  "69368dbde5560852ec862425a641c76d": {
+    "company": "Isembard",
+    "title": "CAM-Ingenieur (m/w/d)",
+    "url": "https://jobs.ashbyhq.com/isembard/c751c930-dc8a-4f05-a9ac-04dbc04b9830",
+    "location": "Hamburg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-05T15:55:36.563347"
+  },
+  "d138966da1abfd35b34c919ca9126bd5": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive, Netherlands",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8921443002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-05T15:55:45.223205"
+  },
+  "ac89676a4a33085da1d64d767db226ea": {
+    "company": "Tanium",
+    "title": "Helpdesk Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8335035",
+    "location": "Krakow, Poland (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-05T15:55:46.802203"
   }
 }
