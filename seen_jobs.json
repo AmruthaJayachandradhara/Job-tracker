@@ -52693,5 +52693,37 @@
     "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-05T00:38:21.623890"
+  },
+  "7c6db208736e6e2d416e7145ab9b4a26": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB (Southeast Asia)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8352238",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-05T07:33:00.308165"
+  },
+  "fb7b8997b183f3eccbc9f2964be644b5": {
+    "company": "Stripe",
+    "title": "Creative Engineer, Stripe Creative Lab",
+    "url": "https://stripe.com/jobs/search?gh_jid=8283782",
+    "location": "New York, US, Canada, Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-05T07:33:00.308955"
+  },
+  "45a38c55d4fd5ed6553523a0f42a2463": {
+    "company": "Stripe",
+    "title": "Demo Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8338344",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-05T07:33:00.309303"
+  },
+  "9d8eb27144fc4f10ea12ed51f4c87cec": {
+    "company": "Stripe",
+    "title": "Operations Associate, Financial Crimes (AML Investigations)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8352485",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-05T07:33:00.311279"
   }
 }
