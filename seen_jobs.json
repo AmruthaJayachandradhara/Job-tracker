@@ -52973,5 +52973,53 @@
     "location": "Sandy, UT",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-05T21:41:59.329629"
+  },
+  "083290d0aedd9a87e6fb8d8ac9315319": {
+    "company": "Dialpad",
+    "title": "Account Executive, Mid-Market",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8932005002",
+    "location": "Tempe, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T01:55:06.558547"
+  },
+  "f44582ebde6cc786379bf5a67b6fe4b3": {
+    "company": "GitLab",
+    "title": "Customer Success Engineer",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931347002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T01:55:08.289060"
+  },
+  "1c0db54935ab587601aae0e48d4287ff": {
+    "company": "Mercury",
+    "title": "Account Executive - Startups",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6235209004",
+    "location": "New York, NY or San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T01:55:15.992025"
+  },
+  "6b8621d27aa56163d02f6ed3e6c7b125": {
+    "company": "Stripe",
+    "title": "AMER Data Analyst - Sales Strategy and Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8354566",
+    "location": "Chicago, US Remote, SF, NYC, Seattle",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T01:55:19.582562"
+  },
+  "f8ab3ca4e308406a2ecb11a513923a4f": {
+    "company": "Stripe",
+    "title": "Product Design Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332683",
+    "location": "Toronto",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-06T01:55:19.586004"
+  },
+  "d2e78db33b7bf7318008a984cb92bf9c": {
+    "company": "Stripe",
+    "title": "Product Design Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332681",
+    "location": "San Francisco, Seattle, New York City",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-06T01:55:19.586016"
   }
 }
