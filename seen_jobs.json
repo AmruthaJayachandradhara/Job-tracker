@@ -53021,5 +53021,69 @@
     "location": "San Francisco, Seattle, New York City",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-11-06T01:55:19.586016"
+  },
+  "032d1259326d51140532ce0886fee007": {
+    "company": "Spade",
+    "title": "SDR/BDR - Enterprise",
+    "url": "https://jobs.ashbyhq.com/spade/2e19cfc1-6b2f-4b53-8679-7161abc6ed03",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T16:28:49.672445"
+  },
+  "8149a6ee0214858cf843e18ea404c077": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive, Telco",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931581002",
+    "location": "Finland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T16:29:05.694632"
+  },
+  "3452af0c180149f8c905cc35b9f433be": {
+    "company": "Stripe",
+    "title": "Account Executive, AI Sales",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332467",
+    "location": "San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T16:29:24.592236"
+  },
+  "afd8388fa51c3674de67c08960a58a1a": {
+    "company": "Stripe",
+    "title": "Account Executive, Commercial Hunter Japan",
+    "url": "https://stripe.com/jobs/search?gh_jid=7789539",
+    "location": "Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T16:29:24.592364"
+  },
+  "39f12c4a474dae2f4bdeada9311afe6b": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Hunter Japan",
+    "url": "https://stripe.com/jobs/search?gh_jid=7528816",
+    "location": "Tokyo",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T16:29:24.592575"
+  },
+  "da655ea9f76ebfb7f52b27e4105e155e": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms Enterprise ( Hunter ) Japan",
+    "url": "https://stripe.com/jobs/search?gh_jid=8324997",
+    "location": "Tokyo",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T16:29:24.592781"
+  },
+  "7f14bcebd6f49749a8b88a53c7f34854": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms - Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8077971",
+    "location": "Chicago, IL",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T16:29:24.592857"
+  },
+  "33a7fd0fff88ce7988abb65a0460a30d": {
+    "company": "Stripe",
+    "title": "Core Recruiter (Fixed Term)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8301957",
+    "location": "Chicago, Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T16:29:24.594136"
   }
 }
