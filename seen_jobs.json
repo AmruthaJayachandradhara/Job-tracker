@@ -53085,5 +53085,837 @@
     "location": "Chicago, Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-06T16:29:24.594136"
+  },
+  "36462e42773e924a15fa676435dda6e5": {
+    "company": "Gumloop",
+    "title": "Enterprise Account Executive",
+    "url": "https://jobs.ashbyhq.com/Gumloop/02a4e41c-ca1e-4dd7-88b6-d14fd8c8d401",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.237505"
+  },
+  "1c27dc3f3ebb5b00700c561c3dfa60af": {
+    "company": "Gumloop",
+    "title": "Founding Business Recruiter",
+    "url": "https://jobs.ashbyhq.com/Gumloop/8262267a-336a-4fce-9a5f-63779ec4164c",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.237538"
+  },
+  "133fca16aa3722e2a8e26e9aa1c2fb48": {
+    "company": "Gumloop",
+    "title": "Design Engineer",
+    "url": "https://jobs.ashbyhq.com/Gumloop/cdb897fd-bd89-4395-bbb0-d29a83c02357",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.237555"
+  },
+  "067b85a5963d7d7e79d285b23662dfd1": {
+    "company": "Gumloop",
+    "title": "Video Content Producer",
+    "url": "https://jobs.ashbyhq.com/Gumloop/f9723d22-f1b9-4155-90f6-d06daf61a60c",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.237565"
+  },
+  "cd638e1b11a3041dfa46f8901854ef21": {
+    "company": "Gumloop",
+    "title": "Solutions Engineer (Pre-Sales)",
+    "url": "https://jobs.ashbyhq.com/Gumloop/94b10dd5-8498-4339-8b23-01bed81b2fc2",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.237587"
+  },
+  "d56b8224f023d2516c63200b968fd342": {
+    "company": "Gumloop",
+    "title": "Founding Product Marketer",
+    "url": "https://jobs.ashbyhq.com/Gumloop/832a42ee-6898-49f6-84a3-e5df3820c7b5",
+    "location": "San Francisco Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.237611"
+  },
+  "2c8d16195e286e53696c19071467532d": {
+    "company": "Braintrust",
+    "title": "Software Engineer, Systems",
+    "url": "https://jobs.ashbyhq.com/Braintrust/8b9cfa26-627f-442c-a358-783b0e4ef930",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796737"
+  },
+  "68ba9eed09bbeefbde67933e442b776f": {
+    "company": "Braintrust",
+    "title": "Software Engineer, Product",
+    "url": "https://jobs.ashbyhq.com/Braintrust/7d0a5b62-a554-48f0-b2f7-8cbac0e98ae6",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796758"
+  },
+  "d1e46f95b80cbc40aacaa420a5e07caa": {
+    "company": "Braintrust",
+    "title": "Design Engineer",
+    "url": "https://jobs.ashbyhq.com/Braintrust/57487086-68ae-4c81-8c62-c6157c20e4ac",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796774"
+  },
+  "c5d7cba233606e354cfe7b46edcecf8a": {
+    "company": "Braintrust",
+    "title": "Software Engineer, SDK",
+    "url": "https://jobs.ashbyhq.com/Braintrust/2a6c4ee9-063f-45d4-83ba-faf64b1f1a60",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796803"
+  },
+  "21e60f3b3f3572276511397a1fc48878": {
+    "company": "Braintrust",
+    "title": "Technical Recruiter",
+    "url": "https://jobs.ashbyhq.com/Braintrust/f6b07ffd-a793-49df-8815-6230735f482a",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796816"
+  },
+  "a8aada742ec937d11c606f3f22006ad7": {
+    "company": "Braintrust",
+    "title": "Strategic Account Executive, EMEA",
+    "url": "https://jobs.ashbyhq.com/Braintrust/94d1dc5e-e62b-4294-b6fa-de025b1ed30a",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796827"
+  },
+  "500be1f77c642272f5b8f02ec60a671d": {
+    "company": "Braintrust",
+    "title": "Solutions Engineer (West Region)",
+    "url": "https://jobs.ashbyhq.com/Braintrust/8f7560d2-cfb1-4e3a-92d1-8e24b532d10c",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796838"
+  },
+  "ace10c11ed0fa73732aacdb3d926bca3": {
+    "company": "Braintrust",
+    "title": "Account Executive, Digital Natives (West Region)",
+    "url": "https://jobs.ashbyhq.com/Braintrust/c1233d75-570e-463e-ad94-c265c3d10be7",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796849"
+  },
+  "63a83b877b7733091d0377d39b1e8ac1": {
+    "company": "Braintrust",
+    "title": "Strategic Account Executive (East Region)",
+    "url": "https://jobs.ashbyhq.com/Braintrust/bc066755-93a0-4a87-a15c-342cbc4c9157",
+    "location": "New York City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796860"
+  },
+  "2c57ed527cb33f1328e3d86aa04f43d7": {
+    "company": "Braintrust",
+    "title": "Strategic Account Executive (Central Region)",
+    "url": "https://jobs.ashbyhq.com/Braintrust/c3face66-22e6-4cde-bf72-f88f0387b498",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796870"
+  },
+  "740b46d66f966713af45cce80a44c5f5": {
+    "company": "Braintrust",
+    "title": "Enterprise Account Executive (West Region)",
+    "url": "https://jobs.ashbyhq.com/Braintrust/2389a7b5-399e-479d-9da3-66e3d30e0a72",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796880"
+  },
+  "79b6e4be1d3588728d502edfa31c91d9": {
+    "company": "Braintrust",
+    "title": "Solutions Engineer (East Region)",
+    "url": "https://jobs.ashbyhq.com/Braintrust/e1bc9095-2460-4cf4-957f-ba076b6cb5ba",
+    "location": "New York City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796889"
+  },
+  "c9e398db4e22656c536bbdcd132eb050": {
+    "company": "Braintrust",
+    "title": "Software Engineer, Developer Experience",
+    "url": "https://jobs.ashbyhq.com/Braintrust/b4ea5780-8b8c-4969-a824-416a70de23c2",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796899"
+  },
+  "e6a6a5055a3e3ec8a1bd3b81df5ba60f": {
+    "company": "Braintrust",
+    "title": "Enterprise Account Executive (East Region)",
+    "url": "https://jobs.ashbyhq.com/Braintrust/7f372e5a-0870-4662-b5c6-7f76c1234fda",
+    "location": "New York City",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796908"
+  },
+  "a8fac0f03d04b08a133d0e5804c31721": {
+    "company": "Braintrust",
+    "title": "Strategic Account Executive (Central Region)",
+    "url": "https://jobs.ashbyhq.com/Braintrust/1eff314f-8261-484b-9ead-e44646d79003",
+    "location": "Austin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796915"
+  },
+  "fa8362546a8886e82df5f26b8d6b070e": {
+    "company": "Braintrust",
+    "title": "Strategic Account Executive (West Region)",
+    "url": "https://jobs.ashbyhq.com/Braintrust/19d791ab-1e90-4182-8a96-df697b8adf19",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796939"
+  },
+  "073183ba69e39eb08869c56266d3617a": {
+    "company": "Braintrust",
+    "title": "Founding Data Engineer",
+    "url": "https://jobs.ashbyhq.com/Braintrust/d1756ad8-be7c-4acd-961e-7e81e4f69024",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796948"
+  },
+  "1301c2f0279e42b24f8cde09e54202d2": {
+    "company": "Braintrust",
+    "title": "Detection and Response Engineer",
+    "url": "https://jobs.ashbyhq.com/Braintrust/e32cd249-c23d-4064-8f06-949f91a73a98",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796972"
+  },
+  "4b856b4ab9c1877874b0ae19f4f95bbe": {
+    "company": "Braintrust",
+    "title": "Sales Recruiter",
+    "url": "https://jobs.ashbyhq.com/Braintrust/9f2df135-af48-43f7-a5f7-46ca8841f1d9",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.796982"
+  },
+  "208d860541683d9e0fc748feb5a5669a": {
+    "company": "Braintrust",
+    "title": "Platform Support Engineer",
+    "url": "https://jobs.ashbyhq.com/Braintrust/15f6868c-4172-4568-b39f-d9047c092ca8",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.797002"
+  },
+  "9b4a94ec3e439caf05e8943b6c04cb40": {
+    "company": "Braintrust",
+    "title": "Enterprise Account Executive (Central Region)",
+    "url": "https://jobs.ashbyhq.com/Braintrust/7061d8aa-9a3b-41f3-9e9f-fc25364473d9",
+    "location": "Denver",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.797012"
+  },
+  "a384108908296b234d9d5aabb13f6877": {
+    "company": "Braintrust",
+    "title": "Sales Development Representative",
+    "url": "https://jobs.ashbyhq.com/Braintrust/d9a6212f-ccbf-4a25-8512-9d61be5c4ff8",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.797033"
+  },
+  "784797720c5118368311189314ab22df": {
+    "company": "Braintrust",
+    "title": "Software Engineer, Billing",
+    "url": "https://jobs.ashbyhq.com/Braintrust/525eda64-5ca0-46c5-bac2-ef8056d3f10c",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.797046"
+  },
+  "05759b276627e56d1911194b3a9d17d8": {
+    "company": "Braintrust",
+    "title": "Sales Development Representative",
+    "url": "https://jobs.ashbyhq.com/Braintrust/319c6491-53c1-46cf-868d-f3b4acba650c",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.797055"
+  },
+  "0c01786a31dc0e234920d769461628d1": {
+    "company": "Braintrust",
+    "title": "GTM Engineer",
+    "url": "https://jobs.ashbyhq.com/Braintrust/65e834aa-ef60-45de-aed6-bc0fe9066f09",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:00.797078"
+  },
+  "eb834615da91be4ab9aeedec08fe0f10": {
+    "company": "Cape",
+    "title": "Software Engineer, Product Platform",
+    "url": "https://jobs.ashbyhq.com/Cape/87e4fac9-9193-40d7-9b28-dbc73e55615c",
+    "location": "Hybrid: New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:04.356826"
+  },
+  "44df3588c6addb14b1582a55dadd0206": {
+    "company": "Cape",
+    "title": "Software Engineer, Infrastructure",
+    "url": "https://jobs.ashbyhq.com/Cape/4c39666a-92c9-40fa-9d63-fd591aaf64ff",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:04.356877"
+  },
+  "72dda6b3d41b86db95f04f81bad0d95c": {
+    "company": "Cape",
+    "title": "Full Stack Software Engineer",
+    "url": "https://jobs.ashbyhq.com/Cape/991713f3-ea5b-4887-8d94-41df776a1a6f",
+    "location": "Hybrid: New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:04.356891"
+  },
+  "9ed00a3920ef2cf02dba52df8912b3db": {
+    "company": "Cape",
+    "title": "Security Engineer, Product Security",
+    "url": "https://jobs.ashbyhq.com/Cape/6311bc82-157b-48f5-9b05-a4bf6c2d0b3f",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:04.356904"
+  },
+  "d7d69d3482975e944db562b1381a9d34": {
+    "company": "Cape",
+    "title": "Forward Deployed Engineer, East Asia",
+    "url": "https://jobs.ashbyhq.com/Cape/cc18572e-fa2f-46cb-94e9-fcac492314f8",
+    "location": "East Asia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:04.356916"
+  },
+  "d17dd0e76da6f56940b4de4c19edefb0": {
+    "company": "Cape",
+    "title": "Forward Deployed Engineer, Federal",
+    "url": "https://jobs.ashbyhq.com/Cape/8ea483bd-4753-45e3-933f-075412844a02",
+    "location": "Hybrid: Arlington, VA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:04.356928"
+  },
+  "e99f5e90b288bb00e8a85ef90d337bde": {
+    "company": "Cape",
+    "title": "Software Engineer, Developer Experience",
+    "url": "https://jobs.ashbyhq.com/Cape/13f3921d-ace0-40e4-9b82-e00630878197",
+    "location": "Hybrid: New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:04.356942"
+  },
+  "c09853f2f0a0b630615dd42dc607e786": {
+    "company": "Cape",
+    "title": "Security Engineer, Corporate Security",
+    "url": "https://jobs.ashbyhq.com/Cape/4b53c96d-e950-494f-a03e-f377728df5e7",
+    "location": "Hybrid, DC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:04.356964"
+  },
+  "71928d7a8f7390d9a6cb5e0618bc693c": {
+    "company": "Cape",
+    "title": "Operations Analyst, Federal",
+    "url": "https://jobs.ashbyhq.com/Cape/ee8d11cd-da7c-4ec7-b88b-66eead1b2126",
+    "location": "Hybrid: Arlington, VA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:04.356986"
+  },
+  "9f72870149ac430e41fe057d880d9100": {
+    "company": "Cape",
+    "title": "Controller",
+    "url": "https://jobs.ashbyhq.com/Cape/f946d305-9e2d-40de-8f70-637258c5e33d",
+    "location": "Hybrid: New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:04.357057"
+  },
+  "731bef54652097b1955d6b047b6b52f6": {
+    "company": "Cape",
+    "title": "Operations Analyst, Consumer",
+    "url": "https://jobs.ashbyhq.com/Cape/ba0cdd14-ad58-4b90-b036-d6d4d77f125e",
+    "location": "Hybrid: New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:04.357069"
+  },
+  "1620375ac7122e7a0e6134a03421662c": {
+    "company": "Cape",
+    "title": "GRC Engineer",
+    "url": "https://jobs.ashbyhq.com/Cape/f52e2052-3e6d-4af8-901a-b8d0069d31af",
+    "location": "Hybrid, DC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:04.357081"
+  },
+  "056646a07847c894dd29fd2887d83b3f": {
+    "company": "Northwood Space",
+    "title": "Electrical Engineer (Prism)",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/6067bc0c-7af3-4bbe-8858-4457c3c6fbd9",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:08.861427"
+  },
+  "f3a7f6410ffd9b883aa26bfb1a3062ae": {
+    "company": "Jump",
+    "title": "Join the Jump Product & Design Talent Pool ",
+    "url": "https://jobs.ashbyhq.com/Jump/238256c7-fad7-4398-a374-e8e15fbdee2c",
+    "location": "Remote (US)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:13.982495"
+  },
+  "cc1559e5d1d1e051dde00eb0a0c4d5b3": {
+    "company": "Jump",
+    "title": "Join the Jump Engineering Talent Pool",
+    "url": "https://jobs.ashbyhq.com/Jump/14ecc338-cdf8-45cf-9b29-199f6a3a79c7",
+    "location": "Remote (US)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:13.982515"
+  },
+  "457d84ba0357830687a005edfc8d2cb5": {
+    "company": "Jump",
+    "title": "Join the Jump Go-To-Market Talent Pool",
+    "url": "https://jobs.ashbyhq.com/Jump/289e3989-4e69-4a49-8f0e-22450b96733b",
+    "location": "Remote (US)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:13.982533"
+  },
+  "f0b6d9fab894ad9088e34d8ab8b81498": {
+    "company": "Profound",
+    "title": "GTM Operations Business Partner",
+    "url": "https://jobs.ashbyhq.com/Profound/467e6bb9-7343-47ec-8cd7-b43137e6541b",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120364"
+  },
+  "074bc42ee9af3a930f5c6a89570c4cbd": {
+    "company": "Profound",
+    "title": "Enterprise Account Executive ",
+    "url": "https://jobs.ashbyhq.com/Profound/9e241b8d-3f96-42ef-b24c-21157f4bf28a",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120395"
+  },
+  "148bc3a8538c0cfe332d987a3f5c85cb": {
+    "company": "Profound",
+    "title": "GTM Engineer, Pre-Sales",
+    "url": "https://jobs.ashbyhq.com/Profound/eb407179-297d-4cd8-8e85-0b9bb8ab53d9",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120424"
+  },
+  "c0cd24e2e2840b763afd7e163d448486": {
+    "company": "Profound",
+    "title": "Technical Recruiter",
+    "url": "https://jobs.ashbyhq.com/Profound/be45dd0d-883e-44fa-99c8-c344985b162b",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120452"
+  },
+  "984d4a341128dc2706cc63b3cddfdfd1": {
+    "company": "Profound",
+    "title": "GTM Recruiter",
+    "url": "https://jobs.ashbyhq.com/Profound/10f951f8-a495-428c-847a-eede0ff61474",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120480"
+  },
+  "4d3e9a5de257530f2f4555c9b05b75d5": {
+    "company": "Profound",
+    "title": "Agency Account Executive ",
+    "url": "https://jobs.ashbyhq.com/Profound/0cdce451-6430-429f-8745-7450a045fab5",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120525"
+  },
+  "e8e611cb4f03474d85913291a6738eec": {
+    "company": "Profound",
+    "title": "Strategic Operations",
+    "url": "https://jobs.ashbyhq.com/Profound/2182bd69-27bd-424f-b297-fe87b2ea9f50",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120537"
+  },
+  "bb625f6b2c733eca25f00e2e7eb8fa8d": {
+    "company": "Profound",
+    "title": "Technical Operations Engineer",
+    "url": "https://jobs.ashbyhq.com/Profound/8dc1abbf-3090-41ad-9670-5fe5dbd0cc51",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120557"
+  },
+  "49a2ff383db20302e3a6bf8b10349b8c": {
+    "company": "Profound",
+    "title": "GTM Strategy & Operations",
+    "url": "https://jobs.ashbyhq.com/Profound/3dac5de6-fa35-451f-885a-d564c28be42c",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120593"
+  },
+  "3c95dfc9921c0130d9b5a81d53baaeb3": {
+    "company": "Profound",
+    "title": "Solutions Consultant",
+    "url": "https://jobs.ashbyhq.com/Profound/c43192f0-1d55-4d18-9acf-73726bfcc522",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120605"
+  },
+  "d50d8331d68ae7cf9ae4acf0459b392e": {
+    "company": "Profound",
+    "title": "Field Marketer",
+    "url": "https://jobs.ashbyhq.com/Profound/079509c1-a67c-48ce-b886-43f74368b913",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120624"
+  },
+  "de7453c525ed49785003db97b77f7b48": {
+    "company": "Profound",
+    "title": "Mid-Market Account Executive",
+    "url": "https://jobs.ashbyhq.com/Profound/d9b85406-5cad-4df2-9347-2b971e474137",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120644"
+  },
+  "8ee82f5700c01ea1143e95754c33b72c": {
+    "company": "Profound",
+    "title": "Agent Engineer",
+    "url": "https://jobs.ashbyhq.com/Profound/1ae0c52c-e5ea-474c-860a-4f9b19dc676b",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120663"
+  },
+  "14a96d6308867768f096f32b63eb9e20": {
+    "company": "Profound",
+    "title": "Strategic Finance & Operations",
+    "url": "https://jobs.ashbyhq.com/Profound/b2deecb1-38e0-477e-8628-2241f2bf2718",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120700"
+  },
+  "40990444d121bd85b46fdc479352d7c3": {
+    "company": "Profound",
+    "title": "Marketing Engineer",
+    "url": "https://jobs.ashbyhq.com/Profound/94e80337-e541-4668-ad6d-eb7d25f50e92",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120737"
+  },
+  "6eae39929c3dcca66cff6744578989a5": {
+    "company": "Profound",
+    "title": "Value Consultant",
+    "url": "https://jobs.ashbyhq.com/Profound/138c27bb-5da1-431f-a6a0-248f4c89e5fb",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120752"
+  },
+  "340d319743045ed803ceec5e4733e10d": {
+    "company": "Profound",
+    "title": "GTM Engineer, Post-Sales",
+    "url": "https://jobs.ashbyhq.com/Profound/89ac0747-8523-479e-bbdb-031b9b5fd4a5",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120764"
+  },
+  "a5f7ee939eb408b1a8ae4312d7a52287": {
+    "company": "Profound",
+    "title": "Talent Engineer",
+    "url": "https://jobs.ashbyhq.com/Profound/d36f6229-0ab5-495d-86c5-c7458d2f1931",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120776"
+  },
+  "a505c89fba0050ae470966cc4b58d680": {
+    "company": "Profound",
+    "title": "Enterprise Account Executive",
+    "url": "https://jobs.ashbyhq.com/Profound/4c70f7cb-1a77-4f8f-b59c-afe19cc58ff5",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120812"
+  },
+  "f20d44ebf012875f33d02abb7dbcdf54": {
+    "company": "Profound",
+    "title": "VP, Strategic Partnerships",
+    "url": "https://jobs.ashbyhq.com/Profound/816c2ab6-7398-4cd8-b1b5-695d4673b476",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120840"
+  },
+  "a50c04110353fe33bfa27c2593731640": {
+    "company": "Profound",
+    "title": "Marketing Operations",
+    "url": "https://jobs.ashbyhq.com/Profound/6d337d28-4d71-4396-b63e-0514edb76d37",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120863"
+  },
+  "a933857fb7dd77824ed3740f80acdf61": {
+    "company": "Profound",
+    "title": "Brand Designer",
+    "url": "https://jobs.ashbyhq.com/Profound/b87295ec-7d64-4ab5-8a57-052f349099fc",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120883"
+  },
+  "fe09209ec196ce3e96e1579c85a986f3": {
+    "company": "Profound",
+    "title": "Information Security Analyst",
+    "url": "https://jobs.ashbyhq.com/Profound/86863e6b-05d1-4c82-b37b-a5cab68e5d75",
+    "location": "Buenos Aires, Argentina",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120894"
+  },
+  "552d0ce8cf9bd5d208942e7209dba6fa": {
+    "company": "Profound",
+    "title": "GTM Associate ",
+    "url": "https://jobs.ashbyhq.com/Profound/296d21bb-8c7a-451d-b745-46d0c850afbc",
+    "location": "New York, New York",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-06T21:52:15.120943"
+  },
+  "0ea93023d1e9b2c9b1ca4342ec5a952a": {
+    "company": "Profound",
+    "title": "People Partner, GTM",
+    "url": "https://jobs.ashbyhq.com/Profound/f86141ec-6248-4ec9-b29a-181f492c06da",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.120963"
+  },
+  "4c2aedd068d34c02ec41ddeaa7763506": {
+    "company": "Profound",
+    "title": "Support Engineer",
+    "url": "https://jobs.ashbyhq.com/Profound/66ff240e-3133-4020-9b2e-ece06a3a94b1",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.121016"
+  },
+  "afe2945213ef6db80b77d4d84d11ae6a": {
+    "company": "Profound",
+    "title": "Marketing Engineer, Demand Generation",
+    "url": "https://jobs.ashbyhq.com/Profound/252d1638-c34b-4886-872a-a04093cf9616",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.121076"
+  },
+  "4fc9dbb84a290488121e54f1c05db7a7": {
+    "company": "Profound",
+    "title": "Forward Deployed Marketing Engineer",
+    "url": "https://jobs.ashbyhq.com/Profound/0621c0d3-d4b2-41dd-8eaa-eeb5197d7ec8",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.121104"
+  },
+  "ea54cac29215283b8695d879713a96e3": {
+    "company": "Profound",
+    "title": "Event Marketer",
+    "url": "https://jobs.ashbyhq.com/Profound/ddf43e3a-48c9-4eb5-abfa-834730b498c7",
+    "location": "London, England",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.121140"
+  },
+  "1ca824806f38fecd42a0a1f2f07b907c": {
+    "company": "Profound",
+    "title": "G&A Recruiter",
+    "url": "https://jobs.ashbyhq.com/Profound/47aff786-3738-4705-8c3f-96009bf86e5e",
+    "location": "New York, New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:15.121172"
+  },
+  "68d20148b10b008a3567831534b869d7": {
+    "company": "Profound",
+    "title": "Strategic Partnerships Associate",
+    "url": "https://jobs.ashbyhq.com/Profound/fe66d0f7-9bc5-4d90-8b60-e3310f69ccbe",
+    "location": "New York, New York",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-06T21:52:15.121238"
+  },
+  "a6828bb333dffe20a65b32d2320db367": {
+    "company": "Juicebox",
+    "title": "Account Executive",
+    "url": "https://jobs.ashbyhq.com/Juicebox/700a1a47-8f7b-4a69-b25e-0b1f85805c6f",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.980958"
+  },
+  "83f5b049ae54e9b2c26c9dbce6387eb7": {
+    "company": "Juicebox",
+    "title": "Software Engineer",
+    "url": "https://jobs.ashbyhq.com/Juicebox/d6835260-53c4-467d-82f8-4cbedc154765",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.980974"
+  },
+  "8bc2384998156569be7a0c10e12543e6": {
+    "company": "Juicebox",
+    "title": "Enterprise Account Executive",
+    "url": "https://jobs.ashbyhq.com/Juicebox/1c7fba00-316d-4689-9b45-bf551d15127e",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.980994"
+  },
+  "3607ce7b603ff33e0a85aacdf2e82d02": {
+    "company": "Juicebox",
+    "title": "Sales Development Representative",
+    "url": "https://jobs.ashbyhq.com/Juicebox/87f4bd6a-2433-426d-8390-a5561de4a5b6",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.981002"
+  },
+  "3614c14f652c85f3cd983722be2e1f2e": {
+    "company": "Juicebox",
+    "title": "Account Executive",
+    "url": "https://jobs.ashbyhq.com/Juicebox/80d8c129-7121-4d33-bfef-8bace22ac7ba",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.981019"
+  },
+  "77fcfbbbe0cc5273a336e98ff1ed9126": {
+    "company": "Juicebox",
+    "title": "Security Engineer",
+    "url": "https://jobs.ashbyhq.com/Juicebox/ad92e89b-d908-4b6a-ac1e-7c3ce81a2f71",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.981031"
+  },
+  "c6da0130066ede7b213460d5662dbe2d": {
+    "company": "Juicebox",
+    "title": "Growth ",
+    "url": "https://jobs.ashbyhq.com/Juicebox/967aa5e5-ac73-4aaa-9f6e-938ea5cbb75b",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.981076"
+  },
+  "eb60ffe215c4c6d71b152e08fc25dc1a": {
+    "company": "Juicebox",
+    "title": "Product Specialist",
+    "url": "https://jobs.ashbyhq.com/Juicebox/43694e73-8f15-4343-8dd4-5b0b2ee0a2ac",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.981085"
+  },
+  "bd7635817bf9115317dc4596aaa42c5d": {
+    "company": "Juicebox",
+    "title": "GTM Strategy & Operations",
+    "url": "https://jobs.ashbyhq.com/Juicebox/9dacd2f8-2a67-419f-88dd-d01dd2e8d1a6",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.981094"
+  },
+  "efa7102ebec3174ceafbfec27d656225": {
+    "company": "Juicebox",
+    "title": "Sales Development Representative ",
+    "url": "https://jobs.ashbyhq.com/Juicebox/9d7111d6-a010-424e-b5b6-c4bf154576d9",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.981103"
+  },
+  "66758a604be95b1b44960d18410e0cd6": {
+    "company": "Juicebox",
+    "title": "Executive Assistant, CEO",
+    "url": "https://jobs.ashbyhq.com/Juicebox/c06adae1-54ca-46c6-876c-9b98f873f5e6",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.981120"
+  },
+  "ecb50f4943d1ae17e051f857c77e3cd1": {
+    "company": "Juicebox",
+    "title": "Product Specialist",
+    "url": "https://jobs.ashbyhq.com/Juicebox/177bdc34-4dad-4e1d-beb9-369f3659b7d0",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.981128"
+  },
+  "3614cb16eaacb072b0f4db95c79f0a28": {
+    "company": "Juicebox",
+    "title": "Enterprise Account Executive",
+    "url": "https://jobs.ashbyhq.com/Juicebox/5301a799-59ce-48c6-975f-1c3888d98ebe",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.981136"
+  },
+  "a9b31c399061e6c07a3403faf1b0741a": {
+    "company": "Juicebox",
+    "title": "GTM Recruiter",
+    "url": "https://jobs.ashbyhq.com/Juicebox/7674583d-e1f5-4cff-a393-1f5c4fd83bef",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.981162"
+  },
+  "ff99c07878177b14c20958c47d6f7023": {
+    "company": "Juicebox",
+    "title": "Product Operations",
+    "url": "https://jobs.ashbyhq.com/Juicebox/3768f2bb-d808-4980-8528-e72fade11e5d",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:21.981206"
+  },
+  "ed0e8141816a7cfb68b711d3b10d1f89": {
+    "company": "Isembard",
+    "title": "Stage \u2013 Ing\u00e9nieur(e) Production & Industrialisation",
+    "url": "https://jobs.ashbyhq.com/isembard/80a1d348-e691-40eb-bd93-944ad48e7b88",
+    "location": "Wissous",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:23.662321"
+  },
+  "82405b4399659180a0078ff3b3d38fae": {
+    "company": "Databricks",
+    "title": "Emerging Enterprise Account Executive, France",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8908544002",
+    "location": "Paris, France",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:26.532398"
+  },
+  "0882d42970751b1dea94b2085d36a129": {
+    "company": "Dialpad",
+    "title": "Sales Development Representative",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8931999002",
+    "location": "Tempe, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:30.886514"
+  },
+  "3a9925f2758eda3ebbafd4492fa583d8": {
+    "company": "Tanium",
+    "title": "Applied AI Engineer II",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8335147",
+    "location": "Addison, TX (Hybrid); Durham, NC (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:33.691103"
+  },
+  "f86e8c25c2f3d7b009a5ae519924bebe": {
+    "company": "Tanium",
+    "title": "Software Engineer II, AI Security",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8359784",
+    "location": "Durham, NC (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:33.691746"
+  },
+  "0cc9f68eb8defe875140f0670ab2ca8c": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8280264",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:42.446473"
+  },
+  "f90ee8cc018170c03f6834f6821887b3": {
+    "company": "Stripe",
+    "title": "Backend Engineer, Internationalisation",
+    "url": "https://stripe.com/jobs/search?gh_jid=8353516",
+    "location": "Barcelona",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-06T21:52:42.446980"
+  },
+  "d0e0c846f9fe09c858d431bbb3d135aa": {
+    "company": "Stripe",
+    "title": "Controllership Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8357739",
+    "location": "Seattle, WA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-06T21:52:42.447239"
+  },
+  "8e327b855a17253882444ceacd476016": {
+    "company": "Stripe",
+    "title": "OpenRouter Product Accounting ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8348327",
+    "location": "Seattle, San Francisco, New York, Chicago ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:42.449564"
+  },
+  "758b05df0a56fa3d69155fe91e07e0ce": {
+    "company": "Gusto",
+    "title": "HR Consultant, Ask An Expert",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8350346",
+    "location": "Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:43.148051"
+  },
+  "1d2b0697e9d174e7247e418a45f55c62": {
+    "company": "Gusto",
+    "title": "Security Operations Analyst",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8348189",
+    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-06T21:52:43.148283"
   }
 }
