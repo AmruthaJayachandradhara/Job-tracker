@@ -53981,5 +53981,21 @@
     "location": "Remote Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-07T01:26:59.238362"
+  },
+  "0648b708751932366c0e529ac200efc4": {
+    "company": "Northwood Space",
+    "title": "Electrical Engineer (New Grad)",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/ca73b132-2264-4649-ad83-73ea3e69fe5d",
+    "location": "Torrance, CA",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-11-07T07:59:18.948112"
+  },
+  "ab362f45faa55398f471d56e4e9741a8": {
+    "company": "Databricks",
+    "title": "Tech Sourcer (Contract)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811059002",
+    "location": "Bengaluru, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-07T07:59:36.757598"
   }
 }
