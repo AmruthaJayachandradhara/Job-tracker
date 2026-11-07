@@ -53917,5 +53917,69 @@
     "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-06T21:52:43.148283"
+  },
+  "d90a1347819761def8db2030b00de82f": {
+    "company": "GitLab",
+    "title": "Customer Success LATAM",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931337002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-07T01:26:50.061528"
+  },
+  "e79f401164862ba803ab080215d1eaae": {
+    "company": "GitLab",
+    "title": "Executive Assistant, Office of the CFO",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928552002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-07T01:26:50.061746"
+  },
+  "60653f48961894a718d8e4007503449a": {
+    "company": "Tanium",
+    "title": "Executive Protection Agent",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7906152",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-07T01:26:51.351794"
+  },
+  "9b4cfb2575909f03889097be911cc57d": {
+    "company": "Tanium",
+    "title": "Executive Protection Agent",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/7906153",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-07T01:26:51.351817"
+  },
+  "06990e6ed5ff96f687ae692f320f179d": {
+    "company": "Tanium",
+    "title": "Executive Protection Agent",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/4776701",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-07T01:26:51.351834"
+  },
+  "0edfc91a647d924ebc77d630097b06e6": {
+    "company": "Coinbase",
+    "title": "Inbound Specialist II, Premium & Wealth",
+    "url": "https://www.coinbase.com/careers/positions/8348533?gh_jid=8348533",
+    "location": "Remote - Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-07T01:26:56.447666"
+  },
+  "5dfc9345bcad586caf22cf3e20c0cde8": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8196112003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-07T01:26:59.238338"
+  },
+  "82d3a273a5619a535f07145ef9ef8845": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8196114003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-07T01:26:59.238362"
   }
 }
