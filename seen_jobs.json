@@ -54005,5 +54005,13 @@
     "location": "Toronto, Canada ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-07T19:12:11.516593"
+  },
+  "d09ad081a3f92ed301e1c364fdbce389": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB",
+    "url": "https://stripe.com/jobs/search?gh_jid=8322584",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-08T16:51:31.640630"
   }
 }
