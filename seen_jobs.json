@@ -54045,5 +54045,85 @@
     "location": "Remote, Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-09T07:26:02.713244"
+  },
+  "bba722c6fb42cd6f2a13877289b22b8f": {
+    "company": "Databricks",
+    "title": "Geo Core Account Executive-FINS",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8932854002",
+    "location": "Remote - New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-09T17:58:29.760042"
+  },
+  "11cd664cdf16d4d065a5c12f58563c73": {
+    "company": "Databricks",
+    "title": "Lakebase Sales Specialist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569533002",
+    "location": "Stockholm, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-09T17:58:29.760260"
+  },
+  "b250fa6c53051ec08cd6444c9768f01a": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive-Manufacturing ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8925470002",
+    "location": "Houston, Texas; Oklahoma",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-09T17:58:29.760855"
+  },
+  "97d425b2802d9f81810b2d20743566c3": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8929498002",
+    "location": "Los Angeles, California; San Francisco, California; United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-09T17:58:29.766792"
+  },
+  "b60520352105599efd1f85df4a267edf": {
+    "company": "Fivetran",
+    "title": "UKI Enterprise Sales AE",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8034213003",
+    "location": "Remote, United Kingdom, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-09T17:58:32.615417"
+  },
+  "b76e76da55647fbbaa49ee2e4973e40d": {
+    "company": "GitLab",
+    "title": "Business Development Representative, Financial Services ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8932246002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-09T17:58:36.159219"
+  },
+  "7fd02583610c5ef6a268bd56de4bfce0": {
+    "company": "Coinbase",
+    "title": "Software Engineer, Wallets, Liquidity and Bridging Team",
+    "url": "https://www.coinbase.com/careers/positions/8139750?gh_jid=8139750",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-09T17:58:42.884613"
+  },
+  "8633b12293e2ed543be0c2ad29ac5f7a": {
+    "company": "Stripe",
+    "title": "Crypto S&O ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8348469",
+    "location": "LOCATION",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-09T17:58:47.040860"
+  },
+  "c8b57373fcfd5c958b57730835a35332": {
+    "company": "Stripe",
+    "title": "Education Partnerships Coordinator",
+    "url": "https://stripe.com/jobs/search?gh_jid=8357049",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-09T17:58:47.041217"
+  },
+  "436db4a7b9169625534761533f97be94": {
+    "company": "Stripe",
+    "title": "Sales Development Representative   ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8048266",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-09T17:58:47.044493"
   }
 }
