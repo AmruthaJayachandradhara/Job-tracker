@@ -54013,5 +54013,29 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-08T16:51:31.640630"
+  },
+  "5d85508fa4b77cbdf12ab5b807a80176": {
+    "company": "Encord",
+    "title": "Growth Associate",
+    "url": "https://jobs.ashbyhq.com/encord/554d188d-47fa-4701-8041-21cc1975a7a4",
+    "location": "New York",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-09T00:18:31.373326"
+  },
+  "f5b0afb01ebb5a8169bb9bd49de6d146": {
+    "company": "Encord",
+    "title": "Growth Associate",
+    "url": "https://jobs.ashbyhq.com/encord/a7e7bb91-e0e3-4a37-8496-f048b06818fe",
+    "location": "London",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-09T00:18:31.373365"
+  },
+  "7e9bc17c4f6cbb0405fe16ec13bd88ba": {
+    "company": "Encord",
+    "title": "Growth Associate",
+    "url": "https://jobs.ashbyhq.com/encord/f8546880-80e4-4ddd-a9b4-042c2eaad568",
+    "location": "San Francisco",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-09T00:18:31.373386"
   }
 }
