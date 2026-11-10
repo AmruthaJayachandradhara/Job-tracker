@@ -54245,5 +54245,37 @@
     "location": "Bengaluru",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-11-10T08:57:45.052075"
+  },
+  "b0c78047a9fb6a4e61b1d400ea72e45e": {
+    "company": "Databricks",
+    "title": "Enterprise Hunter Account Executive, Nordics",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8855879002",
+    "location": "Stockholm, Sweden",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T16:44:35.144388"
+  },
+  "37c309dca1bcac54cf0003f7d81c2736": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive - Telco ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931264002",
+    "location": "Remote - Washington",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T16:44:35.150349"
+  },
+  "9ac34d87e64d5d6b421795c8ecf4269a": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Fullstack (Contact Channels)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8042371003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T16:44:50.220345"
+  },
+  "8ca88b9c6cf9d0ab2950f9ab2ba87cf7": {
+    "company": "Stripe",
+    "title": "Machine Learning Engineer, Transaction Risk",
+    "url": "https://stripe.com/jobs/search?gh_jid=8187574",
+    "location": "Seattle",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T16:44:51.293074"
   }
 }
