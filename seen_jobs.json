@@ -54125,5 +54125,109 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-09T17:58:47.044493"
+  },
+  "17ab12fa0ce1fffcf2f7405add8ba6f4": {
+    "company": "Braintrust",
+    "title": "Commercial Account Executive (West Region)",
+    "url": "https://jobs.ashbyhq.com/Braintrust/d0ba915c-85c4-4ac5-bedf-7dd7459ec14d",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T01:10:16.328104"
+  },
+  "2432e8319961ed14de5f88e284af5881": {
+    "company": "Braintrust",
+    "title": "Solutions Engineer (Central Region)",
+    "url": "https://jobs.ashbyhq.com/Braintrust/0a099dbd-0972-426c-ba10-fc280135de43",
+    "location": "Austin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T01:10:16.328241"
+  },
+  "15a95acee7cb13d8777bad7441a69a8b": {
+    "company": "Northwood Space",
+    "title": "Software Engineer (Portal)",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/707d464d-a114-4721-95fd-a00398e04404",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T01:10:24.631639"
+  },
+  "890aa47b772e6772bf4d325235d0706c": {
+    "company": "GitLab",
+    "title": "Business Development Representative, SLED - West",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8932282002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T01:10:48.600903"
+  },
+  "d25559c1e025a3954444154b3ec3f0d1": {
+    "company": "GitLab",
+    "title": "Business Development Representative - West",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8932248002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T01:10:48.600930"
+  },
+  "28f11deb88f42ca5881f77ea512c970f": {
+    "company": "GitLab",
+    "title": "Professional Services Engineer - KSA",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928253002",
+    "location": "Remote, KSA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T01:10:48.601466"
+  },
+  "8e572743a8134fee4e19677ee729f0e0": {
+    "company": "Replit",
+    "title": "SOC Engineer",
+    "url": "https://jobs.ashbyhq.com/replit/563751ea-cb0b-412e-ae07-c5638b87f81a",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T01:10:49.174857"
+  },
+  "a3e544a7b1f0f3af8aed4dbb614a8c3e": {
+    "company": "Coinbase",
+    "title": "Software Engineer-1",
+    "url": "https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T01:10:54.865834"
+  },
+  "899447df517d836a6d094af3b18f0540": {
+    "company": "Mercury",
+    "title": "Payroll Operations Specialist",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6240021004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T01:10:55.547421"
+  },
+  "486815e8e454f95229b530f8fbd392fd": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB, Benelux (English speaking)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8322584",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T01:10:58.757835"
+  },
+  "d1bde5724b5b2de6942954120c20e776": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8287918",
+    "location": "Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T01:10:58.757922"
+  },
+  "c286cf45c114d074dc0b9621e6aa9081": {
+    "company": "Stripe",
+    "title": "People Partner, Go To Market",
+    "url": "https://stripe.com/jobs/search?gh_jid=8248092",
+    "location": "San Francisco, Seattle or NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T01:10:58.761456"
+  },
+  "6e97b8637c9c9215b69fef5ade19496e": {
+    "company": "Gusto",
+    "title": "Software Engineer,  Financial Data & Payments",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8360497",
+    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T01:10:59.462744"
   }
 }
