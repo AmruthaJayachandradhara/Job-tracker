@@ -54229,5 +54229,21 @@
     "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-10T01:10:59.462744"
+  },
+  "2608d5b34530ad96fbe023bf48f12876": {
+    "company": "Stripe",
+    "title": "Fraud Operations Associate ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8066310",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-10T08:57:45.052043"
+  },
+  "af4ee60c0864f38c71160f8c102bce42": {
+    "company": "Stripe",
+    "title": "Fraud Operations Associate SDC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8158943",
+    "location": "Bengaluru",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-10T08:57:45.052075"
   }
 }
