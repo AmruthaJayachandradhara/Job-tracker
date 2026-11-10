@@ -54277,5 +54277,69 @@
     "location": "Seattle",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-10T16:44:51.293074"
+  },
+  "c85510299638fb6f6bcf3411e37b0a89": {
+    "company": "Northwood Space",
+    "title": "Electrical Engineer (Portal) - New Grad",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/ca73b132-2264-4649-ad83-73ea3e69fe5d",
+    "location": "Torrance, CA",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-11-10T22:01:57.718047"
+  },
+  "5bea8265c23310a83d9768df64c422b2": {
+    "company": "Northwood Space",
+    "title": "Lifecycle Electrical Engineer (Prism) - New Grad",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/ca559bda-f67e-4bbd-a9d8-4737b5fe02e0",
+    "location": "Torrance, CA",
+    "filter_reason": "title match: 'new grad'",
+    "first_seen": "2026-11-10T22:01:57.718347"
+  },
+  "ba6f5d63c93bd8274c106b76e57665e0": {
+    "company": "Coinbase",
+    "title": "Embedded Engineer [Office of the CTO]",
+    "url": "https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T22:02:28.819361"
+  },
+  "088ab4f2c24f9c918e2ac0b4e4e8bcd0": {
+    "company": "Coinbase",
+    "title": "Software Engineer-1, Money Movement ",
+    "url": "https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T22:02:28.820693"
+  },
+  "cd03d51d870d1429dcf45839c172d8a9": {
+    "company": "Stripe",
+    "title": "Account Executive, Scaled Hunter \u2013 Startup SaaS Platforms (ROE)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8319461",
+    "location": "Dublin ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T22:02:32.711704"
+  },
+  "311b9d9fb0d11071441fbae8c8875fc2": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8354752",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T22:02:32.711960"
+  },
+  "9fceb858c4ede33502811634868f6a4b": {
+    "company": "Gusto",
+    "title": "Future Opportunities: Franchise Sales",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8373808",
+    "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T22:02:33.398030"
+  },
+  "2787869116b895d8cb4f165335024cba": {
+    "company": "Gusto",
+    "title": "Future Opportunities: Partner Sales (CPA & Accounting Firm Experience)",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7773805",
+    "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid; Toronto, Ontario - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-10T22:02:33.398052"
   }
 }
