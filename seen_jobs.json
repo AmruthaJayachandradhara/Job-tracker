@@ -54373,5 +54373,29 @@
     "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-11T02:23:21.773139"
+  },
+  "7294afcf901a537d627e98c564878a17": {
+    "company": "GitLab",
+    "title": "Threat Research Engineer, Security Factory: Threat Research",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891698002",
+    "location": "Remote, Israel; Remote, Poland; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-11T10:00:31.855918"
+  },
+  "c7217372b97056f0ce21fb347d2a283e": {
+    "company": "Coinbase",
+    "title": "Strategic Sourcing Intern",
+    "url": "https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084",
+    "location": "Hybrid - New York, NY",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-11T10:00:38.453549"
+  },
+  "90ffee3887ba415f7e358b7088c831d0": {
+    "company": "Stripe",
+    "title": "Account Executive, Commercial & SMB (India)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8352489",
+    "location": "Bangalore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-11T10:00:42.699182"
   }
 }
