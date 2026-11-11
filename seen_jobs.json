@@ -54589,5 +54589,69 @@
     "location": "US / Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-11T17:46:16.298533"
+  },
+  "890e76332e85bbfb1e97f73be3640fad": {
+    "company": "Isembard",
+    "title": "Factory Advisor",
+    "url": "https://jobs.ashbyhq.com/isembard/b2b30fb0-2ebc-405b-b10a-98ba83d06f5b",
+    "location": "Dallas, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-11T23:51:09.923308"
+  },
+  "c91216ff1b4b3666e13e0c6f95e40dc3": {
+    "company": "Isembard",
+    "title": "Forward Deployed Engineer",
+    "url": "https://jobs.ashbyhq.com/isembard/f92c3094-2d12-4d4e-ac9f-2936596813e4",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-11T23:51:09.923333"
+  },
+  "9ec405caadbfec2af8b067fba47a835f": {
+    "company": "Isembard",
+    "title": "Forward Deployed Engineer (m/w/d)",
+    "url": "https://jobs.ashbyhq.com/isembard/bff8422b-d115-456e-b2d4-f858cf560bb0",
+    "location": "Hamburg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-11T23:51:09.923344"
+  },
+  "feca04a373aad522d7e37bf7911f6a7c": {
+    "company": "Isembard",
+    "title": "Forward Deployed Engineer",
+    "url": "https://jobs.ashbyhq.com/isembard/0cf2da8f-21c5-4b4c-acdc-f0a38088be1d",
+    "location": "Wissous",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-11T23:51:09.923352"
+  },
+  "bac00965492b4a1c9ee94298d1912d26": {
+    "company": "Stripe",
+    "title": "Credit Operations Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8354560",
+    "location": "Chicago, IL; Atlanta, GA; Toronto, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-11T23:51:29.976507"
+  },
+  "bb530b57465743f646d0d8e2fd8f5eaf": {
+    "company": "Stripe",
+    "title": "Equity and Reporting Accounting",
+    "url": "https://stripe.com/jobs/search?gh_jid=8240148",
+    "location": "San Francisco, Seattle ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-11T23:51:29.977360"
+  },
+  "d96a05388399049fb511ec39c2a21de7": {
+    "company": "Stripe",
+    "title": "Software Engineer, Intern (Summer)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+    "location": "Toronto",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-11T23:51:29.980948"
+  },
+  "acf3cbe7914fb4e747cdbd4a1367ea3c": {
+    "company": "Stripe",
+    "title": "Software Engineer, Intern (Summer)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+    "location": "San Francisco, Seattle, New York City",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-11T23:51:29.980958"
   }
 }
