@@ -54341,5 +54341,37 @@
     "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid; Toronto, Ontario - Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-10T22:02:33.398052"
+  },
+  "e01351bb3ba9c648e8803890311de157": {
+    "company": "Databricks",
+    "title": "GTM Recruiter",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937106002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-11T02:23:04.831370"
+  },
+  "2b65b69927bae516d2b323591a3e7b5d": {
+    "company": "Databricks",
+    "title": "GTM Talent Sourcer (Contract)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937105002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-11T02:23:04.831408"
+  },
+  "b939e31525d97d3d6c0c39f0553e1255": {
+    "company": "Stripe",
+    "title": "Frontend Engineer, Link",
+    "url": "https://stripe.com/jobs/search?gh_jid=8353949",
+    "location": "N/A",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-11T02:23:21.050149"
+  },
+  "27d6b92ee32a40097ff80b86a9a3c308": {
+    "company": "Gusto",
+    "title": "Forward Deployed Solutions Engineer",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8248374",
+    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-11T02:23:21.773139"
   }
 }
