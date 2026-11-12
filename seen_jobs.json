@@ -54685,5 +54685,37 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-12T04:53:56.169225"
+  },
+  "d79e7d1500532dd99ca1e5dc7423cbab": {
+    "company": "Encord",
+    "title": "DevOps Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/981b62f9-8321-4001-bff8-2254b6891885",
+    "location": "India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T13:27:34.881092"
+  },
+  "832d9be050bb9c14fdc89c4ac7ff0b5f": {
+    "company": "Fivetran",
+    "title": "Systems Engineer II - R&D Business Systems",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8201478003",
+    "location": "Bengaluru, Karnataka, India, APAC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T13:27:49.044995"
+  },
+  "ee10cf5b65ed0741a77a45546fcd146c": {
+    "company": "Coinbase",
+    "title": "Compliance, International Investigations Associate",
+    "url": "https://www.coinbase.com/careers/positions/8382720?gh_jid=8382720",
+    "location": "Remote - Luxembourg",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-12T13:27:58.678242"
+  },
+  "99af94d01b8fdbb2a4176cd996762efb": {
+    "company": "Coinbase",
+    "title": "Compliance, International Investigations Associate",
+    "url": "https://www.coinbase.com/careers/positions/8382718?gh_jid=8382718",
+    "location": "Remote - Ireland",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-12T13:27:58.678264"
   }
 }
