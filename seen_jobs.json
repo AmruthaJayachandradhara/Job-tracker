@@ -54653,5 +54653,37 @@
     "location": "San Francisco, Seattle, New York City",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-11-11T23:51:29.980958"
+  },
+  "41e9782046941eea33fb52ae628dcd02": {
+    "company": "Hex",
+    "title": "Technical Recruiter",
+    "url": "https://jobs.ashbyhq.com/hex/b767b053-202e-4d2b-ad41-3d5b1dfeec69",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T04:53:50.347763"
+  },
+  "e5cf4d8dbd661e3cb70984f588471fa3": {
+    "company": "Stripe",
+    "title": "Account Executive, Radar (Mandarin-speaking)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8355357",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T04:53:56.164467"
+  },
+  "25d591ff327133e19a839e41b4c1da18": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive - Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8330789",
+    "location": "New Zealand",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T04:53:56.166141"
+  },
+  "104d3e660f319cae45b907fc6882f176": {
+    "company": "Stripe",
+    "title": "Sales Development Representative, Southeast Asia",
+    "url": "https://stripe.com/jobs/search?gh_jid=8378507",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T04:53:56.169225"
   }
 }
