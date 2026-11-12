@@ -54717,5 +54717,149 @@
     "location": "Remote - Ireland",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-11-12T13:27:58.678264"
+  },
+  "f8c14d63dcfdc29425889d832943f81e": {
+    "company": "Encord",
+    "title": "Account Executive",
+    "url": "https://jobs.ashbyhq.com/encord/8a88f55e-ae21-4a3f-b2ba-a72fa196007a",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:08.880546"
+  },
+  "8e929720dde0692257eaf52fb8c1d60e": {
+    "company": "Databricks",
+    "title": "Geo Core Account Executive - Digital Natives",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937118002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:20.359364"
+  },
+  "e3b8e183fbce234dfe17bd703308a4f8": {
+    "company": "Fivetran",
+    "title": "VP, Total Rewards and People Operations",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8202647003",
+    "location": "Remote, Illinois, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:23.230746"
+  },
+  "6126987c334fb2e158d5bfbb5a5684aa": {
+    "company": "Fivetran",
+    "title": "VP, Total Rewards and People Operations",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8202624003",
+    "location": "Remote, Texas, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:23.230766"
+  },
+  "147a0ac541e004060d68c1e50e195500": {
+    "company": "Fivetran",
+    "title": "VP, Total Rewards and People Operations",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8202657003",
+    "location": "Remote, Georgia, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:23.230775"
+  },
+  "cba8e735c0540fe96ac2161d8ddcde01": {
+    "company": "Fivetran",
+    "title": "VP, Total Rewards and People Operations",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8202641003",
+    "location": "Remote, Massachusetts, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:23.230785"
+  },
+  "be44372d3da8df41e73709b25938fdbc": {
+    "company": "Fivetran",
+    "title": "VP, Total Rewards and People Operations",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8202617003",
+    "location": "Remote, Washington, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:23.230793"
+  },
+  "98b7308b9d2d3ddf4e1f236e359710df": {
+    "company": "Fivetran",
+    "title": "VP, Total Rewards and People Operations",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8201813003",
+    "location": "Remote, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:23.230803"
+  },
+  "601d32e2b73e4e583a6e9f3b2ad4cadc": {
+    "company": "Fivetran",
+    "title": "VP, Total Rewards and People Operations",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8202649003",
+    "location": "Remote, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:23.230812"
+  },
+  "502c52455f85e5a08c4cce4c46e36ed0": {
+    "company": "Fivetran",
+    "title": "VP, Total Rewards and People Operations",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8202613003",
+    "location": "Remote, New York, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:23.230821"
+  },
+  "8ad83017ed4425ccb863dcaff5dd3de7": {
+    "company": "Tanium",
+    "title": "Software Engineer II - Partner Integrations",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8250447",
+    "location": "Durham, NC (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:27.883737"
+  },
+  "2c26f6f8d9f1d8e9ae62b0ab4254c97e": {
+    "company": "Mercury",
+    "title": "Customer Support Specialist",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6260698004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:33.551645"
+  },
+  "396bee345eee224ce897d3957b612ac2": {
+    "company": "EarnIn",
+    "title": "Office & People Specialist",
+    "url": "https://job-boards.greenhouse.io/earnin/jobs/8381837",
+    "location": "Bangkok, Thailand",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:34.738821"
+  },
+  "73d02fca264a8309a2eeeaf27c3fdd1c": {
+    "company": "Affirm",
+    "title": "Counsel II, Commercial",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8199642003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:35.619261"
+  },
+  "a70542851dfe04b8ee73b7a25bffa0c5": {
+    "company": "Stripe",
+    "title": "Implementation Consultant (Global) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8281536",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:36.676067"
+  },
+  "626dcfb224f909df413038520a070ca3": {
+    "company": "Stripe",
+    "title": "Operations Associate, Tax Jar",
+    "url": "https://stripe.com/jobs/search?gh_jid=8353180",
+    "location": "Mexico",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-12T21:15:36.676712"
+  },
+  "b9e0b2f3d050f6b4bc5cd7eb90beb0cc": {
+    "company": "Stripe",
+    "title": "People Operations Associate (11-Month FTC)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8248102",
+    "location": "Dublin, Ireland",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-12T21:15:36.676908"
+  },
+  "522438680b14937cd894b8392b911825": {
+    "company": "Gusto",
+    "title": "Expansion AE, Gusto Pro ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8374008",
+    "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-12T21:15:37.355366"
   }
 }
