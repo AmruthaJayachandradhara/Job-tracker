@@ -54965,5 +54965,53 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-13T10:19:53.640421"
+  },
+  "3fe1c510d7ca491fd3150a31bc9dfc81": {
+    "company": "Encord",
+    "title": "DevOps Engineer",
+    "url": "https://jobs.ashbyhq.com/encord/4028d589-6973-42ab-919d-4b8e625b4913",
+    "location": "India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T18:17:17.603112"
+  },
+  "aa29b7cc646ef3b8c62e56947ec15f15": {
+    "company": "Mercury",
+    "title": "Customer Support Specialist - Risk",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6260859004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T18:17:51.182129"
+  },
+  "ffc6ffda7b75a19b4756862aedf4d5b0": {
+    "company": "Stripe",
+    "title": "Full-Stack Engineer, Stripe Tax",
+    "url": "https://stripe.com/jobs/search?gh_jid=8232358",
+    "location": "Barcelona",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T18:17:54.490172"
+  },
+  "091d4af78dae0997f0335c23596c2281": {
+    "company": "Stripe",
+    "title": "Implementation Consultant Professional Services (AI Companies)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8281536",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T18:17:54.490566"
+  },
+  "fdde170e332a19d2cc17a59b8c998895": {
+    "company": "Stripe",
+    "title": "Integration Engineer, Professional Services",
+    "url": "https://stripe.com/jobs/search?gh_jid=8203975",
+    "location": "Toronto or Chicago",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T18:17:54.490732"
+  },
+  "482bb2348c7eb06fc491f4907511fb95": {
+    "company": "Gusto",
+    "title": "Sales Engineer",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8346979",
+    "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T18:17:55.182555"
   }
 }
