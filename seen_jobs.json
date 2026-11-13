@@ -54861,5 +54861,69 @@
     "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-12T21:15:37.355366"
+  },
+  "09803be99ecd6d073572bc9adee49296": {
+    "company": "Render",
+    "title": "Brand DesignerRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/e95722d4-2c08-42d7-840c-3f718cb515fd",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T02:16:48.728387"
+  },
+  "5331ff23bd1e6324e83111ee274fd7e2": {
+    "company": "Render",
+    "title": "Developer Documentation WriterRemote: United States",
+    "url": "https://jobs.ashbyhq.com/render/0ed7bac4-72f1-4d73-ab0c-e231af4ec06e",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T02:16:48.728424"
+  },
+  "383089fe86804c3aea24c7ea0934927d": {
+    "company": "GitLab",
+    "title": "Backend Engineer, Trusted Agentic Development",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8760233002",
+    "location": "Remote, Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T02:17:21.930566"
+  },
+  "60a6f7f64b14897d6fd17c8331fde5d1": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Backend (Continuous Delivery)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T02:17:31.165112"
+  },
+  "4c08b8a70dbdeb66a19279df4a89f630": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Backend (Continuous Delivery)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T02:17:31.165132"
+  },
+  "4ffc12f18292a5f4c1bfeec82764a6a3": {
+    "company": "Stripe",
+    "title": "Recruiting Scheduler (SF)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8231145",
+    "location": "SF",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T02:17:32.319251"
+  },
+  "976a1ac642362852b248fc256437cc0c": {
+    "company": "Stripe",
+    "title": "Software Engineer \u2013 Backend Engineer \u2013 Tax Engineering",
+    "url": "https://stripe.com/jobs/search?gh_jid=8384325",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T02:17:32.319712"
+  },
+  "8aefec04d5a7650cbfb17005a66d714c": {
+    "company": "Stripe",
+    "title": "Software Engineer, Full Stack",
+    "url": "https://stripe.com/jobs/search?gh_jid=8384287",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T02:17:32.319778"
   }
 }
