@@ -54925,5 +54925,45 @@
     "location": "New York, NY",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-13T02:17:32.319778"
+  },
+  "0c8e38ff312841b57100bd6fdd926d0a": {
+    "company": "Databricks",
+    "title": "Account Executive - Enterprise Core",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910838002",
+    "location": "Seoul, South Korea",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T10:19:37.279798"
+  },
+  "a051cc6755a0a07c9f7b5d97239df122": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Fullstack (International)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8202548003",
+    "location": "Remote Spain",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-13T10:19:52.583576"
+  },
+  "0516046884fba8ccaaea3adf668b3e0d": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Fullstack (International)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8202545003",
+    "location": "Remote Poland",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-13T10:19:52.583589"
+  },
+  "d03347f1160fdab98f78b9743ca5139e": {
+    "company": "Stripe",
+    "title": "Integration Reliability Engineer, Technical Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8282171",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T10:19:53.638201"
+  },
+  "2973c9fe48f220462cf5a6a7cbf26438": {
+    "company": "Stripe",
+    "title": "Technical Solutions Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8368656",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-13T10:19:53.640421"
   }
 }
