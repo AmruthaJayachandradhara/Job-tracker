@@ -55013,5 +55013,29 @@
     "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-13T18:17:55.182555"
+  },
+  "5e36cf6d9919cab899d94f3eaef771e5": {
+    "company": "Mercury",
+    "title": "Executive Assistant",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6261770004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-14T00:02:31.515762"
+  },
+  "8c4fa9a08bc4005c8a022709c50d91be": {
+    "company": "Stripe",
+    "title": "Software Engineer, Vulnerability Management",
+    "url": "https://stripe.com/jobs/search?gh_jid=8384567",
+    "location": "na",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-14T00:02:36.914285"
+  },
+  "0b84b34fab4cdbd0f1fa7e80548c3ff3": {
+    "company": "Carta",
+    "title": "Tax Associate",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/6247992003",
+    "location": "Seattle, WA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-14T00:02:38.914386"
   }
 }
