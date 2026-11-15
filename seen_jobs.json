@@ -55037,5 +55037,13 @@
     "location": "Seattle, WA",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-11-14T00:02:38.914386"
+  },
+  "129fdeaf78574d688114bf521799e4b6": {
+    "company": "GitLab",
+    "title": "Customer Success Engineer, EMEA",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937825002",
+    "location": "Remote, Israel",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-15T11:39:01.714981"
   }
 }
