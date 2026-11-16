@@ -55045,5 +55045,53 @@
     "location": "Remote, Israel",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-15T11:39:01.714981"
+  },
+  "b477e51a93ff99a6cb781b16203affb7": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer (Full-stack)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8741922002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T12:14:53.326158"
+  },
+  "5d8e9404603e83ab548bd74a5e927979": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive, Belux",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8921443002",
+    "location": "Remote, France; Remote, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T12:14:59.169416"
+  },
+  "09e6c4af58fd704a3bc44e7d875c4fe9": {
+    "company": "GitLab",
+    "title": "Customer Success Engineer, India",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926443002",
+    "location": "Remote, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T12:14:59.169531"
+  },
+  "3e9b869059980e727d9978e3e2ac0ad9": {
+    "company": "GitLab",
+    "title": "Customer Success Engineer, Singapore",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8926445002",
+    "location": "Remote, Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T12:14:59.169542"
+  },
+  "b6792b0e7655b209915227301f67cf98": {
+    "company": "GitLab",
+    "title": "Strategic Enterprise Account Executive (Sydney or Melbourne)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940804002",
+    "location": "Remote, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T12:14:59.170722"
+  },
+  "dbc633213175ae82b300a8a6f0561357": {
+    "company": "Affirm",
+    "title": "Software Engineer II - Enterprise IAM",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8016932003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T12:15:07.941034"
   }
 }
