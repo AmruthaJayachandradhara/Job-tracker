@@ -55093,5 +55093,125 @@
     "location": "Remote Canada",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-16T12:15:07.941034"
+  },
+  "71afca911ff642e571afa520dc4e9450": {
+    "company": "Juicebox",
+    "title": "Account Executive",
+    "url": "https://jobs.ashbyhq.com/Juicebox/7c232baa-3c56-46b3-91d7-68db900835fd",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T22:38:44.918748"
+  },
+  "afce5948ce903d4eefa9b01b21cfc089": {
+    "company": "GitLab",
+    "title": "Business Development Representative, Financial Services - UKI",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8939857002",
+    "location": "Remote Ireland; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T22:38:55.901537"
+  },
+  "276bf6a9f8f55e9848dbdae420d83cd7": {
+    "company": "Tanium",
+    "title": "Commercial Account Executive",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8369394",
+    "location": "Addison, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T22:38:57.153118"
+  },
+  "6704785b3922c75f8021cdb01e4a53fe": {
+    "company": "Coinbase",
+    "title": "Communications Generalist",
+    "url": "https://www.coinbase.com/careers/positions/8386363?gh_jid=8386363",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T22:39:01.819019"
+  },
+  "f3a7089ea29c9e300cef0ac56a64112c": {
+    "company": "Coinbase",
+    "title": "Compliance Investigations Associate",
+    "url": "https://www.coinbase.com/careers/positions/8386659?gh_jid=8386659",
+    "location": "Remote - USA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-16T22:39:01.819077"
+  },
+  "b1f6c12171ce1fa2554cd55ba4313c9a": {
+    "company": "Mercury",
+    "title": "Litigation Paralegal",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6261778004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T22:39:02.446940"
+  },
+  "02a4f54ed1366d0a132078c9318d7adc": {
+    "company": "Stripe",
+    "title": "Account Executive, Amer Platform Grower (Velocity)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8393708",
+    "location": "San Francisco ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T22:39:05.317737"
+  },
+  "9573d94f9bca712585a484d904ad132a": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Terminal), Enterprise Retail ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8316059",
+    "location": "US-SF, US-NY, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T22:39:05.318439"
+  },
+  "b026ec047c833f763069264d0f0c6e86": {
+    "company": "Stripe",
+    "title": "Account Executive, SMB, Italian speaking ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8322588",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T22:39:05.318576"
+  },
+  "c22b2896bc6d2bda229c443047bb4464": {
+    "company": "Stripe",
+    "title": "Enterprise Account Executive: Platforms (Hunter) - German Speaking ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8319481",
+    "location": "Berlin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T22:39:05.319687"
+  },
+  "f0a8e405f2a77352999a3731b4a990be": {
+    "company": "Stripe",
+    "title": "Integration Reliability Engineer, Technical Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8360332",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T22:39:05.320523"
+  },
+  "2562833084bb0909dd61a4cb7ac74a6c": {
+    "company": "Stripe",
+    "title": "Product Integration Reliability Engineer, Money Management",
+    "url": "https://stripe.com/jobs/search?gh_jid=8358071",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T22:39:05.321324"
+  },
+  "415857346e7ea06e16aaa5015daa7291": {
+    "company": "Carta",
+    "title": "Account Executive, Emerging",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8205819003",
+    "location": "New York City, New York, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T22:39:07.453127"
+  },
+  "2f4a0e58b3dd6813bcea2d1ab5bab6e8": {
+    "company": "Carta",
+    "title": "Contract Solutions Counsel",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7849783003",
+    "location": "Seattle, Washington; Denver, CO",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T22:39:07.453231"
+  },
+  "b013927c76407a1c881853eb1e5db270": {
+    "company": "Carta",
+    "title": "Contract Solutions Counsel ",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7985821003",
+    "location": "Dallas, TX",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-16T22:39:07.453246"
   }
 }
