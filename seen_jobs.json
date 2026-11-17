@@ -55213,5 +55213,53 @@
     "location": "Dallas, TX",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-16T22:39:07.453246"
+  },
+  "b8b6d6c80d432403f5350abd6a63750b": {
+    "company": "Databricks",
+    "title": "Deployment Strategist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922945002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T04:52:52.945300"
+  },
+  "0d9e5d8e856b09fff26a6c211205b8ef": {
+    "company": "Coinbase",
+    "title": "Product Security Engineer, Offensive Security",
+    "url": "https://www.coinbase.com/careers/positions/8394654?gh_jid=8394654",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T04:53:04.450884"
+  },
+  "3165795f3e3a5b3d4051eb158816bc0d": {
+    "company": "Stripe",
+    "title": "Account Executive (Commercial Grower, Japan)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8345653",
+    "location": "Tokyo",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T04:53:07.941510"
+  },
+  "7610b6fdb0a3b264fcf3fc067682d614": {
+    "company": "Stripe",
+    "title": "Account Executive (SMB Grower, Japan ) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8345657",
+    "location": "Tokyo",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T04:53:07.942284"
+  },
+  "1007c54d1723ebb5f2155cd30f00889a": {
+    "company": "Stripe",
+    "title": "[TEMPLATE S1] Account Executive - Global (SSMB)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8354764",
+    "location": "LOCATION",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T04:53:07.947101"
+  },
+  "d6a522efe8c74854413eb2e158df656a": {
+    "company": "Gusto",
+    "title": "Corporate Paralegal",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8232302",
+    "location": "New York, NY - Hybrid; San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T04:53:08.593874"
   }
 }
