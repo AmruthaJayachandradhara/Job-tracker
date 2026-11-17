@@ -55309,5 +55309,173 @@
     "location": "London",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-17T13:58:56.212071"
+  },
+  "5ae57997dc90c1eb36ed49cb6a20e238": {
+    "company": "Novig",
+    "title": "Social Producer",
+    "url": "https://jobs.ashbyhq.com/novig/ef3c2717-813d-49b4-8105-98c7fe734949",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:09.460288"
+  },
+  "1dedfaf3baec65054898b62ffc1c4af0": {
+    "company": "Juicebox",
+    "title": "Enterprise Account Executive",
+    "url": "https://jobs.ashbyhq.com/Juicebox/00b3b962-2cbc-4995-942e-472dc6036628",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:15.632675"
+  },
+  "f76f5a699d265dad7845cad21afaa4ee": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive, Gaming",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8933257002",
+    "location": "Los Angeles, California; Remote - California; San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:20.543031"
+  },
+  "c4f85bf447cd2118cb36e738623a4bc9": {
+    "company": "Databricks",
+    "title": "Strategic Core Account Executive- Oil & Gas",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8929384002",
+    "location": "Austin, Texas; Dallas, Texas; Houston, Texas; United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:20.548648"
+  },
+  "765f35bf954ac026b60985b3facbfb16": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive - Airlines",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870940002",
+    "location": "Remote - Texas",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:20.548761"
+  },
+  "2ead08dd7080c004ac836755c7b1d3af": {
+    "company": "Dialpad",
+    "title": "Sales Account Executive II, SB",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8944887002",
+    "location": "Pasig City, Metro Manila, Philippines",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:24.937566"
+  },
+  "ed3b4645a0949e1e8bb092a6f976e256": {
+    "company": "GitLab",
+    "title": "Candidate Experience Specialist, Contractor (AMER)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8782471002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:26.458604"
+  },
+  "fddf5293a5193f22bd6764df96ee52f2": {
+    "company": "GitLab",
+    "title": "Fullstack Engineer, Source Code: Repository Services (Ruby)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8912709002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:26.458900"
+  },
+  "10261ffe89e476d1f5febe040e4def76": {
+    "company": "GitLab",
+    "title": "Fullstack Engineer, Source Code: Repository Services (Ruby) ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922427002",
+    "location": "Remote, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:26.458910"
+  },
+  "771447de23ed5700d8091493b7cf9541": {
+    "company": "Replit",
+    "title": "Forward Deployed Engineer (UK)",
+    "url": "https://jobs.ashbyhq.com/replit/f32821e3-8b65-4565-b12f-3a2f3e399fb9",
+    "location": "London Office",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:27.059792"
+  },
+  "d9ffb1703174733568930393932120ca": {
+    "company": "Hex",
+    "title": "Detection and Response Engineer",
+    "url": "https://jobs.ashbyhq.com/hex/59282b6c-07e9-4cc4-a81e-62cd98a8a1e8",
+    "location": "Remote - US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:30.588620"
+  },
+  "ed60caca826f6c39d95a02f63368d998": {
+    "company": "Hex",
+    "title": "Product Security Engineer",
+    "url": "https://jobs.ashbyhq.com/hex/ec7b16d7-3385-4675-9b75-86f38616a09b",
+    "location": "Remote - US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:30.588645"
+  },
+  "7d5369fa2d794e48df1edcbe66471943": {
+    "company": "Mercury",
+    "title": "Senior Software Engineer - AI Experiences",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5803347004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "description match: '0 year'",
+    "first_seen": "2026-11-17T22:01:33.243236"
+  },
+  "e99ba538cf5793cab2830d692413d710": {
+    "company": "Mercury",
+    "title": "Software Engineer - AI Experiences",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6233238004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "description match: '0 year'",
+    "first_seen": "2026-11-17T22:01:33.243307"
+  },
+  "6beeebb6471d8860d394a0e4ac6453f7": {
+    "company": "Stripe",
+    "title": " Account Executive - Funded Startups - French",
+    "url": "https://stripe.com/jobs/search?gh_jid=8328116",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:36.471759"
+  },
+  "b04582476a14b3a3f03db4be5a42615f": {
+    "company": "Stripe",
+    "title": "Account Executive - Startups UKI",
+    "url": "https://stripe.com/jobs/search?gh_jid=8329747",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:36.472627"
+  },
+  "ae6423497351c3572adf2ebfe12b23b2": {
+    "company": "Stripe",
+    "title": "Deal Pricing",
+    "url": "https://stripe.com/jobs/search?gh_jid=8387820",
+    "location": "US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:36.473458"
+  },
+  "a36e99f814b9cb3ffda49f5bad10eff8": {
+    "company": "Stripe",
+    "title": "Executive Programs Coordinator",
+    "url": "https://stripe.com/jobs/search?gh_jid=8376777",
+    "location": "Remote in the US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:36.474044"
+  },
+  "b938a5db1646c1de42f98556636e1c6a": {
+    "company": "Stripe",
+    "title": "Forward Deployed AI Accelerator, Marketing",
+    "url": "https://stripe.com/jobs/search?gh_jid=8395851",
+    "location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:36.474163"
+  },
+  "e617bfd00ac6dd148a8f94765b0e3471": {
+    "company": "Stripe",
+    "title": " Integration Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8337955",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:36.474860"
+  },
+  "72f30285082d3ce4df019124f5a40e05": {
+    "company": "Stripe",
+    "title": "Technical Operations Engineer, Revenue",
+    "url": "https://stripe.com/jobs/search?gh_jid=8379544",
+    "location": "US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T22:01:36.478520"
   }
 }
