@@ -55261,5 +55261,53 @@
     "location": "New York, NY - Hybrid; San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-17T04:53:08.593874"
+  },
+  "3f6c732ac03d516e07f82c73fea92b8f": {
+    "company": "Isembard",
+    "title": "Business Development Engineer (m/w/d)",
+    "url": "https://jobs.ashbyhq.com/isembard/b862987c-97e0-48fa-9fbd-6ca0c8a09cd9",
+    "location": "Hamburg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T13:58:35.849932"
+  },
+  "e2a4ec9a3b6725c8491b041c33dbb212": {
+    "company": "GitLab",
+    "title": "Backend Engineer (Ruby), AI Engineering: AI Catalog ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940898002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T13:58:44.350247"
+  },
+  "55bcad80ff40879033cc3a52ac6b1c8d": {
+    "company": "Stripe",
+    "title": "Account Executive, Existing Business ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241299",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T13:58:54.264839"
+  },
+  "435d433500d10cb816dbca35cb692100": {
+    "company": "Stripe",
+    "title": "Account Executive - SMB Hunter - Southeast Asia",
+    "url": "https://stripe.com/jobs/search?gh_jid=8354764",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T13:58:54.265584"
+  },
+  "23f1b36d09fb28fb09fe86dfba8c5a4f": {
+    "company": "Stripe",
+    "title": "Data Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230296",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T13:58:54.266498"
+  },
+  "006ccad1f462bcfa6dd320ce4aba3bdc": {
+    "company": "Carta",
+    "title": "Compliance Paralegal",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7980732003",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-17T13:58:56.212071"
   }
 }
