@@ -55597,5 +55597,133 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-18T12:33:00.304082"
+  },
+  "5ad0681bc78a6038c67b53fead121f4c": {
+    "company": "Listen Labs",
+    "title": "Growth Associate, Field & ABM",
+    "url": "https://jobs.ashbyhq.com/listenlabs/afb66a40-c47e-47fc-a708-20602d13e4c7",
+    "location": "San Francisco, New York",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-18T20:59:07.177256"
+  },
+  "4043b0a5767373bec0b98a78d098653c": {
+    "company": "Databricks",
+    "title": "Enterprise Hunter Account Executive, FSI/ DIB",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870726002",
+    "location": "Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T20:59:21.692589"
+  },
+  "a4418c51a7391fb20e049e954636aac8": {
+    "company": "GitLab",
+    "title": "Executive Assistant, Marketing",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937764002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T20:59:27.719644"
+  },
+  "703191268fb8168ae452c1a45e74aa8b": {
+    "company": "Replit",
+    "title": "Business Operations Analyst",
+    "url": "https://jobs.ashbyhq.com/replit/9b211cc2-dcb2-4902-b84f-a5a2d5d0705f",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T20:59:28.261471"
+  },
+  "91cd4869721856082d9b2e61eba19973": {
+    "company": "Tanium",
+    "title": "Commercial Account Executive",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8369318",
+    "location": "Reading, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T20:59:29.010271"
+  },
+  "b325aa70e4bf246ed3f4e9581576ba6b": {
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups (CEE) ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8392755",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T20:59:37.527756"
+  },
+  "0c1fc28ad779e6e02c5525670e0532a9": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales (Billing) - French speaking",
+    "url": "https://stripe.com/jobs/search?gh_jid=8196254",
+    "location": "Dublin OR Paris",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T20:59:37.528158"
+  },
+  "8833b3571d5d0e3ce554b4f9f00e8c4d": {
+    "company": "Stripe",
+    "title": "Account Executive, Startups (Grower - Benelux)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8319491",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T20:59:37.528590"
+  },
+  "cece7f15e91a406cdcdb578289b1f6be": {
+    "company": "Stripe",
+    "title": "Accounts Receivable Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8375966",
+    "location": "SEA, NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T20:59:37.528769"
+  },
+  "9c8ce0a55c5f98cf8c35015ab5512038": {
+    "company": "Stripe",
+    "title": "Administrative Business Partner, Office of the CEO",
+    "url": "https://stripe.com/jobs/search?gh_jid=8397260",
+    "location": "South San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T20:59:37.528782"
+  },
+  "42f94fe5c14b09521483905d299615aa": {
+    "company": "Stripe",
+    "title": "Global Sales Vendor Enablement Business Partner (APAC)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8393436",
+    "location": "Malaysia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T20:59:37.530489"
+  },
+  "99da6c7268306507fe04dc8a558f8d0c": {
+    "company": "Stripe",
+    "title": "Risk Operations Analyst - Restricted Business Operations ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175824",
+    "location": "Remote ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T20:59:37.532547"
+  },
+  "5c82dbd3831acb9548f86747ac507df6": {
+    "company": "Stripe",
+    "title": "Technical Solutions Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7919030",
+    "location": "Chicago, IL, Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T20:59:37.534535"
+  },
+  "80c930b37212c3bd1d031c1030ee018b": {
+    "company": "Stripe",
+    "title": "Technical Solutions Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=7917880",
+    "location": "Remote - US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T20:59:37.534547"
+  },
+  "cdc46a55cc8b3da484bfff0037b2a548": {
+    "company": "Carta",
+    "title": "Tax Associate",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8208432003",
+    "location": "New York, NY; Santa Clara, CA; Seattle, WA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-18T20:59:39.361079"
+  },
+  "a77bd7b9b5d1096644272451f9a68654": {
+    "company": "Carta",
+    "title": "Tax Associate ",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/6652048003",
+    "location": "Sandy, UT",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-18T20:59:39.361096"
   }
 }
