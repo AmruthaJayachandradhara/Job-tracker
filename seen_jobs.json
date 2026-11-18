@@ -55533,5 +55533,69 @@
     "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-18T03:57:14.845623"
+  },
+  "e219ed91504793ad5924070ee171bded": {
+    "company": "Fivetran",
+    "title": "Business Development Representative, German Speaking",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7994703003",
+    "location": "Dublin, Dublin, Ireland, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T12:32:46.318357"
+  },
+  "1a9db798416c30c7699033be5f51c0b8": {
+    "company": "GitLab",
+    "title": "Release Engineer, Salesforce",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8730125002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T12:32:50.031655"
+  },
+  "c8bf72ee4b7332a2a8ad480876b5450c": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8197317003",
+    "location": "Remote Spain",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T12:32:59.291674"
+  },
+  "b1b52af6f323e4357f072fc1fb8f8124": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8197315003",
+    "location": "Remote Poland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T12:32:59.291693"
+  },
+  "8d9d0f6ab6b1d4cfc09cab7334cebe72": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8201566003",
+    "location": "Remote UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T12:32:59.291702"
+  },
+  "894f04c4d8eec81a9b67d742910c1692": {
+    "company": "Stripe",
+    "title": "Account Executive, Platforms Large Users (India)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8358823",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T12:33:00.300391"
+  },
+  "7b67a49b69f5f58d4885b759264c5bc4": {
+    "company": "Stripe",
+    "title": "Account Executive - Startups, Grower (India)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8352487",
+    "location": "Bangalore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T12:33:00.300940"
+  },
+  "666dde23ee1ca3ca339fc54620c577bb": {
+    "company": "Stripe",
+    "title": "Product Sales Development Representative, China",
+    "url": "https://stripe.com/jobs/search?gh_jid=8179341",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T12:33:00.304082"
   }
 }
