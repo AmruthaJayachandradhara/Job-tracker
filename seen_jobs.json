@@ -55477,5 +55477,61 @@
     "location": "US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-17T22:01:36.478520"
+  },
+  "8927d47289e48756696f1bc54f33ea46": {
+    "company": "Paraform",
+    "title": "Technical Recruiter",
+    "url": "https://jobs.ashbyhq.com/paraform/45b39365-742f-413b-96ab-46d010ee86a0",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T03:56:32.812040"
+  },
+  "a4c0ebf404739006c6b0f4a39869c93b": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive- Media",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937973002",
+    "location": "Los Angeles, California; United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T03:56:57.816075"
+  },
+  "a6d8b65e8011bd4265f974ad8148696f": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8207671003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T03:57:12.906777"
+  },
+  "3e9d9154979b9e021ba6e2e602ef8902": {
+    "company": "Stripe",
+    "title": "Account Executive Product - Radar (AUNZ)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8355353",
+    "location": "Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T03:57:14.136916"
+  },
+  "5678185fc682bdcc08d164c40cd5ec9b": {
+    "company": "Stripe",
+    "title": "Briefing Content Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8376773",
+    "location": "Remote in the US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T03:57:14.137869"
+  },
+  "0b72d1a6a65d0398c06a41888a7bfdff": {
+    "company": "Stripe",
+    "title": "Risk Operations Analyst - User Operations Policy",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175824",
+    "location": "Remote ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T03:57:14.141707"
+  },
+  "eae7e5e61b5083e1925358b0e3a01b0a": {
+    "company": "Gusto",
+    "title": "Product Counsel - HR Products",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8274972",
+    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-18T03:57:14.845623"
   }
 }
