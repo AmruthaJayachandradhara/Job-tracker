@@ -55877,5 +55877,149 @@
     "location": "Remote - Virginia; Remote - Washington D.C.",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-19T10:55:07.454788"
+  },
+  "b26c7ae6f767ca88ff270a59a814a0bf": {
+    "company": "Northwood Space",
+    "title": "Quality Inspection Technician, PCBA",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/26254ad4-8deb-435c-992c-e2f992be8788",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:15.303020"
+  },
+  "3e813bc7aa937db6c06da246bef22f6f": {
+    "company": "Northwood Space",
+    "title": "Quality Inspector, PCBA",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/04e89eb2-48d5-43d9-99df-72988345f5dd",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:15.303070"
+  },
+  "e81fae3c8cfa5b653b315366aa99b6e7": {
+    "company": "Northwood Space",
+    "title": "Forward Deployed Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/de197d91-2fd9-45e8-ab91-9c782efef350",
+    "location": "Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:15.303076"
+  },
+  "0e4d496fa31cb83045c35d1646ea9828": {
+    "company": "Northwood Space",
+    "title": "RF Regulatory Engineer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/8b943960-b510-4ffa-ab06-5f9981431962",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:15.303081"
+  },
+  "d172c29d31b358bf93d8fb4c3ee399d5": {
+    "company": "Northwood Space",
+    "title": "Capture Strategist",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/12ddb802-3af7-415e-9559-d373ae6a7359",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:15.303096"
+  },
+  "e9049e6033c0c9b0946d65d293abd174": {
+    "company": "Northwood Space",
+    "title": "Tax Accountant",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/0f544ab2-e13a-4bd1-9b74-c9250edb0327",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:15.303105"
+  },
+  "d698fb92a9a8a2ad65255578e4cd3ad2": {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer - full Stack",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8462016002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:32.579369"
+  },
+  "038d13ffcb6dbd9c2a56425883736b37": {
+    "company": "Fivetran",
+    "title": "Product Designer",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8040639003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:35.237178"
+  },
+  "028b78fcee2d1d4aa3141959b22fec96": {
+    "company": "Fivetran",
+    "title": "Sales Development Representative, Italian and Spanish Speaker",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8040028003",
+    "location": "IRL - Dublin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:35.237254"
+  },
+  "78f81de0a2e2b1d2c47be4bb0fbdfee8": {
+    "company": "GitLab",
+    "title": "Candidate Experience Specialist, Contractor (EMEA)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8948050002",
+    "location": "Remote Ireland; Remote, Poland; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:38.425091"
+  },
+  "73a9043953b3c61bc68ca66c848293cc": {
+    "company": "GitLab",
+    "title": "Executive Assistant, Product and Marketing",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8948559002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:38.425311"
+  },
+  "003aaa2ea55773ad95faa82b123e8d20": {
+    "company": "GitLab",
+    "title": "New Business Account Executive - Nordics",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8949667002",
+    "location": "Remote, Netherlands; Remote, Sweden; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:38.425456"
+  },
+  "794745df463a943a790c1ab23c2a8220": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive -  San Francisco",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8895531002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:38.426028"
+  },
+  "188240af7a468b41efabb9e840932413": {
+    "company": "Replit",
+    "title": "Japan PSE",
+    "url": "https://jobs.ashbyhq.com/replit/f4254bd9-e155-4294-8239-6c2033e37136",
+    "location": "Hybrid - Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:38.972499"
+  },
+  "acd5789aa447bf6a70bc61aa5a461f7e": {
+    "company": "Coinbase",
+    "title": "International Expansion Operations Associate",
+    "url": "https://www.coinbase.com/careers/positions/8402367?gh_jid=8402367",
+    "location": "Remote - UK",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-19T19:15:44.407712"
+  },
+  "9d4069debc2282f8bf5710b94f4766a7": {
+    "company": "Affirm",
+    "title": "Software Engineer II, Full stack (Open Banking)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8197543003",
+    "location": "Remote UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:46.991307"
+  },
+  "47ebdc3de565fdd0528a7741c335410c": {
+    "company": "Stripe",
+    "title": "Account Executive, Amer Platform (Growth Velocity)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8274927",
+    "location": "Chicago, San Francisco, New York ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:48.125388"
+  },
+  "0524bf627d58b33ea9863a56a66df530": {
+    "company": "Stripe",
+    "title": "Activations Specialist, Bridge ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8350917",
+    "location": "Mexico ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T19:15:48.126354"
   }
 }
