@@ -55829,5 +55829,53 @@
     "location": "London, England, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-19T02:18:24.729828"
+  },
+  "58a7a23075036ef1584a813b51cf85b6": {
+    "company": "Northwood Space",
+    "title": "",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/fe1bff89-05f7-4b7f-bfec-3949aa586443",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T10:54:50.535887"
+  },
+  "ab27c2f09c98cc157e36a33a60bef2e6": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Financial Services",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8932854002",
+    "location": "Remote - New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T10:55:07.448777"
+  },
+  "55b014d177c62842de0a74c14ed47bf4": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Financial Services",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893596002",
+    "location": "Remote - Illinois; Remote - New York; Remote - Texas",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T10:55:07.448796"
+  },
+  "f87a6cfc47842c7238a27327f4f0d49c": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - Financial Services",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8920452002",
+    "location": "Northeast - United States; Remote - Massachusetts; Remote - New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T10:55:07.448806"
+  },
+  "168d2c2d50bad04dc2da73440cb57276": {
+    "company": "Databricks",
+    "title": "Startup Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8927392002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T10:55:07.454382"
+  },
+  "e9fb692afaf15d462a258be086fe2e13": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive - Financial Services",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8902939002",
+    "location": "Remote - Virginia; Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T10:55:07.454788"
   }
 }
