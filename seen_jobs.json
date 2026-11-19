@@ -55725,5 +55725,109 @@
     "location": "Sandy, UT",
     "filter_reason": "title match: 'associate'",
     "first_seen": "2026-11-18T20:59:39.361096"
+  },
+  "66ed64d12bfc2beda15c8b6062a470fa": {
+    "company": "Databricks",
+    "title": "Business Development Representative",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8949593002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T02:18:06.620011"
+  },
+  "b66f4a4f0532e35d9be0a46be3df0c72": {
+    "company": "Databricks",
+    "title": "VP, Enterprise - DoW/IC",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8943772002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T02:18:06.626870"
+  },
+  "319df465ed95d97071cdcb3f41cce7d3": {
+    "company": "GitLab",
+    "title": "Executive Assistant, Office of the CTO ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940703002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T02:18:12.652286"
+  },
+  "3481a8ebe0103f007ec47937f2346699": {
+    "company": "GitLab",
+    "title": "Strategic Account Executive, Financial Services - US Central   ",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8897543002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T02:18:12.652862"
+  },
+  "b05d19d762ca749ae4ea2297c4c75b77": {
+    "company": "Tanium",
+    "title": "Security Engineer",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8335066",
+    "location": "Remote, US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T02:18:14.004545"
+  },
+  "32664d57fa2d5837426bfe9de3262d33": {
+    "company": "Hex",
+    "title": "Corporate Finance and Systems",
+    "url": "https://jobs.ashbyhq.com/hex/5653698b-2ea0-46aa-bc69-bff116232a60",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T02:18:16.978478"
+  },
+  "c0c2396908608f49e63e7e58bad60529": {
+    "company": "Coinbase",
+    "title": "Software Engineer",
+    "url": "https://www.coinbase.com/careers/positions/8400323?gh_jid=8400323",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T02:18:19.050682"
+  },
+  "711eea76c04ba7fceda2a3242c6903ea": {
+    "company": "Stripe",
+    "title": "Payments Performance Strategist, Fraud ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8374754",
+    "location": "San Francisco, CA ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T02:18:22.717860"
+  },
+  "46ad0e0bd17f2a2dcfe9c310f6480d2a": {
+    "company": "Stripe",
+    "title": "Product Sales Development Representative, China Market",
+    "url": "https://stripe.com/jobs/search?gh_jid=8179341",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T02:18:22.718344"
+  },
+  "6785c94e5e2162861c7798b017ca7eb1": {
+    "company": "Stripe",
+    "title": "Technical Customer Support Associate - Product Support Operations (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7981587",
+    "location": "MX- Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-19T02:18:22.720041"
+  },
+  "0448af876269383ba0937e29986b48e7": {
+    "company": "Gusto",
+    "title": "IT Geek",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8394531",
+    "location": "Denver, CO - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T02:18:23.441017"
+  },
+  "10671a4fe951ca6c1482bf974fba0ffc": {
+    "company": "Gusto",
+    "title": "People Services Specialist",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8329666",
+    "location": "Denver, CO - Hybrid; New York, NY - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T02:18:23.441083"
+  },
+  "be9a621d79fc9b4e91a41810595a71d1": {
+    "company": "Carta",
+    "title": "Contract Solutions Lawyer",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7805107003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-19T02:18:24.729828"
   }
 }
