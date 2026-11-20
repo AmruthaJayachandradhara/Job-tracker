@@ -56109,5 +56109,85 @@
     "location": "Remote, Australia",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-20T09:25:14.063408"
+  },
+  "2b21652d0638e3744b05f41c6b318470": {
+    "company": "Isembard",
+    "title": "Robotics Software Engineer",
+    "url": "https://jobs.ashbyhq.com/isembard/edd462db-a5f6-48d3-871f-43fe41a4a7ac",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T18:07:59.400860"
+  },
+  "70f21de98d5dbdb8cf835e304ad53755": {
+    "company": "Databricks",
+    "title": "Strategic Account Executive, FSI/DIB",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870722002",
+    "location": "United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T18:08:02.059432"
+  },
+  "4f1d7ceeb8c7bd53d61fc5269eba2585": {
+    "company": "Fivetran",
+    "title": "Business Development Rep, Enterprise, DACH",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8209310003",
+    "location": "Remote, Germany, EMEA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T18:08:04.690263"
+  },
+  "0509dce702e93b548aa1d6266925908f": {
+    "company": "GitLab",
+    "title": "Recruiter, R&D (AMER)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8912848002",
+    "location": "Remote, Canada; Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T18:08:07.905851"
+  },
+  "46d2843c2df0cbbf3fdbcc133eaeeeb8": {
+    "company": "GitLab",
+    "title": "Recruiter, R&D (EMEA)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8869167002",
+    "location": "Remote, Poland; Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T18:08:07.905873"
+  },
+  "61ff0232ea5eadac95f9fdb548193ac3": {
+    "company": "Stripe",
+    "title": "Forward Deployed AI Accelerator, Marketing",
+    "url": "https://stripe.com/jobs/search?gh_jid=8406140",
+    "location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T18:08:18.039781"
+  },
+  "7ba39b1ba367b1043e21d12a0e94f41b": {
+    "company": "Stripe",
+    "title": "GTM Recruiter, OpenRouter (Fixed Term)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8404131",
+    "location": "SF, NYC, CHI, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T18:08:18.040204"
+  },
+  "f9c5f2b5e1b16e4dadfaa45e35d3d5ba": {
+    "company": "Stripe",
+    "title": "Integration Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8405596",
+    "location": "Amsterdam",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T18:08:18.040650"
+  },
+  "d9cbd17d61f79e67daf7e80976cbae72": {
+    "company": "Stripe",
+    "title": "Integration Reliability Engineer, Payments",
+    "url": "https://stripe.com/jobs/search?gh_jid=8406660",
+    "location": "Toronto",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T18:08:18.040756"
+  },
+  "2d34a713b58d16a753ac08d2bf50cee9": {
+    "company": "Stripe",
+    "title": "Technical Recruiter, OpenRouter (Fixed Term)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8404144",
+    "location": "SF, NYC, CHI, US-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T18:08:18.044442"
   }
 }
