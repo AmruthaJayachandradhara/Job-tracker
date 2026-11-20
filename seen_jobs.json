@@ -56021,5 +56021,85 @@
     "location": "Mexico ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-19T19:15:48.126354"
+  },
+  "ef01a44f7661e91ced9e991d746a13dd": {
+    "company": "Paraform",
+    "title": "IT Specialist (Contractor)",
+    "url": "https://jobs.ashbyhq.com/paraform/651df339-fec5-4843-8b7a-d7f4e1d7a787",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T01:31:00.879438"
+  },
+  "2a33698684baa7cadfacb891f7c35624": {
+    "company": "Northwood Space",
+    "title": "Fleet Operations Engineer, Automation ",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/10953bf0-b736-474a-be4c-dac556b81151",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T01:31:06.952923"
+  },
+  "5b91766dda945bdd1c84547ca0621150": {
+    "company": "Northwood Space",
+    "title": "Mechanical Engineer, Fleet Operations  ",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/072164c0-2f23-46a8-8317-a6c820d11f7a",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T01:31:06.952991"
+  },
+  "6f109288d79d35eacb07d52ffa22f217": {
+    "company": "Northwood Space",
+    "title": "Electrical Engineer, Fleet Operations",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/81f90857-199e-4848-a21a-d5770fb0be6d",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T01:31:06.952998"
+  },
+  "12f694e4ce77fc08cfcb35b39427f4d9": {
+    "company": "Databricks",
+    "title": "Scale Solution Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8779018002",
+    "location": "Heredia, Costa Rica",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T01:31:25.531332"
+  },
+  "1d8d9a0a3b1fdfcf879c5a350ee34c3d": {
+    "company": "Fivetran",
+    "title": "Software Engineer",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7818394003",
+    "location": "Toronto, Ontario, Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T01:31:28.374897"
+  },
+  "476a7853d563202c7977cd0ba4005da1": {
+    "company": "Mercury",
+    "title": "Revenue Strategy Associate",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5806201004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-20T01:31:38.548116"
+  },
+  "40e31c4713987e7e7bb6bc4696c25c7d": {
+    "company": "Affirm",
+    "title": "Capital Markets Specialist I (2027 Early Career Program)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8205833003",
+    "location": "New York, New York, United States",
+    "filter_reason": "title match: 'early career'",
+    "first_seen": "2026-11-20T01:31:40.629769"
+  },
+  "6cf0613893c8f32679038043bceac1a7": {
+    "company": "Affirm",
+    "title": "Internal Auditor I (2027 Early Career Program)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8206173003",
+    "location": "New York, New York, United States",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-20T01:31:40.629982"
+  },
+  "06b5d6b4e3828ed0eefdc64610c69f24": {
+    "company": "Stripe",
+    "title": "Deal Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8396168",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T01:31:41.774604"
   }
 }
