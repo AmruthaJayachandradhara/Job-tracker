@@ -56101,5 +56101,13 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-20T01:31:41.774604"
+  },
+  "a908db0c336f0056ad6cd432d4b03e14": {
+    "company": "GitLab",
+    "title": "Candidate Experience Specialist, Contractor (AUS)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8948002002",
+    "location": "Remote, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-20T09:25:14.063408"
   }
 }
