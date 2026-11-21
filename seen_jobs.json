@@ -56269,5 +56269,21 @@
     "location": "San Francisco, CA - Hybrid",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-11-21T00:30:13.110621"
+  },
+  "5845547782110f3f1d23f3bd56708bbf": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Backend (Streaming Infra)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8201471003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-21T07:51:37.756999"
+  },
+  "f837d4ebc22479728c5f8726e543a36f": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Backend (Streaming Infra)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-21T07:51:37.757024"
   }
 }
