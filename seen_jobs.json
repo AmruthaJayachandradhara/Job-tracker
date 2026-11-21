@@ -56189,5 +56189,85 @@
     "location": "SF, NYC, CHI, US-Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-20T18:08:18.044442"
+  },
+  "de08f555407e372f83071867688b6997": {
+    "company": "Render",
+    "title": "Software Engineer, Application Security (all levels)SF or Remote (US/Canada)",
+    "url": "https://jobs.ashbyhq.com/render/9c7e862a-c9fe-48a8-aaf8-26f8e25c66f5",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-21T00:29:31.710187"
+  },
+  "18c4c93ccebc8b4194cbd0f15bc7e16f": {
+    "company": "Northwood Space",
+    "title": "Facility Security Officer",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/11cbd6a4-3a22-4365-a938-aee56a1deeb6",
+    "location": "Torrance, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-21T00:29:39.034676"
+  },
+  "7a65bff0a71db790f3b6624cf19b4266": {
+    "company": "Databricks",
+    "title": "Industry Executive, Intel Community (AI Transformation)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8948986002",
+    "location": "Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-21T00:29:56.431142"
+  },
+  "154dda69ab3f9d8e324f9feb8ec6a737": {
+    "company": "Fivetran",
+    "title": "Account Executive, Mid-Market (Austin)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7796447003",
+    "location": "USA - Austin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-21T00:29:59.098657"
+  },
+  "038b5d5f5d6bee307bc0c98968c9fe8f": {
+    "company": "Fivetran",
+    "title": "Account Executive, Mid-Market (Denver)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7494261003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-21T00:29:59.098693"
+  },
+  "81eb8a1cef0e57f77028b5ca3fe8c62f": {
+    "company": "Fivetran",
+    "title": "Account Executive, Mid-Market (Oakland)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7503045003",
+    "location": "Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-21T00:29:59.098707"
+  },
+  "9ba7e1ac8cf0588ca825d488c9711433": {
+    "company": "Replit",
+    "title": "Administrative Assistant",
+    "url": "https://jobs.ashbyhq.com/replit/e3d91c87-8f27-46eb-8666-0d6c1564797a",
+    "location": "Foster City, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-21T00:30:02.919306"
+  },
+  "3820cd570e9baf26203150ff5885716b": {
+    "company": "Tanium",
+    "title": "Go-to-Market Media Specialist",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8407130",
+    "location": "Durham, NC (Hybrid); Reston, VA (Hybrid)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-21T00:30:03.657109"
+  },
+  "44a895f8dc218840004dbb011f22b089": {
+    "company": "Affirm",
+    "title": "Software Engineer I, Fullstack (Disputes Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8196691003",
+    "location": "Remote Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-21T00:30:11.305103"
+  },
+  "60bd007c94b3c71b52ae4a906597c84f": {
+    "company": "Gusto",
+    "title": "Gusto Insights Intern",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8400148",
+    "location": "San Francisco, CA - Hybrid",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-21T00:30:13.110621"
   }
 }
