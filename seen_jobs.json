@@ -56293,5 +56293,37 @@
     "location": "Denver, CO - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-23T03:27:56.835882"
+  },
+  "cd1e26278cd63b6a32c7c29675b6d523": {
+    "company": "Isembard",
+    "title": "Sales Representative (m/w/d)",
+    "url": "https://jobs.ashbyhq.com/isembard/b862987c-97e0-48fa-9fbd-6ca0c8a09cd9",
+    "location": "Hamburg",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-23T13:51:26.307941"
+  },
+  "a1b758891e431fc897a4d6c1c6cacc44": {
+    "company": "Fivetran",
+    "title": "Business Development Rep, Enterprise, DACH",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8213939003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-23T13:51:31.799010"
+  },
+  "af0289e20bb8e1a02761c907b3306406": {
+    "company": "Stripe",
+    "title": "Account Executive, Commercial Scaled Grower",
+    "url": "https://stripe.com/jobs/search?gh_jid=8411021",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-23T13:51:45.464274"
+  },
+  "c8a9b489b4550dd2690a1d52ff28f8ea": {
+    "company": "Stripe",
+    "title": "Data Scientist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8043052",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-23T13:51:45.466100"
   }
 }
