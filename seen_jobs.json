@@ -56285,5 +56285,13 @@
     "location": "Remote US",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-21T07:51:37.757024"
+  },
+  "739d7cb5cd95002b99008997ec77a74d": {
+    "company": "Gusto",
+    "title": "Site Reliability Engineer ",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8394537",
+    "location": "Denver, CO - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-23T03:27:56.835882"
   }
 }
