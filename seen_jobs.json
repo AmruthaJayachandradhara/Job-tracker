@@ -56437,5 +56437,69 @@
     "location": "Seattle, WA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-24T01:23:02.467088"
+  },
+  "716a076056af84736de1b8fabd0ef997": {
+    "company": "Databricks",
+    "title": "Business Development Representative (Dutch-speaking) ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8958450002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T11:48:26.399666"
+  },
+  "ca9587d8fb3b2ae416b49bc5ddff1eee": {
+    "company": "Databricks",
+    "title": "Enterprise Account Executive - FSI",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931447002",
+    "location": "Tokyo, Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T11:48:26.400697"
+  },
+  "c5094ba3249c2173dd0834d01be3ecd3": {
+    "company": "GitLab",
+    "title": "Business Development Representative, Japan",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8950909002",
+    "location": "Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T11:48:32.404196"
+  },
+  "06b01b5cf8feb1481e13bf19aeb58780": {
+    "company": "Stripe",
+    "title": "Account Executive, Large Users Platforms (China Market)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8349777",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T11:48:42.559067"
+  },
+  "365def0efc1b2a8ab5ddedc581c81e4b": {
+    "company": "Stripe",
+    "title": "Fraud Operations Associate, Bridge (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8168550",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-24T11:48:42.561570"
+  },
+  "fa48eb3b75ff9a55ab780086fdc41d91": {
+    "company": "Stripe",
+    "title": "Indirect Tax Systems Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7997359",
+    "location": "Seattle, San Francisco, Chicago, New York, Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T11:48:42.562221"
+  },
+  "d7b32a4f3a0004fe409de9603c07e0e6": {
+    "company": "Stripe",
+    "title": "Sales Development & Vendor Enablement Training Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8393428",
+    "location": "Malaysia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T11:48:42.564264"
+  },
+  "20adc2576cda9d3ddab267e63e1cf5fd": {
+    "company": "Carta",
+    "title": "AMEA Implementations Intern",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/8213839003",
+    "location": "Singapore",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-24T11:48:44.520510"
   }
 }
