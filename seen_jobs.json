@@ -56325,5 +56325,117 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-23T13:51:45.466100"
+  },
+  "13cef67a06d24def3a1b984e813635bd": {
+    "company": "Render",
+    "title": "Software Engineer, Platform Security (All Levels)Remote: United States",
+    "url": "https://jobs.ashbyhq.com/render/566c3a20-bfc3-4ba0-a6f4-d378e05a5525",
+    "location": "See posting",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T01:22:19.555294"
+  },
+  "d484f86406508690b657043f8fbb5022": {
+    "company": "Cape",
+    "title": "Technical Recruiter",
+    "url": "https://jobs.ashbyhq.com/Cape/0b58cabd-2019-4b0b-b219-5f03730b7216",
+    "location": "Hybrid: New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T01:22:22.621281"
+  },
+  "b7f3ccf8d9a4442d9eb8d108eec6bed3": {
+    "company": "Fivetran",
+    "title": "Sales Development Representative, Enterprise ",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8214113003",
+    "location": "Dublin, Dublin, Ireland",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T01:22:48.349391"
+  },
+  "e94c8710b8a8cfbe997a0a6f24961a5b": {
+    "company": "GitLab",
+    "title": "Applied AI Engineer, Enterprise AI",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940982002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T01:22:51.741541"
+  },
+  "79a90c17cc7bd1286ebc4b22c7059c72": {
+    "company": "GitLab",
+    "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8950027002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T01:22:51.742004"
+  },
+  "78795b5a88316c8c0d749113f0a17a92": {
+    "company": "GitLab",
+    "title": "Junior Talent Operations Specialist",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8950794002",
+    "location": "Remote, United States",
+    "filter_reason": "title match: 'junior'",
+    "first_seen": "2026-11-24T01:22:51.742020"
+  },
+  "c24061843f1b99ad7124e8a9429a2829": {
+    "company": "Replit",
+    "title": "Premium Support Engineer (Japan)",
+    "url": "https://jobs.ashbyhq.com/replit/f4254bd9-e155-4294-8239-6c2033e37136",
+    "location": "Hybrid - Japan",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T01:22:52.306195"
+  },
+  "36efbfabc0c3a04d8caaa5de63b67de1": {
+    "company": "Coinbase",
+    "title": "Executive Assistant",
+    "url": "https://www.coinbase.com/careers/positions/8412539?gh_jid=8412539",
+    "location": "Remote - USA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T01:22:58.332377"
+  },
+  "2bd91fd3b7a5c5020ea48c1a9acb5b6d": {
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise - Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=7930343",
+    "location": "US-SF, US-Seattle, US-West-Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T01:23:02.461703"
+  },
+  "f9053dc17d821bdf40a0e23ce0997847": {
+    "company": "Stripe",
+    "title": "Account Executive, Financial Services, Existing Business",
+    "url": "https://stripe.com/jobs/search?gh_jid=8048193",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T01:23:02.461855"
+  },
+  "8cc0d5ce8d93a098d1814b28aba4b8e6": {
+    "company": "Stripe",
+    "title": "Account Executive, New Business - SMB - French",
+    "url": "https://stripe.com/jobs/search?gh_jid=8328106",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T01:23:02.461962"
+  },
+  "d6cfc4792ab897a313d14dfcc3f9db3a": {
+    "company": "Stripe",
+    "title": "Indirect Tax Systems Specialst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7997359",
+    "location": "Seattle, San Francisco, Chicago, New York, Remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T01:23:02.464773"
+  },
+  "e25f66d9bf6372d74edc0372f4529829": {
+    "company": "Stripe",
+    "title": "Software Engineer, Core Technology",
+    "url": "https://stripe.com/jobs/search?gh_jid=8411988",
+    "location": "South San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T01:23:02.467064"
+  },
+  "fddf068de4248ba1c11a1a3745fc30f8": {
+    "company": "Stripe",
+    "title": "Software Engineer, Data Warehouse Analytics",
+    "url": "https://stripe.com/jobs/search?gh_jid=8411927",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T01:23:02.467088"
   }
 }
