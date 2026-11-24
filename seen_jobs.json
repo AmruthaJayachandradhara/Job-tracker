@@ -56501,5 +56501,205 @@
     "location": "Singapore",
     "filter_reason": "title match: 'intern'",
     "first_seen": "2026-11-24T11:48:44.520510"
+  },
+  "ea49cf48ab721910562fdea44c18a085": {
+    "company": "Braintrust",
+    "title": "GRC Engineer",
+    "url": "https://jobs.ashbyhq.com/Braintrust/fe7f5626-265f-4f95-a190-4a774d4b275e",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:42:30.483601"
+  },
+  "70a113c8e0db0b66b21fc315b40fd567": {
+    "company": "Cape",
+    "title": "Business Recruiter",
+    "url": "https://jobs.ashbyhq.com/Cape/224681e3-63a6-4e49-a976-2b24338bd7d2",
+    "location": "Hybrid: New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:42:34.322658"
+  },
+  "79f5088a530d88eebe65169e9a1abbe6": {
+    "company": "Juicebox",
+    "title": "GTM Recruiter",
+    "url": "https://jobs.ashbyhq.com/Juicebox/e7a6fffe-9d58-4d91-9a6d-96d83978ab86",
+    "location": "London, UK",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:42:53.224670"
+  },
+  "e6c6fa22377c7717f4f0e43659091059": {
+    "company": "Isembard",
+    "title": "CNC Machinist",
+    "url": "https://jobs.ashbyhq.com/isembard/2c04fd15-fd6f-40ee-a44b-556ce4ca8703",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:42:55.123105"
+  },
+  "31f481a158e1b6dd830336f9fd367298": {
+    "company": "Databricks",
+    "title": "Industry Executive- DoW (AI Transformation)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438263002",
+    "location": "Remote - Washington D.C.",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:42:58.004966"
+  },
+  "b1b8c25c9486a96126339bd90fbc876b": {
+    "company": "Databricks",
+    "title": "Named Core Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8766584002",
+    "location": "San Francisco, California",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:42:58.005569"
+  },
+  "9563d1287d743123bbb704260af67ff0": {
+    "company": "Fivetran",
+    "title": "Account Executive, Commercial (Austin)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8215273003",
+    "location": "USA - Austin (dbt)",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:00.840840"
+  },
+  "cf8a35eb98883f07a947edb62ab5269d": {
+    "company": "Fivetran",
+    "title": "Account Executive, Commercial (Denver)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7494261003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:00.840879"
+  },
+  "5cc70b20f9fbeec478c224de77481065": {
+    "company": "Fivetran",
+    "title": "Account Executive, Commercial (Oakland)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8215275003",
+    "location": "Oakland, California, United States; Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:00.840895"
+  },
+  "3a4b3ee1f30690643c32cbed60b493ea": {
+    "company": "Fivetran",
+    "title": "Account Executive, Mid-Market (Denver)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8215261003",
+    "location": "Denver, Colorado, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:00.840918"
+  },
+  "e5c5c227f4d2d96d80e14513371b42f0": {
+    "company": "Fivetran",
+    "title": "Account Executive, Mid-Market (Oakland)",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8215262003",
+    "location": "Oakland, California, United States; Oakland, California, United States, AMER",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:00.840930"
+  },
+  "47f88078348e0d45258a4d9acc67b7e1": {
+    "company": "GitLab",
+    "title": "Commercial Account Executive - Mid-Market, East",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891752002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:04.307316"
+  },
+  "b40fb790a89d05696d7385a86290f7e7": {
+    "company": "GitLab",
+    "title": "Recruiter, R&D (APJ)",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8956660002",
+    "location": "Bangalore, India",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:04.307919"
+  },
+  "9d6df6a96cf711e5e8f6f690131ca035": {
+    "company": "Coinbase",
+    "title": "Brand Partnership Associate - esports, Gaming & Internet Culture",
+    "url": "https://www.coinbase.com/careers/positions/8411576?gh_jid=8411576",
+    "location": "Remote - USA",
+    "filter_reason": "title match: 'intern'",
+    "first_seen": "2026-11-24T21:43:10.966889"
+  },
+  "279977c42824a0852059c9dd0fea09cf": {
+    "company": "Coinbase",
+    "title": "Brand Partnership Associate, Sports",
+    "url": "https://www.coinbase.com/careers/positions/8268156?gh_jid=8268156",
+    "location": "Remote - USA",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-24T21:43:10.966908"
+  },
+  "5916b80febb2d0c848a217b57f9b300d": {
+    "company": "Mercury",
+    "title": "Revenue Strategy Associate - AI Solutions Consulting",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5806201004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-24T21:43:11.673000"
+  },
+  "7c64bc34ebb7e9b33db79e3adbf6d574": {
+    "company": "Affirm",
+    "title": "Compensation Analyst I",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8200669003",
+    "location": "Remote US",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:13.783693"
+  },
+  "6b3563f658a96905ac4dc5781e069dc8": {
+    "company": "Stripe",
+    "title": "Account Executive Product, Crypto/Stablecoins",
+    "url": "https://stripe.com/jobs/search?gh_jid=8412983",
+    "location": "SF, NYC",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:15.272968"
+  },
+  "642eaca6f75ade808ba83f5113edfdb3": {
+    "company": "Stripe",
+    "title": "Account Executive, Product Crypto/Stablecoins",
+    "url": "https://stripe.com/jobs/search?gh_jid=8412977",
+    "location": "NYC, SF",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:15.272992"
+  },
+  "ed83ff9f4259687b9f591ab16e38b575": {
+    "company": "Stripe",
+    "title": "Accounting Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8401662",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:15.273724"
+  },
+  "62cd73faabf58f0ffaedbe93c075b52a": {
+    "company": "Stripe",
+    "title": "Designer, Web Presence & Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=8397257",
+    "location": "Canada",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:15.274541"
+  },
+  "6664a4199133417aca93aa5c2b0bb628": {
+    "company": "Stripe",
+    "title": "Infrastructure Engineer, Workflow Engine",
+    "url": "https://stripe.com/jobs/search?gh_jid=8414532",
+    "location": "Seattle, WA ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:15.275867"
+  },
+  "d2d7830e2b562f7469c9b73e77cd5e39": {
+    "company": "Stripe",
+    "title": "Payments Performance Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8405752",
+    "location": "London",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:15.276773"
+  },
+  "56801eabe5972921cfff128ba8983e04": {
+    "company": "Stripe",
+    "title": "Payments Performance Strategist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8405746",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:15.276787"
+  },
+  "64886fdb21cf2015b61a130f158aa7ff": {
+    "company": "Stripe",
+    "title": "Software Engineer, Experimental Projects",
+    "url": "https://stripe.com/jobs/search?gh_jid=8394936",
+    "location": "New York City ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-24T21:43:15.278389"
   }
 }
