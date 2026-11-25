@@ -56701,5 +56701,69 @@
     "location": "New York City ",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-24T21:43:15.278389"
+  },
+  "c4bc8fa2f25cd22f77a58cb5897b6b3c": {
+    "company": "Braintrust",
+    "title": "Forward Deployed Engineer",
+    "url": "https://jobs.ashbyhq.com/Braintrust/2fd567c7-e7b6-411e-a9e5-0dbbb70c7bb0",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-25T04:41:05.906458"
+  },
+  "b55511667150b2ff8bc42a8a23258bf3": {
+    "company": "Doctronic",
+    "title": "Executive Assistant - CBO & Partnerships Team",
+    "url": "https://jobs.ashbyhq.com/doctronic/a683b9e1-1376-41c5-b056-a657e5b29e0d",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-25T04:41:13.434344"
+  },
+  "5b5a58940c84068022da32fabb30708d": {
+    "company": "Doctronic",
+    "title": "Executive Assistant - President & CFO",
+    "url": "https://jobs.ashbyhq.com/doctronic/17132da0-6f28-4fc8-b4fb-01896edf44f1",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-25T04:41:13.434363"
+  },
+  "5ce379d5d0139b6595faa87bb403d681": {
+    "company": "Doctronic",
+    "title": "Executive Assistant - CEO & COO",
+    "url": "https://jobs.ashbyhq.com/doctronic/76541fff-06f9-4a4e-9b0f-362116bc2252",
+    "location": "San Francisco",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-25T04:41:13.434372"
+  },
+  "d08c260b235583f76c4a906261f5b218": {
+    "company": "Databricks",
+    "title": "Strategic Enterprise Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910840002",
+    "location": "Sydney, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-25T04:41:30.994661"
+  },
+  "0bcf6988a843075dbba8e0a07d1662c6": {
+    "company": "Stripe",
+    "title": "Analytics Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8415333",
+    "location": "New York",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-25T04:41:46.374594"
+  },
+  "8be9c7feabbff1890bffdc396c245190": {
+    "company": "Stripe",
+    "title": "Renewals Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8414490",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-25T04:41:46.378469"
+  },
+  "96ecc5922a2b353fd7876e1c17a18a43": {
+    "company": "Gusto",
+    "title": "People, Insights and Operations",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8351963",
+    "location": "San Francisco, CA - Hybrid",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-25T04:41:47.032794"
   }
 }
