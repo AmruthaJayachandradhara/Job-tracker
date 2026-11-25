@@ -56765,5 +56765,53 @@
     "location": "San Francisco, CA - Hybrid",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-25T04:41:47.032794"
+  },
+  "44337e21e94980d14827f43aa019e89d": {
+    "company": "Fivetran",
+    "title": "Business Development Rep, Enterprise, German Speaking",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8216842003",
+    "location": "London, England, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-25T15:08:40.793977"
+  },
+  "dbe4a34dac6f42f9479c2b7014b9391c": {
+    "company": "GitLab",
+    "title": "Business Development Representative, Australia\t",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8959549002",
+    "location": "Remote, Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-25T15:08:44.052214"
+  },
+  "825634295ad10c599ed188e9a3775c04": {
+    "company": "Stripe",
+    "title": "Accounts Payable Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8411217",
+    "location": "Bengaluru",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-25T15:08:53.764239"
+  },
+  "5c3f7c430679bb7d03c6f1fa80e69be8": {
+    "company": "Stripe",
+    "title": "Integration Engineer (Client-Facing)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8405596",
+    "location": "Amsterdam",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-25T15:08:53.765919"
+  },
+  "77cce5362a17740ccc917e0266b21a42": {
+    "company": "Stripe",
+    "title": "Privacy Counsel, Americas",
+    "url": "https://stripe.com/jobs/search?gh_jid=8265144",
+    "location": "US remote",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-25T15:08:53.766667"
+  },
+  "46014095420a6debf76bf7b706a72099": {
+    "company": "Stripe",
+    "title": "SDC Recruiter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8288879",
+    "location": "Bangalore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-25T15:08:53.767562"
   }
 }
