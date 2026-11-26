@@ -56949,5 +56949,21 @@
     "location": "CHI, SF,NYC, SEA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-25T23:53:57.880798"
+  },
+  "297a1d99b0a99de51e9f96fb07db710f": {
+    "company": "Databricks",
+    "title": "Deployment Strategist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8960958002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-26T16:11:58.776260"
+  },
+  "2ce08583d99873439765afe6058a8d5e": {
+    "company": "Databricks",
+    "title": "Deployment Strategist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8960956002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-26T16:11:58.776295"
   }
 }
