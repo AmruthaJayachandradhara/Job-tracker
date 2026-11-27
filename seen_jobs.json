@@ -57005,5 +57005,21 @@
     "location": "Dublin",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-27T00:52:29.939956"
+  },
+  "7e632ced77ff953d8c3c80dd0b6f7942": {
+    "company": "Stripe",
+    "title": "Account Executive Product, Fraud & Risk (AUNZ)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8355353",
+    "location": "Australia",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-27T09:17:09.550728"
+  },
+  "6b745204065d622b0a1a16e0a0b47f65": {
+    "company": "Stripe",
+    "title": "Account Executive Product, Fraud & Risk (Mandarin-speaking)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8355357",
+    "location": "Singapore",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-27T09:17:09.550757"
   }
 }
