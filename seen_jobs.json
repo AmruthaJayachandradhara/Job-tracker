@@ -57021,5 +57021,45 @@
     "location": "Singapore",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-27T09:17:09.550757"
+  },
+  "d040748d347d8a947c0ec70ec9f6f638": {
+    "company": "Databricks",
+    "title": "Business Development Representative ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8917482002",
+    "location": "London, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-27T19:15:44.069255"
+  },
+  "34c221bd4927856c807ce7bb415848e7": {
+    "company": "Databricks",
+    "title": "Deployment Strategist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8960960002",
+    "location": "Amsterdam, Netherlands",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-27T19:15:44.069607"
+  },
+  "143658e5ba989dfaf0e09495fe046d38": {
+    "company": "Stripe",
+    "title": "Product Strategy & Operations, Crypto S&O",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421263",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-27T19:15:59.916118"
+  },
+  "63909c7f71999750a6a309cf86385ab0": {
+    "company": "Stripe",
+    "title": "Software Engineer, Backend",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421091",
+    "location": "Seattle, WA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-27T19:15:59.916829"
+  },
+  "dfb9eb555b990cf8a89c194be9576ed1": {
+    "company": "Stripe",
+    "title": "Software Engineer, Full Stack Atlas",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421000",
+    "location": "South San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-27T19:15:59.916914"
   }
 }
