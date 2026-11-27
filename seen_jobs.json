@@ -56965,5 +56965,45 @@
     "location": "London, United Kingdom",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-26T16:11:58.776295"
+  },
+  "4704786895e09d6b38f502ead85ec88e": {
+    "company": "Databricks",
+    "title": "Deployment Strategist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8960976002",
+    "location": "Munich, Germany",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-27T00:52:13.812721"
+  },
+  "79e9e39c5e2d78ade78eb325c7a4c302": {
+    "company": "GitLab",
+    "title": "Enterprise Applications Engineer, Zendesk",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8961167002",
+    "location": "Remote, United States",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-27T00:52:19.960708"
+  },
+  "a8d1abb7f4cff1fb021de18f2d7aca64": {
+    "company": "Stripe",
+    "title": "Fraud Operations Associate (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8168550",
+    "location": "Mexico City",
+    "filter_reason": "title match: 'associate'",
+    "first_seen": "2026-11-27T00:52:29.938138"
+  },
+  "5abc6e44ad06655b913c77d4c19974cf": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (Dutch Fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8414067",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-27T00:52:29.939899"
+  },
+  "ec694293fe0c07ba1102a8ae219f9383": {
+    "company": "Stripe",
+    "title": "Sales Development Representative (Swedish Fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8419418",
+    "location": "Dublin",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-27T00:52:29.939956"
   }
 }
