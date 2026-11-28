@@ -57061,5 +57061,53 @@
     "location": "South San Francisco, CA",
     "filter_reason": "no seniority indicator \u2014 included by default",
     "first_seen": "2026-11-27T19:15:59.916914"
+  },
+  "f605fed10b5785d584cd2b6fc964f303": {
+    "company": "GitLab",
+    "title": "Data Scientist, Enterprise Analytics",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8963786002",
+    "location": "Remote, United Kingdom",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-28T02:22:25.082989"
+  },
+  "9def30bea32b22a97f81e418bf17e6bb": {
+    "company": "Stripe",
+    "title": "Business Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421413",
+    "location": "San Francisco, CA ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-28T02:22:34.165020"
+  },
+  "46725d105e0fad26da04865471d9b369": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421434",
+    "location": "South San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-28T02:22:34.168207"
+  },
+  "6cc4edfb93203ce4ccc2201e28f1346c": {
+    "company": "Stripe",
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421452",
+    "location": "South San Francisco, CA ",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-28T02:22:34.168230"
+  },
+  "b705c757cd0e674ca102076b691b6562": {
+    "company": "Stripe",
+    "title": "Software Engineer, Backend ",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421387",
+    "location": "South San Francisco, CA",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-28T02:22:34.168249"
+  },
+  "03b23f9b94facf9c0b1d5fe65a13a623": {
+    "company": "Stripe",
+    "title": "Software Engineer, Reporting Platform",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421367",
+    "location": "New York, NY",
+    "filter_reason": "no seniority indicator \u2014 included by default",
+    "first_seen": "2026-11-28T02:22:34.168445"
   }
 }
